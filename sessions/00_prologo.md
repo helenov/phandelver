@@ -1,9 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## S
-essão 
-
-0 - Prólogo
+## Sessão 0 - Prólogo
 
 _Data_: 2026/03/16
 
