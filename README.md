@@ -2,24 +2,13 @@
 
 ![cover.png](images/cover.png)
 
-## PCs
+## Casting
 
-* Ralf, o Halfling
-* Professor Ork
-* Jeremias "Colina" Raizforte
+* [Player Characters](cast.md#player-characters) 
+  * [Companions](cast.md#companions)
 
-### Companions
 
-* Bia, a coruja
-* Frodo, o cão
-
-### RIP
-
-* Sila "Sapão" Raizforte
-
-## NPCs
-
-* 
+* [Non-Player Characters](cast.md#non-player-characters)
 
 ## Journal
 
