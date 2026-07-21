@@ -79,10 +79,88 @@ entrada do canil.
 
 ### Cena 3 - Água!
 
+![01_3_agua.png](../images/cenas/01_3_agua.png)
+
+O grupo entre um pouco mais na caverna que sobe fazendo uma curva para a
+direita. A esquerda há uma passagem cheia de entulha, mas que parece levar a
+patamar mais alto. Mais a frente é possível ver que uma ponte a cerca de 15 pés
+unindo passagens a direita e a esquerda.
+
+O riacho que desce pelo túnel abafa os sons da caverna, mas ainda assim é
+possível ouvir o som distante e ritmado de batidas como as de um martelo batendo
+em pedra.
+
+O teto da caverna é cheio de estalactites, mas é bem alto, dando bastante espaço
+para a coruja voar a frente. Ao chegar a curva sobre a ponte, ela volta
+rapidamente, alertando o Professor mentalmente: "Água!!!".
+
+Simultaneamente, o grupo ouve o barulho de pedras caindo e rolando, seguido do
+rugido de uma cachoeira forte. O grupo consegue correr para fora da caverna a
+tempo de escapar por pouco da enxurrada. A água chega a alcançar Ralf, mas ele
+consegue se agarrar evitando que fosse arrastado.
+
 ---
 
 ### Cena 4 - Negociação
 
+O grupo se recupera do susto e entra novamente na caverna cautelosamente. A
+coruja segue na frente e avisa sobre um "lago". O grupo vê um goblin espiando do
+alto da ponte e fugindo para dentro a direita.
+
+Sapão escala a parede da caverna alcançando a ponte e jogando uma corda para
+ajudar seus amigos a subir. A coruja, ainda a frente, vê que para a direita
+goblins e lobos estão de prontidão aguardando.
+
+Se esgueirando para o lado esquerdo da ponte, Ralf vê que há outra sala com
+goblins, mas antes que a luz de sua lanterna possa revelar todo o espaço e ver
+quantos estão ali, uma voz que parece ser a de um líder ordena que pare, caso
+contrário "Yeemik matar humano!".
+
+Ralf propõe pagar um resgate pelo "humano", ao que o líder pede 50 gp, mas Ralf
+diz que não tem este dinheiro todo e oferece 5 gp. O líder fala, então, que
+"libertar humano, se trazer cabeça de Klarg". Nisso uma voz humana, que parece
+ser a de Sildar, grita dizendo que não devem confiar neles, "é mais importante
+resgatarem Gundren". Fica, então, claro que o anão não está com eles.
+
+Discutindo com Yeemik, Ralf entende que Klarg é o líder do grupo, mas que eles
+estão insatisfeitos com sua liderança e gostariam de tomar seu lugar.
+
+Sabendo que Gundren não está do lado esquerdo, o grupo decide investigar o lado
+esquerdo da caverna. Enquanto isso o Professor envia sua coruja para vigiar o
+lado direito, e podem enfim saber que a sala tem cinco goblins e um humano, que
+está bastante ferido.
+
 ---
 
 ### Cena 5 - Klarg!
+
+A passagem do lado direito leva o grupo a uma sala com duas piscinas de água,
+uma delas agora vazia, deparam com dois goblins e dois lobos. Eles brigam e
+vencem estes goblins, embora um deles tenha conseguido fugir para um outra sala
+mais acima.
+
+Ao avançarem para esta próxima sala, deparam com apenas um lobo, que rosna para
+eles em um canto. O fundo da sala está cheio de caixas e sacos de suprimentos
+diversos.
+
+Quando Ralf avança para atacar o lobo, sai de trás de algumas caixas um bugbear
+que logo o ataca, tentando intimidar o grupo "Klarg ordena que invasores vão
+embora!".
+
+A princípio Klarg parece estar sozinho, mas após bradar que seus "Lacaios
+covardes expulsem invasores da caverna de Klarg!", três goblins relutantes
+deixam seus esconderijos, se juntam a defesa de seu líder.
+
+Sapão e Professor chegam a cair em cobate, mas conseguem se recuperam e juntos
+ferir bastante o bugbear - que pareciar estar tendo bastante azar nas investidas
+de sua maça de espinhos.
+
+O goblins, vendo que seu lider está prestes a cair, fogem. E, pouco depois, um
+golpe fatal de Ralf liquida com o bugbear e outro do Professor elimina seu lobo.
+
+Investigando a sala, não há sinal do anão. Apenas caixas e sacos de provisões de
+inúmeras caravanas saqueadas (um brasão de um escudo com um leão azul,
+identifica a maioria da carga como sendo da [Lionshields Coster :construction:]()).
+
+O grupo bastante ferido e esgotado precisa decidir o que fazer: ir para o
+resgate de Sildar? ou recuar para se recuparar?
