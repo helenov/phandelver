@@ -4,6 +4,11 @@
 
 _Data_: 2026/03/16
 
+* [Cena 1 - Um Trabalho](#cena-1---um-trabalho)
+* [Cena 2 - A Partida](#cena-2---a-partida)
+* [Cena 3 - Corpos](#cena-3---corpos)
+
+---
 ### Cena 1 - Um Trabalho
 
 ![00_1_um_trabalho.png](../images/cenas/00_1_um_trabalho.png)
@@ -44,6 +49,7 @@ Sapão ouve apenas algo sobre outro compromisso. Gundren, sobressaltado, se
 desculpa pela pressa e partem, alegando que precisam acertar ainda alguns
 preparativos para a viagem.
 
+---
 ### Cena 2 - A Partida
 
 ![00_2_a_partida.png](../images/cenas/00_2_a_partida.png)
@@ -65,6 +71,7 @@ instalados na Hospedaria Stonehill.
 O grupo é apresentado à carroça puxada por dois grandes bois, recebem instruções
 básicas de como guiá-los e partem pouco depois de Gundren e Sildar.
 
+---
 ### Cena 3 - Corpos
 
 ![00_3_corpos.png](../images/cenas/00_3_corpos.png)
