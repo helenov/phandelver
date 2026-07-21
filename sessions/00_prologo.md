@@ -9,6 +9,7 @@ _Data_: 2026/03/16
 * [Cena 3 - Corpos](#cena-3---corpos)
 
 ---
+
 ### Cena 1 - Um Trabalho
 
 ![00_1_um_trabalho.png](../images/cenas/00_1_um_trabalho.png)
@@ -50,6 +51,7 @@ desculpa pela pressa e partem, alegando que precisam acertar ainda alguns
 preparativos para a viagem.
 
 ---
+
 ### Cena 2 - A Partida
 
 ![00_2_a_partida.png](../images/cenas/00_2_a_partida.png)
@@ -72,16 +74,17 @@ O grupo é apresentado à carroça puxada por dois grandes bois, recebem instru�
 básicas de como guiá-los e partem pouco depois de Gundren e Sildar.
 
 ---
+
 ### Cena 3 - Corpos
 
 ![00_3_corpos.png](../images/cenas/00_3_corpos.png)
 
 Após três dias de viagem tranquilos pela movimentada High Road, o grupo inicia o
-quarto dia saindo da estrada principal para pegar a Trilha de Triboar.
+quarto dia saindo da estrada principal para pegar a [Triboar Trail :construction:]().
 
 Quando estão próximos do meio-dia, antes de uma curva os bois se agitam e param,
 se recusando a seguir. O grupo parando para escutar atentamente ouve um leve
-farfalhar da vegetação do lado esquerdo da estrata. O Professor manda sua coruja
+farfalhar da vegetação do lado esquerdo da estrada. O Professor manda sua coruja
 fazer um reconhecimento aéreo, mas não percebe nada de estranho.
 
 Ralf se adianta sorrateiramente pela estrada e ao ultrapassar a curva vê dois
@@ -89,7 +92,7 @@ cavalos caídos, aparentemente mortos no meio da estrada. Chama os companheiros
 que avançam cautelosos, com Sapão mais para trás trazendo os bois com a carroça
 pelas rédeas.
 
-Quando se aproximam mais dois cavalos, que agora reconhecem que combinam com o
-que lembram dos animais que levavam Gundren e Sildar, uma flexa passa zunindo
-próxima a Ralf, revelando um goblin que estava escondido na vegetação.
+Quando se aproximam mais, agora podem reconhecer os cavalos que levavam Gundren
+e Sildar. Sem muito tempo para investigar a cena, uma flexa passa zunindo
+próxima a Ralf, revelando um goblin escondido na vegetação.
 
