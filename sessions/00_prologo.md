@@ -4,15 +4,15 @@
 
 _Data_: 2026/03/16
 
-* [Cena 1 - Um Trabalho](#cena-1---um-trabalho)
-* [Cena 2 - A Partida](#cena-2---a-partida)
+* [Cena 1 - Trabalho](#cena-1---trabalho)
+* [Cena 2 - Partida](#cena-2---partida)
 * [Cena 3 - Corpos](#cena-3---corpos)
 
 ---
 
-### Cena 1 - Um Trabalho
+### Cena 1 - Trabalho
 
-![00_1_um_trabalho.png](../images/cenas/00_1_um_trabalho.png)
+![00_1_um_trabalho.png](../images/cenas/00_1_trabalho.png)
 
 Um antigo amigo, [Gundren Rockseeker :construction:](), um anão mercador,
 sabendo que o grupo estava em [Neverwinter :construction:](), mandou um recado
@@ -52,9 +52,9 @@ preparativos para a viagem.
 
 ---
 
-### Cena 2 - A Partida
+### Cena 2 - Partida
 
-![00_2_a_partida.png](../images/cenas/00_2_a_partida.png)
+![00_2_a_partida.png](../images/cenas/00_2_partida.png)
 
 Na manhã seguinte, o grupo está esperando no local combinado para a partida
 quando o Gundren e Sildar chegam meio apresados, trazendo dois cavalos.
