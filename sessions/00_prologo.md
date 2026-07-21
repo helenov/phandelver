@@ -93,6 +93,6 @@ que avançam cautelosos, com Sapão mais para trás trazendo os bois com a carro
 pelas rédeas.
 
 Quando se aproximam mais, agora podem reconhecer os cavalos que levavam Gundren
-e Sildar. Sem muito tempo para investigar a cena, uma flexa passa zunindo
+e Sildar. Sem muito tempo para investigar a cena, uma flecha passa zunindo
 próxima a Ralf, revelando um goblin escondido na vegetação.
 
