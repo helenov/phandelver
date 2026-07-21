@@ -6,6 +6,8 @@ _Data_: 2026/03/16
 
 ### Cena 1 - Um Trabalho
 
+![00_1_um_trabalho.png](../images/cenas/00_1_um_trabalho.png)
+
 Um antigo amigo, [Gundren Rockseeker :construction:](), um anão mercador,
 sabendo que o grupo estava em [Neverwinter :construction:](), mandou um recado
 combinando um encontro em uma conhecida taverna.
@@ -44,6 +46,8 @@ preparativos para a viagem.
 
 ### Cena 2 - A Partida
 
+![00_2_a_partida.png](../images/cenas/00_2_a_partida.png)
+
 Na manhã seguinte, o grupo está esperando no local combinado para a partida
 quando o Gundren e Sildar chegam meio apresados, trazendo dois cavalos.
 
@@ -62,6 +66,8 @@ O grupo é apresentado à carroça puxada por dois grandes bois, recebem instru�
 básicas de como guiá-los e partem pouco depois de Gundren e Sildar.
 
 ### Cena 3 - Corpos
+
+![00_3_corpos.png](../images/cenas/00_3_corpos.png)
 
 Após três dias de viagem tranquilos pela movimentada High Road, o grupo inicia o
 quarto dia saindo da estrada principal para pegar a Trilha de Triboar.
