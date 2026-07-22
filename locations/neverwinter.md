@@ -12,8 +12,6 @@
 
 * [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
   * primeiro encontro
-
-
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
   * primeiro encontro
 
