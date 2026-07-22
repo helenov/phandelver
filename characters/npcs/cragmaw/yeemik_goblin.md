@@ -22,3 +22,5 @@ _[Texto]_
 ### Aparições
 
 * [Sessão 1 - Goblins](../../../sessions/01_goblins.md)
+* [Sessão 2 - Phandalin](../../../sessions/02_phandalin.md)
+  * novo líder no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)

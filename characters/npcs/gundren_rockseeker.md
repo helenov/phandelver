@@ -28,3 +28,4 @@ _[Texto]_
 #### Mencionado
 
 * [Sessão 1 - Goblins](../../sessions/01_goblins.md)
+* [Sessão 2 - Phandalin](../../sessions/02_phandalin.md)

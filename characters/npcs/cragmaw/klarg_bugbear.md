@@ -23,3 +23,6 @@ _[Texto]_
 
 * [Sessão 1 - Goblins](../../../sessions/01_goblins.md)
   * morto
+
+#### Mencionado
+* [Sessão 2 - Phandalin](../../../sessions/02_phandalin.md)
