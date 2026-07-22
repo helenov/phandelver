@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## [Nome da Organização]
+## <font color="red">[Nome da Organização]</font>
 
 <font color="red">[Imagem]</font>
 
