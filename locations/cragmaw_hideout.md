@@ -17,6 +17,10 @@
 * goblins
 * lobos
 
+### Organizações
+
+* [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
+
 ### Aparições
 
 * [Sessão 1 - Goblins](../sessions/01_goblins.md)

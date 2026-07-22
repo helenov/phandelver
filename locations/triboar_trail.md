@@ -12,6 +12,14 @@
 
 * goblins
 
+<!--
+### Organizações
+
+* <font color="red">[Organização]</font>
+  * <font color="red">[detalhe]</font>
+*
+-->
+
 ### Aparições
 
 * [Sessão 0 - Prólogo](../sessions/00_prologo.md)
