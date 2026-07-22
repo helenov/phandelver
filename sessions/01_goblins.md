@@ -10,6 +10,12 @@ _Data_: 2026/03/31
 * [Cena 4 - Negociação](#cena-4---negociação)
 * [Cena 5 - Klarg!](#cena-5---klarg)
 
+### Participações
+
+* [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
+* [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
+  * mencionado
+
 ---
 
 ### Cena 1 - Emboscada
@@ -17,8 +23,9 @@ _Data_: 2026/03/31
 ![01_1_emboscada.png](../images/cenas/01_1_emboscada.png)
 
 Ao se aproximarem dos cavalos mortos, o grupo pode identificar que realmente são
-aqueles usados Gundren e Sildar, mas logo são surpreendidos por uma flecha que
-passa zunindo próxima a Ralf.
+aqueles usados [Gundren](../characters/npcs/gundren_rockseeker.md)
+e [Sildar](../characters/npcs/sildar_hallwinter.md), mas logo são surpreendidos
+por uma flecha que passa zunindo próxima a Ralf.
 
 Da direção de onde a flecha veio se revela um goblin que estava escondido na
 vegetação em um local elevado. Quase que simultaneamente ouve-se um grito, em
@@ -160,7 +167,8 @@ golpe fatal de Ralf liquida com o bugbear e outro do Professor elimina seu lobo.
 
 Investigando a sala, não há sinal do anão. Apenas caixas e sacos de provisões de
 inúmeras caravanas saqueadas (um brasão de um escudo com um leão azul,
-identifica a maioria da carga como sendo da [Lionshields Coster :construction:]()).
+identifica a maioria da carga como sendo
+da [Lionshields Coster :construction:]()).
 
 O grupo bastante ferido e esgotado precisa decidir o que fazer: ir para o
 resgate de Sildar? ou recuar para se recuparar?

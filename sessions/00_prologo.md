@@ -8,25 +8,30 @@ _Data_: 2026/03/16
 * [Cena 2 - Partida](#cena-2---partida)
 * [Cena 3 - Corpos](#cena-3---corpos)
 
+### Participações
+
+* [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
+* [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
+
 ---
 
 ### Cena 1 - Trabalho
 
 ![00_1_um_trabalho.png](../images/cenas/00_1_trabalho.png)
 
-Um antigo amigo, [Gundren Rockseeker :construction:](), um anão mercador,
-sabendo que o grupo estava em [Neverwinter :construction:](), mandou um recado
-combinando um encontro em uma conhecida taverna.
+Um antigo amigo, [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md),
+um anão mercador, sabendo que o grupo estava em [Neverwinter :construction:](),
+mandou um recado combinando um encontro em uma conhecida taverna.
 
 No horário combinado, o grupo já se encontra na taverna quando vem entrar o anão
 que já conhecem acompanhando de um homem alto, já de meia-idade, mas ainda
 forte. O homem aparenta ser um militar e carrega uma insignia
-da [Lord's Alliance :construction:]().
+da [Lord's Alliance](../organizations/lords_alliance.md).
 
 O anão logo os localiza na taverna cheia e, com um grande sorriso e os braços
 abertos, se aproxima. Cumprimentando o grupo, logo apresenta seu
-amigo, [Sildar Hallwinter :construction:](), que retribui com um aceno só
-sóbrio, mas permanece calado.
+amigo, [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md), que
+retribui com um aceno só sóbrio, mas permanece calado.
 
 Após uma troca inicial de amenidades, o anão traz o ponto que o motivou seu
 encontro com o grupo:
@@ -80,7 +85,8 @@ básicas de como guiá-los e partem pouco depois de Gundren e Sildar.
 ![00_3_corpos.png](../images/cenas/00_3_corpos.png)
 
 Após três dias de viagem tranquilos pela movimentada High Road, o grupo inicia o
-quarto dia saindo da estrada principal para pegar a [Triboar Trail :construction:]().
+quarto dia saindo da estrada principal para pegar
+a [Triboar Trail :construction:]().
 
 Quando estão próximos do meio-dia, antes de uma curva os bois se agitam e param,
 se recusando a seguir. O grupo parando para escutar atentamente ouve um leve

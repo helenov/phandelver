@@ -22,3 +22,5 @@
 ### Participações
 
 * [Sessão 0 - Prólogo](../../sessions/00_prologo.md)
+* [Sessão 1 - Goblins](../../sessions/01_goblins.md)
+  * mencionado 
