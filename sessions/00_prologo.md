@@ -2,7 +2,8 @@
 
 ## Sessão 0 - Prólogo
 
-_Data_: 2026-03-16
+_Data_: 2026-03-16 \
+_Próxima_ : [Sessão 1 - Goblins](01_goblins.md)
 
 ### Cenas
 

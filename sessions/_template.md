@@ -2,12 +2,14 @@
 
 ## Sessão <font color="red">[X]</font> - <font color="red">[Título]</font>
 
-_Data_: <font color="red">[YYYY-MM-DD]</font>
+_Data_: <font color="red">[YYYY-MM-DD]</font> \
+_Anterior_: Sessão <font color="red">[X-1] - [Título]</font> \
+_Próxima_: Sessão <font color="red">[X-2] - [Título]</font>
 
 ### Cenas
 
 * Cena <font color="red">[X]</font> - <font color="red">[Título]</font>
-* 
+*
 
 ### Participações
 
