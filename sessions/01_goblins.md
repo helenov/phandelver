@@ -2,7 +2,9 @@
 
 ## Sessão 1 - Goblins
 
-_Data_: 2026/03/31
+_Data_: 2026-03-31
+
+### Cenas
 
 * [Cena 1 - Emboscada](#cena-1---emboscada)
 * [Cena 2 - Caverna](#cena-2---caverna)
@@ -15,6 +17,11 @@ _Data_: 2026/03/31
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
 * [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
   * mencionado
+
+### Cenários
+
+* Triboar Trail :construction:
+* Esconderijo Cragmaw :construction:
 
 ---
 
