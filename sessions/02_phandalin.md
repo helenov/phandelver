@@ -17,25 +17,44 @@ _próxima_ : [Sessão 3 - Redbrands]
 
 ### Participações
 
-* _[Character]_
-  * _[detalhe]_
-*
+* [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
+  * lembrado
+* [Yeemik, o goblin](../characters/npcs/cragmaw/yeemik_goblin.md)
+  * novo líder 
+* lobos
 
 ### Cenários
 
-* _[Location]_
-  * _[detalhe]_
-*
+* [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
 
 ---
 
 ### Cena 1 - Decisões
 
-_[Imagem]_
+![02_1_decisoes.jpeg](../images/cenas/02_1_decisoes.jpeg)
 
-_[Texto]_
+Após derrotarem [Klarg](../characters/npcs/cragmaw/klarg_bugbear.md), o grupo
+investiga a sala onde estão guardados os carregamentos roubados
+pelos [Cragmaw](../organizations/cragmaw_goblins.md):
+muitas caixas e sacos de suprimentos, com o símbolo
+da [Lionshield Coster](../organizations/lionshield_coster.md).
 
-:construction:
+Em meio às caixas também encontram um baú destrancado contendo cerca de duas mil
+moedas (cerca de uma a cada dez é sp, sendo a maioria cp), duas poções de cura,
+e uma estatueta de jade na forma de um pequeno sapo com olhos dourados, que Ralf
+leva no bolso. Mas nenhum sinal do
+anão [Gundren](../characters/npcs/gundren_rockseeker.md).
+
+Após Sapão e Professor tomarem as poções de cura e se recuperarem, se preparam
+para levar o corpo de Klarg
+para [Yeemik](../characters/npcs/cragmaw/yeemik_goblin.md) do outro lado da
+caverna.
+
+Sapão houve rosnados e sons de ossos triturados vindos do canto da sala que
+corresponde ao topo da chaminé do canil, de onde vê os dois lobos restantes
+comendo alguma coisa. Chegam a pensar que Gundren estaria ali, mas ao chamarem
+não obtêm nenhuma resposta, exceto rosnados. Optam por ignorá-los, e seguem para
+o outro lado da caverna.
 
 ---
 
