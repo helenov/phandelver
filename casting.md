@@ -16,3 +16,4 @@
 
 ### Non-player Characters
 
+* [Gundren Rockseeker](characters/npcs/gundren_rockseeker.md)
