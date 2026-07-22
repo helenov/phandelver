@@ -16,7 +16,7 @@
 
 ### Organizações
 
-* [Cragmaw Goblins] :construction:
+* [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md)
   * líder no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
 
 ### Aparições
