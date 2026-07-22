@@ -23,8 +23,7 @@ _Data_: 2026-03-31
 * [Triboar Trail](../locations/triboar_trail.md)
   * emboscada
 
-
-* [Esconderijo Cragmaw :construction:]()
+* [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
 
 ---
 
