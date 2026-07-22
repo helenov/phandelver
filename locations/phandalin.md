@@ -22,5 +22,6 @@ _[Texto]_
 
 ### Aparições
 
+#### Mencionada
+
 * [Sessão 0 - Prólogo](../sessions/00_prologo.md)
-  * mencionada

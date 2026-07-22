@@ -21,11 +21,12 @@ _próxima_ : [Sessão 2 - Phandalin](02_phandalin.md)
 * [Yeemik, o goblin](../characters/npcs/cragmaw/yeemik_goblin.md)
   * candidato a líder
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
-  * prisioneiro
-* [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
-  * mencionado
 * [Klarg, o bugbear](../characters/npcs/cragmaw/klarg_bugbear.md)
   * líder
+
+#### Mencionados
+
+* [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
 
 ### Cenários
 

@@ -24,5 +24,7 @@ _[Texto]_
 ### Aparições
 
 * [Sessão 0 - Prólogo](../../sessions/00_prologo.md)
+
+#### Mencionado
+
 * [Sessão 1 - Goblins](../../sessions/01_goblins.md)
-  * mencionado 

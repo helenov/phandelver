@@ -17,24 +17,25 @@ _próxima_ : [Sessão 3 - Redbrands]
 
 ### Participações
 
-* [Klarg, o bugbear](../characters/npcs/cragmaw/klarg_bugbear.md) (RIP)
-  * corpo
-* [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
-  * lembrado
 * [Yeemik, o goblin](../characters/npcs/cragmaw/yeemik_goblin.md)
   * novo líder
 * lobos
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
+
+#### Mencionados
+
+* [Klarg, o bugbear](../characters/npcs/cragmaw/klarg_bugbear.md) (RIP)
+* [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
 * [Rei Grol]
-  * mencionado
 * [Spider]
-  * mencionado
 
 ### Cenários
 
 * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
+
+#### Mencionados
+
 * [Castelo Cragmaw]
-  * mencionado
 
 ---
 

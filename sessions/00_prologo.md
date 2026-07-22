@@ -21,10 +21,12 @@ _próxima_ : [Sessão 1 - Goblins](01_goblins.md)
 * [Neverwinter](../locations/neverwinter.md)
   * uma taverna
   * um depósito de mercadorias
-* [Phandalin](../locations/phandalin.md)
-  * mencionada
 * [Triboar Trail](../locations/triboar_trail.md)
   * viagem
+
+#### Mencionados
+
+* [Phandalin](../locations/phandalin.md)
 
 ---
 

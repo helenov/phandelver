@@ -17,11 +17,19 @@ _próxima_ : Sessão _[X-2]_ - _[Título]_
   * _[detalhe]_
 *
 
+#### Mencionados
+
+* _[Character]_
+
 ### Cenários
 
 * _[Location]_
   * _[detalhe]_
 *
+
+#### Mencionados
+
+* _[Location]_
 
 ---
 
