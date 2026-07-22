@@ -2,7 +2,7 @@
 
 ![cover.png](images/cover.png)
 
-## Casting
+## Elenco
 
 * [Player Characters](casting.md#player-characters) 
   * [Companions](casting.md#companions)
@@ -10,7 +10,12 @@
 
 * [Non-Player Characters](casting.md#non-player-characters)
 
-## Journal
+## Cenários
+
+* [Neverwinter](locations/neverwinter.md)
+* [Phandalin](locations/phandalin.md)
+
+## Diário
 
 * (2026-03-16) [Sessão 0 - Prólogo](sessions/00_prologo.md)
 * (2026-03-31) [Sessão 1 - Goblins](sessions/01_goblins.md)
