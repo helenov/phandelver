@@ -18,21 +18,21 @@ _Data_: 2026-03-31
 * lobos
 
 * [Yeemik, o goblin](../characters/npcs/cragmaw/yeemik_goblin.md)
-    * candidato a líder
+  *candidato a líder
 
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
-    * prisioneiro
+  *prisioneiro
 
 * [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
-    * mencionado
+  *mencionado
 
 * [Klarg, o bugbear](../characters/npcs/cragmaw/klarg_bugbear.md)
-    * líder
+  *líder
 
 ### Cenários
 
 * [Triboar Trail](../locations/triboar_trail.md)
-    * emboscada
+  *emboscada
 
 * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
 

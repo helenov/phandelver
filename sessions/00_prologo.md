@@ -18,14 +18,14 @@ _Data_: 2026-03-16
 ### Cenários
 
 * [Neverwinter](../locations/neverwinter.md)
-    * uma taverna
-    * um depósito de mercadorias
-
-* [Triboar Trail](../locations/triboar_trail.md)
-    * viagem
+  * uma taverna
+  * um depósito de mercadorias
 
 * [Phandalin](../locations/phandalin.md)
-    * mencionada
+  * mencionada
+
+* [Triboar Trail](../locations/triboar_trail.md)
+  * viagem
 
 ---
 

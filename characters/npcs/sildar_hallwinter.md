@@ -11,12 +11,12 @@
 ### Associações
 
 * [Gundren Rockseeker](gundren_rockseeker.md)
-    * amigo
+  *amigo
 
 ### Organizações
 
 * [Lords' Alliance](../../organizations/lords_alliance.md)
-    * membro leal
+  *membro leal
 
 ### Aparições
 
