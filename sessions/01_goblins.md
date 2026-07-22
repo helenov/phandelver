@@ -4,7 +4,7 @@
 
 _data_ : 2026-03-31 \
 _anterior_ : [Sessão 0 - Prólogo](00_prologo.md) \
-_próxima_ : [Sessão 2 - Phandalin]
+_próxima_ : [Sessão 2 - Phandalin](02_phandalin.md)
 
 ### Cenas
 
