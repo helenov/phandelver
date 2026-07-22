@@ -21,8 +21,10 @@ _Data_: 2026-03-16
   * uma taverna
   * um depósito de mercadorias
 
+
 * [Phandalin](../locations/phandalin.md)
   * mencionada
+
 
 * [Triboar Trail](../locations/triboar_trail.md)
   * viagem

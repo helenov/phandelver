@@ -11,4 +11,4 @@
 ### Membros
 
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
-  *membro leal
+  * membro leal

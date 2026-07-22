@@ -11,10 +11,11 @@
 ### Personagens
 
 * [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
-  *encontro
+  * primeiro encontro
+
 
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
-  *encontro
+  * primeiro encontro
 
 <!--
 ### Organizações
