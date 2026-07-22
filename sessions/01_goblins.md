@@ -20,7 +20,10 @@ _Data_: 2026-03-31
 
 ### Cenários
 
-* [Triboar Trail :construction:]()
+* [Triboar Trail](../locations/triboar_trail.md)
+  * emboscada
+
+
 * [Esconderijo Cragmaw :construction:]()
 
 ---

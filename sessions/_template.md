@@ -19,6 +19,8 @@ _Data_: <font color="red">[YYYY-MM-DD]</font>
 
 * <font color="red">[Location]</font>
   * <font color="red">[detalhe]</font>
+
+
 *
 
 ---
