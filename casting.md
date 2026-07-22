@@ -20,5 +20,5 @@
 * [Sildar Hallwinter](characters/npcs/sildar_hallwinter.md)
 
 * Cragmaws
-  * [Klarg, o bugbear](../characters/npcs/cragmaw/klarg_bugbear.md) (RIP)
+  * [Klarg, o bugbear](characters/npcs/cragmaw/klarg_bugbear.md) (RIP)
   * [Yeemik, o goblin](characters/npcs/cragmaw/yeemik_goblin.md)
