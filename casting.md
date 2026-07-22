@@ -17,3 +17,4 @@
 ### Non-player Characters
 
 * [Gundren Rockseeker](characters/npcs/gundren_rockseeker.md)
+* [Sildar Hallwinter](characters/npcs/sildar_hallwinter.md)
