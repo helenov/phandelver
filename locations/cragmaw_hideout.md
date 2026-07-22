@@ -10,8 +10,8 @@
 
 ### Personagens
 
-* [Klarg, o bugbear] :construction:
-  * líder (RIP)
+* [Klarg, o bugbear](../characters/npcs/cragmaw/klarg_bugbear.md) (RIP)
+  * antigo líder
 * [Yeemik, o goblin](../characters/npcs/cragmaw/yeemik_goblin.md)
   * novo líder
 * goblins

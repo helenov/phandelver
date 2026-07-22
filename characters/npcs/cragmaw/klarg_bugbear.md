@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Yeemik, o goblin
+## Klarg, o bugbear (RIP)
 
 <font color="red">[Imagem]</font>
 
@@ -10,15 +10,16 @@
 
 ### Associações
 
-* [Klarg, o bugbear](klarg_bugbear.md) (RIP)
-  * antigo líder
+* [Yeemik, o goblin](yeemik_goblin.md)
+  * segundo em comando
   * rival
 
 ### Organizações
 
 * [Cragmaw Goblins] :construction:
-  * novo líder no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
+  * líder no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
 
 ### Aparições
 
 * [Sessão 1 - Goblins](../../../sessions/01_goblins.md)
+  * morto

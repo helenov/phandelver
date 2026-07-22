@@ -18,16 +18,16 @@ _Data_: 2026-03-31
 * lobos
 
 * [Yeemik, o goblin](../characters/npcs/cragmaw/yeemik_goblin.md)
-  * candidato a líder
+    * candidato a líder
 
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
-  * prisioneiro
+    * prisioneiro
 
 * [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
-  * mencionado
+    * mencionado
 
-* [Klarg, o bugbear] :construction:
-  * líder
+* [Klarg, o bugbear](../characters/npcs/cragmaw/klarg_bugbear.md)
+    * líder
 
 ### Cenários
 
@@ -141,13 +141,15 @@ goblins e lobos estão de prontidão aguardando.
 Se esgueirando para o lado esquerdo da ponte, Ralf vê que há outra sala com
 goblins, mas antes que a luz de sua lanterna possa revelar todo o espaço e ver
 quantos estão ali, uma voz que parece ser a de um líder ordena que pare, caso
-contrário "[Yeemik] matar humano!".
+contrário "[Yeemik](../characters/npcs/cragmaw/yeemik_goblin.md) matar humano!".
 
 Ralf propõe pagar um resgate pelo "humano", ao que o líder pede 50 gp, mas Ralf
 diz que não tem este dinheiro todo e oferece 5 gp. O líder fala, então, que
-"libertar humano, se trazer cabeça de [Klarg]". Nisso uma voz humana, que parece
-ser a de [Sildar], grita dizendo que não devem confiar neles, "é mais importante
-resgatarem [Gundren]". Fica, então, claro que o anão não está com eles.
+"libertar humano, se trazer cabeça
+de [Klarg](../characters/npcs/cragmaw/klarg_bugbear.md)". Nisso uma voz humana,
+que parece ser a de Sildar, grita dizendo que não devem confiar neles, "é mais
+importante resgatarem Gundren". Fica, então, claro que o anão não está com
+eles.
 
 Discutindo com Yeemik, Ralf entende que Klarg é o líder do grupo, mas que eles
 estão insatisfeitos com sua liderança e gostariam de tomar seu lugar.
@@ -178,11 +180,11 @@ A princípio Klarg parece estar sozinho, mas após bradar que seus "Lacaios
 covardes expulsem invasores da caverna de Klarg!", três goblins relutantes
 deixam seus esconderijos, se juntam a defesa de seu líder.
 
-Sapão e Professor chegam a cair em cobate, mas conseguem se recuperam e juntos
-ferir bastante o bugbear - que pareciar estar tendo bastante azar nas investidas
+Sapão e Professor chegam a cair em combate, mas conseguem se recuperam e juntos
+ferir bastante o bugbear - que estava tendo bastante azar nas investidas
 de sua maça de espinhos.
 
-O goblins, vendo que seu lider está prestes a cair, fogem. E, pouco depois, um
+O goblins, vendo que seu líder está prestes a cair, fogem. E, pouco depois, um
 golpe fatal de Ralf liquida com o bugbear e outro do Professor elimina seu lobo.
 
 Investigando a sala, não há sinal do anão. Apenas caixas e sacos de provisões de
@@ -191,4 +193,4 @@ identifica a maioria da carga como sendo
 da [Lionshield Coster](../organizations/lionshield%20coster.md)).
 
 O grupo bastante ferido e esgotado precisa decidir o que fazer: ir para o
-resgate de Sildar? ou recuar para se recuparar?
+resgate de Sildar? ou recuar para se recuperar?
