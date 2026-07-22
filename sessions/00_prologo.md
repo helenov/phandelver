@@ -16,8 +16,10 @@ _Data_: 2026/03/16
 ### Cenários
 
 * [Neverwinter](../locations/neverwinter.md)
-  * uma taverna
-  * um depósito de mercadorias
+    * uma taverna
+    * um depósito de mercadorias
+* [Phandalin](../locations/phandalin.md)
+    * mencionada
 
 ---
 
@@ -44,7 +46,7 @@ Após uma troca inicial de amenidades, o anão traz o ponto que o motivou seu
 encontro com o grupo:
 ele está procurando um grupo de pessoas que possa fazer a escolta de uma carga
 de provisões que ele precisa levar até uma cidade
-próxima, [Phandalin :construction:]().
+próxima, [Phandalin]([phandalin.md](../locations/phandalin.md)).
 
 Segundo ele, é para ser uma viagem bastante tranquila de 4 ou 5 dias, e que só
 está mesmo buscando esta ajuda por muita insistência do amigo Sildar, que é
