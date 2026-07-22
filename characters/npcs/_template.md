@@ -6,6 +6,8 @@
 
 <font color="red">[Texto]</font>
 
+:construction:
+
 ### Associações
 
 * <font color="red">[Character]</font>

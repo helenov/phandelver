@@ -6,6 +6,8 @@
 
 <font color="red">[Texto]</font>
 
+:construction:
+
 ### Personagens
 
 * <font color="red">[Character]</font>

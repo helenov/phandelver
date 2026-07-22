@@ -25,6 +25,8 @@ _Data_: <font color="red">[YYYY-MM-DD]</font>
 
 ### Cena <font color="red">[X]</font> - <font color="red">[Título]</font>
 
-<font color="red">[Imagem]</font> :construction:
+<font color="red">[Imagem]</font>
 
 <font color="red">[Texto]</font>
+
+:construction:

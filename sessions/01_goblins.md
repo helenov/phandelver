@@ -20,8 +20,8 @@ _Data_: 2026-03-31
 
 ### Cenários
 
-* Triboar Trail :construction:
-* Esconderijo Cragmaw :construction:
+* [Triboar Trail :construction:]()
+* [Esconderijo Cragmaw :construction:]()
 
 ---
 

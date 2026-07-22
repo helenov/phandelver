@@ -2,9 +2,11 @@
 
 ## Sildar Hallwinter
 
-<font color="red">[Imagem]</font> :construction:
+<font color="red">[Imagem]</font>
 
-<font color="red">[Texto]</font> :construction:
+<font color="red">[Texto]</font>
+
+:construction:
 
 ### Associações
 
