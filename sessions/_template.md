@@ -2,8 +2,8 @@
 
 ## Sessão <font color="red">[X]</font> - <font color="red">[Título]</font>
 
-_data_: <font color="red">[YYYY-MM-DD]</font> \
-_anterior_: Sessão <font color="red">[X-1] - [Título]</font> \
+_data_ : <font color="red">[YYYY-MM-DD]</font> \
+_anterior_ : Sessão <font color="red">[X-1] - [Título]</font> \
 _próxima_: Sessão <font color="red">[X-2] - [Título]</font>
 
 ### Cenas
