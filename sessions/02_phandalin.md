@@ -17,15 +17,24 @@ _próxima_ : [Sessão 3 - Redbrands]
 
 ### Participações
 
+* [Klarg, o bugbear](../characters/npcs/cragmaw/klarg_bugbear.md) (RIP)
+  * corpo
 * [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
   * lembrado
 * [Yeemik, o goblin](../characters/npcs/cragmaw/yeemik_goblin.md)
-  * novo líder 
+  * novo líder
 * lobos
+* [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
+* [Rei Grol]
+  * mencionado
+* [Spider]
+  * mencionado
 
 ### Cenários
 
 * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
+* [Castelo Cragmaw]
+  * mencionado
 
 ---
 
@@ -33,9 +42,8 @@ _próxima_ : [Sessão 3 - Redbrands]
 
 ![02_1_decisoes.jpeg](../images/cenas/02_1_decisoes.jpeg)
 
-Após derrotarem [Klarg](../characters/npcs/cragmaw/klarg_bugbear.md), o grupo
-investiga a sala onde estão guardados os carregamentos roubados
-pelos [Cragmaw](../organizations/cragmaw_goblins.md):
+Após derrotarem Klarg, o grupo investiga a sala onde estão guardados os
+carregamentos roubados pelos [Cragmaw](../organizations/cragmaw_goblins.md):
 muitas caixas e sacos de suprimentos, com o símbolo
 da [Lionshield Coster](../organizations/lionshield_coster.md).
 
@@ -46,7 +54,7 @@ leva no bolso. Mas nenhum sinal do
 anão [Gundren](../characters/npcs/gundren_rockseeker.md).
 
 Após Sapão e Professor tomarem as poções de cura e se recuperarem, se preparam
-para levar o corpo de Klarg
+para levar o corpo de [Klarg](../characters/npcs/cragmaw/klarg_bugbear.md)
 para [Yeemik](../characters/npcs/cragmaw/yeemik_goblin.md) do outro lado da
 caverna.
 
@@ -60,11 +68,28 @@ o outro lado da caverna.
 
 ### Cena 2 - Troca
 
-_[Imagem]_
+![02_2_troca.png](../images/cenas/02_2_troca.png)
 
-_[Texto]_
+Ao se aproximarem da câmara a oeste da caverna, ouvem que os goblins parecem
+estar comemorando por antecipação.
 
-:construction:
+Chegando na entrada, são saldados por Yeemik e seus companheiros, que urram de
+alegria ao ver o corpo de Klarg. Há um impasse quando o grupo pede
+que [Sildar](../characters/npcs/sildar_hallwinter.md)
+seja liberto: Yeemik quer um pagamento de 50 gp, ou "humano morre!".
+
+Perguntado sobre o anão, Yeemik informa que Klarg tinha ordens do [Rei Grol]
+para capturar o anão, que já foi levado para o [Castelo Cragmaw]. Ele ainda
+acrescenta que o rei estaria atendendo a um pedido de um tal de [Spider], que
+ele não conhece.
+
+Após alguma discussão sobre o valor do resgate pedido, Ralf volta a câmara de
+Klarg de onde traz um tanto de moedas que enganam Yeemik e seu grupo. Ao jogar o
+saco de moedas dentro sala, Yeemik joga Sildar do patar, caindo desacordando.
+"Intrusos poder levar!"
+
+Em meio a risadas dos goblins, Ralf entra na sala e arrasta Sildar para fora.
+Após curar Sildar, o grupo sai às pressas da caverna.
 
 ---
 
