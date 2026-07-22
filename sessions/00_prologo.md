@@ -13,6 +13,12 @@ _Data_: 2026/03/16
 * [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
 
+### Cenários
+
+* [Neverwinter](../locations/neverwinter.md)
+  * uma taverna
+  * um depósito de mercadorias
+
 ---
 
 ### Cena 1 - Trabalho
@@ -20,8 +26,9 @@ _Data_: 2026/03/16
 ![00_1_um_trabalho.png](../images/cenas/00_1_trabalho.png)
 
 Um antigo amigo, [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md),
-um anão mercador, sabendo que o grupo estava em [Neverwinter :construction:](),
-mandou um recado combinando um encontro em uma conhecida taverna.
+um anão mercador, sabendo que o grupo estava
+em [Neverwinter](../locations/neverwinter.md), mandou um recado combinando um
+encontro em uma conhecida taverna.
 
 No horário combinado, o grupo já se encontra na taverna quando vem entrar o anão
 que já conhecem acompanhando de um homem alto, já de meia-idade, mas ainda
