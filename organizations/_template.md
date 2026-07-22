@@ -1,15 +1,15 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## <font color="red">[Nome da Organização]</font>
+## _[Nome da Organização]_
 
-<font color="red">[Imagem]</font>
+_[Imagem]_
 
-<font color="red">[Texto]</font>
+_[Texto]_
 
 :construction:
 
 ### Membros
 
-* <font color="red">[Character]</font>
-  * <font color="red">[detalhe]</font>
+* _[Character]_
+  * _[detalhe]_
 * 

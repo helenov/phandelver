@@ -1,26 +1,26 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## <font color="red">[Nome do Local]</font>
+## _[Nome do Local]_
 
-<font color="red">[Imagem]</font>
+_[Imagem]_
 
-<font color="red">[Texto]</font>
+_[Texto]_
 
 :construction:
 
 ### Personagens
 
-* <font color="red">[Character]</font>
-  * <font color="red">[detalhe]</font>
+* _[Character]_
+  * _[detalhe]_
 * 
 
 ### Organizações
 
-* <font color="red">[Organização]</font>
-  * <font color="red">[detalhe]</font>
+* _[Organização]_
+  * _[detalhe]_
 *
 
 ### Aparições
 
-* <font color="red">[Sessão]</font>
-  * <font color="red">[detalhe]</font>
+* _[Sessão]_
+  * _[detalhe]_

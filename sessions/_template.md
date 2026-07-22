@@ -1,34 +1,34 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Sessão <font color="red">[X]</font> - <font color="red">[Título]</font>
+## Sessão _[X]_ - _[Título]_
 
-_data_ : <font color="red">[YYYY-MM-DD]</font> \
-_anterior_ : Sessão <font color="red">[X-1] - [Título]</font> \
-_próxima_ : Sessão <font color="red">[X-2] - [Título]</font>
+_data_ : _[YYYY-MM-DD]_ \
+_anterior_ : Sessão _[X-1]_ - _[Título]_ \
+_próxima_ : Sessão _[X-2]_ - _[Título]_
 
 ### Cenas
 
-* Cena <font color="red">[X]</font> - <font color="red">[Título]</font>
+* Cena _[X]_ - _[Título]_
 *
 
 ### Participações
 
-* <font color="red">[Character]</font>
-  * <font color="red">[detalhe]</font>
+* _[Character]_
+  * _[detalhe]_
 *
 
 ### Cenários
 
-* <font color="red">[Location]</font>
-  * <font color="red">[detalhe]</font>
+* _[Location]_
+  * _[detalhe]_
 *
 
 ---
 
-### Cena <font color="red">[X]</font> - <font color="red">[Título]</font>
+### Cena _[X]_ - _[Título]_
 
-<font color="red">[Imagem]</font>
+_[Imagem]_
 
-<font color="red">[Texto]</font>
+_[Texto]_
 
 :construction:

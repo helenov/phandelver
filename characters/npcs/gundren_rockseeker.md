@@ -2,9 +2,9 @@
 
 ## Gundren Rockseeker
 
-<font color="red">[Imagem]</font>
+_[Imagem]_
 
-<font color="red">[Texto]</font>
+_[Texto]_
 
 :construction:
 
@@ -16,8 +16,8 @@
 <!--
 ### Organizações
 
-* <font color="red">[Organização]</font>
-  * <font color="red">[detalhe]</font>
+* _[Organização]_
+  * _[detalhe]_
 *
 -->
 

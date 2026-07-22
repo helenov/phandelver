@@ -2,9 +2,9 @@
 
 ## Yeemik, o goblin
 
-<font color="red">[Imagem]</font>
+_[Imagem]_
 
-<font color="red">[Texto]</font>
+_[Texto]_
 
 :construction:
 
