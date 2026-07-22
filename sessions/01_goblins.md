@@ -127,6 +127,8 @@ consegue se agarrar evitando que fosse arrastado.
 
 ### Cena 4 - Negociação
 
+_[Imagem]_ :construction:
+
 O grupo se recupera do susto e entra novamente na caverna cautelosamente. A
 coruja segue na frente e avisa sobre um "lago". O grupo vê um goblin espiando do
 alto da ponte e fugindo para dentro a direita.
@@ -159,6 +161,8 @@ está bastante ferido.
 ---
 
 ### Cena 5 - Klarg!
+
+_[Imagem]_ :construction:
 
 A passagem do lado direito leva o grupo a uma sala com duas piscinas de água,
 uma delas agora vazia, deparam com dois goblins e dois lobos. Eles brigam e
