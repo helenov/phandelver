@@ -16,12 +16,12 @@ _Data_: 2026-03-31
 
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
 * [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
-  * mencionado
+    * mencionado
 
 ### Cenários
 
 * [Triboar Trail](../locations/triboar_trail.md)
-  * emboscada
+    * emboscada
 
 * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
 
@@ -177,7 +177,7 @@ golpe fatal de Ralf liquida com o bugbear e outro do Professor elimina seu lobo.
 Investigando a sala, não há sinal do anão. Apenas caixas e sacos de provisões de
 inúmeras caravanas saqueadas (um brasão de um escudo com um leão azul,
 identifica a maioria da carga como sendo
-da [Lionshields Coster :construction:]()).
+da [Lionshield Coster](../organizations/lionshield%20coster.md)).
 
 O grupo bastante ferido e esgotado precisa decidir o que fazer: ir para o
 resgate de Sildar? ou recuar para se recuparar?

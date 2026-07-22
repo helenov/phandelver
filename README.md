@@ -7,7 +7,6 @@
 * [Player Characters](casting.md#player-characters) 
   * [Companions](casting.md#companions)
 
-
 * [Non-Player Characters](casting.md#non-player-characters)
 
 ## Cenários
