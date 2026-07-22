@@ -18,9 +18,9 @@ _próxima_ : [Sessão 3 - Redbrands]
 ### Participações
 
 * [Yeemik, o goblin](../characters/npcs/cragmaw/yeemik_goblin.md)
-  * novo líder
-* lobos
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
+* goblins
+* lobos
 
 #### Mencionados
 
