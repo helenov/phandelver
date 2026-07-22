@@ -10,5 +10,5 @@
 
 ### Membros
 
-* [Linene Graywind] :construction:
+* [Linene Graywind](../characters/npcs/phandalin/linene_graywind.md)
   * representante local em [Phandalin](../locations/phandalin.md)
