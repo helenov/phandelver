@@ -4,11 +4,11 @@
 
 ## Casting
 
-* [Player Characters](cast.md#player-characters) 
-  * [Companions](cast.md#companions)
+* [Player Characters](casting.md#player-characters) 
+  * [Companions](casting.md#companions)
 
 
-* [Non-Player Characters](cast.md#non-player-characters)
+* [Non-Player Characters](casting.md#non-player-characters)
 
 ## Journal
 

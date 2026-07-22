@@ -16,4 +16,3 @@
 
 ### Non-player Characters
 
-* 
