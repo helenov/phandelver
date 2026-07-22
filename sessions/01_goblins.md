@@ -14,9 +14,20 @@ _Data_: 2026-03-31
 
 ### Participações
 
+* goblins
+* lobos
+
+* [Yeemik, o goblin](../characters/npcs/cragmaw/yeemik_goblin.md)
+  * candidato a líder
+
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
+  * prisioneiro
+
 * [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
-    * mencionado
+  * mencionado
+
+* [Klarg, o bugbear] :construction:
+  * líder
 
 ### Cenários
 
@@ -98,7 +109,7 @@ entrada do canil.
 ![01_3_agua.png](../images/cenas/01_3_agua.png)
 
 O grupo entre um pouco mais na caverna que sobe fazendo uma curva para a
-direita. A esquerda há uma passagem cheia de entulha, mas que parece levar a
+direita. A esquerda há uma passagem cheia de entulho, mas que parece levar a um
 patamar mais alto. Mais a frente é possível ver que uma ponte a cerca de 15 pés
 unindo passagens a direita e a esquerda.
 
@@ -130,13 +141,13 @@ goblins e lobos estão de prontidão aguardando.
 Se esgueirando para o lado esquerdo da ponte, Ralf vê que há outra sala com
 goblins, mas antes que a luz de sua lanterna possa revelar todo o espaço e ver
 quantos estão ali, uma voz que parece ser a de um líder ordena que pare, caso
-contrário "Yeemik matar humano!".
+contrário "[Yeemik] matar humano!".
 
 Ralf propõe pagar um resgate pelo "humano", ao que o líder pede 50 gp, mas Ralf
 diz que não tem este dinheiro todo e oferece 5 gp. O líder fala, então, que
-"libertar humano, se trazer cabeça de Klarg". Nisso uma voz humana, que parece
-ser a de Sildar, grita dizendo que não devem confiar neles, "é mais importante
-resgatarem Gundren". Fica, então, claro que o anão não está com eles.
+"libertar humano, se trazer cabeça de [Klarg]". Nisso uma voz humana, que parece
+ser a de [Sildar], grita dizendo que não devem confiar neles, "é mais importante
+resgatarem [Gundren]". Fica, então, claro que o anão não está com eles.
 
 Discutindo com Yeemik, Ralf entende que Klarg é o líder do grupo, mas que eles
 estão insatisfeitos com sua liderança e gostariam de tomar seu lugar.

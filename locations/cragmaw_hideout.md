@@ -10,13 +10,12 @@
 
 ### Personagens
 
-* Klarg, o Bugbear :construction:
-  * líder
+* [Klarg, o bugbear] :construction:
+  * líder (RIP)
+* [Yeemik, o goblin](../characters/npcs/cragmaw/yeemik_goblin.md)
+  * novo líder
 * goblins
-  * Yeemik :construction:
-  * Errk :construction:
 * lobos
-  * Ripper
 
 ### Aparições
 

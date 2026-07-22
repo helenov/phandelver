@@ -10,5 +10,5 @@
 
 ### Membros
 
-* Linene Graywind :construction:
+* [Linene Graywind] :construction:
   * representante local em [Phandalin](../locations/phandalin.md)

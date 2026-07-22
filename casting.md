@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk 
 
-## Casting
+## Elenco
 
 ### Player Characters
 
@@ -18,3 +18,6 @@
 
 * [Gundren Rockseeker](characters/npcs/gundren_rockseeker.md)
 * [Sildar Hallwinter](characters/npcs/sildar_hallwinter.md)
+
+* Cragmaws
+  * [Yeemik, o goblin](characters/npcs/cragmaw/yeemik_goblin.md)
