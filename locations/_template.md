@@ -2,15 +2,17 @@
 
 ## [Nome do Local]
 
-<font color="red">[Descrição]</font> :construction:
+<font color="red">[Imagem]</font>
+
+<font color="red">[Texto]</font>
 
 ### Personagens
 
-* <font color="red">[Character]</font> :construction:
-    * <font color="red">[relacionamento]</font>
+* <font color="red">[Character]</font>
+  * <font color="red">[detalhe]</font>
 * 
 
 ### Aparições
 
-* <font color="red">[Sessão]</font> :construction:
-* 
+* <font color="red">[Sessão]</font>
+  * <font color="red">[detalhe]</font>

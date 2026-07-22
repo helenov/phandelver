@@ -2,7 +2,9 @@
 
 ## Lords' Alliance
 
-<font color="red">[Descrição]</font> :construction:
+<font color="red">[Imagem]</font> :construction:
+
+<font color="red">[Texto]</font> :construction:
 
 ### Membros
 

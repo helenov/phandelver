@@ -2,10 +2,12 @@
 
 ## [Nome da Organização]
 
-<font color="red">[Descrição]</font> :construction:
+<font color="red">[Imagem]</font>
+
+<font color="red">[Texto]</font>
 
 ### Membros
 
-* <font color="red">[Character]</font> :construction:
-    * <font color="red">[relacionamento]</font>
+* <font color="red">[Character]</font>
+  * <font color="red">[detalhe]</font>
 * 

@@ -2,7 +2,9 @@
 
 ## Phandalin
 
-<font color="red">[Descrição]</font> :construction:
+<font color="red">[Imagem]</font> :construction:
+
+<font color="red">[Texto]</font> :construction:
 
 ### Personagens
 
@@ -11,3 +13,4 @@
 ### Aparições
 
 * [Sessão 0 - Prólogo](../sessions/00_prologo.md)
+  * mencionada

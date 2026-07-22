@@ -4,7 +4,7 @@
 
 <font color="red">[Imagem]</font> :construction:
 
-<font color="red">[Descrição]</font> :construction:
+<font color="red">[Texto]</font> :construction:
 
 ### Associações
 
@@ -15,7 +15,7 @@
 ### Organizações
 
 * <font color="red">[Organização]</font>
-  * <font color="red">[relacionamento]</font>
+  * <font color="red">[detalhe]</font>
 *
 -->
 
