@@ -10,6 +10,8 @@ _[Texto]_
 
 ### Membros
 
+* [Rei Grol](../characters/npcs/cragmaw/grol.md)
+  * soberano
 * [Klarg, o bugbear](../characters/npcs/cragmaw/klarg_bugbear.md) (RIP)
   * líder no [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
 * [Yeemik, o goblin](../characters/npcs/cragmaw/yeemik_goblin.md)

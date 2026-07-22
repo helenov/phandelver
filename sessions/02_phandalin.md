@@ -26,7 +26,7 @@ _próxima_ : [Sessão 3 - Redbrands]
 
 * [Klarg, o bugbear](../characters/npcs/cragmaw/klarg_bugbear.md) (RIP)
 * [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
-* [Rei Grol]
+* [Rei Grol](../characters/npcs/cragmaw/grol.md)
 * [Spider]
 
 ### Cenários
@@ -79,7 +79,8 @@ alegria ao ver o corpo de Klarg. Há um impasse quando o grupo pede
 que [Sildar](../characters/npcs/sildar_hallwinter.md)
 seja liberto: Yeemik quer um pagamento de 50 gp, ou "humano morre!".
 
-Perguntado sobre o anão, Yeemik informa que Klarg tinha ordens do [Rei Grol]
+Perguntado sobre o anão, Yeemik informa que Klarg tinha ordens
+do [Rei Grol](../characters/npcs/cragmaw/grol.md)
 para capturar o anão, que já foi levado para o [Castelo Cragmaw]. Ele ainda
 acrescenta que o rei estaria atendendo a um pedido de um tal de [Spider], que
 ele não conhece.
