@@ -16,7 +16,7 @@
 * [Lords' Alliance](../../organizations/lords_alliance.md)
     * membro leal
 
-### Participações
+### Aparições
 
 * [Sessão 0 - Prólogo](../../sessions/00_prologo.md)
 * [Sessão 1 - Goblins](../../sessions/01_goblins.md)

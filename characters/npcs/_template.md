@@ -18,7 +18,7 @@
   * <font color="red">[relacionamento]</font>
 * 
 
-### Participações
+### Aparições
 
 * <font color="red">[Sessão]</font> :construction:
 * 
