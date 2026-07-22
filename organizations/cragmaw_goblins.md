@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## _[Nome da Organização]_
+## Cragmaw Goblins
 
 _[Imagem]_
 
