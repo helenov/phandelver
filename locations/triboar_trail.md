@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Triboar Trail
+## Estrada Triboar
 
 _[Imagem]_
 

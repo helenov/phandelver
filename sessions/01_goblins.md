@@ -28,7 +28,7 @@ _próxima_ : [Sessão 2 Phandalin](02_phandalin.md)
 
 ### Cenários
 
-* [Triboar Trail](../locations/triboar_trail.md)
+* [Estrada Triboar](../locations/triboar_trail.md)
   * emboscada
 * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
 

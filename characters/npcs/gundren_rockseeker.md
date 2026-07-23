@@ -30,7 +30,7 @@ _[Texto]_
 #### Mencionado
 
 * [Sessão 1 Goblins](../../sessions/01_goblins.md)
-  * cavalo encontrado morto na [Triboar Trail](../../locations/triboar_trail.md)
+  * cavalo encontrado morto na [Estrada Triboar](../../locations/triboar_trail.md)
   * [Sildar](sildar_hallwinter.md) dá a enteder que foram capturados juntos, mas
     não está com Gundren
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)

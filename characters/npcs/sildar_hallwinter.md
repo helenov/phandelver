@@ -24,7 +24,7 @@ _[Texto]_
   * apresentado ao grupo por [Gundren](gundren_rockseeker.md)
   * parte a frente acompanhando Gundren
 * [Sessão 1 Goblins](../../sessions/01_goblins.md)
-  * cavalo encontrado morto na [Triboar Trail](../../locations/triboar_trail.md)
+  * cavalo encontrado morto na [Estrada Triboar](../../locations/triboar_trail.md)
   * prisioneiro de [Yeemik](cragmaw/yeemik_goblin.md)
     no [Esconderijo Cragmaw](../../locations/cragmaw_hideout.md)
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)

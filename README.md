@@ -11,7 +11,7 @@
 ## Cenários
 
 * [Neverwinter](locations/neverwinter.md)
-* [Triboar Trail](locations/triboar_trail.md)
+* [Estrada Triboar](locations/triboar_trail.md)
 * [Esconderijo Cragmaw](locations/cragmaw_hideout.md)
 * [Phandalin](locations/phandalin.md)
 

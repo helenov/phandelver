@@ -21,7 +21,7 @@ _próxima_ : [Sessão 1 Goblins](01_goblins.md)
 * [Neverwinter](../locations/neverwinter.md)
   * uma taverna
   * um depósito de mercadorias
-* [Triboar Trail](../locations/triboar_trail.md)
+* [Estrada Triboar](../locations/triboar_trail.md)
   * viagem
 
 #### Mencionados
@@ -102,7 +102,7 @@ básicas de como guiá-los e partem pouco depois de Gundren e Sildar.
 
 Após três dias de viagem tranquilos pela movimentada High Road, o grupo inicia o
 quarto dia saindo da estrada principal para entrar
-na [Triboar Trail](../locations/triboar_trail.md).
+na [Estrada Triboar](../locations/triboar_trail.md).
 
 Quando estão próximos do meio-dia, antes de uma curva os bois se agitam e param,
 se recusando a seguir. O grupo parando para escutar atentamente ouve um leve
