@@ -25,7 +25,8 @@ _[Texto]_
 * [Sessão 0 Prólogo](../../sessions/00_prologo.md)
   * conhecido do grupo
   * oferece trabalho de escolta de carga
-  * parte a frente porque tem pressa
+    até [Phandalin](../../locations/phandalin.md)
+  * parte a frente com [Sildar](sildar_hallwinter.md), pois tem pressa
 
 #### Mencionado
 

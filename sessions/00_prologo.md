@@ -27,6 +27,7 @@ _próxima_ : [Sessão 1 Goblins](01_goblins.md)
 #### Mencionados
 
 * [Phandalin](../locations/phandalin.md)
+  * destino da carga escoltada
 
 ---
 
@@ -79,12 +80,13 @@ preparativos para a viagem.
 
 Na manhã seguinte, o grupo está esperando no local combinado para a partida
 quando o [Gundren](../characters/npcs/gundren_rockseeker.md)
-e [Sildar](../characters/npcs/sildar_hallwinter.md) chegam meio
-apresados, trazendo dois cavalos.
+e [Sildar](../characters/npcs/sildar_hallwinter.md) chegam meio apresados,
+trazendo dois cavalos.
 
 Gundren explica que houve uma pequena alteração nos planos e que ele e o amigo
-precisarão chegar em Phandalin mais cedo, e por isso irão a cavalo na frente.
-Com isso esperam chegar ao destino na manhã do quarto dia.
+precisarão chegar em [Phandalin](../locations/phandalin.md) mais cedo, e por
+isso irão a cavalo na frente. Com isso esperam chegar ao destino na manhã do
+quarto dia.
 
 O grupo demonstra alguma preocupação em viajarem sós, mas Gundren, sempre
 otimista, reafirma que não é para haver nenhum problema e que espera
@@ -119,6 +121,7 @@ pelas rédeas.
 
 Quando se aproximam mais, agora podem reconhecer os cavalos que
 levavam [Gundren](../characters/npcs/gundren_rockseeker.md)
-e [Sildar](../characters/npcs/sildar_hallwinter.md). Sem muito tempo para investigar a cena, uma flecha passa zunindo
-próxima a Ralf, revelando um goblin escondido na vegetação.
+e [Sildar](../characters/npcs/sildar_hallwinter.md). Sem muito tempo para
+investigar a cena, uma flecha passa zunindo próxima a Ralf, revelando um goblin
+escondido na vegetação.
 
