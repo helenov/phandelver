@@ -27,7 +27,7 @@ _próxima_ : [Sessão 3 - Redbrands]
 * [Klarg, o bugbear](../characters/npcs/cragmaw/klarg_bugbear.md) (RIP)
 * [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
 * [Rei Grol](../characters/npcs/cragmaw/grol.md)
-* [Spider]
+* [Spider](../characters/npcs/spider.md)
 
 ### Cenários
 
@@ -82,8 +82,8 @@ seja liberto: Yeemik quer um pagamento de 50 gp, ou "humano morre!".
 Perguntado sobre o anão, Yeemik informa que Klarg tinha ordens
 do [Rei Grol](../characters/npcs/cragmaw/grol.md)
 para capturar o anão, que já foi levado para o [Castelo Cragmaw]. Ele ainda
-acrescenta que o rei estaria atendendo a um pedido de um tal de [Spider], que
-ele não conhece.
+acrescenta que o rei estaria atendendo a um pedido de um tal
+de [Spider](../characters/npcs/spider.md), que ele não conhece.
 
 Após alguma discussão sobre o valor do resgate pedido, Ralf volta a câmara de
 Klarg de onde traz um tanto de moedas que enganam Yeemik e seu grupo. Ao jogar o

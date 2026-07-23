@@ -14,6 +14,8 @@ _[Texto]_
   * antigo líder no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
 * [Yeemik, o goblin](yeemik_goblin.md)
   * novo líder no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
+* [Spider](../spider.md)
+  * aliado?
 
 ### Organizações
 
