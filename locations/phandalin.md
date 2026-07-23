@@ -24,4 +24,4 @@ _[Texto]_
 
 #### Mencionada
 
-* [Sessão 0 - Prólogo](../sessions/00_prologo.md)
+* [Sessão 0 Prólogo](../sessions/00_prologo.md)

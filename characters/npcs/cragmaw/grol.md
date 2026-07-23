@@ -32,4 +32,4 @@ _[Texto]_
 
 #### Mencionado
 
-* [Sessão 2 - Phandalin](../../../sessions/02_phandalin.md)
+* [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)

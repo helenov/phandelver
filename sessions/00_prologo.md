@@ -1,9 +1,9 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Sessão 0 - Prólogo
+## Sessão 0 Prólogo
 
 _data_ : 2026-03-16 \
-_próxima_ : [Sessão 1 - Goblins](01_goblins.md)
+_próxima_ : [Sessão 1 Goblins](01_goblins.md)
 
 ### Cenas
 

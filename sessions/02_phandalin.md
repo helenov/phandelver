@@ -1,10 +1,10 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Sessão 2 - Phandalin
+## Sessão 2 Phandalin
 
 _data_ : 2026-04-13 \
-_anterior_ : [Sessão 1 - Goblins](01_goblins.md) \
-_próxima_ : [Sessão 3 - Redbrands]
+_anterior_ : [Sessão 1 Goblins](01_goblins.md) \
+_próxima_ : [Sessão 3 Redbrands]
 
 ### Cenas
 
