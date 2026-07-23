@@ -8,7 +8,7 @@ _próxima_ : Sessão _[X-2]_ _[Título]_
 
 ### Cenas
 
-* Cena _[X]_ - _[Título]_
+* Cena _[X]_ _[Título]_
 *
 
 ### Participações
@@ -33,7 +33,7 @@ _próxima_ : Sessão _[X-2]_ _[Título]_
 
 ---
 
-### Cena _[X]_ - _[Título]_
+### Cena _[X]_ _[Título]_
 
 _[Imagem]_
 

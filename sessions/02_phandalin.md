@@ -8,12 +8,12 @@ _próxima_ : [Sessão 3 Redbrands]
 
 ### Cenas
 
-* [Cena 1 - Decisões](#cena-1---decisões)
-* [Cena 2 - Troca](#cena-2---troca)
-* [Cena 3 - Sildar](#cena-3---sildar)
-* [Cena 4 - Interrogatório](#cena-4---interrogatório)
-* [Cena 5 - Phandalin](#cena-5---phandalin)
-* [Cena 6 - Conversas](#cena-6---conversas)
+* [Cena 1 Decisões](#cena-1-decisões)
+* [Cena 2 Troca](#cena-2-troca)
+* [Cena 3 Sildar](#cena-3-sildar)
+* [Cena 4 Interrogatório](#cena-4-interrogatório)
+* [Cena 5 Phandalin](#cena-5-phandalin)
+* [Cena 6 Conversas](#cena-6-conversas)
 
 ### Participações
 
@@ -39,7 +39,7 @@ _próxima_ : [Sessão 3 Redbrands]
 
 ---
 
-### Cena 1 - Decisões
+### Cena 1 Decisões
 
 ![02_1_decisoes.jpeg](../images/cenas/02_1_decisoes.jpeg)
 
@@ -67,7 +67,7 @@ o outro lado da caverna.
 
 ---
 
-### Cena 2 - Troca
+### Cena 2 Troca
 
 ![02_2_troca.png](../images/cenas/02_2_troca.png)
 
@@ -95,7 +95,7 @@ Após curar Sildar, o grupo sai às pressas da caverna.
 
 ---
 
-### Cena 3 - Sildar
+### Cena 3 Sildar
 
 _[Imagem]_
 
@@ -105,7 +105,7 @@ _[Texto]_
 
 ---
 
-### Cena 4 - Interrogatório
+### Cena 4 Interrogatório
 
 _[Imagem]_
 
@@ -115,7 +115,7 @@ _[Texto]_
 
 ---
 
-### Cena 5 - Phandalin
+### Cena 5 Phandalin
 
 _[Imagem]_
 
@@ -125,7 +125,7 @@ _[Texto]_
 
 ---
 
-### Cena 6 - Conversas
+### Cena 6 Conversas
 
 _[Imagem]_
 

@@ -7,9 +7,9 @@ _próxima_ : [Sessão 1 Goblins](01_goblins.md)
 
 ### Cenas
 
-* [Cena 1 - Trabalho](#cena-1---trabalho)
-* [Cena 2 - Partida](#cena-2---partida)
-* [Cena 3 - Corpos](#cena-3---corpos)
+* [Cena 1 Trabalho](#cena-1-trabalho)
+* [Cena 2 Partida](#cena-2-partida)
+* [Cena 3 Corpos](#cena-3-corpos)
 
 ### Participações
 
@@ -30,7 +30,7 @@ _próxima_ : [Sessão 1 Goblins](01_goblins.md)
 
 ---
 
-### Cena 1 - Trabalho
+### Cena 1 Trabalho
 
 ![00_1_um_trabalho.png](../images/cenas/00_1_trabalho.png)
 
@@ -73,7 +73,7 @@ preparativos para a viagem.
 
 ---
 
-### Cena 2 - Partida
+### Cena 2 Partida
 
 ![00_2_a_partida.png](../images/cenas/00_2_partida.png)
 
@@ -96,7 +96,7 @@ básicas de como guiá-los e partem pouco depois de Gundren e Sildar.
 
 ---
 
-### Cena 3 - Corpos
+### Cena 3 Corpos
 
 ![00_3_corpos.png](../images/cenas/00_3_corpos.png)
 

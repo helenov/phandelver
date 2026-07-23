@@ -8,11 +8,11 @@ _próxima_ : [Sessão 2 Phandalin](02_phandalin.md)
 
 ### Cenas
 
-* [Cena 1 - Emboscada](#cena-1---emboscada)
-* [Cena 2 - Caverna](#cena-2---caverna)
-* [Cena 3 - Água!](#cena-3---água)
-* [Cena 4 - Negociação](#cena-4---negociação)
-* [Cena 5 - Klarg!](#cena-5---klarg)
+* [Cena 1 Emboscada](#cena-1-emboscada)
+* [Cena 2 Caverna](#cena-2-caverna)
+* [Cena 3 Água!](#cena-3-água)
+* [Cena 4 Negociação](#cena-4-negociação)
+* [Cena 5 Klarg!](#cena-5-klarg)
 
 ### Participações
 
@@ -34,7 +34,7 @@ _próxima_ : [Sessão 2 Phandalin](02_phandalin.md)
 
 ---
 
-### Cena 1 - Emboscada
+### Cena 1 Emboscada
 
 ![01_1_emboscada.png](../images/cenas/01_1_emboscada.png)
 
@@ -64,7 +64,7 @@ entendem, e um desenho tosco de um anão com um chapelão.
 
 ---
 
-### Cena 2 - Caverna
+### Cena 2 Caverna
 
 ![01_2_caverna.png](../images/cenas/01_2_caverna.png)
 
@@ -100,7 +100,7 @@ entrada do canil.
 
 ---
 
-### Cena 3 - Água!
+### Cena 3 Água!
 
 ![01_3_agua.png](../images/cenas/01_3_agua.png)
 
@@ -124,7 +124,7 @@ consegue se agarrar evitando que fosse arrastado.
 
 ---
 
-### Cena 4 - Negociação
+### Cena 4 Negociação
 
 [//]: # (:construction: _[Imagem]_)
 
@@ -159,7 +159,7 @@ está bastante ferido.
 
 ---
 
-### Cena 5 - Klarg!
+### Cena 5 Klarg!
 
 [//]: # (:construction: _[Imagem]_)
 
