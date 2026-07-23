@@ -8,13 +8,6 @@
   * [Companions](casting.md#companions)
 * [Non-Player Characters](casting.md#non-player-characters)
 
-## Cenários
-
-* [Neverwinter](locations/neverwinter.md)
-* [Estrada Triboar](locations/triboar_trail.md)
-* [Esconderijo Cragmaw](locations/cragmaw_hideout.md)
-* [Phandalin](locations/phandalin.md)
-
 ## Diário
 
 * (2026-03-16) [Sessão 0 Prólogo](sessions/00_prologo.md)

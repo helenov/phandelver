@@ -35,7 +35,7 @@ _próxima_ : [Sessão 3 Redbrands]
 
 #### Mencionados
 
-* [Castelo Cragmaw]
+* [Castelo Cragmaw](../locations/cragmaw_castle.md)
 
 ---
 
@@ -81,7 +81,7 @@ seja liberto: Yeemik quer um pagamento de 50 gp, ou "humano morre!".
 
 Perguntado sobre o anão, Yeemik informa que Klarg tinha ordens
 de [Grol, o rei](../characters/npcs/cragmaw/grol_rei.md), para capturar o anão e
-enviá-lo ao [Castelo Cragmaw]. E ainda acrescenta que o rei estaria atendendo a
+enviá-lo ao [Castelo Cragmaw](../locations/cragmaw_castle.md). E ainda acrescenta que o rei estaria atendendo a
 um pedido de um tal de [Spider](../characters/npcs/spider.md), que ele não
 conhece.
 
