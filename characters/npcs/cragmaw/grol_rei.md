@@ -32,3 +32,5 @@ _[Texto]_
 #### Mencionado
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
+  * [Yeemik](yeemik_goblin.md) diz que a ordem de
+    capturar [Gundren](../gundren_rockseeker.md) veio de Grol.

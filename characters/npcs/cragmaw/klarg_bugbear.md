@@ -24,8 +24,11 @@ _[Texto]_
 ### Aparições
 
 * [Sessão 1 Goblins](../../../sessions/01_goblins.md)
-  * líder no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
-  * morto
+  * líder dos [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md)
+    no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
+  * morto em combate pelo grupo
 
 #### Mencionado
+
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
+  * corpo negociado em troca da liberdade de [Sildar](../sildar_hallwinter.md)

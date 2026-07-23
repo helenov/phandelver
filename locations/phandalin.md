@@ -24,3 +24,4 @@ _[Texto]_
 #### Mencionada
 
 * [Sessão 0 Prólogo](../sessions/00_prologo.md)
+  * destino da carga de [Gundren](../characters/npcs/gundren_rockseeker.md)

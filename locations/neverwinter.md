@@ -25,3 +25,5 @@ _[Texto]_
 ### Aparições
 
 * [Sessão 0 Prólogo](../sessions/00_prologo.md)
+  * grupo recebe oferta de trabalho
+    de [Gundren](../characters/npcs/gundren_rockseeker.md)

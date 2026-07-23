@@ -30,3 +30,7 @@ _[Texto]_
 #### Mencionado
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
+  * [Yeemik](cragmaw/yeemik_goblin.md) diz que a ordem de
+    capturar [Gundren](gundren_rockseeker.md) foi dada
+    por [Grol, o rei](cragmaw/grol_rei.md), a pedido de Spider
+
