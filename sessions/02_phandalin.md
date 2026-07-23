@@ -110,7 +110,8 @@ grupo de cerca de uma dúzia de goblins, incluindo uns "goblins estranhos" com
 crânios alongados e que tinham armas e olhos com um brilho esverdeado.
 
 Após terem sido capturados, um destes goblins estranhos teria se dirigido a
-Sildar e dito algo como "você não ser quem [Ruxithid] procurar", e foram embora.
+Sildar e dito algo como "você não ser
+quem [Ruxithid](../characters/npcs/ruxithid.md) procurar", e foram embora.
 
 Após serem arrastados para o esconderijo, Gundren foi separado dele e, pelo que
 pode entender, ele seria levado para
