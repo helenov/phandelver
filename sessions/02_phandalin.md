@@ -101,11 +101,26 @@ Após curar Sildar, o grupo sai às pressas da caverna.
 
 ### Cena 3 Sildar
 
-_[Imagem]_
+![02_3_sildar.jpeg](../images/cenas/02_3_sildar.jpeg)
 
-_[Texto]_
+Já fora da caverna, [Sildar](../characters/npcs/sildar_hallwinter.md), salvo do
+perigo de morte, mas ainda ferido e desarmado, conta que ele
+e [Gundren](../characters/npcs/gundren_rockseeker.md) foram capturados por um
+grupo de cerca de uma dúzia de goblins, incluindo uns "goblins estranhos" com
+crânios alongados e que tinham armas e olhos com um brilho esverdeado.
 
-:construction:
+Após terem sido capturados, um destes goblins estranhos teria se dirigido a
+Sildar e dito algo como "você não ser quem [Ruxithid] procurar", e foram embora.
+
+Após serem arrastados para o esconderijo, Gundren foi separado dele e, pelo que
+pode entender, ele seria levado para
+o [Castelo Cragmaw](../locations/cragmaw_castle.md) a pedido de um
+certo [Spider](../characters/npcs/spider.md).
+
+Sobre Gundren, o que sabe é que o ele e seus irmãos estavam há tempos procurando
+por uma mina lendária na região, e parece que Gundren teria encontrado um mapa
+ou algo do tipo. Ele teme que agora esta informação esteja com os
+[Cragmaw](../organizations/cragmaw_goblins.md) e com este Spider.
 
 ---
 

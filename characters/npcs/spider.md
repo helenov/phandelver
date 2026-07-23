@@ -33,4 +33,7 @@ _[Texto]_
   * [Yeemik](cragmaw/yeemik_goblin.md) diz que a ordem de
     capturar [Gundren](gundren_rockseeker.md) foi dada
     por [Grol, o rei](cragmaw/grol_rei.md), a pedido de Spider
+  * [Sildar](../characters/npcs/sildar_hallwinter.md) confirma que a ordem 
+    para capturar Gundren seria a pedido de Spider
+
 
