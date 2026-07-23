@@ -43,8 +43,9 @@ _próxima_ : [Sessão 3 Redbrands]
 
 ![02_1_decisoes.jpeg](../images/cenas/02_1_decisoes.jpeg)
 
-Após derrotarem Klarg, o grupo investiga a sala onde estão guardados os
-carregamentos roubados pelos [Cragmaw](../organizations/cragmaw_goblins.md):
+Após derrotarem [Klarg](../characters/npcs/cragmaw/klarg_bugbear.md), o grupo
+investiga a sala onde estão guardados os carregamentos roubados
+pelos [Cragmaw](../organizations/cragmaw_goblins.md):
 muitas caixas e sacos de suprimentos, com o símbolo
 da [Lionshield Coster](../organizations/lionshield_coster.md).
 
@@ -55,7 +56,7 @@ leva no bolso. Mas nenhum sinal do
 anão [Gundren](../characters/npcs/gundren_rockseeker.md).
 
 Após Sapão e Professor tomarem as poções de cura e se recuperarem, se preparam
-para levar o corpo de [Klarg](../characters/npcs/cragmaw/klarg_bugbear.md)
+para levar o corpo de Klarg
 para [Yeemik](../characters/npcs/cragmaw/yeemik_goblin.md) do outro lado da
 caverna.
 
@@ -71,24 +72,27 @@ o outro lado da caverna.
 
 ![02_2_troca.png](../images/cenas/02_2_troca.png)
 
-Ao se aproximarem da câmara a oeste da caverna, ouvem que os goblins parecem
+Ao se aproximarem da câmara a oeste da caverna, ouvem que os goblins parecem já
 estar comemorando por antecipação.
 
-Chegando na entrada, são saldados por Yeemik e seus companheiros, que urram de
-alegria ao ver o corpo de Klarg. Há um impasse quando o grupo pede
-que [Sildar](../characters/npcs/sildar_hallwinter.md)
+Chegando na entrada, são saldados
+por [Yeemik](../characters/npcs/cragmaw/yeemik_goblin.md) e seus companheiros,
+que urram de alegria ao ver o corpo
+de [Klarg](../characters/npcs/cragmaw/klarg_bugbear.md). Há um impasse quando o
+grupo pede que [Sildar](../characters/npcs/sildar_hallwinter.md)
 seja liberto: Yeemik quer um pagamento de 50 gp, ou "humano morre!".
 
 Perguntado sobre o anão, Yeemik informa que Klarg tinha ordens
-de [Grol, o rei](../characters/npcs/cragmaw/grol_rei.md), para capturar o anão e
-enviá-lo ao [Castelo Cragmaw](../locations/cragmaw_castle.md). E ainda acrescenta que o rei estaria atendendo a
-um pedido de um tal de [Spider](../characters/npcs/spider.md), que ele não
-conhece.
+de [Grol, o rei](../characters/npcs/cragmaw/grol_rei.md), para
+capturar [Gundren](../characters/npcs/gundren_rockseeker.md) e enviá-lo
+ao [Castelo Cragmaw](../locations/cragmaw_castle.md). E ainda acrescenta que o
+rei estaria atendendo a um pedido de um tal
+de [Spider](../characters/npcs/spider.md), que ele não conhece.
 
 Após alguma discussão sobre o valor do resgate pedido, Ralf volta a câmara de
 Klarg de onde traz um tanto de moedas que enganam Yeemik e seu grupo. Ao jogar o
-saco de moedas dentro sala, Yeemik joga Sildar do patamar, caindo desacordando.
-"Intrusos poder levar humano nojento!"
+saco de moedas dentro sala, o goblin joga Sildar do patamar, caindo
+desacordando. "Intrusos poder levar humano nojento!"
 
 Em meio a risadas dos goblins, Ralf entra na sala e arrasta Sildar para fora.
 Após curar Sildar, o grupo sai às pressas da caverna.

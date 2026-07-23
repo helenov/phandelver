@@ -67,8 +67,8 @@ O grupo aceita o pagamento e combinam os detalhes do encontro e partida para a
 manhã seguinte.
 
 Em um dado momento, Sildar se volta para Gundren e cochicha algo em seu ouvido.
-Sapão ouve apenas algo sobre outro compromisso. Gundren, sobressaltado, se
-desculpa pela pressa e partem, alegando que precisam acertar ainda alguns
+Sapão ouve apenas algo sobre outro compromisso. O anão, sobressaltado, se
+desculpa pela pressa e ambos partem, alegando que precisam ainda acertar alguns
 preparativos para a viagem.
 
 ---
@@ -78,7 +78,9 @@ preparativos para a viagem.
 ![00_2_a_partida.png](../images/cenas/00_2_partida.png)
 
 Na manhã seguinte, o grupo está esperando no local combinado para a partida
-quando o Gundren e Sildar chegam meio apresados, trazendo dois cavalos.
+quando o [Gundren](../characters/npcs/gundren_rockseeker.md)
+e [Sildar](../characters/npcs/sildar_hallwinter.md) chegam meio
+apresados, trazendo dois cavalos.
 
 Gundren explica que houve uma pequena alteração nos planos e que ele e o amigo
 precisarão chegar em Phandalin mais cedo, e por isso irão a cavalo na frente.
@@ -92,7 +94,8 @@ da Barthen, onde receberão o pagamento, e eles, Gundren e Sildar deverão estar
 instalados na Hospedaria Stonehill.
 
 O grupo é apresentado à carroça puxada por dois grandes bois, recebem instruções
-básicas de como guiá-los e partem pouco depois de Gundren e Sildar.
+básicas de como guiá-los e partem pouco depois, assim que a carroça de
+suprimentos está carregada.
 
 ---
 
@@ -114,7 +117,8 @@ cavalos caídos, aparentemente mortos no meio da estrada. Chama os companheiros
 que avançam cautelosos, com Sapão mais para trás trazendo os bois com a carroça
 pelas rédeas.
 
-Quando se aproximam mais, agora podem reconhecer os cavalos que levavam Gundren
-e Sildar. Sem muito tempo para investigar a cena, uma flecha passa zunindo
+Quando se aproximam mais, agora podem reconhecer os cavalos que
+levavam [Gundren](../characters/npcs/gundren_rockseeker.md)
+e [Sildar](../characters/npcs/sildar_hallwinter.md). Sem muito tempo para investigar a cena, uma flecha passa zunindo
 próxima a Ralf, revelando um goblin escondido na vegetação.
 

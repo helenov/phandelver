@@ -11,7 +11,7 @@ _[Texto]_
 ### Associações
 
 * [Grol, o rei](cragmaw/grol_rei.md)
-  * aliado?
+  * aliado
 
 <!--
 ### Organizações

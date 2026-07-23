@@ -145,9 +145,10 @@ Ralf propõe pagar um resgate pelo "humano", ao que o líder pede 50 gp, mas Ral
 diz que não tem este dinheiro todo e oferece 5 gp. O líder fala, então, que
 "libertar humano, se trazer cabeça
 de [Klarg](../characters/npcs/cragmaw/klarg_bugbear.md)". Nisso uma voz humana,
-que parece ser a de Sildar, grita dizendo que não devem confiar neles, "é mais
-importante resgatarem Gundren". Fica, então, claro que o anão não está com
-eles.
+que parece ser a de [Sildar](../characters/npcs/sildar_hallwinter.md), grita
+dizendo que não devem confiar neles, "é mais importante
+resgatarem [Gundren](../characters/npcs/gundren_rockseeker.md)". Fica, então,
+claro que o anão não está com eles.
 
 Discutindo com Yeemik, Ralf entende que Klarg é o líder do grupo, mas que eles
 estão insatisfeitos com sua liderança e gostariam de tomar seu lugar.
@@ -173,16 +174,17 @@ eles em um canto. O fundo da sala está cheio de caixas e sacos de suprimentos
 diversos.
 
 Quando Ralf avança para atacar o lobo, sai de trás de algumas caixas um bugbear
-que logo o ataca, tentando intimidar o grupo "Klarg ordena que invasores vão
+que logo o ataca, tentando intimidar o grupo
+"[Klarg](../characters/npcs/cragmaw/klarg_bugbear.md) ordena que invasores vão
 embora!".
 
-A princípio Klarg parece estar sozinho, mas após bradar que seus "Lacaios
+A princípio bugbear parece estar sozinho, mas após bradar que seus "Lacaios
 covardes expulsem invasores da caverna de Klarg!", três goblins relutantes
 deixam seus esconderijos, se juntam a defesa de seu líder.
 
 Sapão e Professor chegam a cair em combate, mas conseguem se recuperam e juntos
-ferir bastante o bugbear - que estava tendo bastante azar nas investidas
-de sua maça de espinhos.
+ferir bastante o bugbear - que estava tendo bastante azar nas investidas de sua
+maça de espinhos.
 
 O goblins, vendo que seu líder está prestes a cair, fogem. E, pouco depois, um
 golpe fatal de Ralf liquida com o bugbear e outro do Professor elimina seu lobo.
@@ -193,4 +195,5 @@ identifica a maioria da carga como sendo
 da [Lionshield Coster](../organizations/lionshield_coster.md)).
 
 O grupo bastante ferido e esgotado precisa decidir o que fazer: ir para o
-resgate de Sildar? ou recuar para se recuperar?
+resgate de [Sildar](../characters/npcs/sildar_hallwinter.md)? ou recuar para se
+recuperar?
