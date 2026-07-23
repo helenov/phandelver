@@ -13,7 +13,7 @@ _[Texto]_
 * [Yeemik, o goblin](yeemik_goblin.md)
   * segundo em comando
   * rival
-* [Rei Grol](grol.md)
+* [Grol, o rei](grol_rei.md)
   * soberano
 
 ### Organizações

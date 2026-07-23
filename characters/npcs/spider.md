@@ -10,7 +10,7 @@ _[Texto]_
 
 ### Associações
 
-* [Rei Grol](cragmaw/grol.md)
+* [Grol, o rei](cragmaw/grol_rei.md)
   * aliado?
 
 <!--

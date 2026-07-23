@@ -26,7 +26,7 @@ _próxima_ : [Sessão 3 Redbrands]
 
 * [Klarg, o bugbear](../characters/npcs/cragmaw/klarg_bugbear.md) (RIP)
 * [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
-* [Rei Grol](../characters/npcs/cragmaw/grol.md)
+* [Grol, o rei](../characters/npcs/cragmaw/grol_rei.md)
 * [Spider](../characters/npcs/spider.md)
 
 ### Cenários
@@ -80,15 +80,15 @@ que [Sildar](../characters/npcs/sildar_hallwinter.md)
 seja liberto: Yeemik quer um pagamento de 50 gp, ou "humano morre!".
 
 Perguntado sobre o anão, Yeemik informa que Klarg tinha ordens
-do [Rei Grol](../characters/npcs/cragmaw/grol.md)
-para capturar o anão, que já foi levado para o [Castelo Cragmaw]. Ele ainda
-acrescenta que o rei estaria atendendo a um pedido de um tal
-de [Spider](../characters/npcs/spider.md), que ele não conhece.
+de [Grol, o rei](../characters/npcs/cragmaw/grol_rei.md), para capturar o anão e
+enviá-lo ao [Castelo Cragmaw]. E ainda acrescenta que o rei estaria atendendo a
+um pedido de um tal de [Spider](../characters/npcs/spider.md), que ele não
+conhece.
 
 Após alguma discussão sobre o valor do resgate pedido, Ralf volta a câmara de
 Klarg de onde traz um tanto de moedas que enganam Yeemik e seu grupo. Ao jogar o
-saco de moedas dentro sala, Yeemik joga Sildar do patar, caindo desacordando.
-"Intrusos poder levar!"
+saco de moedas dentro sala, Yeemik joga Sildar do patamar, caindo desacordando.
+"Intrusos poder levar humano nojento!"
 
 Em meio a risadas dos goblins, Ralf entra na sala e arrasta Sildar para fora.
 Após curar Sildar, o grupo sai às pressas da caverna.

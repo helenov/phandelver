@@ -13,7 +13,7 @@ _[Texto]_
 * [Klarg, o bugbear](klarg_bugbear.md) (RIP)
   * antigo líder
   * rival
-* [Rei Grol](grol.md)
+* [Grol, o rei](grol_rei.md)
   * soberano
 
 ### Organizações

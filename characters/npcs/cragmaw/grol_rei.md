@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Grol
+## Grol, o rei
 
 _[Imagem]_
 

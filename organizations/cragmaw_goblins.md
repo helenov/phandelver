@@ -10,7 +10,7 @@ _[Texto]_
 
 ### Membros
 
-* [Rei Grol](../characters/npcs/cragmaw/grol.md)
+* [Grol, o rei](../characters/npcs/cragmaw/grol_rei.md)
   * soberano
 * [Klarg, o bugbear](../characters/npcs/cragmaw/klarg_bugbear.md) (RIP)
   * líder no [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
