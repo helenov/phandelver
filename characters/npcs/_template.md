@@ -12,20 +12,18 @@ _[Texto]_
 
 * _[Character]_
   * _[detalhe]_
-* 
 
 ### Organizações
 
 * _[Organização]_
   * _[detalhe]_
-* 
 
 ### Aparições
 
 * _[Sessão]_
   * _[detalhe]_
-* 
 
 #### Mencionado
 
 * _[Sessão]_
+  * _[detalhe]_

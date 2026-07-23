@@ -18,7 +18,6 @@ _[Texto]_
 
 * _[Organização]_
   * _[detalhe]_
-*
 -->
 
 ### Aparições

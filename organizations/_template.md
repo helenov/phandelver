@@ -12,4 +12,3 @@ _[Texto]_
 
 * _[Character]_
   * _[detalhe]_
-* 

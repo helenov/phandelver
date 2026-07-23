@@ -13,7 +13,6 @@ _[Texto]_
 
 * _[Character]_
   * _[detalhe]_
-* 
 -->
 
 ### Organizações
@@ -26,9 +25,9 @@ _[Texto]_
 
 * _[Sessão]_
   * _[detalhe]_
-* 
 
 #### Mencionada
 
 * _[Sessão]_
+  * _[detalhe]_
 -->

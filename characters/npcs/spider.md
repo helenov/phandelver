@@ -18,7 +18,6 @@ _[Texto]_
 
 * _[Organização]_
   * _[detalhe]_
-* 
 -->
 
 ### Aparições
@@ -26,7 +25,6 @@ _[Texto]_
 <!--
 * _[Sessão]_
   * _[detalhe]_
-* 
 -->
 
 #### Mencionado
