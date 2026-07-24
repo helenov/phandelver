@@ -19,6 +19,7 @@ _próxima_ : [Sessão 3 Redbrands]
 
 * [Yeemik, o goblin](../characters/npcs/cragmaw/yeemik_goblin.md)
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
+* [Flip, o goblin](../characters/npcs/cragmaw/flip_goblin.md)
 * goblins
 * lobos
 
@@ -131,7 +132,8 @@ ou algo do tipo. Ele teme que agora esta informação esteja com os
 
 De volta a estrada, o grupo surpreende três goblins fugitivos que estão mexendo
 na carroça. Os três fogem ao serem surpreendidos, mas um deles é ferido e,
-alcançado por Sapão, se rende. "[Flip] não quer morrer!"
+alcançado por Sapão, se rende.
+"[Flip](../characters/npcs/cragmaw/flip_goblin.md) não quer morrer!"
 
 Interrogado, Flip informa que sabe que o [Castelo Cragmaw] fica na floresta a
 nordeste dali, mas não sabe exatamente onde - "Só [Klarg] sabia". Também
