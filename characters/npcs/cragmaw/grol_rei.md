@@ -33,4 +33,6 @@ _[Texto]_
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
   * [Yeemik](yeemik_goblin.md) diz que a ordem de
-    capturar [Gundren](../gundren_rockseeker.md) veio de Grol.
+    capturar [Gundren](../gundren_rockseeker.md) veio de Grol
+  * [Flip](flip_goblin.md) diz que [Spider](../spider.md) "manda"
+    em Grol

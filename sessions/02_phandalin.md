@@ -141,7 +141,7 @@ dali, mas não sabe exatamente onde -
 "Só [Klarg](../characters/npcs/cragmaw/klarg_bugbear.md) sabia". Também menciona
 os "goblins estranhos" e diz ter medo deles. Também não sabe quem é Spider, mas
 já ouviu falar dele "Tenho medo dele... [Spider](../characters/npcs/spider.md)
-mandar em [Grol]"
+mandar em [Grol](../characters/npcs/cragmaw/grol_rei.md)"
 
 Após ser ameaçado é liberado e corre para o mato, sem olhar para trás, por onde
 seus companheiros haviam fugido.
