@@ -135,11 +135,11 @@ na carroça. Os três fogem ao serem surpreendidos, mas um deles é ferido e,
 alcançado por Sapão, se rende.
 "[Flip](../characters/npcs/cragmaw/flip_goblin.md) não quer morrer!"
 
-Interrogado, Flip informa que sabe que o [Castelo Cragmaw] fica na floresta a
-nordeste dali, mas não sabe exatamente onde - "Só [Klarg] sabia". Também
-menciona os "goblins estranhos" e diz ter medo deles. Também não sabe quem é
-[Spider], mas já ouviu falar dele "Tenho medo dele... Spider mandar
-em [Grol, o rei]"
+Interrogado, Flip informa que sabe que
+o [Castelo Cragmaw](../locations/cragmaw_castle.md) fica na floresta a nordeste
+dali, mas não sabe exatamente onde - "Só [Klarg] sabia". Também menciona os
+"goblins estranhos" e diz ter medo deles. Também não sabe quem é Spider, mas já
+ouviu falar dele "Tenho medo dele... [Spider] mandar em [Grol, o rei]"
 
 Após ser ameaçado é liberado e corre para o mato, sem olhar para trás, por onde
 seus companheiros haviam fugido.

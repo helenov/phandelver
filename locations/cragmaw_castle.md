@@ -32,3 +32,6 @@ _[Texto]_
     Castelo Cragmaw
   * [Sildar](../characters/npcs/sildar_hallwinter.md) confirma que entendeu que
     Gundren estaria sendo levado para o Castelo Cragmaw
+  * [Flip, o goblin](../characters/npcs/cragmaw/flip_goblin.md) diz que o
+    Castelo Cragmaw fica na [Floresta de Neverwinter], mas não sabe exatamente
+    onde
