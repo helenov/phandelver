@@ -31,3 +31,5 @@ _[Texto]_
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
   * corpo negociado em troca da liberdade de [Sildar](../sildar_hallwinter.md)
+  * [Flip, o goblin](flip_goblin.md) diz que apenas Klarg sabia a localização
+    do [Castelo Cragmaw](../../../locations/cragmaw_castle.md)
