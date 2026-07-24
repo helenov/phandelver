@@ -127,11 +127,20 @@ ou algo do tipo. Ele teme que agora esta informação esteja com os
 
 ### Cena 4 Interrogatório
 
-_[Imagem]_
+![02_4_interrogatorio.jpeg](../images/cenas/02_4_interrogatorio.jpeg)
 
-_[Texto]_
+De volta a estrada, o grupo surpreende três goblins fugitivos que estão mexendo
+na carroça. Os três fogem ao serem surpreendidos, mas um deles é ferido e,
+alcançado por Sapão, se rende. "[Flip] não quer morrer!"
 
-:construction:
+Interrogado, Flip informa que sabe que o [Castelo Cragmaw] fica na floresta a
+nordeste dali, mas não sabe exatamente onde - "Só [Klarg] sabia". Também
+menciona os "goblins estranhos" e diz ter medo deles. Também não sabe quem é
+[Spider], mas já ouviu falar dele "Tenho medo dele... Spider mandar
+em [Grol, o rei]"
+
+Após ser ameaçado é liberado e corre para o mato, sem olhar para trás, por onde
+seus companheiros haviam fugido.
 
 ---
 
