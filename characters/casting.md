@@ -28,6 +28,7 @@
   * [Grol, o rei](npcs/cragmaw/grol_rei.md)
   * [Klarg, o bugbear](npcs/cragmaw/klarg_bugbear.md) (RIP)
   * [Yeemik, o goblin](npcs/cragmaw/yeemik_goblin.md)
+  * [Flip, o goblin](npcs/cragmaw/flip_goblin.md)
 
 #### Mencionados
 
