@@ -32,7 +32,7 @@ _[Texto]_
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * [Yeemik](cragmaw/yeemik_goblin.md) diz que a ordem de
     capturar [Gundren](gundren_rockseeker.md) foi dada
-    por [Grol, o rei](cragmaw/grol_rei.md), a pedido de Spider
+    por [Grol](cragmaw/grol_rei.md), a pedido de Spider
   * [Sildar](sildar_hallwinter.md) confirma que a ordem 
     para capturar Gundren seria a pedido de Spider
   * [Flip](cragmaw/flip_goblin.md) diz que tem medo do Spider, pois ele 

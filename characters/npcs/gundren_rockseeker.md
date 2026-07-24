@@ -37,7 +37,7 @@ _[Texto]_
     não está com Gundren
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * [Yeemik](cragmaw/yeemik_goblin.md) diz que
-    * a ordem de capturar Gundren veio de [Grol, o rei](cragmaw/grol_rei.md)
+    * a ordem de capturar Gundren veio de [Grol](cragmaw/grol_rei.md)
     * a ordem teria sido um pedido de [Spider](spider.md)
     * Gundren foi enviado para
       o [Castelo Cragmaw](../../locations/cragmaw_castle.md)
