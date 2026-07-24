@@ -35,5 +35,7 @@ _[Texto]_
     por [Grol, o rei](cragmaw/grol_rei.md), a pedido de Spider
   * [Sildar](sildar_hallwinter.md) confirma que a ordem 
     para capturar Gundren seria a pedido de Spider
+  * [Flip](cragmaw/flip_goblin.md) diz que tem medo do Spider, pois ele 
+    "manda" em [Grol](cragmaw/grol_rei.md)
 
 
