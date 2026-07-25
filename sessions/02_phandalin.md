@@ -39,6 +39,7 @@ _próxima_ : [Sessão 3 Redbrands]
 ### Cenários
 
 * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
+* [Phandalin](../locations/phandalin.md)
 
 #### Mencionados
 
@@ -158,9 +159,10 @@ seus companheiros haviam fugido.
 
 ![02_5_phandalin.jpg](../images/cenas/02_5_phandalin.jpg)
 
-A estrada emerge de uma encosta arborizada, e o grupo avista [Phandalin] pela
-primeira vez. A cidade consiste em quarenta ou cinquenta construções simples de
-madeira, algumas erguidas sobre antigas fundações de pedra.
+A estrada emerge de uma encosta arborizada, e o grupo
+avista [Phandalin](../locations/phandalin.md) pela primeira vez. A cidade
+consiste em quarenta ou cinquenta construções simples de madeira, algumas
+erguidas sobre antigas fundações de pedra.
 
 Ruínas antigas — muros de pedra desmoronados cobertos de hera e sarças — cercam
 as casas e lojas mais novas, mostrando que esta deve ter sido uma cidade muito
@@ -311,9 +313,10 @@ combinar os detalhes mais tarde.
 
 _[Imagem]_ :construction:
 
-[Daran] havia explicado que [Phandalin] não possui um governo oficial
-propriamente dito, mas que a vila elege um "prefeito" anualmente, que atua como
-juiz em disputas pequenas e mantém os registros mais importantes.
+[Daran] havia explicado que [Phandalin](../locations/phandalin.md) não possui um
+governo oficial propriamente dito, mas que a vila elege um "prefeito"5
+anualmente, que atua como juiz em disputas pequenas e mantém os registros mais
+importantes.
 
 Ao chegarem a porta do prédio da "[Prefeitura]" - na verdade, a casa do prefeito
 [Harbin Weber] - a primeira coisa que vêm é o cartaz pregado ao lado da porta.

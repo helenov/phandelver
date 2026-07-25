@@ -21,7 +21,12 @@ _[Texto]_
 
 ### Aparições
 
+* [Sessão 2 Phandalin](../sessions/02_phandalin.md)
+  * grupo chega a Phandalin
+
 #### Mencionada
 
 * [Sessão 0 Prólogo](../sessions/00_prologo.md)
   * destino da carga de [Gundren](../characters/npcs/gundren_rockseeker.md)
+* [Sessão 2 Phandalin](../sessions/02_phandalin.md)
+  * [Daran] explica sobre organização politica da cidade
