@@ -1,12 +1,13 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Flip, <small>_goblin_</small>
+# # Flip, <small>_goblin_</small>
 
-_[Imagem]_
+<!-- @formatter:off -->
+<img alt="Flip" src="../../../images/characters/flip.png" style="width:200px; margin-right: 15px; float: left" />
+<!-- @formatter:on -->
 
-_[Texto]_
-
-:construction:
+_[Texto]_ :construction:
+<br clear="left"/>
 
 ### Associações
 

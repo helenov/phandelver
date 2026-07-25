@@ -2,7 +2,9 @@
 
 ## Klarg, <small>_bugbear_</small> (RIP)
 
-![Klarg](../../../images/characters/klarg.png) 
+<!-- @formatter:off -->
+<img alt="Klarg" src="../../../images/characters/klarg.png" style="width:300px; margin-right: 15px; float: left" />
+<!-- @formatter:on -->
 
 O líder dos [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md)
 baseados no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md) é um
@@ -14,6 +16,7 @@ Recentemente recebeu instruções
 do [Castelo Cragmaw](../../../locations/cragmaw_castle.md) para capturar o
 anão [Gundren Rockseeker](../gundren_rockseeker.md) e o que mais estiver com
 ele.
+<br clear="left"/>
 
 ### Associações
 
