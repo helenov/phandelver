@@ -15,7 +15,11 @@ _próxima_ : [Sessão 3 Redbrands]
 * [Cena 5 Phandalin](#cena-5-phandalin)
 * [Cena 6 Venda da Barthen](#cena-6-venda-da-barthen)
 * [Cena 7 Hospedaria Stonehill](#cena-7-hospedaria-stonehill)
-* [Cena 8 Conversas](#cena-8-conversas)
+* [Cena 8 Pomar Edermath](#cena-8-pomar-edermath)
+* [Cena 9 Lionshield Coster](#cena-9-lionshield-coster)
+* [Cena 10 Prefeitura](#cena-10-prefeitura)
+* [Cena 11 Ferraria e Carpintaria](#cena-11-ferraria-e-carpintaria)
+* [Cena 12 Carp](#cena-12-carp)
 
 ### Participações
 
@@ -219,8 +223,8 @@ O grupo fala da carga e do sequestro do anão e todos, inclusive um grupo de
 moradores sentados a uma mesa próxima, ficam chocados. Uma gnoma, que se
 apresenta como [Freda, a tecelã], fala que isso "tem cheiro de coisa dos
 Redbrands. Eles tão incomodando todos da cidade já faz uns dois meses". "Só não
-mexem com a [Halia], do [Entreposto]", interviu o homem baixo da mesa ao lado,
-"ela sim é uma mulher durona!"
+mexem com a [Halia], do [Entreposto]", interviu o homem baixo da mesa ao
+lado, [Lanar, o minerador], "ela sim é uma mulher durona!"
 
 Perguntados sobre o [Castelo Cragmaw], ninguém sabe dar informações,
 mas [Elsa, a anã bartender], sugerem que talvez [Daran] saiba de alguma coisa.
@@ -232,15 +236,178 @@ no salão, chamando: "Papai! Papai! A [Carp] disse que quase foi pega por uns
 bandidos. Ela encontrou alguma coisa na floresta!  Posso ir lá explorar com
 ela?"
 
-\"Já disse para vocês ficarem longe destes bandidos, [Peep]! Você viu o que
-houve com a família do carpinteiro? Vocês ainda vão arrumar confusão pra gente!"
+\"Já disse para vocês ficarem longe destes bandidos, [Pip]! Você viu o que houve
+com a família do carpinteiro? Vocês ainda vão arrumar confusão pra gente!"
 
 ---
 
-### Cena 8 Conversas
+### Cena 8 Pomar Edermath
 
-_[Imagem]_
+_[Imagem]_ :construction:
 
-_[Texto]_
+Após discutir um pouco sobre os próximos passos, o grupo decide procurar o tal
+[Daran Edermath] que poderia ter informações sobre a localização
+do [Castelo Cragmaw]. Se informam na hospedaria que ele é um velho que cuida do
+pomar de maçãs que fica no limite oeste da cidade.
 
-:construction:
+Chegando ao local - um pequeno chalé ao lado de um velho pomar de macieiras
+coberto de mato e hera. Um velho está de costas para eles cortando e arrancando
+mato próximo da casa. Quando se aproximam, ele se vira vêm que é um velho elfo
+negro, um draw, que deve ter mais de 500 anos.
+
+Daran é um aventureiro aposentado que, após uma juventude de aventuras no sul,
+voltou a região onde nasceu para ter uma vida calma.
+
+Perguntado pelo Castelo Cragmaw, diz que já ouviu falar. "Parece que fica em
+algum lugar na [Floresta de Neverwinter] ao norte da [Trilha de Triboar], há
+mais de 20 milhas na direção nordeste". Nunca esteve lá e não sabe precisar onde
+fica, apenas que é meio escondido. Além disso, tem havido muitos ataques de
+bandidos na Trilha, tanto a leste quando a oeste.
+
+A propósito, soube que o [Harbin Wester], o prefeito, está procurando
+voluntários para lidar com estes ataques na estrada, mas que deveria estar mais
+preocupado com os arruaceiros que estão mais perto, na cidade. "O prefeito é
+popular e tal, mas é um 'bundão' e tem medo dos [Redbrands], então prefere lidar
+com o problema que está mais longe."
+
+Grupo pergunta porque a guarda da cidade não faz nada, e Daran explica que a
+cidade não tem uma guarda. "Até existem algumas celas na prefeitura, mas o
+prefeito só serve mesmo para resolver coisas pequenas como brigas de vizinhos e
+coisas assim".
+
+"A [Lords' Alliance] já deveria ter enviado alguém para a cidade faz tempo!".
+Quando o grupo menciona [Sildar] que chegou com eles, o ranzinza Daran demonstra
+pela primeira vez algo parecido com alegria: "Antes tarde do que nunca!"
+
+---
+
+### Cena 9 Lionshield Coster
+
+_[Imagem]_ :construction:
+
+Voltando do pomar, o grupo, enquanto ruma para a prefeitura onde pretendem
+conversar com o prefeito, nota na praça central um modesto posto comercial onde,
+acima da porta da frente, há uma placa em forma de escudo de madeira com um leão
+azul pintado. Reconhecem o emblema da [Lionshield Coster], uma grande companhia
+mercante com sede em [Yartar], e que tem negócios por toda a [Sword Coast], e é
+mesmo escudo que viram entre as cargas saqueadas no [Esconderijo Cragmaw].
+
+Resolvem entrar e conhecem [Linene Graywind], uma mulher de 30 e poucos anos,
+responsável pelo novo posto da companhia na região.
+
+O grupo conta de seu encontro com os [Cragmaw Goblins] na estrada e sobre a
+carga que encontraram no seu esconderijo. Linene diz que tem sofrido muito com
+os ataques na estrada e que estaria interessada em recuperar a carga roubada,
+mas que precisaria alguém disposto a isso, ainda mais sabendo que ainda há
+goblins no local.
+
+O grupo exita, mas diz que poderia fazer o serviço de terminar a limpeza do
+local, mas que ela precisaria conseguir quem ajudasse a carregar tudo. Ficam de
+combinar os detalhes mais tarde.
+
+---
+
+### Cena 10 Prefeitura
+
+_[Imagem]_ :construction:
+
+[Daran] havia explicado que [Phandalin] não possui um governo oficial
+propriamente dito, mas que a vila elege um "prefeito" anualmente, que atua como
+juiz em disputas pequenas e mantém os registros mais importantes.
+
+Ao chegarem a porta do prédio da "[Prefeitura]" - na verdade, a casa do prefeito
+[Harbin Weber] - a primeira coisa que vêm é o cartaz pregado ao lado da porta.
+
+> A prefeitura de Phandalin procura por bravos voluntários que capturem os
+> bandidos que têm atacado caravanas e viajantes na [Trilha de Triboar], na
+> direção de [Conyberry], a leste.
+>
+> Foi reportado que o grupo de bandidos é formado por bugbears, goblins e ao
+> menos um ogre foi visto. Também há rumores de "goblins estranhos" - o que
+> quer que isso signifique.
+>
+> Cautela é recomendada.
+>
+> Recompensa: 100 gp
+
+Batendo, são recebidos pelo próprio prefeito, um homem baixo e gorducho, com
+sorriso e bigode fartos. Mencionando o cartaz, falam sobre o ataque que sofreram
+vindo de Neverwinter, a oeste, e de como limparam um esconderijo deles.
+
+Harbin reconhece então o grupo como os heróis que salvaram o nobre [Sildar], que
+por acaso está ali com ele.
+
+Levados para dentro, encontram Sildar sentado à mesa do prefeito, estudando uma
+papelada. Ele explica que sua missão era buscar notícias de seu colega, um
+certo [Iarno Albrek] - descrito como "um humano baixo, de barba escura, na casa
+dos 30 anos". Iarno havia sido enviado a cidade há dois meses, mas desapareceu,
+logo após informar a sede de sua chegada. Sildar teme que Iarno possa ter sido
+capturado pelos [Redbrands].
+
+Sildar está preocupado, pois sua missão parece ser bem mais complexa do que
+tinha imaginado, "mas vamos ver o que pode ser feito!", diz apontando para a
+papelada sobre a mesa.
+
+O grupo questiona sobre a atuação dos Redbrands, que, pelo que tinham entendido,
+seriam apenas arruaceiros sem grande periculosidade. Mas Sildar conta que soube
+por [Toblen], da hospedaria, que o carpinteiro [Thel Dendral], após enfrentar um
+grupo dos bandidos que importunava sua esposa, foi assassinado e que sua família
+desapareceu naquela mesma noite. "Eles não estão me parecendo assim tão
+inofensivos".
+
+O grupo então se oferece para servir como uma força de segurança provisória na
+cidade - até recebem uma carta de autorização do prefeito para isso, e combinam
+uma recompensa de 100 gp pela captura do líder dos Redbrands, um certo
+[Glasstaff], além das despesas de hospedagem e alimentação pagadas pela
+prefeitura.
+
+---
+
+### Cena 11 Ferraria e Carpintaria
+
+_[Imagem]_ :construction:
+
+Saindo da prefeitura, o grupo decide procurar pelo ferreiro da cidade, um certo
+[Joe Smithe], que sendo novo na região, não faz ideia de onde fica o tal
+[Castelo Cragmaw], mas que não gosta dos [Redbrands]: "um bando de
+encrenqueiros".
+
+Mas, após tentar entender o que os forasteiros querem, concorda em forjar os
+distintivos para que o grupo possa se identificar como a nova "força de
+segurança" da cidade.
+
+Deixando a oficina do ferreiro, o grupo passa na [casa do carpinteiro], mas
+encontram o lugar vazio e abandonado. Algumas cadeiras caídas, pratos na mesa e
+panelas no fogão, indicam que houve alguma, mas pouca, resistência e a família
+deixou o lugar - teriam sido levados? - sem preparativos.
+
+---
+
+### Cena 12 Carp
+
+_[Imagem]_ :construction:
+
+De volta a [hospedaria], para almoçar e discutir o que fazer, vêem entrar [Pip],
+o filho do estalajadeiro, com uma menina halfling, que está tagarelando,
+contando de como escapou "por muito pouco dos bandidos malvados".
+
+Sapão chama as crianças e pergunta sobre o que foi que ela viu. [Carp], a
+garota, fica deslumbrada com os "grandes heróis" e quer saber de suas aventuras.
+"Um dia, quando eu for maior, também serei uma grande aventureira, e conhecerei
+o mundo, e lutarei contra dragões. Vocês já devem ter matado um dragão, né? E
+encontrarei grandes tesouros, e..."
+
+Trazendo a menina de volta a realidade, pedem para ela contar de sua aventura na
+floresta. Ele então conta com empolgação sobre como estava brincando de aventura
+na floresta que fica atrás da fazenda onde mora com sua mãe, e como encontrou um
+"túnel secreto, que fica escondido atrás de arbustos e pedras". Mas bem na hora
+que estava começando a entrar para explorar, viu que alguns bandidos estavam
+vindo lá de dentro, mas ela conseguiu se esconder e "por um triz eles não me
+viram".
+
+"Posso levar vocês lá, se vocês quiserem. O lugar é perigoso, mas vocês são
+heróis corajosos, e não têm medo de bandidos malvados. Ah! Também vi um goblins
+estranhos praqueles lados num outro dia."
+
+Após fazerem ela prometer que não voltará lá sozinha, combinam de se encontrar
+na manhã seguinte para que ela os leve até o local.
