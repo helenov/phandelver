@@ -23,21 +23,34 @@ _[Texto]_
 ### Aparições
 
 * [Sessão 0 Prólogo](../../sessions/00_prologo.md)
-  * conhecido do grupo
-  * oferece trabalho de escolta de carga
-    até [Phandalin](../../locations/phandalin.md)
-  * parte a frente com [Sildar](sildar_hallwinter.md), pois tem pressa
-
-#### Mencionado
-
+  * [Cena 1](../../sessions/00_prologo.md#cena-1-trabalho)
+    * conhecido do grupo
+    * oferece trabalho de escolta de carga
+      até [Phandalin](../../locations/phandalin.md)
+  * [Cena 2](../../sessions/00_prologo.md#cena-2-partida)
+    * parte a frente com [Sildar](sildar_hallwinter.md), pois tem pressa de
+      chegar
+  * [Cena 3](../../sessions/00_prologo.md#cena-3-corpos)
+    * cavalo encontrado morto
+      na [Estrada Triboar](../../locations/triboar_trail.md)
+      <br><br>
 * [Sessão 1 Goblins](../../sessions/01_goblins.md)
-  * cavalo encontrado morto
-    na [Estrada Triboar](../../locations/triboar_trail.md)
-  * [Sildar](sildar_hallwinter.md) dá a enteder que foram capturados juntos, mas
-    não está com Gundren
+  * [Cena 4](../../sessions/01_goblins.md#cena-4-negociação)
+    * [Sildar](sildar_hallwinter.md) dá a entender que foram capturados juntos,
+      mas não está com **Gundren**
+      <br><br>
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
-  * [Yeemik](cragmaw/yeemik_goblin.md) diz que
-    * a ordem de capturar Gundren veio de [Grol](cragmaw/grol_rei.md)
-    * a ordem teria sido um pedido de [Spider](spider.md)
-    * Gundren foi enviado para
-      o [Castelo Cragmaw](../../locations/cragmaw_castle.md)
+  * [Cena 1](../../sessions/02_phandalin.md#cena-1-decisões)
+    * não se encontra
+      no [Esconderijo Cragmaw](../../locations/cragmaw_hideout.md)
+  * [Cena 2](../../sessions/02_phandalin.md#cena-2-troca)
+    * [Yeemik](cragmaw/yeemik_goblin.md) diz que
+      * a ordem de capturar **Gundren** veio de [Grol](cragmaw/grol_rei.md)
+      * a ordem teria sido um pedido de [Spider](spider.md)
+      * **Gundren** foi enviado para
+        o [Castelo Cragmaw](../../locations/cragmaw_castle.md)
+  * [Cena 3](../../sessions/02_phandalin.md#cena-3-sildar)
+    * [Sildar](sildar_hallwinter.md) confirma que entendeu que
+      * **Gundren** foi enviado
+        ao [Castelo Cragmaw](../../locations/cragmaw_castle.md)
+      * foi um pedido de um certo [Spider](spider.md)

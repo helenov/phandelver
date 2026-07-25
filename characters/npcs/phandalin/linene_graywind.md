@@ -25,9 +25,4 @@ _[Texto]_
 
 * _[Sessão]_
   * _[detalhe]_
-
-#### Mencionada
-
-* _[Sessão]_
-  * _[detalhe]_
 -->

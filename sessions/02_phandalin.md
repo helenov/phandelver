@@ -35,6 +35,7 @@ _próxima_ : [Sessão 3 Redbrands]
 * [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
 * [Grol, o rei](../characters/npcs/cragmaw/grol_rei.md)
 * [Spider](../characters/npcs/spider.md)
+* [Ruxithid](../characters/npcs/ruxithid.md)
 
 ### Cenários
 

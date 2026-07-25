@@ -24,13 +24,7 @@ _[Texto]_
 
 ### Aparições
 
-<!--
-* _[Sessão]_
-  * _[detalhe]_
--->
-
-#### Mencionado
-
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
-  * [Sildar](sildar_hallwinter.md) mencionou este nome citado por um dos goblins
-    estranhos
+  * [Cena 3](../../sessions/02_phandalin.md#cena-3-sildar)
+    * [Sildar](sildar_hallwinter.md) mencionou **Ruxithid** foi citado por um
+      dos goblins "estranhos"

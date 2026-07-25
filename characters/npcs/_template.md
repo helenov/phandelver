@@ -21,9 +21,5 @@ _[Texto]_
 ### Aparições
 
 * _[Sessão]_
-  * _[detalhe]_
-
-#### Mencionado
-
-* _[Sessão]_
-  * _[detalhe]_
+  * _[Cena]_
+    * _[detalhe]_

@@ -186,7 +186,7 @@ Sapão e Professor chegam a cair em combate, mas conseguem se recuperam e juntos
 ferir bastante o bugbear - que estava tendo bastante azar nas investidas de sua
 maça de espinhos.
 
-O goblins, vendo que seu líder está prestes a cair, fogem. E, pouco depois, um
+Os goblins, vendo que seu líder está prestes a cair, fogem. E, pouco depois, um
 golpe fatal de Ralf liquida com o bugbear e outro do Professor elimina seu lobo.
 
 Investigando a sala, não há sinal do anão. Apenas caixas e sacos de provisões de
@@ -195,5 +195,5 @@ identifica a maioria da carga como sendo
 da [Lionshield Coster](../organizations/lionshield_coster.md)).
 
 O grupo bastante ferido e esgotado precisa decidir o que fazer: ir para o
-resgate de [Sildar](../characters/npcs/sildar_hallwinter.md)? ou recuar para se
+resgate de [Sildar](../characters/npcs/sildar_hallwinter.md)? Ou recuar para se
 recuperar?

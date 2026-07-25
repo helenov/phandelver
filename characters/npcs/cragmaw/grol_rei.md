@@ -24,15 +24,9 @@ _[Texto]_
 
 ### Aparições
 
-<!--
-* _[Sessão]_
-  * _[detalhe]_
--->
-
-#### Mencionado
-
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
-  * [Yeemik](yeemik_goblin.md) diz que a ordem de
-    capturar [Gundren](../gundren_rockseeker.md) veio de Grol
-  * [Flip](flip_goblin.md) diz que [Spider](../spider.md) "manda"
-    em Grol
+  * [Cena 2](../../../sessions/02_phandalin.md#cena-2-troca)
+    * [Yeemik](yeemik_goblin.md) diz que a ordem de
+      capturar [Gundren](../gundren_rockseeker.md) veio de **Grol**
+  * [Cena 4](../../../sessions/02_phandalin.md#cena-4-interrogatório)
+    * [Flip](flip_goblin.md)    diz que [Spider](../spider.md) "manda" em **Grol**

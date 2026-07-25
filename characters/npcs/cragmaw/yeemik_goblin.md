@@ -24,6 +24,10 @@ _[Texto]_
 ### Aparições
 
 * [Sessão 1 Goblins](../../../sessions/01_goblins.md)
-  * rival do líder no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md) 
+  * [Cena 4](../../../sessions/01_goblins.md#cena-4-negociação)
+    * pede a cabeça de [Klarg](klarg_bugbear.md) em troca da liberdade
+      de [Sildar](../sildar_hallwinter.md)
+      <br><br>
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
-  * novo líder no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
+  * [Cena 2](../../../sessions/02_phandalin.md#cena-2-troca)
+    * novo líder no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
