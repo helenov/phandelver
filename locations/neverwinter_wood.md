@@ -23,6 +23,12 @@
   * _[detalhe]_
 -->
 
+### Locais
+
+* [Castelo Cragmaw](cragmaw_castle.md)
+  * sede dos [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
+  * localização exata desconhecido
+
 ### Aparições
 
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)

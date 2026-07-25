@@ -20,6 +20,11 @@ _[Texto]_ :construction:
   * _[detalhe]_
 -->
 
+### Locais
+
+* [Venda da Barthen](barthens_provisions.md)
+  * comércio de produtos e suprimentos básicos
+
 ### Aparições
 
 * [Sessão 0 Prólogo](../sessions/00_prologo.md)

@@ -23,6 +23,16 @@ _[Texto]_ :construction:
   * _[detalhe]_
 -->
 
+### Locais
+
+* uma taverna
+  * onde recebem uma oferta de trabalho
+    de [Gundren](../characters/npcs/gundren_rockseeker.md)
+* um depósito de mercadorias
+  * onde se despedem de [Gundren](../characters/npcs/gundren_rockseeker.md)
+    e [Sildar](../characters/npcs/sildar_hallwinter.md), que partem a frente
+  * de onde saem com a carroça de suprimentos
+
 ### Aparições
 
 * [Sessão 0 Prólogo](../sessions/00_prologo.md)
