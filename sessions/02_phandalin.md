@@ -178,8 +178,9 @@ _[Imagem]_ :construction:
 
 É fim da tarde e a cidade parece se preparar para a noite. Logo na entrada na
 cidade o grupo vê uma casa comercial, com uma placa onde se lê
-"[Venda da Barthen]". Na frente da loja, uma jovem e dois adolescentes estão
-levando as mercadorias para dentro antes de fechar a loja.
+"[Venda da Barthen](../locations/barthens_provisions.md)". Na frente da loja,
+uma jovem e dois adolescentes estão levando as mercadorias para dentro antes de
+fechar a loja.
 
 O grupo se apresenta e conhecem [Elmina Barthen] a dona da loja e seus dois
 empregados, [Ander] e [Thistle]. Dizem que estão trazendo as provisões enviadas
