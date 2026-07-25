@@ -162,7 +162,7 @@ está bastante ferido.
 
 ### Cena 5 Klarg!
 
-[//]: # (:construction: _[Imagem]_)
+![01_5_klarg.png](../images/cenas/01_5_klarg.png)
 
 A passagem do lado direito leva o grupo a uma sala com duas piscinas de água,
 uma delas agora vazia, deparam com dois goblins e dois lobos. Eles brigam e

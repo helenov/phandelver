@@ -2,11 +2,18 @@
 
 ## Klarg, <small>_bugbear_</small> (RIP)
 
-_[Imagem]_
+![Klarg](../../../images/characters/klarg.png) 
 
-_[Texto]_
+O líder dos [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md)
+baseados no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md) é um
+bugbear chamado **Klarg** e tem ordens para saquear quaisquer caravanas ou
+viajantes mal defendidos que passem
+pela [Trilha Triboar](../../../locations/triboar_trail.md).
 
-:construction:
+Recentemente recebeu instruções
+do [Castelo Cragmaw](../../../locations/cragmaw_castle.md) para capturar o
+anão [Gundren Rockseeker](../gundren_rockseeker.md) e o que mais estiver com
+ele.
 
 ### Associações
 
