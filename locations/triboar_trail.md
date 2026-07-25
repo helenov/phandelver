@@ -22,9 +22,12 @@ _[Texto]_
 ### Aparições
 
 * [Sessão 0 Prólogo](../sessions/00_prologo.md)
-  * grupo encontra os cavalos
-    de [Gundren](../characters/npcs/gundren_rockseeker.md)
-    e [Sildar](../characters/npcs/sildar_hallwinter.md) mortos na estrada
+  * [Cena 3](../sessions/00_prologo.md#cena-3-corpos)
+    * grupo encontra os cavalos
+      de [Gundren](../characters/npcs/gundren_rockseeker.md)
+      e [Sildar](../characters/npcs/sildar_hallwinter.md) mortos na estrada
+      <br><br>
 * [Sessão 1 Goblins](../sessions/01_goblins.md)
-  * grupo sobre emboscada de um grupo
-    de [Gragmaw Goblins](../organizations/cragmaw_goblins.md)
+  * [Cena 1](../sessions/01_goblins.md#cena-1-emboscada)
+    * grupo sobre emboscada de um grupo
+      de [Gragmaw Goblins](../organizations/cragmaw_goblins.md)

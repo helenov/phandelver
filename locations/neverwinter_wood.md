@@ -24,14 +24,8 @@ _[Texto]_
 
 ### Aparições
 
-<!--
-* _[Sessão]_
-  * _[detalhe]_
--->
-
-#### Mencionado
-
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
-  * [Flip](../characters/npcs/cragmaw/flip_goblin.md) diz que o
-    [Castelo Cragmaw](cragmaw_castle.md) fica na Floresta de Neverwinter, mas
-    não sabe exatamente onde
+  * [Cena 4](../sessions/02_phandalin.md#cena-4-interrogatório)
+    * [Flip](../characters/npcs/cragmaw/flip_goblin.md) diz que o
+      [Castelo Cragmaw](cragmaw_castle.md) fica na Floresta de Neverwinter, mas
+      não sabe exatamente onde

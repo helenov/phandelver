@@ -19,21 +19,17 @@ _[Texto]_
 
 ### Aparições
 
-<!--
-* _[Sessão]_
-  * _[detalhe]_
--->
-
-#### Mencionado
-
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
-  * [Yeemik](../characters/npcs/cragmaw/yeemik_goblin.md) diz
-    que [Gundren](../characters/npcs/gundren_rockseeker.md) foi enviado para o
-    Castelo Cragmaw
-  * [Sildar](../characters/npcs/sildar_hallwinter.md) confirma que entendeu que
-    Gundren estaria sendo levado para o Castelo Cragmaw
-  * [Flip](../characters/npcs/cragmaw/flip_goblin.md) diz que
-    * o Castelo Cragmaw fica na [Floresta de Neverwinter](neverwinter_wood.md)
-    * nunca esteve lá, por isso não sabe sua localização 
-    * apenas [Klarg](../characters/npcs/cragmaw/klarg_bugbear.md)
-      tinha esta informação
+  * [Cena 2](../sessions/02_phandalin.md#cena-2-troca)
+    * [Yeemik](../characters/npcs/cragmaw/yeemik_goblin.md) diz
+      que [Gundren](../characters/npcs/gundren_rockseeker.md) foi enviado para o
+      Castelo Cragmaw
+  * [Cena 3](../sessions/02_phandalin.md#cena-3-sildar)
+    * [Sildar](../characters/npcs/sildar_hallwinter.md) confirma que entendeu que
+      Gundren estaria sendo levado para o Castelo Cragmaw
+  * [Cena 4](../sessions/02_phandalin.md#cena-4-interrogatório)
+    * [Flip](../characters/npcs/cragmaw/flip_goblin.md) diz que
+      * o Castelo Cragmaw fica na [Floresta de Neverwinter](neverwinter_wood.md)
+      * nunca esteve lá, por isso não sabe sua localização 
+      * apenas [Klarg](../characters/npcs/cragmaw/klarg_bugbear.md)
+        tinha esta informação
