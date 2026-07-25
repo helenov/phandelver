@@ -28,7 +28,7 @@ _[Texto]_
       <br><br>
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
   * [Cena 4](../../../sessions/02_phandalin.md#cena-4-interrogatório)
-    * capturado na [Trilha Triboar](../../../locations/triboar_trail.md),
+    * capturado na [Estrada Triboar](../../../locations/triboar_trail.md),
       interrogado e liberado
     * diz que
       * o [Castelo Cragmaw](../../../locations/cragmaw_castle.md) fica

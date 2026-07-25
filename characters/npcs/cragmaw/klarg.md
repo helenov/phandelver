@@ -8,7 +8,7 @@ O líder dos [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md)
 baseados no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md) é um
 bugbear chamado **Klarg** e tem ordens para saquear quaisquer caravanas ou
 viajantes mal defendidos que passem
-pela [Trilha Triboar](../../../locations/triboar_trail.md).
+pela [Estrada Triboar](../../../locations/triboar_trail.md).
 
 Recentemente recebeu instruções
 do [Castelo Cragmaw](../../../locations/cragmaw_castle.md) para capturar o
