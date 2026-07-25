@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Flip, o goblin
+## Flip, <small>_goblin_</small>
 
 _[Imagem]_
 
@@ -10,9 +10,9 @@ _[Texto]_
 
 ### Associações
 
-* [Klarg, o bugbear](klarg_bugbear.md) (RIP)
-  * antigo líder
-* [Grol, o rei](grol_rei.md)
+* [Klarg](klarg.md) (RIP)
+  * antigo chefe
+* [Grol](grol.md)
   * soberano
 
 ### Organizações
@@ -35,4 +35,4 @@ _[Texto]_
         na [Floresta de Neverwinter](../../../locations/neverwinter_wood.md),
         mas não sabe o local exato
       * tem medo do [Spider](../spider.md), pois ele "manda"
-        em [Grol](cragmaw/grol_rei.md)
+        em [Grol](grol.md)

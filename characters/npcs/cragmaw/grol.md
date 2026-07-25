@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Grol, o rei
+## Grol<!--, <small>_espécie_</small>-->
 
 _[Imagem]_
 
@@ -10,10 +10,10 @@ _[Texto]_
 
 ### Associações
 
-* [Klarg, o bugbear](klarg_bugbear.md) (RIP)
-  * antigo líder no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
-* [Yeemik, o goblin](yeemik_goblin.md)
-  * novo líder no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
+* [Klarg](klarg.md) (RIP)
+  * antigo chefe no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
+* [Yeemik](yeemik.md)
+  * novo chefe no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
 * [Spider](../spider.md)
   * aliado
 
@@ -26,7 +26,7 @@ _[Texto]_
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
   * [Cena 2](../../../sessions/02_phandalin.md#cena-2-troca)
-    * [Yeemik](yeemik_goblin.md) diz que a ordem de
+    * [Yeemik](yeemik.md) diz que a ordem de
       capturar [Gundren](../gundren_rockseeker.md) veio de **Grol**
   * [Cena 4](../../../sessions/02_phandalin.md#cena-4-interrogatório)
-    * [Flip](flip_goblin.md)    diz que [Spider](../spider.md) "manda" em **Grol**
+    * [Flip](flip.md)    diz que [Spider](../spider.md) "manda" em **Grol**

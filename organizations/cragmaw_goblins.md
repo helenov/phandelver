@@ -10,9 +10,9 @@ _[Texto]_
 
 ### Membros
 
-* [Grol, o rei](../characters/npcs/cragmaw/grol_rei.md)
-  * soberano
-* [Klarg, o bugbear](../characters/npcs/cragmaw/klarg_bugbear.md) (RIP)
-  * líder no [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
-* [Yeemik, o goblin](../characters/npcs/cragmaw/yeemik_goblin.md)
+* [Grol](../characters/npcs/cragmaw/grol.md)
+  * soberano no [Castelo Cragmaw](../locations/cragmaw_castle.md)
+* [Klarg](../characters/npcs/cragmaw/klarg.md) (RIP)
+  * antigo chefe no [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
+* [Yeemik](../characters/npcs/cragmaw/yeemik.md)
   * novo líder no [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)

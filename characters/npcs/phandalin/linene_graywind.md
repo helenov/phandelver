@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Linene Graywind
+## Linene Graywind, <small>_humana_</small>
 
 _[Imagem]_
 

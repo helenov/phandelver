@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Ruxithid
+## Ruxithid<!--, <small>_[espécie]_</small>-->
 
 _[Imagem]_
 

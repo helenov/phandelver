@@ -23,17 +23,17 @@ _próxima_ : [Sessão 3 Redbrands]
 
 ### Participações
 
-* [Yeemik, o goblin](../characters/npcs/cragmaw/yeemik_goblin.md)
+* [Yeemik](../characters/npcs/cragmaw/yeemik.md)
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
-* [Flip, o goblin](../characters/npcs/cragmaw/flip_goblin.md)
+* [Flip](../characters/npcs/cragmaw/flip.md)
 * goblins
 * lobos
 
 #### Mencionados
 
-* [Klarg, o bugbear](../characters/npcs/cragmaw/klarg_bugbear.md) (RIP)
+* [Klarg](../characters/npcs/cragmaw/klarg.md) (RIP)
 * [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
-* [Grol, o rei](../characters/npcs/cragmaw/grol_rei.md)
+* [Grol](../characters/npcs/cragmaw/grol.md)
 * [Spider](../characters/npcs/spider.md)
 * [Ruxithid](../characters/npcs/ruxithid.md)
 
@@ -52,8 +52,8 @@ _próxima_ : [Sessão 3 Redbrands]
 
 ![02_1_decisoes.jpeg](../images/cenas/02_1_decisoes.jpeg)
 
-Após derrotarem [Klarg](../characters/npcs/cragmaw/klarg_bugbear.md), o grupo
-investiga a sala onde estão guardados os carregamentos roubados
+Após derrotarem [Klarg](../characters/npcs/cragmaw/klarg.md), o grupo investiga
+a sala onde estão guardados os carregamentos roubados
 pelos [Cragmaw](../organizations/cragmaw_goblins.md):
 muitas caixas e sacos de suprimentos, com o símbolo
 da [Lionshield Coster](../organizations/lionshield_coster.md).
@@ -65,9 +65,8 @@ leva no bolso. Mas nenhum sinal do
 anão [Gundren](../characters/npcs/gundren_rockseeker.md).
 
 Após Sapão e Professor tomarem as poções de cura e se recuperarem, se preparam
-para levar o corpo de Klarg
-para [Yeemik](../characters/npcs/cragmaw/yeemik_goblin.md) do outro lado da
-caverna.
+para levar o corpo de Klarg para [Yeemik](../characters/npcs/cragmaw/yeemik.md)
+do outro lado da caverna.
 
 Sapão houve rosnados e sons de ossos triturados vindos do canto da sala que
 corresponde ao topo da chaminé do canil, de onde vê os dois lobos restantes
@@ -85,14 +84,14 @@ Ao se aproximarem da câmara a oeste da caverna, ouvem que os goblins parecem j�
 estar comemorando por antecipação.
 
 Chegando na entrada, são saldados
-por [Yeemik](../characters/npcs/cragmaw/yeemik_goblin.md) e seus companheiros,
-que urram de alegria ao ver o corpo
-de [Klarg](../characters/npcs/cragmaw/klarg_bugbear.md). Há um impasse quando o
-grupo pede que [Sildar](../characters/npcs/sildar_hallwinter.md)
+por [Yeemik](../characters/npcs/cragmaw/yeemik.md) e seus companheiros, que
+urram de alegria ao ver o corpo de [Klarg](../characters/npcs/cragmaw/klarg.md).
+Há um impasse quando o grupo pede
+que [Sildar](../characters/npcs/sildar_hallwinter.md)
 seja liberto: Yeemik quer um pagamento de 50 gp, ou "humano morre!".
 
 Perguntado sobre o anão, Yeemik informa que Klarg tinha ordens
-de [Grol, o rei](../characters/npcs/cragmaw/grol_rei.md), para
+de [Grol](../characters/npcs/cragmaw/grol.md), o rei, para
 capturar [Gundren](../characters/npcs/gundren_rockseeker.md) e enviá-lo
 ao [Castelo Cragmaw](../locations/cragmaw_castle.md). E ainda acrescenta que o
 rei estaria atendendo a um pedido de um tal
@@ -141,15 +140,15 @@ ou algo do tipo. Ele teme que agora esta informação esteja com os
 De volta a estrada, o grupo surpreende três goblins fugitivos que estão mexendo
 na carroça. Os três fogem ao serem surpreendidos, mas um deles é ferido e,
 alcançado por Sapão, se rende.
-"[Flip](../characters/npcs/cragmaw/flip_goblin.md) não quer morrer!"
+"[Flip](../characters/npcs/cragmaw/flip.md) não quer morrer!"
 
 Interrogado, Flip informa que sabe que
 o [Castelo Cragmaw](../locations/cragmaw_castle.md) fica na floresta a nordeste
 dali, mas não sabe exatamente onde -
-"Só [Klarg](../characters/npcs/cragmaw/klarg_bugbear.md) sabia". Também menciona
-os "goblins estranhos" e diz ter medo deles. Também não sabe quem é Spider, mas
-já ouviu falar dele "Tenho medo dele... [Spider](../characters/npcs/spider.md)
-mandar em [Grol](../characters/npcs/cragmaw/grol_rei.md)"
+"Só [Klarg](../characters/npcs/cragmaw/klarg.md) sabia". Também menciona os
+"goblins estranhos" e diz ter medo deles. Também não sabe quem é Spider, mas já
+ouviu falar dele "Tenho medo dele... [Spider](../characters/npcs/spider.md)
+mandar em [Grol](../characters/npcs/cragmaw/grol.md)"
 
 Após ser ameaçado é liberado e corre para o mato, sem olhar para trás, por onde
 seus companheiros haviam fugido.

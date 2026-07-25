@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## _[Nome do Personagem]_
+## _[Nome do Personagem]_, <small>_[espécie]_</small>
 
 _[Imagem]_
 

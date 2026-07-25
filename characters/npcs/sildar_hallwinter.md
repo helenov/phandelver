@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Sildar Hallwinter
+## Sildar Hallwinter, <small>_humano_</small>
 
 _[Imagem]_
 
@@ -32,13 +32,13 @@ _[Texto]_
       <br><br>
 * [Sessão 1 Goblins](../../sessions/01_goblins.md)
   * [Cena 4](../../sessions/01_goblins.md#cena-4-negociação)
-    * prisioneiro de [Yeemik](cragmaw/yeemik_goblin.md)
+    * prisioneiro de [Yeemik](cragmaw/yeemik.md)
       no [Esconderijo Cragmaw](../../locations/cragmaw_hideout.md)
       <br><br>
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * [Cena 2](../../sessions/02_phandalin.md#cena-2-troca)
     * libertado pelo grupo em troca do corpo
-      de [Klarg](cragmaw/klarg_bugbear.md)
+      de [Klarg](cragmaw/klarg.md)
   * [Cena 3](../../sessions/02_phandalin.md#cena-3-sildar)
     * conta sobre
       * como foi capturado por um grupo

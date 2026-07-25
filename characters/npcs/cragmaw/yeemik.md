@@ -1,6 +1,8 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Yeemik, o goblin
+## Yeemik, <small>_goblin_</small>
+
+_espécie_: goblin
 
 _[Imagem]_
 
@@ -10,10 +12,10 @@ _[Texto]_
 
 ### Associações
 
-* [Klarg, o bugbear](klarg_bugbear.md) (RIP)
-  * antigo líder
+* [Klarg](klarg.md) (RIP)
+  * antigo chefe
   * rival
-* [Grol, o rei](grol_rei.md)
+* [Grol](grol.md)
   * soberano
 
 ### Organizações
@@ -25,7 +27,7 @@ _[Texto]_
 
 * [Sessão 1 Goblins](../../../sessions/01_goblins.md)
   * [Cena 4](../../../sessions/01_goblins.md#cena-4-negociação)
-    * pede a cabeça de [Klarg](klarg_bugbear.md) em troca da liberdade
+    * pede a cabeça de [Klarg](klarg.md) em troca da liberdade
       de [Sildar](../sildar_hallwinter.md)
       <br><br>
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)

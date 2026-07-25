@@ -16,9 +16,9 @@ _próxima_ : [Sessão 2 Phandalin](02_phandalin.md)
 
 ### Participações
 
-* [Yeemik, o goblin](../characters/npcs/cragmaw/yeemik_goblin.md)
+* [Yeemik](../characters/npcs/cragmaw/yeemik.md)
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
-* [Klarg, o bugbear](../characters/npcs/cragmaw/klarg_bugbear.md)
+* [Klarg](../characters/npcs/cragmaw/klarg.md)
 * goblins
 * lobos
 
@@ -139,12 +139,12 @@ goblins e lobos estão de prontidão aguardando.
 Se esgueirando para o lado esquerdo da ponte, Ralf vê que há outra sala com
 goblins, mas antes que a luz de sua lanterna possa revelar todo o espaço e ver
 quantos estão ali, uma voz que parece ser a de um líder ordena que pare, caso
-contrário "[Yeemik](../characters/npcs/cragmaw/yeemik_goblin.md) matar humano!".
+contrário "[Yeemik](../characters/npcs/cragmaw/yeemik.md) matar humano!".
 
 Ralf propõe pagar um resgate pelo "humano", ao que o líder pede 50 gp, mas Ralf
 diz que não tem este dinheiro todo e oferece 5 gp. O líder fala, então, que
 "libertar humano, se trazer cabeça
-de [Klarg](../characters/npcs/cragmaw/klarg_bugbear.md)". Nisso uma voz humana,
+de [Klarg](../characters/npcs/cragmaw/klarg.md)". Nisso uma voz humana,
 que parece ser a de [Sildar](../characters/npcs/sildar_hallwinter.md), grita
 dizendo que não devem confiar neles, "é mais importante
 resgatarem [Gundren](../characters/npcs/gundren_rockseeker.md)". Fica, então,
@@ -175,7 +175,7 @@ diversos.
 
 Quando Ralf avança para atacar o lobo, sai de trás de algumas caixas um bugbear
 que logo o ataca, tentando intimidar o grupo
-"[Klarg](../characters/npcs/cragmaw/klarg_bugbear.md) ordena que invasores vão
+"[Klarg](../characters/npcs/cragmaw/klarg.md) ordena que invasores vão
 embora!".
 
 A princípio bugbear parece estar sozinho, mas após bradar que seus "Lacaios

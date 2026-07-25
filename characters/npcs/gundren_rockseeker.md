@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Gundren Rockseeker
+## Gundren Rockseeker, <small>_anão_</small>
 
 _[Imagem]_
 
@@ -44,8 +44,8 @@ _[Texto]_
     * não se encontra
       no [Esconderijo Cragmaw](../../locations/cragmaw_hideout.md)
   * [Cena 2](../../sessions/02_phandalin.md#cena-2-troca)
-    * [Yeemik](cragmaw/yeemik_goblin.md) diz que
-      * a ordem de capturar **Gundren** veio de [Grol](cragmaw/grol_rei.md)
+    * [Yeemik](cragmaw/yeemik.md) diz que
+      * a ordem de capturar **Gundren** veio de [Grol](cragmaw/grol.md)
       * a ordem teria sido um pedido de [Spider](spider.md)
       * **Gundren** foi enviado para
         o [Castelo Cragmaw](../../locations/cragmaw_castle.md)
