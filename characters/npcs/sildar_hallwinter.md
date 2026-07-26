@@ -38,8 +38,7 @@
       <br><br>
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * [Cena 2](../../sessions/02_phandalin.md#cena-2-troca)
-    * libertado pelo grupo em troca do corpo
-      de [Klarg](cragmaw/klarg.md)
+    * libertado pelo grupo em troca do corpo de [Klarg](cragmaw/klarg.md)
   * [Cena 3](../../sessions/02_phandalin.md#cena-3-sildar)
     * conta sobre
       * como foi capturado por um grupo
@@ -48,3 +47,6 @@
       * como [Gundren](gundren_rockseeker.md) foi levado para
         o [Castelo Cragmaw](../../locations/cragmaw_castle.md) a pedido de um
         certo [Spider](spider.md)
+  * [Cena 7](../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
+    * hospeda-se em quarto
+      na [Hospedaria Stonehill](../../locations/phandalin/stonehill_inn.md)
