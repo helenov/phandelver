@@ -35,6 +35,8 @@ _próxima_ : [Sessão 3 Redbrands]
 #### Em [Phandalin](../locations/phandalin.md)
 
 * [Elmina Barthen](../characters/npcs/phandalin/elmina_barthen.md)
+  * [Ander](../characters/npcs/phandalin/ander.md)
+  * [Thistle](../characters/npcs/phandalin/thistle.md)
 
 #### Mencionados
 
@@ -186,15 +188,16 @@ _[Imagem]_ :construction:
 
 É fim da tarde e a cidade parece se preparar para a noite. Logo na entrada na
 cidade o grupo vê uma casa comercial, com uma placa onde se lê
-"[Venda da Barthen](../locations/phandalin/barthens_provisions.md)". Na frente da loja,
-uma jovem e dois adolescentes estão levando as mercadorias para dentro antes de
-fechar a loja.
+"[Venda da Barthen](../locations/phandalin/barthens_provisions.md)". Na frente
+da loja, uma jovem e dois adolescentes estão levando as mercadorias para dentro
+antes de fechar a loja.
 
 O grupo se apresenta e
 conhecem [Elmina Barthen](../characters/npcs/phandalin/elmina_barthen.md) a dona
-da loja e seus dois empregados, [Ander] e [Thistle]. Dizem que estão trazendo as
-provisões enviadas por [Gundren Rockseeker], ao que Elmina demonstra entusiasmo
-por notícias do amigo.
+da loja e seus dois empregados, [Ander](../characters/npcs/phandalin/ander.md)
+e [Thistle](../characters/npcs/phandalin/thistle.md). Dizem que estão trazendo
+as provisões enviadas por [Gundren Rockseeker], ao que Elmina demonstra
+entusiasmo por notícias do amigo.
 
 Ao ser informada de que ele foi capturado por goblins na estrada, a jovem fica
 desolada, e que estava ansiosa para reencontrá-lo e saber mais sobre suas

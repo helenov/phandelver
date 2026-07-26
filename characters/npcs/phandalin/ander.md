@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Elmina Barthen, <small>humana</small>
+## Ander, <small>_humano_</small>
 
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
@@ -11,10 +11,9 @@ _[Texto]_ :construction:
 
 ### Associações
 
-* [Ander](ander.md)
-  * funcionário
 * [Thistle](thistle.md)
-  * funcionário
+  * irmão e colega
+    na [Venda da Barthen](../../../locations/phandalin/barthens_provisions.md)
 
 [//]: # (### Organizações)
 [//]: # ()
@@ -24,13 +23,16 @@ _[Texto]_ :construction:
 ### Locais
 
 * [Phandalin](../../../locations/phandalin.md)
-  * moradora e comerciante
+  * morador
 * [Venda da Barthen](../../../locations/phandalin/barthens_provisions.md)
-  * proprietária
+  * funcionário
 
 ### Aparições
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
   * [Cena 6](../../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
-    * conhecem **Elmina**, proprietária
+    * funcionário
       da [Venda da Barthen](../../../locations/phandalin/barthens_provisions.md)
+    * pondera que os ataques
+      na [Estrada Triboar](../../../locations/triboar_trail.md) podem ter
+      relação com os [Redbrands]
