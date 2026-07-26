@@ -36,6 +36,6 @@
       * apenas [Klarg](../characters/npcs/cragmaw/klarg.md)
         tinha esta informação
   * [Cena 7](../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
-    * [Elsa](../characters/npcs/phandalin/elsa.md) diz
+    * [Elsa](../characters/npcs/phandalin/stonehill/elsa.md) diz
       que [Daran](../characters/npcs/phandalin/daran_edermath.md) talvez saiba
       algo sobre a localização do **Castelo Cragmaw**

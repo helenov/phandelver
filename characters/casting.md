@@ -23,14 +23,14 @@
   da [Lords' Alliance](../organizations/lords_alliance.md)
   <br><br>
 * [Phandalin](../locations/phandalin.md)
-  * [Elmina Barthen](npcs/phandalin/elmina_barthen.md), dona da venda
-    * [Ander](npcs/phandalin/ander.md), funcionário da venda
-    * [Thistle](npcs/phandalin/thistle.md), funcionário da venda
-  * [Toblen Stonehill](../characters/npcs/phandalin/toblen_stonehill.md), dono
+  * [Elmina Barthen](npcs/phandalin/barthens/elmina_barthen.md), dona da venda
+    * [Ander](npcs/phandalin/barthens/ander.md), funcionário da venda
+    * [Thistle](npcs/phandalin/barthens/thistle.md), funcionário da venda
+  * [Toblen Stonehill](npcs/phandalin/stonehill/toblen_stonehill.md), dono
     da hospedaria
-    * [Freda](../characters/npcs/phandalin/freda.md), tecelã
-    * [Lanar](../characters/npcs/phandalin/lanar.md), minerador
-    * [Elsa](npcs/phandalin/elsa.md), bartender da hospedaria
+    * [Freda](npcs/phandalin/stonehill/freda.md), tecelã
+    * [Lanar](npcs/phandalin/stonehill/lanar.md), minerador
+    * [Elsa](npcs/phandalin/stonehill/elsa.md), bartender da hospedaria
 
 #### Inimigos
 

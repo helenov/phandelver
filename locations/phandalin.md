@@ -15,16 +15,16 @@ _[Texto]_ :construction:
   * representante enviado
     pela [Lords' Alliance](../organizations/lords_alliance.md)
     <br><br>
-* [Elmina Barthen](../characters/npcs/phandalin/elmina_barthen.md), dona da
+* [Elmina Barthen](../characters/npcs/phandalin/barthens/elmina_barthen.md), dona da
   venda
-  * [Ander](../characters/npcs/phandalin/ander.md), funcionário da venda
-  * [Thistle](../characters/npcs/phandalin/thistle.md), funcionário da venda
+  * [Ander](../characters/npcs/phandalin/barthens/ander.md), funcionário da venda
+  * [Thistle](../characters/npcs/phandalin/barthens/thistle.md), funcionário da venda
     <br><br>
-* [Toblen Stonehill](../characters/npcs/phandalin/toblen_stonehill.md), dono
+* [Toblen Stonehill](../characters/npcs/phandalin/stonehill/toblen_stonehill.md), dono
   da hospedaria
-  * [Freda](../characters/npcs/phandalin/freda.md), tecelã
-  * [Lanar](../characters/npcs/phandalin/lanar.md), minerador
-  * [Elsa](../characters/npcs/phandalin/elsa.md), bartender da hospedaria
+  * [Freda](../characters/npcs/phandalin/stonehill/freda.md), tecelã
+  * [Lanar](../characters/npcs/phandalin/stonehill/lanar.md), minerador
+  * [Elsa](../characters/npcs/phandalin/stonehill/elsa.md), bartender da hospedaria
 
 #### Mencionados
 

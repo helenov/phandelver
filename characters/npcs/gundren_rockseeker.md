@@ -13,7 +13,7 @@
 
 * [Sildar Hallwinter](sildar_hallwinter.md)
   * amigo
-* [Elmina Barthen](phandalin/elmina_barthen.md)
+* [Elmina Barthen](phandalin/barthens/elmina_barthen.md)
   * amiga e parceira de negócios
 * [Tharden Rockseeker](tharden_rockseeker.md)
   * irmão
@@ -65,5 +65,5 @@
         ao [Castelo Cragmaw](../../locations/cragmaw_castle.md)
       * foi um pedido de um certo [Spider](spider.md)
   * [Cena 6](../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
-    * [Elmina](phandalin/elmina_barthen.md), que estava ansiosa por rever o
+    * [Elmina](phandalin/barthens/elmina_barthen.md), que estava ansiosa por rever o
       amigo, fica desolada ao saber de seu sequestro

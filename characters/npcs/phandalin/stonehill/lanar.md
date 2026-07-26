@@ -21,16 +21,16 @@ _[Texto]_ :construction:
 
 ### Locais
 
-* [Phandalin](../../../locations/phandalin.md)
+* [Phandalin](../../../../locations/phandalin.md)
   * morador e minerador
-* [Hospedaria Stonehill](../../../locations/phandalin/stonehill_inn.md)
+* [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md)
   * frequentador
 
 ### Referências
 
-* [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
-  * [Cena 7](../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
-    * menciona que os [Redbrands](../../../organizations/redbrands.md) não
-      incomodam [Halia](halia_thornton.md)
-      do [Entreposto dos Mineradores](../../../locations/phandalin/miners_exchange.md),
+* [Sessão 2 Phandalin](../../../../sessions/02_phandalin.md)
+  * [Cena 7](../../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
+    * menciona que os [Redbrands](../../../../organizations/redbrands.md) não
+      incomodam [Halia](../halia_thornton.md)
+      do [Entreposto dos Mineradores](../../../../locations/phandalin/miners_exchange.md),
       que "é uma mulher durona"

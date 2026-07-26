@@ -13,7 +13,7 @@ _[Texto]_ :construction:
 
 * [Ander](ander.md)
   * irmão e colega
-    na [Venda da Barthen](../../../locations/phandalin/barthens_provisions.md)
+    na [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md)
 
 [//]: # (### Organizações)
 [//]: # ()
@@ -22,7 +22,7 @@ _[Texto]_ :construction:
 
 ### Referências
 
-* [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
-  * [Cena 6](../../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
+* [Sessão 2 Phandalin](../../../../sessions/02_phandalin.md)
+  * [Cena 6](../../../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
     * funcionário
-      da [Venda da Barthen](../../../locations/phandalin/barthens_provisions.md)
+      da [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md)

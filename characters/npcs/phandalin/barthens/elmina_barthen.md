@@ -3,14 +3,14 @@
 ## Elmina Barthen, <small>_humana_</small>
 
 <!-- @formatter:off -->
-<img alt="[Elmina Barthen]" src="../../../images/characters/phandalin/elmina_barthen.png" style="width:200px; margin-right: 15px; float: left" />
+<img alt="[Elmina Barthen]" src="../../../../images/characters/phandalin/elmina_barthen.png" style="width:200px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
 A proprietária
-da [Venda da Barthen](../../../locations/phandalin/barthens_provisions.md) é uma
+da [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md) é uma
 mulher jovem de cerca de 25 anos, com longos cabelos ruivos.
 
-Muito amiga de [Gundren Rockseeker](../gundren_rockseeker.md) e seus irmãos,
+Muito amiga de [Gundren Rockseeker](../../gundren_rockseeker.md) e seus irmãos,
 estava ansiosa pelas novidades que o amigo trazia, embora não saiba dizer do que
 se tratavam "mas deve ter relação com as minas perdidas que eles têm procurado"
 e ficou extremamente abalada com a notícia de seu sequestro.
@@ -28,11 +28,11 @@ aqui já tem uns dez dias, provavelmente devem aparecer em um dia ou dois"
 * [Thistle](thistle.md)
   * funcionário
     <br><br>
-* [Gundren Rockseeker](../gundren_rockseeker.md)
+* [Gundren Rockseeker](../../gundren_rockseeker.md)
   * amigo e fornecedor
-* [Tharden Rockseeker](../tharden_rockseeker.md)
+* [Tharden Rockseeker](../../tharden_rockseeker.md)
   * amigo e cliente
-* [Nundro Rockseeker](../nundro_rockseeker.md)
+* [Nundro Rockseeker](../../nundro_rockseeker.md)
   * amigo e cliente
 
 [//]: # (### Organizações)
@@ -42,16 +42,16 @@ aqui já tem uns dez dias, provavelmente devem aparecer em um dia ou dois"
 
 ### Locais
 
-* [Phandalin](../../../locations/phandalin.md)
+* [Phandalin](../../../../locations/phandalin.md)
   * moradora e comerciante
-* [Venda da Barthen](../../../locations/phandalin/barthens_provisions.md)
+* [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md)
   * proprietária
 
 ### Referências
 
-* [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
-  * [Cena 6](../../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
+* [Sessão 2 Phandalin](../../../../sessions/02_phandalin.md)
+  * [Cena 6](../../../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
     * conhecem **Elmina**, proprietária
-      da [Venda da Barthen](../../../locations/phandalin/barthens_provisions.md)
-    * ansiosa por notícias do amigo [Gundren](../gundren_rockseeker.md)
+      da [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md)
+    * ansiosa por notícias do amigo [Gundren](../../gundren_rockseeker.md)
       * lamenta profundamente a notícia de seu sequestro

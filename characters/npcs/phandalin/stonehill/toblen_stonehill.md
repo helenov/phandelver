@@ -21,15 +21,15 @@ _[Texto]_ :construction:
 
 ### Locais
 
-* [Phandalin](../../../locations/phandalin.md)
+* [Phandalin](../../../../locations/phandalin.md)
   * morador e gerente da hospedaria
-* [Hospedaria Stonehill](../../../locations/phandalin/stonehill_inn.md)
+* [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md)
   * proprietário e gerente
 
 ### Referências
 
-* [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
-  * [Cena 7](../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
+* [Sessão 2 Phandalin](../../../../sessions/02_phandalin.md)
+  * [Cena 7](../../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
     * chegando
-      a [Hospedaria Stonehill](../../../locations/phandalin/stonehill_inn.md), o
+      a [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md), o
       grupo é recebido por **Toblen**, o proprietário

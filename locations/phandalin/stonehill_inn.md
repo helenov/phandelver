@@ -11,13 +11,13 @@ _[Texto]_ :construction:
 
 ### Personagens
 
-* [Toblen](../../characters/npcs/phandalin/toblen_stonehill.md)
+* [Toblen](../../characters/npcs/phandalin/stonehill/toblen_stonehill.md)
   * proprietário e gerente
-* [Freda](../../characters/npcs/phandalin/freda.md)
+* [Freda](../../characters/npcs/phandalin/stonehill/freda.md)
   * frequentadora e tecelã 
-* [Lanar](../../characters/npcs/phandalin/lanar.md)
+* [Lanar](../../characters/npcs/phandalin/stonehill/lanar.md)
   * frequentador e minerador 
-* [Elsa](../../characters/npcs/phandalin/elsa.md)
+* [Elsa](../../characters/npcs/phandalin/stonehill/elsa.md)
   * bartender
 
 [//]: # (### Organizações)
@@ -35,5 +35,5 @@ _[Texto]_ :construction:
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * [Cena 7](../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
     * são recebidos
-      por [Toblen](../../characters/npcs/phandalin/toblen_stonehill.md),
+      por [Toblen](../../characters/npcs/phandalin/stonehill/toblen_stonehill.md),
       o proprietário, com quem acertam sua hospedagem
