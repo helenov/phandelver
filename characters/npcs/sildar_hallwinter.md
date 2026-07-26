@@ -19,6 +19,15 @@
 * [Lords' Alliance](../../organizations/lords_alliance.md)
   * membro leal
 
+### Locais
+
+* [Neverwinter](../../locations/phandalin.md)
+  * cidade de origem
+* [Phandalin](../../locations/phandalin.md)
+  * enviado pela [Lords' Alliance](../../organizations/lords_alliance.md)
+* [Hospedaria Stonehill](../../locations/phandalin/stonehill_inn.md)
+  * hóspede
+
 ### Referências
 
 * [Sessão 0 Prólogo](../../sessions/00_prologo.md)

@@ -25,6 +25,11 @@
 [//]: # (* _[Organização]_)
 [//]: # (  * _[detalhe]_)
 
+### Locais
+
+* [Neverwinter](../../locations/phandalin.md)
+  * mercador
+
 ### Referências
 
 * [Sessão 0 Prólogo](../../sessions/00_prologo.md)
