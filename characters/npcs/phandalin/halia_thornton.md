@@ -1,13 +1,13 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Lanar, <small>_humano_</small>
+## Halia Thornton, <small>_humana_</small>
 
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
 [//]: # (<!-- @formatter:on -->)
-_[Imagem]_
-_[Texto]_ :construction:
-<br clear="left"/>
+[//]: # (_[Imagem]_)
+[//]: # (_[Texto]_ :construction:)
+[//]: # (<br clear="left"/>)
 
 [//]: # (### Relações)
 [//]: # ()
@@ -19,17 +19,14 @@ _[Texto]_ :construction:
 [//]: # (* _[Organização]_)
 [//]: # (  * _[detalhe]_)
 
-### Locais
-
-* [Phandalin](../../../locations/phandalin.md)
-  * morador e minerador
-* [Hospedaria Stonehill](../../../locations/phandalin/stonehill_inn.md)
-  * frequentador
+[//]: # (### Locais)
+[//]: # ()
+[//]: # (* _[Local]_)
+[//]: # (  * _[detalhe]_)
 
 ### Referências
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
   * [Cena 7](../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
-    * menciona que os [Redbrands](../../../organizations/redbrands.md) não
-      incomodam a [Halia](halia_thornton.md) do [Entreposto], que "é uma mulher
-      durona"
+    * [Lanar](lanar.md) menciona que os [Redbrands](../../../organizations/redbrands.md) não
+      incomodam a **Halia** do [Entreposto], que "é uma mulher durona"

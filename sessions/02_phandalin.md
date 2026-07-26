@@ -34,10 +34,12 @@ _próxima_ : [Sessão 3 Redbrands]
 
 #### Em [Phandalin](../locations/phandalin.md)
 
-* [Elmina Barthen](../characters/npcs/phandalin/elmina_barthen.md), a comerciante
+* [Elmina Barthen](../characters/npcs/phandalin/elmina_barthen.md), a
+  comerciante
   * [Ander](../characters/npcs/phandalin/ander.md), o funcionário
   * [Thistle](../characters/npcs/phandalin/thistle.md), o funcionário
-* [Toblen Stonehill](../characters/npcs/phandalin/toblen_stonehill.md), o dona da hospedaria
+* [Toblen Stonehill](../characters/npcs/phandalin/toblen_stonehill.md), o dona
+  da hospedaria
 * [Freda](../characters/npcs/phandalin/freda.md), a tecelã
 * [Lanar](../characters/npcs/phandalin/lanar.md), o minerador
 
@@ -46,10 +48,14 @@ _próxima_ : [Sessão 3 Redbrands]
 * [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
 * [Tharden Rockseeker](../characters/npcs/tharden_rockseeker.md)
 * [Nundro Rockseeker](../characters/npcs/nundro_rockseeker.md)
+  <br><br>
 * [Klarg](../characters/npcs/cragmaw/klarg.md) (RIP), o antigo chefe
 * [Grol](../characters/npcs/cragmaw/grol.md), o rei
+  <br><br>
 * [Spider](../characters/npcs/spider.md)
 * [Ruxithid](../characters/npcs/ruxithid.md)
+  <br><br>
+* [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md)
 
 ### Cenários
 
@@ -253,7 +259,8 @@ moradores sentados a uma mesa próxima, ficam chocados. Uma gnoma, que se
 apresenta como [Freda](../characters/npcs/phandalin/freda.md), a tecelã, fala
 que isso "tem cheiro de coisa dos [Redbrands](../organizations/redbrands.md).
 Eles tão incomodando todos da cidade já faz uns dois meses". "Só não mexem com
-a [Halia], do [Entreposto]", interviu o homem baixo da mesa ao
+a [Halia](../characters/npcs/phandalin/halia_thornton.md), do [Entreposto]",
+interviu o homem baixo da mesa ao
 lado, [Lanar](../characters/npcs/phandalin/lanar.md), o minerador, "ela sim é
 uma mulher durona!"
 

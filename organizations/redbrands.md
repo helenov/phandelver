@@ -30,3 +30,6 @@ _[Texto]_ :construction:
     * [Freda](../characters/npcs/phandalin/freda.md) sugere que o sequestro
       de [Gundren](../characters/npcs/gundren_rockseeker.md) podem ser obra dos
       **Redbrands**
+    * [Lanar](../characters/npcs/phandalin/lanar.md) diz que os **Redbrands**
+      não incomodam [Halia](../characters/npcs/phandalin/halia_thornton.md)
+      do [Entreposto]
