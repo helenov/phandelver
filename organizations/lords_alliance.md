@@ -13,3 +13,16 @@ _[Texto]_ :construction:
 
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
   * membro leal
+
+[//]: # (### Locais)
+[//]: # ()
+[//]: # (* _[Local]_)
+[//]: # (  * _[detalhe]_)
+
+### Aparições
+
+* [Sessão 0 Prólogo](../sessions/00_prologo.md)
+  * [Cena 1](../sessions/00_prologo.md#cena-1-trabalho)
+    * grupo reconhece o brasão nos trajes
+      de [Sildar](../characters/npcs/sildar_hallwinter.md) como sendo da
+      **Lords' Alliance**

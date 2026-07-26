@@ -13,3 +13,14 @@ _[Texto]_ :construction:
 
 * _[Character]_
   * _[detalhe]_
+
+### Locais
+
+* _[Local]_
+  * _[detalhe]_
+
+### Aparições
+
+* _[Sessão]_
+  * _[Cena]_
+    * _[detalhe]_

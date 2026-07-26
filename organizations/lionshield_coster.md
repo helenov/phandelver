@@ -13,3 +13,14 @@ _[Texto]_ :construction:
 
 * [Linene Graywind](../characters/npcs/phandalin/linene_graywind.md)
   * representante local em [Phandalin](../locations/phandalin.md)
+
+[//]: # (### Locais)
+[//]: # ()
+[//]: # (* _[Local]_)
+[//]: # (  * _[detalhe]_)
+
+[//]: # (### Aparições)
+[//]: # ()
+[//]: # (* _[Sessão]_)
+[//]: # (  * _[Cena]_)
+[//]: # (    * _[detalhe]_)

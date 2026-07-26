@@ -43,7 +43,7 @@ encontro em uma conhecida taverna.
 No horário combinado, o grupo já se encontra na taverna quando vem entrar o anão
 que já conhecem acompanhando de um homem alto, já de meia-idade, mas ainda
 forte. O homem aparenta ser um militar e carrega uma insignia
-da [Lord's Alliance](../organizations/lords_alliance.md).
+da [Lords' Alliance](../organizations/lords_alliance.md).
 
 O anão logo os localiza na taverna cheia e, com um grande sorriso e os braços
 abertos, se aproxima. Cumprimentando o grupo, logo apresenta seu
