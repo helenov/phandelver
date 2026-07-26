@@ -17,6 +17,7 @@ _[Texto]_ :construction:
   * [Ander](../characters/npcs/phandalin/ander.md)
   * [Thistle](../characters/npcs/phandalin/thistle.md)
 * [Toblen Stonehill](../characters/npcs/phandalin/toblen_stonehill.md)
+* [Freda](../characters/npcs/phandalin/freda.md)
 
 [//]: # (### Organizações)
 [//]: # ()

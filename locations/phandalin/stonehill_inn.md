@@ -11,13 +11,15 @@ _[Texto]_ :construction:
 
 ### Personagens
 
-* _[Character]_
-  * _[detalhe]_
+* [Toblen](../../characters/npcs/phandalin/toblen_stonehill.md)
+  * proprietário
+* [Freda](../../characters/npcs/phandalin/freda.md)
+  * frequentadora
 
-### Organizações
-
-* _[Organização]_
-  * _[detalhe]_
+[//]: # (### Organizações)
+[//]: # ()
+[//]: # (* _[Organização]_)
+[//]: # (  * _[detalhe]_)
 
 ### Locais
 
@@ -28,5 +30,6 @@ _[Texto]_ :construction:
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * [Cena 7](../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
-    * são recebidos por [Toblen Stonehill], o proprietário, com quem acertam sua
-      hospedagem
+    * são recebidos
+      por [Toblen](../../characters/npcs/phandalin/toblen_stonehill.md),
+      o proprietário, com quem acertam sua hospedagem
