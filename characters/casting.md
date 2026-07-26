@@ -25,6 +25,7 @@
   * [Elmina Barthen](npcs/phandalin/elmina_barthen.md)
     * [Ander](npcs/phandalin/ander.md)
     * [Thistle](npcs/phandalin/thistle.md)
+  * [Toblen Stonehill](../characters/npcs/phandalin/toblen_stonehill.md)
 
 #### Inimigos
 

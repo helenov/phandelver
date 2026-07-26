@@ -37,6 +37,7 @@ _próxima_ : [Sessão 3 Redbrands]
 * [Elmina Barthen](../characters/npcs/phandalin/elmina_barthen.md)
   * [Ander](../characters/npcs/phandalin/ander.md)
   * [Thistle](../characters/npcs/phandalin/thistle.md)
+* [Toblen Stonehill](../characters/npcs/phandalin/toblen_stonehill.md)
 
 #### Mencionados
 
@@ -235,11 +236,13 @@ _[Imagem]_ :construction:
 No centro da cidade, ergue-se a
 "[Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)", um prédio
 grande e recém-construído, feito de pedra e madeira rústica. O salão principal
-está cheio de moradores locais bebendo canecas de cerveja ou cidra, todos
-se voltam curiosos para o grupo de forasteiros que entram.
+está cheio de moradores locais bebendo canecas de cerveja ou cidra, todos se
+voltam curiosos para o grupo de forasteiros que entram.
 
-Logo são recebidos por [Toblen Stonehill], o proprietário, que amigável e jovial
-logo oferece seus serviços. Após acertarem os detalhes da hospedagem - [Sildar]
+Logo são recebidos
+por [Toblen Stonehill](../characters/npcs/phandalin/toblen_stonehill.md), o
+proprietário, que amigável e jovial logo oferece seus serviços. Após acertarem
+os detalhes da hospedagem - [Sildar](../characters/npcs/sildar_hallwinter.md)
 tem um quarto para si, e o grupo combina dividir outro - Toblen pergunta o que
 os traz a cidade "viéram para a mineração?"
 

@@ -12,13 +12,16 @@ _[Texto]_ :construction:
 ### Personagens
 
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
+<br><br>
+* [Elmina Barthen](../characters/npcs/phandalin/elmina_barthen.md)
+  * [Ander](../characters/npcs/phandalin/ander.md)
+  * [Thistle](../characters/npcs/phandalin/thistle.md)
+* [Toblen Stonehill](../characters/npcs/phandalin/toblen_stonehill.md)
 
-<!--
-### Organizações
-
-* _[Organização]_
-  * _[detalhe]_
--->
+[//]: # (### Organizações)
+[//]: # ()
+[//]: # (* _[Organização]_)
+[//]: # (  * _[detalhe]_)
 
 ### Locais
 
