@@ -259,7 +259,8 @@ moradores sentados a uma mesa próxima, ficam chocados. Uma gnoma, que se
 apresenta como [Freda](../characters/npcs/phandalin/freda.md), a tecelã, fala
 que isso "tem cheiro de coisa dos [Redbrands](../organizations/redbrands.md).
 Eles tão incomodando todos da cidade já faz uns dois meses". "Só não mexem com
-a [Halia](../characters/npcs/phandalin/halia_thornton.md), do [Entreposto]",
+a [Halia](../characters/npcs/phandalin/halia_thornton.md),
+do [Entreposto dos Mineradores](../locations/phandalin/miners_exchange.md)",
 interviu o homem baixo da mesa ao
 lado, [Lanar](../characters/npcs/phandalin/lanar.md), o minerador, "ela sim é
 uma mulher durona!"

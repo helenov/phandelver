@@ -32,4 +32,4 @@ _[Texto]_ :construction:
       **Redbrands**
     * [Lanar](../characters/npcs/phandalin/lanar.md) diz que os **Redbrands**
       não incomodam [Halia](../characters/npcs/phandalin/halia_thornton.md)
-      do [Entreposto]
+      do [Entreposto dos Mineradores](../locations/phandalin/miners_exchange.md)
