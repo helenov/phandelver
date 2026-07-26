@@ -26,6 +26,13 @@ _[Texto]_ :construction:
   * [Lanar](../characters/npcs/phandalin/lanar.md), minerador
   * [Elsa](../characters/npcs/phandalin/elsa.md), bartender da hospedaria
 
+#### Mencionados
+
+* [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md)
+  * mestre da guilda dos mineiradores
+* [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md)
+  * velho do pomar
+
 [//]: # (### Organizações)
 [//]: # ()
 [//]: # (* _[Organização]_)

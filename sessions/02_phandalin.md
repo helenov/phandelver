@@ -38,8 +38,8 @@ _próxima_ : [Sessão 3 Redbrands]
   venda
   * [Ander](../characters/npcs/phandalin/ander.md), funcionário da venda
   * [Thistle](../characters/npcs/phandalin/thistle.md), funcionário da venda
-* [Toblen Stonehill](../characters/npcs/phandalin/toblen_stonehill.md), dono
-  da hospedaria
+* [Toblen Stonehill](../characters/npcs/phandalin/toblen_stonehill.md), dono da
+  hospedaria
   * [Freda](../characters/npcs/phandalin/freda.md), tecelã
   * [Lanar](../characters/npcs/phandalin/lanar.md), minerador
   * [Elsa](../characters/npcs/phandalin/elsa.md), bartender da hospedaria
@@ -50,15 +50,18 @@ _próxima_ : [Sessão 3 Redbrands]
 * [Tharden Rockseeker](../characters/npcs/tharden_rockseeker.md)
 * [Nundro Rockseeker](../characters/npcs/nundro_rockseeker.md)
   <br><br>
-* [Klarg](../characters/npcs/cragmaw/klarg.md) (RIP), o antigo chefe
-* [Grol](../characters/npcs/cragmaw/grol.md), o rei
-  <br><br>
+* [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
+  * [Klarg](../characters/npcs/cragmaw/klarg.md) (RIP), antigo chefe
+  * [Grol](../characters/npcs/cragmaw/grol.md), rei
+    <br><br>
 * [Spider](../characters/npcs/spider.md)
 * [Ruxithid](../characters/npcs/ruxithid.md)
   <br><br>
-* [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), a mestre da
-  guilda dos mineiradores
-
+* [Phandalin](../locations/phandalin.md)
+  * [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), mestre da
+    guilda dos mineiradores
+  * [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do pomar
+  
 ### Cenários
 
 * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
@@ -269,8 +272,8 @@ uma mulher durona!"
 
 Perguntados sobre o [Castelo Cragmaw], ninguém sabe dar informações,
 mas [Elsa](../characters/npcs/phandalin/elsa.md), a anã bartender, sugerem que
-talvez [Daran] saiba de alguma coisa.
-"Ele é 'antigo' e sabe de muita coisa".
+talvez [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md) saiba de
+alguma coisa. "Ele é 'antigo' e sabe de muita coisa".
 
 A noite passa tranquila e no dia seguinte, enquanto tomam o café da manhã, e
 pensam sobre o que farão a seguir, um garoto de cerca de 10 anos entra correndo

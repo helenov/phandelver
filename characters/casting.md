@@ -50,6 +50,9 @@
 * [Tharden Rockseeker](npcs/tharden_rockseeker.md)
 * [Nundro Rockseeker](npcs/tharden_rockseeker.md)
   <br><br>
-* [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), mestre da
-  guilda dos mineradores
+* [Phandalin](../locations/phandalin.md)
+  * [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), mestre da
+    guilda dos mineradores
+  * [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do
+    pomar
 
