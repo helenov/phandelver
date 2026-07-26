@@ -27,6 +27,7 @@
     * [Thistle](npcs/phandalin/thistle.md)
   * [Toblen Stonehill](../characters/npcs/phandalin/toblen_stonehill.md)
   * [Freda](../characters/npcs/phandalin/freda.md)
+  * [Lanar](../characters/npcs/phandalin/lanar.md)
 
 #### Inimigos
 
@@ -45,3 +46,6 @@
   <br><br>
 * [Tharden Rockseeker](npcs/tharden_rockseeker.md)
 * [Nundro Rockseeker](npcs/tharden_rockseeker.md)
+  <br><br>
+* [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md)
+

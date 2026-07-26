@@ -27,26 +27,27 @@ _próxima_ : [Sessão 3 Redbrands]
 
 #### No [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
 
-* [Yeemik](../characters/npcs/cragmaw/yeemik.md)
-* [Flip](../characters/npcs/cragmaw/flip.md)
+* [Yeemik](../characters/npcs/cragmaw/yeemik.md), o novo chefe
+* [Flip](../characters/npcs/cragmaw/flip.md), o goblin interrogado
 * goblins
 * lobos
 
 #### Em [Phandalin](../locations/phandalin.md)
 
-* [Elmina Barthen](../characters/npcs/phandalin/elmina_barthen.md)
-  * [Ander](../characters/npcs/phandalin/ander.md)
-  * [Thistle](../characters/npcs/phandalin/thistle.md)
-* [Toblen Stonehill](../characters/npcs/phandalin/toblen_stonehill.md)
-* [Freda](../characters/npcs/phandalin/freda.md)
+* [Elmina Barthen](../characters/npcs/phandalin/elmina_barthen.md), a comerciante
+  * [Ander](../characters/npcs/phandalin/ander.md), o funcionário
+  * [Thistle](../characters/npcs/phandalin/thistle.md), o funcionário
+* [Toblen Stonehill](../characters/npcs/phandalin/toblen_stonehill.md), o dona da hospedaria
+* [Freda](../characters/npcs/phandalin/freda.md), a tecelã
+* [Lanar](../characters/npcs/phandalin/lanar.md), o minerador
 
 #### Mencionados
 
 * [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
 * [Tharden Rockseeker](../characters/npcs/tharden_rockseeker.md)
 * [Nundro Rockseeker](../characters/npcs/nundro_rockseeker.md)
-* [Klarg](../characters/npcs/cragmaw/klarg.md) (RIP)
-* [Grol](../characters/npcs/cragmaw/grol.md)
+* [Klarg](../characters/npcs/cragmaw/klarg.md) (RIP), o antigo chefe
+* [Grol](../characters/npcs/cragmaw/grol.md), o rei
 * [Spider](../characters/npcs/spider.md)
 * [Ruxithid](../characters/npcs/ruxithid.md)
 
@@ -253,7 +254,8 @@ apresenta como [Freda](../characters/npcs/phandalin/freda.md), a tecelã, fala
 que isso "tem cheiro de coisa dos [Redbrands](../organizations/redbrands.md).
 Eles tão incomodando todos da cidade já faz uns dois meses". "Só não mexem com
 a [Halia], do [Entreposto]", interviu o homem baixo da mesa ao
-lado, [Lanar, o minerador], "ela sim é uma mulher durona!"
+lado, [Lanar](../characters/npcs/phandalin/lanar.md), o minerador, "ela sim é
+uma mulher durona!"
 
 Perguntados sobre o [Castelo Cragmaw], ninguém sabe dar informações,
 mas [Elsa, a anã bartender], sugerem que talvez [Daran] saiba de alguma coisa.

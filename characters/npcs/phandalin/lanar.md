@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Freda, <small>_gnoma_</small>
+## Lanar, <small>_humano_</small>
 
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
@@ -22,15 +22,11 @@ _[Texto]_ :construction:
 ### Locais
 
 * [Phandalin](../../../locations/phandalin.md)
-  * moradora e tecelã
+  * morador e minerador
 * [Hospedaria Stonehill](../../../locations/phandalin/stonehill_inn.md)
-  * frequentadora
+  * frequentador
 
 ### Referências
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
   * [Cena 7](../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
-    * sobre os [Redbrands](../../../organizations/redbrands.md)
-      * sugere que o sequestro de [Gundren](../gundren_rockseeker.md) seja obra
-        deles
-      * diz que estão incomodando todos na cidade
