@@ -15,11 +15,12 @@ _próxima_ : [Sessão 3 Redbrands]
 * [Cena 5 Phandalin](#cena-5-phandalin)
 * [Cena 6 Venda da Barthen](#cena-6-venda-da-barthen)
 * [Cena 7 Hospedaria Stonehill](#cena-7-hospedaria-stonehill)
-* [Cena 8 Pomar Edermath](#cena-8-pomar-edermath)
-* [Cena 9 Lionshield Coster](#cena-9-lionshield-coster)
-* [Cena 10 Prefeitura](#cena-10-prefeitura)
-* [Cena 11 Ferraria e Carpintaria](#cena-11-ferraria-e-carpintaria)
-* [Cena 12 Carp](#cena-12-carp)
+* [Cena 8 Pip](#cena-8-pip)
+* [Cena 9 Pomar Edermath](#cena-9-pomar-edermath)
+* [Cena 10 Lionshield Coster](#cena-10-lionshield-coster)
+* [Cena 11 Prefeitura](#cena-11-prefeitura)
+* [Cena 12 Ferraria e Carpintaria](#cena-12-ferraria-e-carpintaria)
+* [Cena 13 Carp](#cena-13-carp)
 
 ### Participações
 
@@ -277,6 +278,12 @@ bartender, sugere que
 talvez [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md) saiba de
 alguma coisa. "Ele é 'antigo' e sabe de muita coisa".
 
+---
+
+### Cena 8 Pip
+
+_[Imagem]_ :construction:
+
 A noite passa tranquila e no dia seguinte, enquanto tomam o café da manhã, e
 pensam sobre o que farão a seguir, um garoto de cerca de 10 anos entra correndo
 no salão, chamando: "Papai! Papai! A [Carp] disse que quase foi pega por uns
@@ -288,7 +295,7 @@ com a família do carpinteiro? Vocês ainda vão arrumar confusão pra gente!"
 
 ---
 
-### Cena 8 Pomar Edermath
+### Cena 9 Pomar Edermath
 
 _[Imagem]_ :construction:
 
@@ -328,7 +335,7 @@ pela primeira vez algo parecido com alegria: "Antes tarde do que nunca!"
 
 ---
 
-### Cena 9 Lionshield Coster
+### Cena 10 Lionshield Coster
 
 _[Imagem]_ :construction:
 
@@ -354,7 +361,7 @@ combinar os detalhes mais tarde.
 
 ---
 
-### Cena 10 Prefeitura
+### Cena 11 Prefeitura
 
 _[Imagem]_ :construction:
 
@@ -411,7 +418,7 @@ prefeitura.
 
 ---
 
-### Cena 11 Ferraria e Carpintaria
+### Cena 12 Ferraria e Carpintaria
 
 _[Imagem]_ :construction:
 
@@ -431,7 +438,7 @@ deixou o lugar - teriam sido levados? - sem preparativos.
 
 ---
 
-### Cena 12 Carp
+### Cena 13 Carp
 
 _[Imagem]_ :construction:
 
