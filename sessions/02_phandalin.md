@@ -41,6 +41,8 @@ _próxima_ : [Sessão 3 Redbrands]
 #### Mencionados
 
 * [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
+* [Tharden Rockseeker](../characters/npcs/tharden_rockseeker.md)
+* [Nundro Rockseeker](../characters/npcs/nundro_rockseeker.md)
 * [Klarg](../characters/npcs/cragmaw/klarg.md) (RIP)
 * [Grol](../characters/npcs/cragmaw/grol.md)
 * [Spider](../characters/npcs/spider.md)
@@ -205,10 +207,12 @@ desolada, e diz que estava ansiosa para reencontrá-lo e saber mais sobre suas
 descobertas recentes. Ela não tem ideia do que seriam, mas que devem ter relação
 com as minas.
 
-Elmina conta que os irmãos de Gundren, [Tharden] e [Nundro], também devem estar
-ansiosos e ficarão muito abalados ao saber do sequestro do irmão. Eles vivem
-acampados fora da cidade, sempre em lugares diferentes, explorando, mas vêm a
-cidade frequentemente para se reabastecer - "a última vez foi há uns dez dias,
+Elmina conta que os irmãos de
+Gundren, [Tharden](../characters/npcs/tharden_rockseeker.md)
+e [Nundro](../characters/npcs/nundro_rockseeker.md), também devem estar ansiosos
+e ficarão muito abalados ao saber do sequestro do irmão. Eles vivem acampados
+fora da cidade, sempre em lugares diferentes, explorando, mas vêm a cidade
+frequentemente para se reabastecer - "a última vez foi há uns dez dias,
 provavelmente devem aparecer em um dia ou dois"
 
 Um dos garotos, Ander, sugere se o sequestro poderia ter alguma relação com os

@@ -13,15 +13,17 @@
 
 * [Sildar Hallwinter](sildar_hallwinter.md)
   * amigo
-* [Elmina Barthen.md](phandalin/elmina_barthen.md)
+* [Elmina Barthen](phandalin/elmina_barthen.md)
   * amiga e parceira de negócios
+* [Tharden Rockseeker](tharden_rockseeker.md)
+  * irmão
+* [Nundro Rockseeker](nundro_rockseeker.md)
+  * irmão
 
-<!--
-### Organizações
-
-* _[Organização]_
-  * _[detalhe]_
--->
+[//]: # (### Organizações)
+[//]: # ()
+[//]: # (* _[Organização]_)
+[//]: # (  * _[detalhe]_)
 
 ### Aparições
 

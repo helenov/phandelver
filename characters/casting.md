@@ -29,13 +29,18 @@
 #### Inimigos
 
 * [Cragmaws Goblins](../organizations/cragmaw_goblins.md)
-  * [Grol](npcs/cragmaw/grol.md)
   * [Klarg](npcs/cragmaw/klarg.md) (RIP)
   * [Yeemik](npcs/cragmaw/yeemik.md)
   * [Flip](npcs/cragmaw/flip.md)
     <br><br>
-* [Spider](npcs/spider.md)
 
 #### Mencionados
 
+* [Cragmaws Goblins](../organizations/cragmaw_goblins.md)
+  * [Grol](npcs/cragmaw/grol.md)
+    <br><br>
+* [Spider](npcs/spider.md)
 * [Ruxithid](npcs/ruxithid.md)
+  <br><br>
+* [Tharden Rockseeker](npcs/tharden_rockseeker.md)
+* [Nundro Rockseeker](npcs/tharden_rockseeker.md)
