@@ -9,7 +9,7 @@
 [//]: # (_[Texto]_ :construction:)
 [//]: # (<br clear="left"/>)
 
-### Associações
+### Relações
 
 * [Gundren Rockseeker](gundren_rockseeker.md)
   * irmão
@@ -28,7 +28,7 @@
 [//]: # (* _[Local]_)
 [//]: # (  * _[detalhe]_)
 
-### Aparições
+### Referências
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * [Cena 6](../../sessions/02_phandalin.md#cena-6-venda-da-barthen)

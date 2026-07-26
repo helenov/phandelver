@@ -18,7 +18,7 @@
 
 * [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
 
-### Aparições
+### Referências
 
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
   * [Cena 2](../sessions/02_phandalin.md#cena-2-troca)

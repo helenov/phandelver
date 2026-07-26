@@ -9,7 +9,7 @@
 _[Texto]_ :construction:
 <br clear="left"/>
 
-### Associações
+### Relações
 
 * [Klarg](klarg.md) (RIP)
   * antigo chefe
@@ -27,7 +27,7 @@ _[Texto]_ :construction:
 * [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
   * novo chefe
 
-### Aparições
+### Referências
 
 * [Sessão 1 Goblins](../../../sessions/01_goblins.md)
   * [Cena 4](../../../sessions/01_goblins.md#cena-4-negociação)

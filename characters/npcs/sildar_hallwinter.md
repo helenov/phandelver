@@ -9,7 +9,7 @@
 [//]: # (_[Texto]_ :construction:)
 [//]: # (<br clear="left"/>)
 
-### Associações
+### Relações
 
 * [Gundren Rockseeker](gundren_rockseeker.md)
   * amigo
@@ -19,7 +19,7 @@
 * [Lords' Alliance](../../organizations/lords_alliance.md)
   * membro leal
 
-### Aparições
+### Referências
 
 * [Sessão 0 Prólogo](../../sessions/00_prologo.md)
   * [Cena 1](../../sessions/00_prologo.md#cena-1-trabalho)

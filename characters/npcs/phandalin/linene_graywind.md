@@ -2,27 +2,25 @@
 
 ## Linene Graywind, <small>_humana_</small>
 
-_[Imagem]_
+[//]: # (<!-- @formatter:off -->)
+[//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
+[//]: # (<!-- @formatter:on -->)
+[//]: # (_[Imagem]_)
+[//]: # (_[Texto]_ :construction:)
+[//]: # (<br clear="left"/>)
 
-_[Texto]_
-
-:construction:
-
-<!--
-### Associações
-
-* _[Character]_
-  * _[detalhe]_
--->
+[//]: # (### Relações)
+[//]: # ()
+[//]: # (* _[Character]_)
+[//]: # (  * _[detalhe]_)
 
 ### Organizações
 
 * [Lionshield Coster](../../../organizations/lionshield_coster.md)
   * representante local em [Phandalin](../../../locations/phandalin.md)
 
-<!--
-### Aparições
-
-* _[Sessão]_
-  * _[detalhe]_
--->
+[//]: # (### Referências)
+[//]: # ()
+[//]: # (* _[Sessão]_)
+[//]: # (  * _[Cena]_)
+[//]: # (    * _[detalhe]_)

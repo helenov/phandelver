@@ -19,7 +19,7 @@ _[Texto]_ :construction:
 * [Gigante Adormecido](../locations/phandalin/gigante_adormecido.md)
   * bar onde os **Redbrands** costuma frequentar
 
-### Aparições
+### Referências
 
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
   * [Cena 6](../sessions/02_phandalin.md#cena-6-venda-da-barthen)

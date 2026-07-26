@@ -9,7 +9,7 @@ _[Imagem]_
 _[Texto]_ :construction:
 <br clear="left"/>
 
-### Associações
+### Relações
 
 * [Ander](ander.md)
   * irmão e colega
@@ -20,7 +20,7 @@ _[Texto]_ :construction:
 [//]: # (* _[Organização]_)
 [//]: # (  * _[detalhe]_)
 
-### Aparições
+### Referências
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
   * [Cena 6](../../../sessions/02_phandalin.md#cena-6-venda-da-barthen)

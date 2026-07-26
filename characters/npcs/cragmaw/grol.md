@@ -9,7 +9,7 @@
 [//]: # (_[Texto]_ :construction:)
 [//]: # (<br clear="left"/>)
 
-### Associações
+### Relações
 
 * [Klarg](klarg.md) (RIP)
   * antigo chefe no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
@@ -23,7 +23,7 @@
 * [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md)
   * rei
 
-### Aparições
+### Referências
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
   * [Cena 2](../../../sessions/02_phandalin.md#cena-2-troca)

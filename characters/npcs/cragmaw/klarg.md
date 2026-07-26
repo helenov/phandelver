@@ -25,7 +25,7 @@ Mas antes que isso fosse possível, o grupo invadiu seu esconderijo, e, após
 negociar com o traidor [Yeemik](yeemik.md), o atacaram covardemente e o mataram.
 <br clear="left"/>
 
-### Associações
+### Relações
 
 * [Yeemik](yeemik.md)
   * segundo em comando
@@ -43,7 +43,7 @@ negociar com o traidor [Yeemik](yeemik.md), o atacaram covardemente e o mataram.
 * [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
   * chefe local
 
-### Aparições
+### Referências
 
 * [Sessão 1 Goblins](../../../sessions/01_goblins.md)
   * [Cena 4](../../../sessions/01_goblins.md#cena-4-negociação)

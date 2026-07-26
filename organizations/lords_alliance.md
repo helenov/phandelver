@@ -19,7 +19,7 @@ _[Texto]_ :construction:
 [//]: # (* _[Local]_)
 [//]: # (  * _[detalhe]_)
 
-### Aparições
+### Referências
 
 * [Sessão 0 Prólogo](../sessions/00_prologo.md)
   * [Cena 1](../sessions/00_prologo.md#cena-1-trabalho)

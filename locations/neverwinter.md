@@ -33,7 +33,7 @@ _[Texto]_ :construction:
     e [Sildar](../characters/npcs/sildar_hallwinter.md), que partem a frente
   * de onde saem com a carroça de suprimentos
 
-### Aparições
+### Referências
 
 * [Sessão 0 Prólogo](../sessions/00_prologo.md)
   * grupo recebe oferta de trabalho

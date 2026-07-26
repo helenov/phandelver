@@ -22,7 +22,7 @@ _[Texto]_ :construction:
 
 * [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
 
-### Aparições
+### Referências
 
 * [Sessão 1 Goblins](../sessions/01_goblins.md)
   * grupo encontra e explora o esconderijo

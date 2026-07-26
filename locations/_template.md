@@ -24,7 +24,8 @@ _[Texto]_ :construction:
 * _[Local]_
   * _[detalhe]_
 
-### Aparições
+### Referências
 
 * _[Sessão]_
-  * _[detalhe]_
+  * _[Cena]_
+    * _[detalhe]_

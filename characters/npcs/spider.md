@@ -9,7 +9,7 @@
 [//]: # (_[Texto]_ :construction:)
 [//]: # (<br clear="left"/>)
 
-### Associações
+### Relações
 
 * [Grol](cragmaw/grol.md)
   * aliado
@@ -21,7 +21,7 @@
   * _[detalhe]_
 -->
 
-### Aparições
+### Referências
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * [Cena 2](../../sessions/02_phandalin.md#cena-2-troca)

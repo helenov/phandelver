@@ -21,7 +21,7 @@ frequência para se reabastecer de suprimentos. "A última vez que estiveram por
 aqui já tem uns dez dias, provavelmente devem aparecer em um dia ou dois"
 <br clear="left"/>
 
-### Associações
+### Relações
 
 * [Ander](ander.md)
   * funcionário
@@ -47,7 +47,7 @@ aqui já tem uns dez dias, provavelmente devem aparecer em um dia ou dois"
 * [Venda da Barthen](../../../locations/phandalin/barthens_provisions.md)
   * proprietária
 
-### Aparições
+### Referências
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
   * [Cena 6](../../../sessions/02_phandalin.md#cena-6-venda-da-barthen)

@@ -9,7 +9,7 @@ _[Imagem]_
 _[Texto]_ :construction:
 <br clear="left"/>
 
-### Associações
+### Relações
 
 * [Thistle](thistle.md)
   * irmão e colega
@@ -27,7 +27,7 @@ _[Texto]_ :construction:
 * [Venda da Barthen](../../../locations/phandalin/barthens_provisions.md)
   * funcionário
 
-### Aparições
+### Referências
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
   * [Cena 6](../../../sessions/02_phandalin.md#cena-6-venda-da-barthen)

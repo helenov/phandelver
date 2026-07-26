@@ -29,7 +29,7 @@
   * sede dos [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
   * localização exata desconhecido
 
-### Aparições
+### Referências
 
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
   * [Cena 4](../sessions/02_phandalin.md#cena-4-interrogatório)

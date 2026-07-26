@@ -20,7 +20,7 @@ _[Texto]_ :construction:
   * _[detalhe]_
 -->
 
-### Aparições
+### Referências
 
 * [Sessão 0 Prólogo](../sessions/00_prologo.md)
   * [Cena 3](../sessions/00_prologo.md#cena-3-corpos)

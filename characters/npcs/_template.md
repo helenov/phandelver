@@ -9,7 +9,7 @@ _[Imagem]_
 _[Texto]_ :construction:
 <br clear="left"/>
 
-### Associações
+### Relações
 
 * _[Character]_
   * _[detalhe]_
@@ -24,7 +24,7 @@ _[Texto]_ :construction:
 * _[Local]_
   * _[detalhe]_
 
-### Aparições
+### Referências
 
 * _[Sessão]_
   * _[Cena]_

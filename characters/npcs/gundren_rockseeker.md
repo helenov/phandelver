@@ -9,7 +9,7 @@
 [//]: # (_[Texto]_ :construction:)
 [//]: # (<br clear="left"/>)
 
-### Associações
+### Relações
 
 * [Sildar Hallwinter](sildar_hallwinter.md)
   * amigo
@@ -25,7 +25,7 @@
 [//]: # (* _[Organização]_)
 [//]: # (  * _[detalhe]_)
 
-### Aparições
+### Referências
 
 * [Sessão 0 Prólogo](../../sessions/00_prologo.md)
   * [Cena 1](../../sessions/00_prologo.md#cena-1-trabalho)

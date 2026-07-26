@@ -32,7 +32,7 @@ sol.
 * [Phandalin](../phandalin.md)
   * a venda está localizada próximo à entrada da cidade 
 
-### Aparições
+### Referências
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * [Cena 6](../../sessions/02_phandalin.md#cena-6-venda-da-barthen)

@@ -10,7 +10,7 @@
 [//]: # (<br clear="left"/>)
 
 <!--
-### Associações
+### Relações
 
 * _[Character]_
   * _[detalhe]_
@@ -23,7 +23,7 @@
   * _[detalhe]_
 -->
 
-### Aparições
+### Referências
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * [Cena 3](../../sessions/02_phandalin.md#cena-3-sildar)

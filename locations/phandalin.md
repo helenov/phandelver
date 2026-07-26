@@ -27,7 +27,7 @@ _[Texto]_ :construction:
 * [Gigante Adormecido](phandalin/gigante_adormecido.md)
   * bar sujo e decadente nos limites da cidade
 
-### Aparições
+### Referências
 
 * [Sessão 0 Prólogo](../sessions/00_prologo.md)
   * [Cena 1](../sessions/00_prologo.md#cena-1-trabalho)

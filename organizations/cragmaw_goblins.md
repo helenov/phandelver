@@ -27,7 +27,7 @@ _[Texto]_ :construction:
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
   * base do rei [Grol](../characters/npcs/cragmaw/grol.md)
 
-### Aparições
+### Referências
 
 * [Sessão 1 Goblins](../sessions/01_goblins.md)
   * são emboscados por goblins
