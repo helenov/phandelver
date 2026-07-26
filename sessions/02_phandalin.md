@@ -53,6 +53,7 @@ _próxima_ : [Sessão 3 Redbrands]
 * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
 * [Phandalin](../locations/phandalin.md)
   * [Venda da Barthen](../locations/phandalin/barthens_provisions.md)
+  * [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)
 
 #### Mencionados
 
@@ -231,10 +232,11 @@ grupo se os irmãos Rockseeker aparecerem.
 
 _[Imagem]_ :construction:
 
-No centro da cidade, ergue-se um grande e recém-construído bar de beira de
-estrada, feito de pedra e madeira rústica. O salão principal está cheio de
-moradores locais bebendo canecas de cerveja ou cidra, todos observam com
-curiosidade o grupo de forasteiros que entram.
+No centro da cidade, ergue-se a
+"[Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)", um prédio
+grande e recém-construído, feito de pedra e madeira rústica. O salão principal
+está cheio de moradores locais bebendo canecas de cerveja ou cidra, todos
+se voltam curiosos para o grupo de forasteiros que entram.
 
 Logo são recebidos por [Toblen Stonehill], o proprietário, que amigável e jovial
 logo oferece seus serviços. Após acertarem os detalhes da hospedagem - [Sildar]

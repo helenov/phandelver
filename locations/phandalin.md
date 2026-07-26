@@ -24,6 +24,8 @@ _[Texto]_ :construction:
 
 * [Venda da Barthen](phandalin/barthens_provisions.md)
   * comércio de produtos e suprimentos básicos
+* [Hospedaria Stonehill](phandalin/stonehill_inn.md)
+  * hospedaria e ponto de encontro dos moradores no final do dia 
 * [Gigante Adormecido](phandalin/sleeping_giant.md)
   * bar sujo e decadente nos limites da cidade
 
