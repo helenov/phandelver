@@ -14,10 +14,10 @@ _[Texto]_ :construction:
 [//]: # (* _[Character]_)
 [//]: # (  * _[detalhe]_)
 
-[//]: # (### Locais)
-[//]: # ()
-[//]: # (* _[Local]_)
-[//]: # (  * _[detalhe]_)
+### Locais
+
+* [Gigante Adormecido](../locations/phandalin/gigante_adormecido.md)
+  * bar onde os **Redbrands** costuma frequentar
 
 ### Aparições
 

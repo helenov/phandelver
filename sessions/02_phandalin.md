@@ -218,7 +218,8 @@ provavelmente devem aparecer em um dia ou dois"
 Um dos garotos, Ander, sugere se o sequestro poderia ter alguma relação com os
 [Redbrands](../organizations/redbrands.md), um grupo de arruaceiros que tem
 arrumado confusão na vila. Eles ouviram falar que eles frequentam o
-"[Gigante Adormecido]", um bar sujo nos limites da cidade.
+"[Gigante Adormecido](../locations/phandalin/gigante_adormecido.md)", um bar
+sujo nos limites da cidade.
 
 Barthen paga os 30 gp combinados pelo transporte da carga, e fica de avisar o
 grupo se os irmãos Rockseeker aparecerem.
