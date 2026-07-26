@@ -31,6 +31,11 @@ ele.
 * [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md)
   * chefe no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
 
+### Locais
+
+* [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
+  * chefe local
+
 ### Aparições
 
 * [Sessão 1 Goblins](../../../sessions/01_goblins.md)

@@ -21,6 +21,11 @@ _[Texto]_ :construction:
 * [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md)
   * membro fugitivo
 
+### Locais
+
+* [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
+  * antiga base, fugitivo
+
 ### Aparições
 
 * [Sessão 1 Goblins](../../../sessions/01_goblins.md)

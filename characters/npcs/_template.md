@@ -19,6 +19,11 @@ _[Texto]_ :construction:
 * _[Organização]_
   * _[detalhe]_
 
+### Locais
+
+* _[Local]_
+  * _[detalhe]_
+
 ### Aparições
 
 * _[Sessão]_

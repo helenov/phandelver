@@ -20,7 +20,12 @@ _[Texto]_ :construction:
 ### Organizações
 
 * [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md)
-  * novo líder no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
+  * novo chefe no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
+
+### Locais
+
+* [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
+  * novo chefe
 
 ### Aparições
 
