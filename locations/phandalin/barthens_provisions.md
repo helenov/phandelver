@@ -22,12 +22,15 @@ sol.
 * [Thistle](../../characters/npcs/phandalin/thistle.md)
   * funcionário
 
-<!--
-### Organizações
+[//]: # (### Organizações)
+[//]: # ()
+[//]: # (* _[Organização]_)
+[//]: # (  * _[detalhe]_)
 
-* _[Organização]_
-  * _[detalhe]_
--->
+### Locais
+
+* [Phandalin](../phandalin.md)
+  * a venda está localizada próximo à entrada da cidade 
 
 ### Aparições
 
