@@ -22,7 +22,7 @@ _[Texto]_ :construction:
 
 ### Locais
 
-* [Venda da Barthen](barthens_provisions.md)
+* [Venda da Barthen](phandalin/barthens_provisions.md)
   * comércio de produtos e suprimentos básicos
 
 ### Aparições

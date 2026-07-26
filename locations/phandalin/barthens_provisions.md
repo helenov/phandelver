@@ -7,7 +7,7 @@
 [//]: # (<!-- @formatter:on -->)
 _[Imagem]_ :construction:
 
-A Venda de Barthen é o maior posto comercial de [Phandalin](phandalin.md). Suas
+A Venda de Barthen é o maior posto comercial de [Phandalin](../phandalin.md). Suas
 prateleiras oferecem a maioria dos produtos e suprimentos comuns, incluindo
 mochilas, colchonetes, cordas e rações. O local fica aberto do nascer ao pôr do
 sol.
@@ -15,7 +15,7 @@ sol.
 
 ### Personagens
 
-* [Elmina Barthen](../characters/npcs/phandalin/elmina_barthen.md)
+* [Elmina Barthen](../../characters/npcs/phandalin/elmina_barthen.md)
   * proprietária e gerente
 
 <!--
@@ -27,6 +27,6 @@ sol.
 
 ### Aparições
 
-* [Sessão 2 Phandalin](../sessions/02_phandalin.md)
-  * [Cena 6](../sessions/02_phandalin.md#cena-6-venda-da-barthen)
+* [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
+  * [Cena 6](../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
     * chegam, se apresentam e conhecem [Elmina]

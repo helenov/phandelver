@@ -48,7 +48,7 @@ _próxima_ : [Sessão 3 Redbrands]
 
 * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
 * [Phandalin](../locations/phandalin.md)
-  * [Venda da Barthen](../locations/barthens_provisions.md)
+  * [Venda da Barthen](../locations/phandalin/barthens_provisions.md)
 
 #### Mencionados
 
@@ -186,7 +186,7 @@ _[Imagem]_ :construction:
 
 É fim da tarde e a cidade parece se preparar para a noite. Logo na entrada na
 cidade o grupo vê uma casa comercial, com uma placa onde se lê
-"[Venda da Barthen](../locations/barthens_provisions.md)". Na frente da loja,
+"[Venda da Barthen](../locations/phandalin/barthens_provisions.md)". Na frente da loja,
 uma jovem e dois adolescentes estão levando as mercadorias para dentro antes de
 fechar a loja.
 

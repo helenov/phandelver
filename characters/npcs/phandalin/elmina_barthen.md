@@ -23,4 +23,4 @@ _[Texto]_ :construction:
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
   * [Cena 6](../../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
-    * conhecem **Elmina**, proprietária da [Venda da Barthen](../../../locations/barthens_provisions.md)
+    * conhecem **Elmina**, proprietária da [Venda da Barthen](../../../locations/phandalin/barthens_provisions.md)
