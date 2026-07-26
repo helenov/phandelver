@@ -250,10 +250,10 @@ os traz a cidade "viéram para a mineração?"
 O grupo fala da carga e do sequestro do anão e todos, inclusive um grupo de
 moradores sentados a uma mesa próxima, ficam chocados. Uma gnoma, que se
 apresenta como [Freda](../characters/npcs/phandalin/freda.md), a tecelã, fala
-que isso "tem cheiro de coisa dos Redbrands. Eles tão incomodando todos da
-cidade já faz uns dois meses". "Só não mexem com a [Halia], do [Entreposto]",
-interviu o homem baixo da mesa ao lado, [Lanar, o minerador], "ela sim é uma
-mulher durona!"
+que isso "tem cheiro de coisa dos [Redbrands](../organizations/redbrands.md).
+Eles tão incomodando todos da cidade já faz uns dois meses". "Só não mexem com
+a [Halia], do [Entreposto]", interviu o homem baixo da mesa ao
+lado, [Lanar, o minerador], "ela sim é uma mulher durona!"
 
 Perguntados sobre o [Castelo Cragmaw], ninguém sabe dar informações,
 mas [Elsa, a anã bartender], sugerem que talvez [Daran] saiba de alguma coisa.

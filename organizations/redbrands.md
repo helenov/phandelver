@@ -24,5 +24,9 @@ _[Texto]_ :construction:
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
   * [Cena 6](../sessions/02_phandalin.md#cena-6-venda-da-barthen)
     * [Ander](../characters/npcs/phandalin/ander.md) sugere que os ataques
-      na [Estrada Triboar](../locations/triboar_trail.md) podem ter
-      relação com os **Redbrands**
+      na [Estrada Triboar](../locations/triboar_trail.md) podem ter relação com
+      os **Redbrands**
+  * [Cena 7](../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
+    * [Freda](../characters/npcs/phandalin/freda.md) sugere que o sequestro
+      de [Gundren](../characters/npcs/gundren_rockseeker.md) podem ser obra dos
+      **Redbrands**

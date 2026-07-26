@@ -30,6 +30,7 @@ _[Texto]_ :construction:
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
   * [Cena 7](../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
-    * sobre os [Redbrands]
-      * sugere que o sequestro de [Gundren] seja obra deles 
+    * sobre os [Redbrands](../../../organizations/redbrands.md)
+      * sugere que o sequestro de [Gundren](../gundren_rockseeker.md) seja obra
+        deles
       * diz que estão incomodando todos na cidade
