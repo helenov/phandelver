@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Daran Edermath<!--, <small>_drow_</small>-->
+## Daran Edermath, <small>_drow_</small>
 
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
