@@ -3,7 +3,7 @@
 ## Yeemik, <small>_goblin_</small>
 
 <!-- @formatter:off -->
-<img alt="Yeemik" src="../../../images/characters/yeemik.png" style="width:200px; margin-right: 15px; float: left" />
+<img alt="Yeemik" src="../../../images/characters/cragmaw/yeemik.png" style="width:200px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
 _[Texto]_ :construction:

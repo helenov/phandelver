@@ -17,9 +17,9 @@ _[Texto]_ :construction:
   * funcionário
 * [Gundren Rockseeker](../gundren_rockseeker.md)
   * amigo e fornecedor
-* [Tharden Rockseeker](tharden_rockseeker.md)
+* [Tharden Rockseeker](../tharden_rockseeker.md)
   * amigo e cliente
-* [Nundro Rockseeker](nundro_rockseeker.md)
+* [Nundro Rockseeker](../nundro_rockseeker.md)
   * amigo e cliente
 
 [//]: # (### Organizações)

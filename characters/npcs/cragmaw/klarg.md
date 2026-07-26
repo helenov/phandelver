@@ -3,7 +3,7 @@
 ## Klarg, <small>_bugbear_</small> (RIP)
 
 <!-- @formatter:off -->
-<img alt="Klarg" src="../../../images/characters/klarg.png" style="width:300px; margin-right: 15px; float: left" />
+<img alt="Klarg" src="../../../images/characters/cragmaw/klarg.png" style="width:300px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
 O líder dos [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md)
