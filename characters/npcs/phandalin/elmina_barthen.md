@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## _[Nome do Personagem]_, <small>_[espécie]_</small>
+## Elmina Barthen, <small>humana</small>
 
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
@@ -21,6 +21,6 @@ _[Texto]_ :construction:
 
 ### Aparições
 
-* _[Sessão]_
-  * _[Cena]_
-    * _[detalhe]_
+* [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
+  * [Cena 6](../../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
+    * conhecem **Elmina**, proprietária da [Venda da Barthen](../../../locations/barthens_provisions.md)

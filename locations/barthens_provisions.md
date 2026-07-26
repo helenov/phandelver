@@ -13,12 +13,10 @@ mochilas, colchonetes, cordas e rações. O local fica aberto do nascer ao pôr 
 sol.
 <br clear="left"/>
 
-<!--
 ### Personagens
 
-* _[Character]_
-  * _[detalhe]_
--->
+* [Elmina Barthen](../characters/npcs/phandalin/elmina_barthen.md)
+  * proprietária e gerente
 
 <!--
 ### Organizações

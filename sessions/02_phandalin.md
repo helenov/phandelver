@@ -23,11 +23,18 @@ _próxima_ : [Sessão 3 Redbrands]
 
 ### Participações
 
-* [Yeemik](../characters/npcs/cragmaw/yeemik.md)
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
+
+#### No [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
+
+* [Yeemik](../characters/npcs/cragmaw/yeemik.md)
 * [Flip](../characters/npcs/cragmaw/flip.md)
 * goblins
 * lobos
+
+#### Em [Phandalin](../locations/phandalin.md)
+
+* [Elmina Barthen](../characters/npcs/phandalin/elmina_barthen.md)
 
 #### Mencionados
 
@@ -41,6 +48,7 @@ _próxima_ : [Sessão 3 Redbrands]
 
 * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
 * [Phandalin](../locations/phandalin.md)
+  * [Venda da Barthen](../locations/barthens_provisions.md)
 
 #### Mencionados
 
@@ -182,10 +190,11 @@ cidade o grupo vê uma casa comercial, com uma placa onde se lê
 uma jovem e dois adolescentes estão levando as mercadorias para dentro antes de
 fechar a loja.
 
-O grupo se apresenta e conhecem [Elmina Barthen] a dona da loja e seus dois
-empregados, [Ander] e [Thistle]. Dizem que estão trazendo as provisões enviadas
-por [Gundren Rockseeker], ao que Elmina demonstra entusiasmo por notícias do
-amigo.
+O grupo se apresenta e
+conhecem [Elmina Barthen](../characters/npcs/phandalin/elmina_barthen.md) a dona
+da loja e seus dois empregados, [Ander] e [Thistle]. Dizem que estão trazendo as
+provisões enviadas por [Gundren Rockseeker], ao que Elmina demonstra entusiasmo
+por notícias do amigo.
 
 Ao ser informada de que ele foi capturado por goblins na estrada, a jovem fica
 desolada, e que estava ansiosa para reencontrá-lo e saber mais sobre suas
