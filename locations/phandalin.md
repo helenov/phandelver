@@ -12,12 +12,18 @@ _[Texto]_ :construction:
 ### Personagens
 
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
-<br><br>
-* [Elmina Barthen](../characters/npcs/phandalin/elmina_barthen.md)
-  * [Ander](../characters/npcs/phandalin/ander.md)
-  * [Thistle](../characters/npcs/phandalin/thistle.md)
-* [Toblen Stonehill](../characters/npcs/phandalin/toblen_stonehill.md)
-* [Freda](../characters/npcs/phandalin/freda.md)
+  * representante enviado
+    pela [Lords' Alliance](../organizations/lords_alliance.md)
+    <br><br>
+* [Elmina Barthen](../characters/npcs/phandalin/elmina_barthen.md), dona da
+  venda
+  * [Ander](../characters/npcs/phandalin/ander.md), funcionário da venda
+  * [Thistle](../characters/npcs/phandalin/thistle.md), funcionário da venda
+    <br><br>
+* [Toblen Stonehill](../characters/npcs/phandalin/toblen_stonehill.md), dono
+  da hospedaria
+  * [Freda](../characters/npcs/phandalin/freda.md), tecelã
+  * [Lanar](../characters/npcs/phandalin/lanar.md), minerador
 
 [//]: # (### Organizações)
 [//]: # ()
@@ -29,7 +35,7 @@ _[Texto]_ :construction:
 * [Venda da Barthen](phandalin/barthens_provisions.md)
   * comércio de produtos e suprimentos básicos
 * [Hospedaria Stonehill](phandalin/stonehill_inn.md)
-  * hospedaria e ponto de encontro dos moradores no final do dia 
+  * hospedaria e ponto de encontro dos moradores no final do dia
 * [Gigante Adormecido](phandalin/sleeping_giant.md)
   * bar sujo e decadente nos limites da cidade
 

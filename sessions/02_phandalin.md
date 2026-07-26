@@ -27,21 +27,21 @@ _próxima_ : [Sessão 3 Redbrands]
 
 #### No [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
 
-* [Yeemik](../characters/npcs/cragmaw/yeemik.md), o novo chefe
-* [Flip](../characters/npcs/cragmaw/flip.md), o goblin interrogado
+* [Yeemik](../characters/npcs/cragmaw/yeemik.md), novo chefe
+* [Flip](../characters/npcs/cragmaw/flip.md), goblin interrogado
 * goblins
 * lobos
 
 #### Em [Phandalin](../locations/phandalin.md)
 
-* [Elmina Barthen](../characters/npcs/phandalin/elmina_barthen.md), a
-  comerciante
-  * [Ander](../characters/npcs/phandalin/ander.md), o funcionário
-  * [Thistle](../characters/npcs/phandalin/thistle.md), o funcionário
-* [Toblen Stonehill](../characters/npcs/phandalin/toblen_stonehill.md), o dona
+* [Elmina Barthen](../characters/npcs/phandalin/elmina_barthen.md), dona da
+  venda
+  * [Ander](../characters/npcs/phandalin/ander.md), funcionário da venda
+  * [Thistle](../characters/npcs/phandalin/thistle.md), funcionário da venda
+* [Toblen Stonehill](../characters/npcs/phandalin/toblen_stonehill.md), dono
   da hospedaria
-* [Freda](../characters/npcs/phandalin/freda.md), a tecelã
-* [Lanar](../characters/npcs/phandalin/lanar.md), o minerador
+  * [Freda](../characters/npcs/phandalin/freda.md), tecelã
+  * [Lanar](../characters/npcs/phandalin/lanar.md), minerador
 
 #### Mencionados
 
@@ -55,7 +55,8 @@ _próxima_ : [Sessão 3 Redbrands]
 * [Spider](../characters/npcs/spider.md)
 * [Ruxithid](../characters/npcs/ruxithid.md)
   <br><br>
-* [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md)
+* [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), a mestre da
+  guilda dos mineiradores
 
 ### Cenários
 
@@ -266,7 +267,8 @@ lado, [Lanar](../characters/npcs/phandalin/lanar.md), o minerador, "ela sim é
 uma mulher durona!"
 
 Perguntados sobre o [Castelo Cragmaw], ninguém sabe dar informações,
-mas [Elsa, a anã bartender], sugerem que talvez [Daran] saiba de alguma coisa.
+mas [Elsa](../characters/npcs/phandalin/elsa.md), a anã bartender, sugerem que
+talvez [Daran] saiba de alguma coisa.
 "Ele é 'antigo' e sabe de muita coisa".
 
 A noite passa tranquila e no dia seguinte, enquanto tomam o café da manhã, e

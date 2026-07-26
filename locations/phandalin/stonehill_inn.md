@@ -12,9 +12,11 @@ _[Texto]_ :construction:
 ### Personagens
 
 * [Toblen](../../characters/npcs/phandalin/toblen_stonehill.md)
-  * proprietário
+  * proprietário e gerente
 * [Freda](../../characters/npcs/phandalin/freda.md)
-  * frequentadora
+  * frequentadora e tecelã 
+* [Lanar](../../characters/npcs/phandalin/lanar.md)
+  * frequentador e minerador 
 
 [//]: # (### Organizações)
 [//]: # ()
