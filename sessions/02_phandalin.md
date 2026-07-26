@@ -60,8 +60,9 @@ _próxima_ : [Sessão 3 Redbrands]
 * [Phandalin](../locations/phandalin.md)
   * [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), mestre da
     guilda dos mineiradores
-  * [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do pomar
-  
+  * [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do
+    pomar
+
 ### Cenários
 
 * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
@@ -270,8 +271,9 @@ interviu o homem baixo da mesa ao
 lado, [Lanar](../characters/npcs/phandalin/lanar.md), o minerador, "ela sim é
 uma mulher durona!"
 
-Perguntados sobre o [Castelo Cragmaw], ninguém sabe dar informações,
-mas [Elsa](../characters/npcs/phandalin/elsa.md), a anã bartender, sugerem que
+Perguntados sobre o [Castelo Cragmaw](../locations/cragmaw_castle.md), ninguém
+sabe dar informações, mas [Elsa](../characters/npcs/phandalin/elsa.md), a anã
+bartender, sugere que
 talvez [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md) saiba de
 alguma coisa. "Ele é 'antigo' e sabe de muita coisa".
 

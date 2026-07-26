@@ -26,11 +26,16 @@
       que [Gundren](../characters/npcs/gundren_rockseeker.md) foi enviado para o
       **Castelo Cragmaw**
   * [Cena 3](../sessions/02_phandalin.md#cena-3-sildar)
-    * [Sildar](../characters/npcs/sildar_hallwinter.md) confirma que entendeu que
-      Gundren estaria sendo levado para o **Castelo Cragmaw**
+    * [Sildar](../characters/npcs/sildar_hallwinter.md) confirma que entendeu
+      que Gundren estaria sendo levado para o **Castelo Cragmaw**
   * [Cena 4](../sessions/02_phandalin.md#cena-4-interrogatório)
     * [Flip](../characters/npcs/cragmaw/flip.md) diz que
-      * o **Castelo Cragmaw** fica na [Floresta de Neverwinter](neverwinter_wood.md)
-      * nunca esteve lá, por isso não sabe sua localização 
+      * o **Castelo Cragmaw** fica
+        na [Floresta de Neverwinter](neverwinter_wood.md)
+      * nunca esteve lá, por isso não sabe sua localização
       * apenas [Klarg](../characters/npcs/cragmaw/klarg.md)
         tinha esta informação
+  * [Cena 7](../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
+    * [Elsa](../characters/npcs/phandalin/elsa.md) diz
+      que [Daran](../characters/npcs/phandalin/daran_edermath.md) talvez saiba
+      algo sobre a localização do **Castelo Cragmaw**

@@ -28,3 +28,5 @@
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
   * [Cena 7](../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
+    * [Elsa](elsa.md) diz que **Daran** talvez saiba algo sobre a localização
+      do [Castelo Cragmaw](../../../locations/cragmaw_castle.md)

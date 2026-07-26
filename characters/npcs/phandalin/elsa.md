@@ -30,3 +30,5 @@ _[Texto]_ :construction:
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
   * [Cena 7](../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
+    * diz que [Daran](daran_edermath.md) talvez saiba algo sobre a localização
+      do [Castelo Cragmaw](../../../locations/cragmaw_castle.md)
