@@ -16,7 +16,7 @@ _[Texto]_ :construction:
 
 ### Locais
 
-* [Gigante Adormecido](../locations/phandalin/gigante_adormecido.md)
+* [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
   * bar onde os **Redbrands** costuma frequentar
 
 ### Referências

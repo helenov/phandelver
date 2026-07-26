@@ -32,7 +32,6 @@
   * [Klarg](npcs/cragmaw/klarg.md) (RIP)
   * [Yeemik](npcs/cragmaw/yeemik.md)
   * [Flip](npcs/cragmaw/flip.md)
-    <br><br>
 
 #### Mencionados
 

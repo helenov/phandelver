@@ -24,7 +24,7 @@ _[Texto]_ :construction:
 
 * [Venda da Barthen](phandalin/barthens_provisions.md)
   * comércio de produtos e suprimentos básicos
-* [Gigante Adormecido](phandalin/gigante_adormecido.md)
+* [Gigante Adormecido](phandalin/sleeping_giant.md)
   * bar sujo e decadente nos limites da cidade
 
 ### Referências
