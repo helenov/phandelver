@@ -13,6 +13,8 @@
 
 * [Sildar Hallwinter](sildar_hallwinter.md)
   * amigo
+* [Elmina Barthen.md](phandalin/elmina_barthen.md)
+  * amiga e parceira de negócios
 
 <!--
 ### Organizações
@@ -55,3 +57,6 @@
       * **Gundren** foi enviado
         ao [Castelo Cragmaw](../../locations/cragmaw_castle.md)
       * foi um pedido de um certo [Spider](spider.md)
+  * [Cena 6](../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
+    * [Elmina](phandalin/elmina_barthen.md), que estava ansiosa por rever o
+      amigo, fica desolada ao saber de seu sequestro

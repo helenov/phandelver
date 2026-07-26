@@ -15,6 +15,8 @@ _[Texto]_ :construction:
   * funcionário
 * [Thistle](thistle.md)
   * funcionário
+* [Gundren Rockseeker](../gundren_rockseeker.md)
+  * amigo e fornecedor
 
 [//]: # (### Organizações)
 [//]: # ()
@@ -34,3 +36,5 @@ _[Texto]_ :construction:
   * [Cena 6](../../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
     * conhecem **Elmina**, proprietária
       da [Venda da Barthen](../../../locations/phandalin/barthens_provisions.md)
+    * ansiosa por notícias do amigo [Gundren](../gundren_rockseeker.md)
+      * lamenta profundamente a notícia de seu sequestro

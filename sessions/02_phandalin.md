@@ -40,8 +40,8 @@ _próxima_ : [Sessão 3 Redbrands]
 
 #### Mencionados
 
-* [Klarg](../characters/npcs/cragmaw/klarg.md) (RIP)
 * [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
+* [Klarg](../characters/npcs/cragmaw/klarg.md) (RIP)
 * [Grol](../characters/npcs/cragmaw/grol.md)
 * [Spider](../characters/npcs/spider.md)
 * [Ruxithid](../characters/npcs/ruxithid.md)
@@ -196,11 +196,12 @@ O grupo se apresenta e
 conhecem [Elmina Barthen](../characters/npcs/phandalin/elmina_barthen.md) a dona
 da loja e seus dois empregados, [Ander](../characters/npcs/phandalin/ander.md)
 e [Thistle](../characters/npcs/phandalin/thistle.md). Dizem que estão trazendo
-as provisões enviadas por [Gundren Rockseeker], ao que Elmina demonstra
-entusiasmo por notícias do amigo.
+as provisões enviadas
+por [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md), ao que
+Elmina demonstra ansiedade por ter notícias do amigo.
 
 Ao ser informada de que ele foi capturado por goblins na estrada, a jovem fica
-desolada, e que estava ansiosa para reencontrá-lo e saber mais sobre suas
+desolada, e diz que estava ansiosa para reencontrá-lo e saber mais sobre suas
 descobertas recentes. Ela não tem ideia do que seriam, mas que devem ter relação
 com as minas.
 
