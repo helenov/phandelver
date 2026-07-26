@@ -17,6 +17,8 @@ _[Texto]_ :construction:
   * frequentadora e tecelã 
 * [Lanar](../../characters/npcs/phandalin/lanar.md)
   * frequentador e minerador 
+* [Elsa](../../characters/npcs/phandalin/elsa.md)
+  * bartender
 
 [//]: # (### Organizações)
 [//]: # ()

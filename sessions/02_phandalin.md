@@ -42,6 +42,7 @@ _próxima_ : [Sessão 3 Redbrands]
   da hospedaria
   * [Freda](../characters/npcs/phandalin/freda.md), tecelã
   * [Lanar](../characters/npcs/phandalin/lanar.md), minerador
+  * [Elsa](../characters/npcs/phandalin/elsa.md), bartender da hospedaria
 
 #### Mencionados
 

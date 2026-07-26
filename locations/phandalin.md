@@ -24,6 +24,7 @@ _[Texto]_ :construction:
   da hospedaria
   * [Freda](../characters/npcs/phandalin/freda.md), tecelã
   * [Lanar](../characters/npcs/phandalin/lanar.md), minerador
+  * [Elsa](../characters/npcs/phandalin/elsa.md), bartender da hospedaria
 
 [//]: # (### Organizações)
 [//]: # ()
