@@ -33,6 +33,6 @@ _[Texto]_ :construction:
   * [Cena 6](../../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
     * funcionário
       da [Venda da Barthen](../../../locations/phandalin/barthens_provisions.md)
-    * pondera que os ataques
+    * sugere que os ataques
       na [Estrada Triboar](../../../locations/triboar_trail.md) podem ter
-      relação com os [Redbrands]
+      relação com os [Redbrands](../../../organizations/redbrands.md)
