@@ -12,10 +12,17 @@ bugbear chamado **Klarg** e tem ordens para saquear quaisquer caravanas ou
 viajantes mal defendidos que passem
 pela [Estrada Triboar](../../../locations/triboar_trail.md).
 
-Recentemente recebeu instruções
+Recentemente havia recebido instruções
 do [Castelo Cragmaw](../../../locations/cragmaw_castle.md) para capturar o
-anão [Gundren Rockseeker](../gundren_rockseeker.md) e o que mais estiver com
+anão [Gundren Rockseeker](../gundren_rockseeker.md) e o que mais estivesse com
 ele.
+
+Ao capturar Gundren juntamente com seu amigo humano, enviou prontamente o anão
+para o Castelo Gragmaw, mas manteve [Sildar](../sildar_hallwinter.md), com a
+intenção de negociar algum tipo de resgate.
+
+Mas antes que isso fosse possível, o grupo invadiu seu esconderijo, e, após
+negociar com o traidor [Yeemik](yeemik.md), o atacaram covardemente e o mataram.
 <br clear="left"/>
 
 ### Associações
