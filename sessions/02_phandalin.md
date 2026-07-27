@@ -47,8 +47,10 @@ _próxima_ : [Sessão 3 Redbrands]
   * [Lanar](../characters/npcs/phandalin/stonehill/lanar.md), minerador
   * [Elsa](../characters/npcs/phandalin/stonehill/elsa.md), bartender da
     hospedaria
-  * [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md), filho de
+  * [Pip Stonehill](../characters/npcs/phandalin/stonehill/pip_stonehill.md), filho de
     Toblen
+* [Carp Alderleaf](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md),
+  amiga de Pip
 
 #### Mencionados
 
@@ -458,17 +460,19 @@ entrar [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md), o filho
 do estalajadeiro, com uma menina halfling, que está tagarelando, contando de
 como escapou "por muito pouco dos bandidos malvados".
 
-Sapão chama as crianças e pergunta sobre o que foi que ela viu. [Carp], a
-garota, fica deslumbrada com os "grandes heróis" e quer saber de suas aventuras.
+Sapão chama as crianças e pergunta sobre o que foi que ela
+viu. [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md), a garota,
+fica deslumbrada com os "grandes heróis" e quer saber de suas aventuras.
 "Um dia, quando eu for maior, também serei uma grande aventureira, e conhecerei
 o mundo, e lutarei contra dragões. Vocês já devem ter matado um dragão, né? E
 encontrarei grandes tesouros, e..."
 
 Trazendo a menina de volta a realidade, pedem para ela contar de sua aventura na
 floresta. Ele então conta com empolgação sobre como estava brincando de aventura
-na floresta que fica atrás da fazenda onde mora com sua mãe, e como encontrou um
-"túnel secreto, que fica escondido atrás de arbustos e pedras". Mas bem na hora
-que estava começando a entrar para explorar, viu que alguns bandidos estavam
+na floresta que fica atrás da fazenda onde mora com sua mãe, e ao sul
+da [Mansão Tresendar], e como encontrou um "túnel secreto, que fica escondido
+atrás de uns arbustos e pedras". Mas bem na hora que estava começando a entrar
+para explorar, viu que alguns bandidos de capa vermelha, os [Redbrands], estavam
 vindo lá de dentro, mas ela conseguiu se esconder e "por um triz eles não me
 viram".
 

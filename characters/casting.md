@@ -31,7 +31,9 @@
     * [Freda](npcs/phandalin/stonehill/freda.md), tecelã
     * [Lanar](npcs/phandalin/stonehill/lanar.md), minerador
     * [Elsa](npcs/phandalin/stonehill/elsa.md), bartender da hospedaria
-    * [Pip](npcs/phandalin/stonehill/pip_stonehill.md), filho de Toblen
+    * [Pip Stonehill](npcs/phandalin/stonehill/pip_stonehill.md), filho de Toblen
+  * [Qelline Alderleaf], fazendeira
+    * [Carp Alderleaf](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md), filha de Qelline
 
 #### Inimigos
 

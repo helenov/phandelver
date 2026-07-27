@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Pip Stonehill, <small>_humano_</small>
+## Carp Alderleaf, <small>_halfling_</small>
 
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
@@ -11,8 +11,7 @@ _[Texto]_ :construction:
 
 ### Relações
 
-* [Toblen Stonehill](toblen_stonehill.md), pai
-* [Carp Alderleaf](../alderleaf/carp_alderleaf.md), amiga
+* [Pip](../stonehill/pip_stonehill.md), amigo
 
 [//]: # (### Organizações)
 [//]: # ()
@@ -21,13 +20,17 @@ _[Texto]_ :construction:
 ### Locais
 
 * [Phandalin](../../../../locations/phandalin.md), morador
-* [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md), filho do dono
+* [Fazenda Alderleaf], moradora
 
 ### Referências
 
 * [Sessão 2 Phandalin](../../../../sessions/02_phandalin.md)
   * [Cena 8](../../../../sessions/02_phandalin.md#cena-8-pip)
-    * diz que [Carp] quase foi capturada por bandidos - provavelmente
+    * [Pip](../stonehill/pip_stonehill.md) diz que **Carp** quase foi capturada
+      por bandidos - provavelmente
       os [Redbrands](../../../../organizations/redbrands.md)
   * [Cena 13](../../../../sessions/02_phandalin.md#cena-13-carp)
-    * acompanha [Carp] na conversa com o grupo
+    * conta como
+      * encontrou um "túnel secreto" na floresta ao sul da [Mansão Tresendar]
+      * quase foi vista pelos bandidos de capa vermelha,
+        os [Redbrands](../../../../organizations/redbrands.md)
