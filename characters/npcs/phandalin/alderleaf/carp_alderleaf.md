@@ -11,6 +11,7 @@ _[Texto]_ :construction:
 
 ### Relações
 
+* [Qelline Alderleaf], mãe
 * [Pip](../stonehill/pip_stonehill.md), amigo
 
 [//]: # (### Organizações)
@@ -20,7 +21,8 @@ _[Texto]_ :construction:
 ### Locais
 
 * [Phandalin](../../../../locations/phandalin.md), morador
-* [Fazenda Alderleaf], moradora
+  * [Fazenda Alderleaf](../../../../locations/phandalin/alderleaf_farm.md),
+    moradora
 
 ### Referências
 
