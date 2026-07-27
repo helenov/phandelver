@@ -26,3 +26,9 @@ _[Texto]_ :construction:
     * grupo reconhece o brasão nos trajes
       de [Sildar](../characters/npcs/sildar_hallwinter.md) como sendo da
       **Lords' Alliance**
+      <br><br>
+* [Sessão 2 Phandalin](../sessions/02_phandalin.md)
+  * [Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath)
+    * [Daran] mencionada que a **Lords' Alliance** deveria ter mandado um
+      representante há tempos
+      * fica feliz em saber que [Sildar] chegou

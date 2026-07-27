@@ -355,7 +355,8 @@ coisas assim".
 
 Daran explicou que a cidade, na realidade, não tem um governo oficial: a vila
 elege um "prefeito" anualmente, que atua como juiz em disputas pequenas e mantém
-os registros mais importantes. "A [Lords' Alliance] já deveria ter enviado
+os registros mais importantes.
+"A [Lords' Alliance](../organizations/lords_alliance.md) já deveria ter enviado
 alguém para a cidade faz tempo!". Quando o grupo menciona _[Sildar]_ que chegou
 com eles, o ranzinza Daran demonstra pela primeira vez algo parecido com
 alegria: "Antes tarde do que nunca!"
