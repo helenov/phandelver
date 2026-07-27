@@ -27,14 +27,15 @@ _[Texto]_ :construction:
   * [Lanar](../characters/npcs/phandalin/stonehill/lanar.md), minerador
   * [Elsa](../characters/npcs/phandalin/stonehill/elsa.md), bartender da
     hospedaria
-  * [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md),
-    filho de Toblen
+  * [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md), filho de
+    Toblen
 
 #### Mencionados
 
 * [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), mestre da
   guilda dos mineradores
-* [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do pomar
+* [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do
+  pomar
 
 [//]: # (### Organizações)
 [//]: # ()
@@ -42,12 +43,18 @@ _[Texto]_ :construction:
 
 ### Locais
 
-* [Venda da Barthen](phandalin/barthens_provisions.md)
-  * comércio de produtos e suprimentos básicos
-* [Hospedaria Stonehill](phandalin/stonehill_inn.md)
-  * hospedaria e ponto de encontro dos moradores
-* [Gigante Adormecido](phandalin/sleeping_giant.md)
-  * bar sujo e decadente nos limites da cidade
+* [Venda da Barthen](phandalin/barthens_provisions.md), comércio de produtos e
+  suprimentos básicos
+* [Hospedaria Stonehill](phandalin/stonehill_inn.md), hospedaria e ponto de
+  encontro dos moradores
+* [Gigante Adormecido](phandalin/sleeping_giant.md), bar sujo e decadente nos
+  limites da cidade
+* [Entreposto dos Mineradores](phandalin/miners_exchange.md), guilda dos
+  mineradores
+  * [Trilha dos Mineradores](phandalin/miners_trail.md), trilha para as montanhas
+    e as minas
+* [Fazenda Alderleaf](phandalin/alderleaf_farm.md), fazenda nos limites da
+  cidade
 
 ### Referências
 
