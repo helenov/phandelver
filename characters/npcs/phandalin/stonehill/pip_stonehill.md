@@ -21,13 +21,14 @@ _[Texto]_ :construction:
 ### Locais
 
 * [Phandalin](../../../../locations/phandalin.md), morador
-  * [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md), filho do dono
+  * [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md),
+    filho do dono
 
 ### Referências
 
 * [Sessão 2 Phandalin](../../../../sessions/02_phandalin.md)
   * [Cena 8](../../../../sessions/02_phandalin.md#cena-8-pip)
-    * diz que [Carp] quase foi capturada por bandidos - provavelmente
-      os [Redbrands](../../../../organizations/redbrands.md)
+    * diz que [Carp](../alderleaf/carp_alderleaf.md) quase foi capturada
+      pelos [Redbrands](../../../../organizations/redbrands.md)
   * [Cena 13](../../../../sessions/02_phandalin.md#cena-13-carp)
-    * acompanha [Carp] na conversa com o grupo
+    * acompanha [Carp](../alderleaf/carp_alderleaf.md) na conversa com o grupo

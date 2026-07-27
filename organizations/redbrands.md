@@ -36,8 +36,7 @@ _[Texto]_ :construction:
   * [Cena 8](../sessions/02_phandalin.md#cena-8-pip)
     * [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md)
       diz que [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md)
-      quase foi capturada pelos **Redbrands** 
+      quase foi capturada pelos **Redbrands**
   * [Cena 13](../../../../sessions/02_phandalin.md#cena-13-carp)
-    * [Carp] conta sobre 
-      * o "túnel secreto" na floresta ao sul da [Mansão Tresendar]
-      * como quase foi  vista pelos **Redbrands** no local
+    * [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) conta
+      sobre como quase foi vista pelos **Redbrands**
