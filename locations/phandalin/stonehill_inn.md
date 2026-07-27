@@ -26,7 +26,8 @@ _[Texto]_ :construction:
 ### Locais
 
 * [Phandalin](../phandalin.md)
-  * a **Hospedaria Stonehill** está localizada log na entrada aa praça central da cidade
+  * a **Hospedaria Stonehill** está localizada logo na entrada da praça 
+    central da cidade
 
 ### Referências
 

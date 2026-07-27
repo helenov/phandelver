@@ -393,8 +393,9 @@ combinar os detalhes mais tarde.
 
 _[Imagem]_ :construction:
 
-Ao chegarem a porta do prédio da "_[Prefeitura]_" - na verdade, a casa do
-prefeito [Harbin Weber](../characters/npcs/phandalin/harbin_wester.md) - a
+Ao chegarem a porta do prédio
+da [Prefeitura](../locations/phandalin/townmasters_hall.md) - na verdade, a casa
+do prefeito [Harbin Weber](../characters/npcs/phandalin/harbin_wester.md) - a
 primeira coisa que veem é o cartaz pregado ao lado da porta.
 
 > A prefeitura de Phandalin procura por bravos voluntários que capturem os

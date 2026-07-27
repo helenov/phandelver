@@ -55,6 +55,7 @@ _[Texto]_ :construction:
 * [Hospedaria Stonehill](phandalin/stonehill_inn.md), hospedaria e ponto de
   encontro dos moradores
 * [Pomar Edermath](phandalin/edermath_orchard.md), pomar de maçãs
+* [Prefeitura](phandalin/townmasters_hall.md), sede da administração
 
 #### Mencionados
 
