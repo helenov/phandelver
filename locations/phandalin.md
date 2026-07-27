@@ -55,6 +55,7 @@ _[Texto]_ :construction:
     e as minas
 * [Fazenda Alderleaf](phandalin/alderleaf_farm.md), fazenda nos limites da
   cidade
+* [Mansão Tresendar](phandalin/tresendar_manor.md), ruínas da velha mansão
 
 ### Referências
 
