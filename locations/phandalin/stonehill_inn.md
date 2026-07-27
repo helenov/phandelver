@@ -16,6 +16,8 @@ _[Texto]_ :construction:
 * [Freda](../../characters/npcs/phandalin/stonehill/freda.md), frequentadora
 * [Lanar](../../characters/npcs/phandalin/stonehill/lanar.md), frequentador
 * [Elsa](../../characters/npcs/phandalin/stonehill/elsa.md), bartender
+* [Pip](../../characters/npcs/phandalin/stonehill/pip_stonehill.md),
+  filho de Toblen
 
 [//]: # (### Organizações)
 [//]: # ()

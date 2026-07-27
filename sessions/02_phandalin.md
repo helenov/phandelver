@@ -47,8 +47,8 @@ _próxima_ : [Sessão 3 Redbrands]
   * [Lanar](../characters/npcs/phandalin/stonehill/lanar.md), minerador
   * [Elsa](../characters/npcs/phandalin/stonehill/elsa.md), bartender da
     hospedaria
-  * [Pip](../characters/npcs/phandalin/stonehill/phillip_pip_stonehill.md),
-    filho de Toblen
+  * [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md), filho de
+    Toblen
 
 #### Mencionados
 
@@ -294,12 +294,15 @@ _[Imagem]_ :construction:
 
 A noite passa tranquila e no dia seguinte, enquanto tomam o café da manhã, e
 pensam sobre o que farão a seguir, um garoto de cerca de 10 anos entra correndo
-no salão, chamando: "Papai! Papai! A [Carp] disse que quase foi pega por uns
-bandidos. Ela encontrou alguma coisa na floresta!  Posso ir lá explorar com
-ela?"
+no salão, chamando: "Papai! Papai!
+A [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) disse que
+quase foi pega por uns bandidos. Ela encontrou alguma coisa na floresta!  Posso
+ir lá explorar com ela?"
 
-\"Já disse para vocês ficarem longe destes bandidos, [Pip]! Você viu o que houve
-com a família do carpinteiro? Vocês ainda vão arrumar confusão pra gente!"
+\"Já disse para vocês ficarem longe destes
+bandidos, [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md)!
+Você viu o que houve com a família do carpinteiro? Vocês ainda vão arrumar
+confusão pra gente!"
 
 ---
 
@@ -450,9 +453,10 @@ deixou o lugar - teriam sido levados? - sem preparativos.
 
 _[Imagem]_ :construction:
 
-De volta a [hospedaria], para almoçar e discutir o que fazer, vêem entrar [Pip],
-o filho do estalajadeiro, com uma menina halfling, que está tagarelando,
-contando de como escapou "por muito pouco dos bandidos malvados".
+De volta a [hospedaria], para almoçar e discutir o que fazer, vêem
+entrar [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md), o filho
+do estalajadeiro, com uma menina halfling, que está tagarelando, contando de
+como escapou "por muito pouco dos bandidos malvados".
 
 Sapão chama as crianças e pergunta sobre o que foi que ela viu. [Carp], a
 garota, fica deslumbrada com os "grandes heróis" e quer saber de suas aventuras.

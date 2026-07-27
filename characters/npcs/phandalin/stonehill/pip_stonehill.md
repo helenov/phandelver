@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Toblen Stonehill, <small>_humano_</small>
+## Pip Stonehill, <small>_humano_</small>
 
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
@@ -11,7 +11,7 @@ _[Texto]_ :construction:
 
 ### Relações
 
-* [Pip](pip_stonehill.md), filho
+* [Toblen Stonehill](toblen_stonehill.md), pai
 
 [//]: # (### Organizações)
 [//]: # ()
@@ -20,13 +20,13 @@ _[Texto]_ :construction:
 ### Locais
 
 * [Phandalin](../../../../locations/phandalin.md), morador
-* [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md),
-  proprietário e gerente
+* [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md), filho do dono
 
 ### Referências
 
 * [Sessão 2 Phandalin](../../../../sessions/02_phandalin.md)
-  * [Cena 7](../../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
-    * chegando
-      a [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md),
-      o grupo é recebido por **Toblen**, o proprietário
+  * [Cena 8](../../../../sessions/02_phandalin.md#cena-8-pip)
+    * diz que [Carp] quase foi capturada por bandidos - provavelmente
+      os [Redbrands](../../../../organizations/redbrands.md)
+  * [Cena 13](../../../../sessions/02_phandalin.md#cena-13-carp)
+    * acompanha [Carp] na conversa com o grupo

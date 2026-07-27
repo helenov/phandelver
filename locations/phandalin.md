@@ -27,6 +27,8 @@ _[Texto]_ :construction:
   * [Lanar](../characters/npcs/phandalin/stonehill/lanar.md), minerador
   * [Elsa](../characters/npcs/phandalin/stonehill/elsa.md), bartender da
     hospedaria
+  * [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md),
+    filho de Toblen
 
 #### Mencionados
 

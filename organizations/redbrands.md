@@ -34,5 +34,5 @@ _[Texto]_ :construction:
       não incomodam [Halia](../characters/npcs/phandalin/halia_thornton.md)
       do [Entreposto dos Mineradores](../locations/phandalin/miners_exchange.md)
   * [Cena 8](../sessions/02_phandalin.md#cena-8-pip)
-    * [Pip](../characters/npcs/phandalin/stonehill/phillip_pip_stonehill.md)
+    * [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md)
       diz que [Carp] quase foi capturada pelos **Redbrands** 
