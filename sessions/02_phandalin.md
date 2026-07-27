@@ -322,8 +322,9 @@ Após discutir um pouco sobre os próximos passos, o grupo decide procurar o tal
 [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md) que poderia ter
 informações sobre a localização
 do [Castelo Cragmaw](../locations/cragmaw_castle.md). Se informam na hospedaria
-que ele é um velho que cuida do pomar de maçãs que fica no limite oeste da
-cidade.
+que ele é um velho que cuida
+do [pomar de maçãs](../locations/phandalin/edermath_orchard.md) que fica no
+limite noroeste da cidade.
 
 Chegando ao local - um pequeno chalé ao lado de um velho pomar de macieiras
 coberto de mato e hera. Um velho está de costas para eles cortando e arrancando

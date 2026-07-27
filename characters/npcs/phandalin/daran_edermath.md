@@ -20,7 +20,8 @@
 ### Locais
 
 * [Phandalin](../../../locations/phandalin.md), morador
-  * _[Pomar Edermath]_, proprietário
+  * [Pomar Edermath](../../../locations/phandalin/edermath_orchard.md),
+    proprietário
 
 ### Referências
 

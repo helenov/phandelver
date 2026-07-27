@@ -53,6 +53,10 @@ _[Texto]_ :construction:
   suprimentos básicos
 * [Hospedaria Stonehill](phandalin/stonehill_inn.md), hospedaria e ponto de
   encontro dos moradores
+* [Pomar Edermath](phandalin/edermath_orchard.md), pomar de maçãs
+
+#### Mencionados
+
 * [Gigante Adormecido](phandalin/sleeping_giant.md), bar sujo e decadente nos
   limites da cidade
 * [Entreposto dos Mineradores](phandalin/miners_exchange.md), guilda dos
