@@ -11,24 +11,20 @@ _[Texto]_ :construction:
 
 ### Personagens
 
-* [Toblen](../../characters/npcs/phandalin/stonehill/toblen_stonehill.md)
-  * proprietário e gerente
-* [Freda](../../characters/npcs/phandalin/stonehill/freda.md)
-  * frequentadora e tecelã 
-* [Lanar](../../characters/npcs/phandalin/stonehill/lanar.md)
-  * frequentador e minerador 
-* [Elsa](../../characters/npcs/phandalin/stonehill/elsa.md)
-  * bartender
+* [Toblen](../../characters/npcs/phandalin/stonehill/toblen_stonehill.md),
+  proprietário e gerente
+* [Freda](../../characters/npcs/phandalin/stonehill/freda.md), frequentadora
+* [Lanar](../../characters/npcs/phandalin/stonehill/lanar.md), frequentador
+* [Elsa](../../characters/npcs/phandalin/stonehill/elsa.md), bartender
 
 [//]: # (### Organizações)
 [//]: # ()
-[//]: # (* _[Organização]_)
-[//]: # (  * _[detalhe]_)
+[//]: # (* _[Organização]_, _[detalhe]_)
 
 ### Locais
 
 * [Phandalin](../phandalin.md)
-  * a hospedaria está localizada log na entrada aa praça central da cidade
+  * a **Hospedaria Stonehill** está localizada log na entrada aa praça central da cidade
 
 ### Referências
 

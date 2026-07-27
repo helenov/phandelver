@@ -9,19 +9,13 @@
 [//]: # (_[Texto]_ :construction:)
 [//]: # (<br clear="left"/>)
 
-<!--
-### Personagens
+[//]: # (### Personagens)
+[//]: # ()
+[//]: # (* _[Character]_, _[detalhe]_)
 
-* _[Character]_
-  * _[detalhe]_
--->
-
-<!--
-### Organizações
-
-* _[Organização]_
-  * _[detalhe]_
--->
+[//]: # (### Organizações)
+[//]: # ()
+[//]: # (* _[Organização]_, _[detalhe]_)
 
 ### Locais
 

@@ -11,13 +11,11 @@ _[Texto]_ :construction:
 
 ### Personagens
 
-* _[Character]_
-  * _[detalhe]_
+* _[Character]_, _[detalhe]_
 
 ### Organizações
 
-* _[Organização]_
-  * _[detalhe]_
+* _[Organização]_, _[detalhe]_
 
 ### Locais
 

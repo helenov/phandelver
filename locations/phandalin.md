@@ -11,39 +11,39 @@ _[Texto]_ :construction:
 
 ### Personagens
 
-* [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
-  * representante enviado
-    pela [Lords' Alliance](../organizations/lords_alliance.md)
+* [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md), representante
+  da [Lords' Alliance](../organizations/lords_alliance.md)
+  <br><br>
+* [Elmina Barthen](../characters/npcs/phandalin/barthens/elmina_barthen.md),
+  dona da venda
+  * [Ander](../characters/npcs/phandalin/barthens/ander.md), funcionário da
+    venda
+  * [Thistle](../characters/npcs/phandalin/barthens/thistle.md), funcionário da
+    venda
     <br><br>
-* [Elmina Barthen](../characters/npcs/phandalin/barthens/elmina_barthen.md), dona da
-  venda
-  * [Ander](../characters/npcs/phandalin/barthens/ander.md), funcionário da venda
-  * [Thistle](../characters/npcs/phandalin/barthens/thistle.md), funcionário da venda
-    <br><br>
-* [Toblen Stonehill](../characters/npcs/phandalin/stonehill/toblen_stonehill.md), dono
-  da hospedaria
+* [Toblen Stonehill](../characters/npcs/phandalin/stonehill/toblen_stonehill.md),
+  dono da hospedaria
   * [Freda](../characters/npcs/phandalin/stonehill/freda.md), tecelã
   * [Lanar](../characters/npcs/phandalin/stonehill/lanar.md), minerador
-  * [Elsa](../characters/npcs/phandalin/stonehill/elsa.md), bartender da hospedaria
+  * [Elsa](../characters/npcs/phandalin/stonehill/elsa.md), bartender da
+    hospedaria
 
 #### Mencionados
 
-* [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md)
-  * mestre da guilda dos mineiradores
-* [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md)
-  * velho do pomar
+* [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), mestre da
+  guilda dos mineradores
+* [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do pomar
 
 [//]: # (### Organizações)
 [//]: # ()
-[//]: # (* _[Organização]_)
-[//]: # (  * _[detalhe]_)
+[//]: # (* _[Organização]_, _[detalhe]_)
 
 ### Locais
 
 * [Venda da Barthen](phandalin/barthens_provisions.md)
   * comércio de produtos e suprimentos básicos
 * [Hospedaria Stonehill](phandalin/stonehill_inn.md)
-  * hospedaria e ponto de encontro dos moradores no final do dia
+  * hospedaria e ponto de encontro dos moradores
 * [Gigante Adormecido](phandalin/sleeping_giant.md)
   * bar sujo e decadente nos limites da cidade
 
@@ -56,5 +56,6 @@ _[Texto]_ :construction:
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
   * [Cena 5](../sessions/02_phandalin.md#cena-5-phandalin)
     * grupo chega a **Phandalin**
-  * [Cena 8](../sessions/02_phandalin.md#cena-8-pomar-edermath)
-    * [Daran] explica sobre (des)organização política da cidade
+
+[//]: # (  * [Cena 9]&#40;../sessions/02_phandalin.md#cena-9-pomar-edermath&#41;)
+[//]: # (    * [Daran] explica sobre &#40;des&#41;organização política da cidade)

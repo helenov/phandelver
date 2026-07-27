@@ -11,19 +11,18 @@
 
 ### Personagens
 
-* [Halia Thornton](../../characters/npcs/phandalin/halia_thornton.md)
-  * mestre da guilda
+* [Halia Thornton](../../characters/npcs/phandalin/halia_thornton.md), mestre da
+  guilda
 
 [//]: # (### Organizações)
 [//]: # ()
-[//]: # (* _[Organização]_)
-[//]: # (  * _[detalhe]_)
+[//]: # (* _[Organização]_, _[detalhe]_)
 
 ### Locais
 
 * [Phandalin](../phandalin.md)
-  * o entreposto fica próximo ao limite sul da cidade, no início
-    da [Trilha dos Mineradores](miners_trail.md)
+  * o **Entreposto dos Mineradores** fica próximo ao limite sul da cidade, no
+    início da [Trilha dos Mineradores](miners_trail.md)
 
 ### Referências
 

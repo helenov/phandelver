@@ -11,8 +11,7 @@ _[Texto]_ :construction:
 
 [//]: # (### Personagens)
 [//]: # ()
-[//]: # (* _[Character]_)
-[//]: # (  * _[detalhe]_)
+[//]: # (* _[Character]_, _[detalhe]_)
 
 ### Organizações
 
@@ -22,7 +21,7 @@ _[Texto]_ :construction:
 ### Locais
 
 * [Phandalin](../phandalin.md)
-  * o bar está localizado no limite leste da cidade
+  * o **Gigante Adormecido** está localizado no limite leste da cidade
 
 ### Referências
 

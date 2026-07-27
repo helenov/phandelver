@@ -16,12 +16,9 @@ _[Texto]_ :construction:
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
   * primeiro encontro
 
-<!--
-### Organizações
-
-* _[Organização]_
-  * _[detalhe]_
--->
+[//]: # (### Organizações)
+[//]: # ()
+[//]: # (* _[Organização]_, _[detalhe]_)
 
 ### Locais
 

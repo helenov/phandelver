@@ -13,12 +13,14 @@ _[Texto]_ :construction:
 
 * goblins
 
-<!--
-### Organizações
+[//]: # (### Organizações)
+[//]: # ()
+[//]: # (* _[Organização]_, _[detalhe]_)
 
-* _[Organização]_
-  * _[detalhe]_
--->
+[//]: # (### Locais)
+[//]: # ()
+[//]: # (* _[Local]_)
+[//]: # (  * _[detalhe]_)
 
 ### Referências
 
