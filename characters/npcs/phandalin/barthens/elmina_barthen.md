@@ -3,7 +3,7 @@
 ## Elmina Barthen, <small>_humana_</small>
 
 <!-- @formatter:off -->
-<img alt="[Elmina Barthen]" src="../../../../images/characters/phandalin/elmina_barthen.png" style="width:200px; margin-right: 15px; float: left" />
+<img alt="Elmina Barthen" src="../../../../images/characters/phandalin/elmina_barthen.png" style="width:200px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
 A proprietária
@@ -16,7 +16,7 @@ se tratavam "mas deve ter relação com as minas perdidas que eles têm procurad
 e ficou extremamente abalada com a notícia de seu sequestro.
 
 Segundo ela os irmãos Rockseeker vivem acampados nas montanhas fora da cidade,
-sempre mudando de lugar em suas explorações da região, mas vêm a vila com
+sempre mudando de lugar em suas explorações da região, mas vêm a cidade com
 frequência para se reabastecer de suprimentos. "A última vez que estiveram por
 aqui já tem uns dez dias, provavelmente devem aparecer em um dia ou dois"
 <br clear="left"/>

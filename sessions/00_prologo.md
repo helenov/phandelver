@@ -42,8 +42,8 @@ um anão mercador, sabendo que o grupo estava
 em [Neverwinter](../locations/neverwinter.md), mandou um recado combinando um
 encontro em uma conhecida taverna.
 
-No horário combinado, o grupo já se encontra na taverna quando vem entrar o anão
-que já conhecem acompanhando de um homem alto, já de meia-idade, mas ainda
+No horário combinado, o grupo já se encontra na taverna quando veem entrar o
+anão que já conhecem acompanhando de um homem alto, já de meia-idade, mas ainda
 forte. O homem aparenta ser um militar e carrega uma insignia
 da [Lords' Alliance](../organizations/lords_alliance.md).
 

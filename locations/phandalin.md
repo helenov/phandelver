@@ -68,4 +68,4 @@ _[Texto]_ :construction:
     * grupo chega a **Phandalin**
 
 [//]: # (  * [Cena 9]&#40;../sessions/02_phandalin.md#cena-9-pomar-edermath&#41;)
-[//]: # (    * [Daran] explica sobre &#40;des&#41;organização política da cidade)
+[//]: # (    * _[Daran]_ explica sobre &#40;des&#41;organização política da cidade)
