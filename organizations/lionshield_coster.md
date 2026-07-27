@@ -19,8 +19,8 @@ _[Texto]_ :construction:
 [//]: # (* _[Local]_)
 [//]: # (  * _[detalhe]_)
 
-[//]: # (### Referências)
-[//]: # ()
-[//]: # (* _[Sessão]_)
-[//]: # (  * _[Cena]_)
-[//]: # (    * _[detalhe]_)
+### Referências
+
+* [Sessão 1 Goblins](../sessions/01_goblins.md)
+  * [Cena 5](../sessions/01_goblins.md#cena-5-klarg)
+    * brasão da **Lionshield Coster** está em boa parte da carga roubada 
