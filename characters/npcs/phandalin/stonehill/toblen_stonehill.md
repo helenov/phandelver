@@ -20,8 +20,8 @@ _[Texto]_ :construction:
 ### Locais
 
 * [Phandalin](../../../../locations/phandalin.md), morador
-* [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md),
-  proprietário e gerente
+  * [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md),
+    proprietário e gerente
 
 ### Referências
 

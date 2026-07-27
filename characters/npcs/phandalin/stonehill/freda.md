@@ -20,8 +20,8 @@ _[Texto]_ :construction:
 ### Locais
 
 * [Phandalin](../../../../locations/phandalin.md), moradora e tecelã
-* [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md),
-  frequentadora
+  * [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md),
+    frequentadora
 
 ### Referências
 

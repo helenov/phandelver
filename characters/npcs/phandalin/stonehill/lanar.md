@@ -20,8 +20,8 @@ _[Texto]_ :construction:
 ### Locais
 
 * [Phandalin](../../../../locations/phandalin.md), morador e minerador
-* [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md),
-  frequentador
+  * [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md),
+    frequentador
 
 ### Referências
 

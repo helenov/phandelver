@@ -20,7 +20,8 @@ _[Texto]_ :construction:
 ### Locais
 
 * [Phandalin](../../../../locations/phandalin.md), moradora
-* [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md), bartender
+  * [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md), 
+    bartender
 
 ### Referências
 

@@ -20,7 +20,7 @@ _[Texto]_ :construction:
 ### Locais
 
 * [Phandalin](../../../../locations/phandalin.md), morador
-* [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md), funcionário
+  * [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md), funcionário
 
 ### Referências
 

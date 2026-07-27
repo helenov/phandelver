@@ -20,8 +20,8 @@
 ### Locais
 
 * [Phandalin](../../../locations/phandalin.md), morador
-* [Entreposto dos Mineradores](../../../locations/phandalin/miners_exchange.md),
-  mestre da guilda
+  * [Entreposto dos Mineradores](../../../locations/phandalin/miners_exchange.md),
+    mestre da guilda
 
 ### Referências
 

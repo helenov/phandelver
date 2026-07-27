@@ -21,7 +21,7 @@ _[Texto]_ :construction:
 ### Locais
 
 * [Phandalin](../../../../locations/phandalin.md), morador
-* [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md), filho do dono
+  * [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md), filho do dono
 
 ### Referências
 

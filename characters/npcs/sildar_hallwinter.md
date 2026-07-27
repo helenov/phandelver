@@ -22,7 +22,7 @@
 * [Neverwinter](../../locations/phandalin.md), cidade de origem
 * [Phandalin](../../locations/phandalin.md), representante
   da [Lords' Alliance](../../organizations/lords_alliance.md)
-* [Hospedaria Stonehill](../../locations/phandalin/stonehill_inn.md), hóspede
+  * [Hospedaria Stonehill](../../locations/phandalin/stonehill_inn.md), hóspede
 
 ### Referências
 
