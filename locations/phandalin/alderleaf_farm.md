@@ -11,7 +11,8 @@ _[Texto]_ :construction:
 
 ### Personagens
 
-* [Qelline Alderleaf], fazendeira
+* [Qelline Alderleaf](../../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md),
+  fazendeira
 * [Carp Alderleaf](../../characters/npcs/phandalin/alderleaf/carp_alderleaf.md),
   moradora
 
@@ -28,4 +29,5 @@ _[Texto]_ :construction:
 
 * [Cena 13](../../../../sessions/02_phandalin.md#cena-13-carp)
   * [Carp](../../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) menciona
-    a fazenda onde mora
+    a **fazenda** onde mora com a
+    mãe, [Qelline](../../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md)

@@ -70,6 +70,7 @@ _próxima_ : [Sessão 3 Redbrands]
     guilda dos mineiradores
   * [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do
     pomar
+  * [Qelline Alderleaf](../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md), fazendeira
 
 ### Cenários
 
@@ -81,8 +82,10 @@ _próxima_ : [Sessão 3 Redbrands]
 #### Mencionados
 
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
-* [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
-* [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md)
+* [Phandalin](../locations/phandalin.md)
+  * [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
+  * [Entreposto dos Mineradores](../locations/phandalin/miners_exchange.md)
+  * [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md)
 
 ---
 
@@ -472,11 +475,12 @@ Trazendo a menina de volta a realidade, pedem para ela contar de sua aventura na
 floresta. Ele então conta com empolgação sobre como estava brincando de aventura
 na floresta que fica atrás
 da [fazenda](../locations/phandalin/alderleaf_farm.md) onde mora com sua
-mãe, [Qelline], e ao sul da [Mansão Tresendar], e como encontrou um "túnel
-secreto, que fica escondido atrás de uns arbustos e pedras". Mas bem na hora que
-estava começando a entrar para explorar, viu que alguns bandidos de capa
-vermelha, os [Redbrands], estavam vindo lá de dentro, mas ela conseguiu se
-esconder e "por um triz eles não me viram".
+mãe, [Qelline](../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md), e
+ao sul da [Mansão Tresendar], e como encontrou um "túnel secreto, que fica
+escondido atrás de uns arbustos e pedras". Mas bem na hora que estava começando
+a entrar para explorar, viu que alguns bandidos de capa vermelha,
+os [Redbrands], estavam vindo lá de dentro, mas ela conseguiu se esconder e "por
+um triz eles não me viram".
 
 "Posso levar vocês lá, se vocês quiserem. O lugar é perigoso, mas vocês são
 heróis corajosos, e não têm medo de bandidos malvados. Ah! Também vi um goblins
