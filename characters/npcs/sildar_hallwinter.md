@@ -55,6 +55,19 @@
   * [Cena 7](../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
     * hospeda-se em quarto
       na [Hospedaria Stonehill](../../locations/phandalin/stonehill_inn.md)
-  * [Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath)
-    * [Daran](../characters/npcs/phandalin/daran_edermath.md) fica satisfeito ao
-      saber que **Sildar** seria o representante enviado por **Lords' Alliance**
+  * [Cena 9](../../sessions/02_phandalin.md#cena-9-pomar-edermath)
+    * [Daran](phandalin/daran_edermath.md) fica satisfeito ao saber que
+      **Sildar** seria o representante enviado
+      por [Lords' Alliance](../../organizations/lords_alliance.md)
+  * [Cena 11](../../sessions/02_phandalin.md#cena-11-prefeitura)
+    * está tentando lidar com a papelada da _[Prefeitura]_
+    * explica que sua missão era encontrar _[Iarno Albrek]_
+      * Iarno foi enviado
+        pela [Lords' Alliance](../../organizations/lords_alliance.md)
+      * não mandou mais notícias desde que chegou a _[Phandalin]_
+      * talvez tenha sido capturado pelos _[Redbrands]_
+    * diz que soube por _[Thoblen]_ que os _[Redbrands]_ mataram
+      _[Thel Dendral]_
+      * possivelmente capturaram sua família
+      * propõe uma recompensa para o grupo capturar _[Glasstaff]_ o líder dos
+        Redbrands 

@@ -359,8 +359,8 @@ os registros mais importantes.
 "A [Lords' Alliance](../organizations/lords_alliance.md) já deveria ter enviado
 alguém para a cidade faz tempo!". Quando o grupo
 menciona [Sildar](../characters/npcs/sildar_hallwinter.md) que chegou com eles,
-o ranzinza Daran demonstra pela primeira vez algo parecido com satisfação: "Antes
-tarde do que nunca!"
+o ranzinza Daran demonstra pela primeira vez algo parecido com satisfação:
+"Antes tarde do que nunca!"
 
 ---
 
@@ -416,8 +416,9 @@ Batendo, são recebidos pelo próprio prefeito, um homem baixo e gorducho, com
 sorriso e bigode fartos. Mencionando o cartaz, falam sobre o ataque que sofreram
 vindo de Neverwinter, a oeste, e de como limparam um esconderijo deles.
 
-Harbin reconhece então o grupo como os heróis que salvaram o nobre _[Sildar]_,
-que por acaso está ali com ele.
+Harbin reconhece então o grupo como os heróis que salvaram o
+nobre [Sildar](../characters/npcs/sildar_hallwinter.md), que por acaso está ali
+com ele.
 
 Levados para dentro, encontram Sildar sentado à mesa do prefeito, estudando uma
 papelada. Ele explica que sua missão era buscar notícias de seu colega, um certo
