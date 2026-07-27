@@ -37,6 +37,8 @@ _[Texto]_ :construction:
     * [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md)
       diz que [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md)
       quase foi capturada pelos **Redbrands**
-  * [Cena 13](../../../../sessions/02_phandalin.md#cena-13-carp)
+  * [Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath)
+    * [Daran](../characters/npcs/phandalin/daran_edermath.md) está preocupado com os **Redbrands**
+  * [Cena 13](../sessions/02_phandalin.md#cena-13-carp)
     * [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) conta
       sobre como quase foi vista pelos **Redbrands**

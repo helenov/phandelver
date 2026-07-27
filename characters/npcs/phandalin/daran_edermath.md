@@ -20,10 +20,20 @@
 ### Locais
 
 * [Phandalin](../../../locations/phandalin.md), morador
+  * _[Pomar Edermath]_, proprietário
 
 ### Referências
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
   * [Cena 7](../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
-    * [Elsa](stonehill/elsa.md) diz que **Daran** talvez saiba algo sobre a localização
-      do [Castelo Cragmaw](../../../locations/cragmaw_castle.md)
+    * [Elsa](stonehill/elsa.md) diz que **Daran** talvez saiba algo sobre a
+      localização do [Castelo Cragmaw](../../../locations/cragmaw_castle.md)
+  * [Cena 9](../../../sessions/02_phandalin.md#cena-9-pomar-edermath)
+    * diz que o [Castelo Cragmaw](../../../locations/cragmaw_castle.md) fica
+      na [Floresta de Neverwinter](../../../locations/neverwinter_wood.md)
+      * não sabe precisar a localização
+    * diz que _[Harbin Wester]_ está recrutando voluntários para lidar com os
+      ataques na [Estrada Triboar](../../../locations/triboar_trail.md)
+    * está preocupado com os [Redbrands](../../../organizations/redbrands.md)
+    * explica que [Phandalin](../../../locations/phandalin.md) não tem uma
+      guarda, nem um governo oficial

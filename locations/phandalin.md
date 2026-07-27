@@ -29,13 +29,19 @@ _[Texto]_ :construction:
     hospedaria
   * [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md), filho de
     Toblen
+    <br><br>
+* [Qelline Alderleaf](../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md),
+  fazendeira
+  * [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md), filha de
+    Qelline
+    <br><br>
+* [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do
+  pomar
 
 #### Mencionados
 
 * [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), mestre da
   guilda dos mineradores
-* [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do
-  pomar
 
 [//]: # (### Organizações)
 [//]: # ()
@@ -51,8 +57,8 @@ _[Texto]_ :construction:
   limites da cidade
 * [Entreposto dos Mineradores](phandalin/miners_exchange.md), guilda dos
   mineradores
-  * [Trilha dos Mineradores](phandalin/miners_trail.md), trilha para as montanhas
-    e as minas
+  * [Trilha dos Mineradores](phandalin/miners_trail.md), trilha para as
+    montanhas e as minas
 * [Fazenda Alderleaf](phandalin/alderleaf_farm.md), fazenda nos limites da
   cidade
 * [Mansão Tresendar](phandalin/tresendar_manor.md), ruínas da velha mansão
@@ -66,6 +72,9 @@ _[Texto]_ :construction:
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
   * [Cena 5](../sessions/02_phandalin.md#cena-5-phandalin)
     * grupo chega a **Phandalin**
+  * [Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath)
+    * [Daran](../characters/npcs/phandalin/daran_edermath.md) explica que
+      **Phandalin** não tem uma guarda, nem um governo oficial
 
 [//]: # (  * [Cena 9]&#40;../sessions/02_phandalin.md#cena-9-pomar-edermath&#41;)
 [//]: # (    * _[Daran]_ explica sobre &#40;des&#41;organização política da cidade)

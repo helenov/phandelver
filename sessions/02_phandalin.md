@@ -51,6 +51,8 @@ _próxima_ : [Sessão 3 Redbrands]
     filho de Toblen
 * [Carp Alderleaf](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md),
   amiga de Pip
+* [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do
+  pomar
 
 #### Mencionados
 
@@ -68,8 +70,6 @@ _próxima_ : [Sessão 3 Redbrands]
 * [Phandalin](../locations/phandalin.md)
   * [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), mestre da
     guilda dos mineiradores
-  * [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do
-    pomar
   * [Qelline Alderleaf](../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md),
     fazendeira
 
@@ -319,9 +319,11 @@ confusão pra gente!"
 _[Imagem]_ :construction:
 
 Após discutir um pouco sobre os próximos passos, o grupo decide procurar o tal
-_[Daran Edermath]_ que poderia ter informações sobre a localização
-do _[Castelo Cragmaw]_. Se informam na hospedaria que ele é um velho que cuida do
-pomar de maçãs que fica no limite oeste da cidade.
+[Daran Edermath](../characters/npcs/phandalin/daran_edermath.md) que poderia ter
+informações sobre a localização
+do [Castelo Cragmaw](../locations/cragmaw_castle.md). Se informam na hospedaria
+que ele é um velho que cuida do pomar de maçãs que fica no limite oeste da
+cidade.
 
 Chegando ao local - um pequeno chalé ao lado de um velho pomar de macieiras
 coberto de mato e hera. Um velho está de costas para eles cortando e arrancando
@@ -332,25 +334,29 @@ Daran é um aventureiro aposentado que, após uma juventude de aventuras no sul,
 voltou a região onde nasceu para ter uma vida calma.
 
 Perguntado pelo Castelo Cragmaw, diz que já ouviu falar. "Parece que fica em
-algum lugar na _[Floresta de Neverwinter]_ ao norte da _[Trilha de Triboar]_, há
-mais de 20 milhas na direção nordeste". Nunca esteve lá e não sabe precisar onde
-fica, apenas que é meio escondido. Além disso, tem havido muitos ataques de
-bandidos na Trilha, tanto a leste quando a oeste.
+algum lugar na [Floresta de Neverwinter](../locations/neverwinter_wood.md)", mas
+não sabe precisar onde fica, apenas que é meio escondido. Além disso, tem havido
+muitos ataques de bandidos na [Estrada Triboar](../locations/triboar_trail.md),
+tanto a leste quando a oeste.
 
 A propósito, soube que o _[Harbin Wester]_, o prefeito, está procurando
 voluntários para lidar com estes ataques na estrada, mas que deveria estar mais
 preocupado com os arruaceiros que estão mais perto, na cidade. "O prefeito é
-popular e tal, mas é um 'bundão' e tem medo dos _[Redbrands]_, então prefere lidar
-com o problema que está mais longe."
+popular e tal, mas é um 'bundão' e tem medo
+dos [Redbrands](../organizations/redbrands.md), então prefere lidar com o
+problema que está mais longe."
 
 Grupo pergunta porque a guarda da cidade não faz nada, e Daran explica que a
 cidade não tem uma guarda. "Até existem algumas celas na prefeitura, mas o
 prefeito só serve mesmo para resolver coisas pequenas como brigas de vizinhos e
 coisas assim".
 
-"A [Lords' Alliance] já deveria ter enviado alguém para a cidade faz tempo!".
-Quando o grupo menciona _[Sildar]_ que chegou com eles, o ranzinza Daran demonstra
-pela primeira vez algo parecido com alegria: "Antes tarde do que nunca!"
+Daran explicou que a cidade, na realidade, não tem um governo oficial: a vila
+elege um "prefeito" anualmente, que atua como juiz em disputas pequenas e mantém
+os registros mais importantes. "A [Lords' Alliance] já deveria ter enviado
+alguém para a cidade faz tempo!". Quando o grupo menciona _[Sildar]_ que chegou
+com eles, o ranzinza Daran demonstra pela primeira vez algo parecido com
+alegria: "Antes tarde do que nunca!"
 
 ---
 
@@ -361,9 +367,10 @@ _[Imagem]_ :construction:
 Voltando do pomar, o grupo, enquanto ruma para a prefeitura onde pretendem
 conversar com o prefeito, nota na praça central um modesto posto comercial onde,
 acima da porta da frente, há uma placa em forma de escudo de madeira com um leão
-azul pintado. Reconhecem o emblema da _[Lionshield Coster]_, uma grande companhia
-mercante com sede em _[Yartar]_, e que tem negócios por toda a _[Sword Coast]_, e é
-mesmo escudo que viram entre as cargas saqueadas no _[Esconderijo Cragmaw]_.
+azul pintado. Reconhecem o emblema da _[Lionshield Coster]_, uma grande
+companhia mercante com sede em _[Yartar]_, e que tem negócios por toda a
+_[Sword Coast]_, e é mesmo escudo que viram entre as cargas saqueadas no
+_[Esconderijo Cragmaw]_.
 
 Resolvem entrar e conhecem _[Linene Graywind]_, uma mulher de 30 e poucos anos,
 responsável pelo novo posto da companhia na região.
@@ -384,17 +391,12 @@ combinar os detalhes mais tarde.
 
 _[Imagem]_ :construction:
 
-_[Daran]_ havia explicado que [Phandalin](../locations/phandalin.md) não possui um
-governo oficial propriamente dito, mas que a vila elege um "prefeito"5
-anualmente, que atua como juiz em disputas pequenas e mantém os registros mais
-importantes.
-
-Ao chegarem a porta do prédio da "_[Prefeitura]_" - na verdade, a casa do 
-prefeito
-_[Harbin Weber]_ - a primeira coisa que veem é o cartaz pregado ao lado da porta.
+Ao chegarem a porta do prédio da "_[Prefeitura]_" - na verdade, a casa do
+prefeito _[Harbin Weber]_ - a primeira coisa que veem é o cartaz pregado ao lado
+da porta.
 
 > A prefeitura de Phandalin procura por bravos voluntários que capturem os
-> bandidos que têm atacado caravanas e viajantes na _[Trilha de Triboar]_, na
+> bandidos que têm atacado caravanas e viajantes na _[Estrada Triboar]_, na
 > direção de _[Conyberry]_, a leste.
 >
 > Foi reportado que o grupo de bandidos é formado por bugbears, goblins e ao
@@ -409,14 +411,14 @@ Batendo, são recebidos pelo próprio prefeito, um homem baixo e gorducho, com
 sorriso e bigode fartos. Mencionando o cartaz, falam sobre o ataque que sofreram
 vindo de Neverwinter, a oeste, e de como limparam um esconderijo deles.
 
-Harbin reconhece então o grupo como os heróis que salvaram o nobre _[Sildar]_, que
-por acaso está ali com ele.
+Harbin reconhece então o grupo como os heróis que salvaram o nobre _[Sildar]_,
+que por acaso está ali com ele.
 
 Levados para dentro, encontram Sildar sentado à mesa do prefeito, estudando uma
-papelada. Ele explica que sua missão era buscar notícias de seu colega, um
-certo _[Iarno Albrek]_ - descrito como "um humano baixo, de barba escura, na casa
-dos 30 anos". Iarno havia sido enviado a cidade há dois meses, mas desapareceu,
-logo após informar a sede de sua chegada. Sildar teme que Iarno possa ter sido
+papelada. Ele explica que sua missão era buscar notícias de seu colega, um certo
+_[Iarno Albrek]_ - descrito como "um humano baixo, de barba escura, na casa dos
+30 anos". Iarno havia sido enviado a cidade há dois meses, mas desapareceu, logo
+após informar a sede de sua chegada. Sildar teme que Iarno possa ter sido
 capturado pelos _[Redbrands]_.
 
 Sildar está preocupado, pois sua missão parece ser bem mais complexa do que
@@ -425,10 +427,10 @@ papelada sobre a mesa.
 
 O grupo questiona sobre a atuação dos Redbrands, que, pelo que tinham entendido,
 seriam apenas arruaceiros sem grande periculosidade. Mas Sildar conta que soube
-por _[Toblen]_, da hospedaria, que o carpinteiro _[Thel Dendral]_, após enfrentar um
-grupo dos bandidos que importunava sua esposa, foi assassinado e que sua família
-desapareceu naquela mesma noite. "Eles não estão me parecendo assim tão
-inofensivos".
+por _[Toblen]_, da hospedaria, que o carpinteiro _[Thel Dendral]_, após
+enfrentar um grupo dos bandidos que importunava sua esposa, foi assassinado e
+que sua família desapareceu naquela mesma noite. "Eles não estão me parecendo
+assim tão inofensivos".
 
 O grupo então se oferece para servir como uma força de segurança provisória na
 cidade - até recebem uma carta de autorização do prefeito para isso, e combinam
@@ -462,7 +464,8 @@ deixou o lugar - teriam sido levados? - sem preparativos.
 
 _[Imagem]_ :construction:
 
-De volta a [hospedaria](../locations/phandalin/stonehill_inn.md), para almoçar e discutir o que fazer, veem
+De volta a [hospedaria](../locations/phandalin/stonehill_inn.md), para almoçar e
+discutir o que fazer, veem
 entrar [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md), o filho
 do estalajadeiro, com uma menina halfling, que está tagarelando, contando de
 como escapou "por muito pouco dos bandidos malvados".

@@ -34,3 +34,6 @@ _[Texto]_ :construction:
   * [Cena 1](../sessions/01_goblins.md#cena-1-emboscada)
     * grupo sobre emboscada de um grupo
       de [Gragmaw Goblins](../organizations/cragmaw_goblins.md)
+  * [Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath)
+    * [Daran](../characters/npcs/phandalin/daran_edermath.md) fala sobre os
+      ataques na **Estrada Triboar** tanto a leste quanto a oeste

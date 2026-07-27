@@ -39,3 +39,8 @@
     * [Elsa](../characters/npcs/phandalin/stonehill/elsa.md) diz
       que [Daran](../characters/npcs/phandalin/daran_edermath.md) talvez saiba
       algo sobre a localização do **Castelo Cragmaw**
+  * [Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath)
+    * [Daran](../characters/npcs/phandalin/daran_edermath.md) diz que o
+      **Castelo Cragmaw** fica em algum lugar
+      na [Floresta de Neverwinter](neverwinter_wood.md)
+      * não sabe precisar a localização
