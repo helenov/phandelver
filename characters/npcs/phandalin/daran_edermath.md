@@ -33,8 +33,9 @@
     * diz que o [Castelo Cragmaw](../../../locations/cragmaw_castle.md) fica
       na [Floresta de Neverwinter](../../../locations/neverwinter_wood.md)
       * não sabe precisar a localização
-    * diz que _[Harbin Wester]_ está recrutando voluntários para lidar com os
-      ataques na [Estrada Triboar](../../../locations/triboar_trail.md)
+    * diz que [Harbin Wester](harbin_wester.md) está recrutando voluntários para
+      lidar com os ataques
+      na [Estrada Triboar](../../../locations/triboar_trail.md)
     * está preocupado com os [Redbrands](../../../organizations/redbrands.md)
     * explica que [Phandalin](../../../locations/phandalin.md) não tem uma
       guarda, nem um governo oficial

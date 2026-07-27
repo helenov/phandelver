@@ -340,10 +340,11 @@ não sabe precisar onde fica, apenas que é meio escondido. Além disso, tem hav
 muitos ataques de bandidos na [Estrada Triboar](../locations/triboar_trail.md),
 tanto a leste quando a oeste.
 
-A propósito, soube que o _[Harbin Wester]_, o prefeito, está procurando
-voluntários para lidar com estes ataques na estrada, mas que deveria estar mais
-preocupado com os arruaceiros que estão mais perto, na cidade. "O prefeito é
-popular e tal, mas é um 'bundão' e tem medo
+A propósito, soube que
+o [Harbin Wester](../characters/npcs/phandalin/harbin_wester.md), o prefeito,
+está procurando voluntários para lidar com estes ataques na estrada, mas que
+deveria estar mais preocupado com os arruaceiros que estão mais perto, na
+cidade. "O prefeito é popular e tal, mas é um 'bundão' e tem medo
 dos [Redbrands](../organizations/redbrands.md), então prefere lidar com o
 problema que está mais longe."
 
@@ -393,8 +394,8 @@ combinar os detalhes mais tarde.
 _[Imagem]_ :construction:
 
 Ao chegarem a porta do prédio da "_[Prefeitura]_" - na verdade, a casa do
-prefeito _[Harbin Weber]_ - a primeira coisa que veem é o cartaz pregado ao lado
-da porta.
+prefeito [Harbin Weber](../characters/npcs/phandalin/harbin_wester.md) - a
+primeira coisa que veem é o cartaz pregado ao lado da porta.
 
 > A prefeitura de Phandalin procura por bravos voluntários que capturem os
 > bandidos que têm atacado caravanas e viajantes na _[Estrada Triboar]_, na

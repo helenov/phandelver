@@ -37,6 +37,7 @@ _[Texto]_ :construction:
     <br><br>
 * [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do
   pomar
+* [Harbin Weber](../characters/npcs/phandalin/harbin_wester.md), prefeito
 
 #### Mencionados
 
@@ -77,8 +78,9 @@ _[Texto]_ :construction:
   * [Cena 5](../sessions/02_phandalin.md#cena-5-phandalin)
     * grupo chega a **Phandalin**
   * [Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath)
-    * [Daran](../characters/npcs/phandalin/daran_edermath.md) explica que
-      **Phandalin** não tem uma guarda, nem um governo oficial
-
-[//]: # (  * [Cena 9]&#40;../sessions/02_phandalin.md#cena-9-pomar-edermath&#41;)
-[//]: # (    * _[Daran]_ explica sobre &#40;des&#41;organização política da cidade)
+    * [Daran](../characters/npcs/phandalin/daran_edermath.md) explica sobre
+      (des)organização política da cidade
+  * [Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura)
+    * grupo é nomeado,
+      por [Harbin](../characters/npcs/phandalin/harbin_wester.md), como força de
+      segurança provisória de **Phandalin**
