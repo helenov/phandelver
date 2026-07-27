@@ -11,12 +11,11 @@ _[Texto]_ :construction:
 
 ### Membros
 
-* [Grol](../characters/npcs/cragmaw/grol.md)
-  * soberano no [Castelo Cragmaw](../locations/cragmaw_castle.md)
-* [Klarg](../characters/npcs/cragmaw/klarg.md) (RIP)
-  * antigo chefe no [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
-* [Yeemik](../characters/npcs/cragmaw/yeemik.md)
-  * novo líder no [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
+* [Grol](../characters/npcs/cragmaw/grol.md), rei
+* [Klarg](../characters/npcs/cragmaw/klarg.md) (RIP), antigo chefe no
+  [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
+* [Yeemik](../characters/npcs/cragmaw/yeemik.md), novo chefe
+  no [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
 
 ### Locais
 
@@ -36,6 +35,6 @@ _[Texto]_ :construction:
   * negociam com [Yeemik](../characters/npcs/cragmaw/yeemik.md) a liberdade
     de [Sildar](../characters/npcs/sildar_hallwinter.md)
   * derrotam [Klarg](../characters/npcs/cragmaw/klarg.md), o chefe do grupo
-<br><br>
+    <br><br>
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
   * libertam [Sildar](../characters/npcs/sildar_hallwinter.md)

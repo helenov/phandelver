@@ -11,25 +11,28 @@ _[Texto]_ :construction:
 
 [//]: # (### Membros)
 [//]: # ()
-[//]: # (* _[Character]_)
-[//]: # (  * _[detalhe]_)
+[//]: # (* _[Character]_, _[detalhe]_)
 
 ### Locais
 
 * [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
-  * bar onde os **Redbrands** costuma frequentar
+  * bar que os **Redbrands** costumam frequentar
 
 ### Referências
 
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
   * [Cena 6](../sessions/02_phandalin.md#cena-6-venda-da-barthen)
-    * [Ander](../characters/npcs/phandalin/barthens/ander.md) sugere que os ataques
-      na [Estrada Triboar](../locations/triboar_trail.md) podem ter relação com
-      os **Redbrands**
+    * [Ander](../characters/npcs/phandalin/barthens/ander.md) sugere que os
+      ataques na [Estrada Triboar](../locations/triboar_trail.md) podem ter
+      relação com os **Redbrands**
   * [Cena 7](../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
-    * [Freda](../characters/npcs/phandalin/stonehill/freda.md) sugere que o sequestro
-      de [Gundren](../characters/npcs/gundren_rockseeker.md) podem ser obra dos
+    * [Freda](../characters/npcs/phandalin/stonehill/freda.md) sugere que o
+      sequestro de [Gundren](../characters/npcs/gundren_rockseeker.md) podem ser
+      obra dos **Redbrands**
+    * [Lanar](../characters/npcs/phandalin/stonehill/lanar.md) diz que os
       **Redbrands**
-    * [Lanar](../characters/npcs/phandalin/stonehill/lanar.md) diz que os **Redbrands**
       não incomodam [Halia](../characters/npcs/phandalin/halia_thornton.md)
       do [Entreposto dos Mineradores](../locations/phandalin/miners_exchange.md)
+  * [Cena 8](../sessions/02_phandalin.md#cena-8-pip)
+    * [Pip](../characters/npcs/phandalin/stonehill/phillip_pip_stonehill.md)
+      diz que [Carp] quase foi capturada pelos **Redbrands** 

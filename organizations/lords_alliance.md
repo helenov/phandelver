@@ -11,8 +11,8 @@ _[Texto]_ :construction:
 
 ### Membros
 
-* [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
-  * membro leal
+* [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md), representante
+  em [Phandalin](../locations/phandalin.md)
 
 [//]: # (### Locais)
 [//]: # ()

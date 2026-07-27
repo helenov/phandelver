@@ -11,8 +11,7 @@ _[Texto]_ :construction:
 
 ### Membros
 
-* _[Character]_
-  * _[detalhe]_
+* _[Character]_, _[detalhe]_
 
 ### Locais
 
