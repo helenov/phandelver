@@ -35,15 +35,20 @@ _próxima_ : [Sessão 3 Redbrands]
 
 #### Em [Phandalin](../locations/phandalin.md)
 
-* [Elmina Barthen](../characters/npcs/phandalin/barthens/elmina_barthen.md), dona da
-  venda
-  * [Ander](../characters/npcs/phandalin/barthens/ander.md), funcionário da venda
-  * [Thistle](../characters/npcs/phandalin/barthens/thistle.md), funcionário da venda
-* [Toblen Stonehill](../characters/npcs/phandalin/stonehill/toblen_stonehill.md), dono da
-  hospedaria
+* [Elmina Barthen](../characters/npcs/phandalin/barthens/elmina_barthen.md),
+  dona da venda
+  * [Ander](../characters/npcs/phandalin/barthens/ander.md), funcionário da
+    venda
+  * [Thistle](../characters/npcs/phandalin/barthens/thistle.md), funcionário da
+    venda
+* [Toblen Stonehill](../characters/npcs/phandalin/stonehill/toblen_stonehill.md),
+  dono da hospedaria
   * [Freda](../characters/npcs/phandalin/stonehill/freda.md), tecelã
   * [Lanar](../characters/npcs/phandalin/stonehill/lanar.md), minerador
-  * [Elsa](../characters/npcs/phandalin/stonehill/elsa.md), bartender da hospedaria
+  * [Elsa](../characters/npcs/phandalin/stonehill/elsa.md), bartender da
+    hospedaria
+  * [Pip](../characters/npcs/phandalin/stonehill/phillip_pip_stonehill.md),
+    filho de Toblen
 
 #### Mencionados
 
@@ -213,10 +218,11 @@ da loja, uma jovem e dois adolescentes estão levando as mercadorias para dentro
 antes de fechar a loja.
 
 O grupo se apresenta e
-conhecem [Elmina Barthen](../characters/npcs/phandalin/barthens/elmina_barthen.md) a dona
-da loja e seus dois empregados, [Ander](../characters/npcs/phandalin/barthens/ander.md)
-e [Thistle](../characters/npcs/phandalin/barthens/thistle.md). Dizem que estão trazendo
-as provisões enviadas
+conhecem [Elmina Barthen](../characters/npcs/phandalin/barthens/elmina_barthen.md)
+a dona da loja e seus dois
+empregados, [Ander](../characters/npcs/phandalin/barthens/ander.md)
+e [Thistle](../characters/npcs/phandalin/barthens/thistle.md). Dizem que estão
+trazendo as provisões enviadas
 por [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md), ao que
 Elmina demonstra ansiedade por ter notícias do amigo.
 
@@ -255,26 +261,28 @@ está cheio de moradores locais bebendo canecas de cerveja ou cidra, todos se
 voltam curiosos para o grupo de forasteiros que entram.
 
 Logo são recebidos
-por [Toblen Stonehill](../characters/npcs/phandalin/stonehill/toblen_stonehill.md), o
-proprietário, que amigável e jovial logo oferece seus serviços. Após acertarem
+por [Toblen Stonehill](../characters/npcs/phandalin/stonehill/toblen_stonehill.md),
+o proprietário, que amigável e jovial logo oferece seus serviços. Após acertarem
 os detalhes da hospedagem - [Sildar](../characters/npcs/sildar_hallwinter.md)
 tem um quarto para si, e o grupo combina dividir outro - Toblen pergunta o que
 os traz a cidade "viéram para a mineração?"
 
 O grupo fala da carga e do sequestro do anão e todos, inclusive um grupo de
 moradores sentados a uma mesa próxima, ficam chocados. Uma gnoma, que se
-apresenta como [Freda](../characters/npcs/phandalin/stonehill/freda.md), a tecelã, fala
-que isso "tem cheiro de coisa dos [Redbrands](../organizations/redbrands.md).
-Eles tão incomodando todos da cidade já faz uns dois meses". "Só não mexem com
+apresenta como [Freda](../characters/npcs/phandalin/stonehill/freda.md), a
+tecelã, fala que isso "tem cheiro de coisa
+dos [Redbrands](../organizations/redbrands.md). Eles tão incomodando todos da
+cidade já faz uns dois meses". "Só não mexem com
 a [Halia](../characters/npcs/phandalin/halia_thornton.md),
 do [Entreposto dos Mineradores](../locations/phandalin/miners_exchange.md)",
 interviu o homem baixo da mesa ao
-lado, [Lanar](../characters/npcs/phandalin/stonehill/lanar.md), o minerador, "ela sim é
-uma mulher durona!"
+lado, [Lanar](../characters/npcs/phandalin/stonehill/lanar.md), o minerador,
+"ela sim é uma mulher durona!"
 
 Perguntados sobre o [Castelo Cragmaw](../locations/cragmaw_castle.md), ninguém
-sabe dar informações, mas [Elsa](../characters/npcs/phandalin/stonehill/elsa.md), a anã
-bartender, sugere que
+sabe dar informações,
+mas [Elsa](../characters/npcs/phandalin/stonehill/elsa.md), a anã bartender,
+sugere que
 talvez [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md) saiba de
 alguma coisa. "Ele é 'antigo' e sabe de muita coisa".
 

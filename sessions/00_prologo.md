@@ -13,8 +13,10 @@ _próxima_ : [Sessão 1 Goblins](01_goblins.md)
 
 ### Participações
 
-* [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
-* [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
+* [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md), mercador e
+  contratante
+* [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md), membro
+  da [Lords' Alliance](../organizations/lords_alliance.md)
 
 ### Cenários
 

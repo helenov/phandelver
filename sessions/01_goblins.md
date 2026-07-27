@@ -16,9 +16,9 @@ _próxima_ : [Sessão 2 Phandalin](02_phandalin.md)
 
 ### Participações
 
-* [Yeemik](../characters/npcs/cragmaw/yeemik.md)
-* [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
-* [Klarg](../characters/npcs/cragmaw/klarg.md)
+* [Yeemik](../characters/npcs/cragmaw/yeemik.md), rival do chefe
+* [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md), prisioneiro
+* [Klarg](../characters/npcs/cragmaw/klarg.md), chefe
 * goblins
 * lobos
 

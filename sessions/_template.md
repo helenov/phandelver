@@ -13,7 +13,6 @@ _próxima_ : Sessão _[X-2]_ _[Título]_
 ### Participações
 
 * _[Character]_
-  * _[detalhe]_
 
 #### Mencionados
 
@@ -33,8 +32,8 @@ _próxima_ : Sessão _[X-2]_ _[Título]_
 
 ### Cena _[X]_ _[Título]_
 
+:construction:
+
 _[Imagem]_
 
 _[Texto]_
-
-:construction:
