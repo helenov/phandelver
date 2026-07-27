@@ -11,22 +11,18 @@
 
 ### Relações
 
-* [Gundren Rockseeker](gundren_rockseeker.md)
-  * amigo
+* [Gundren Rockseeker](gundren_rockseeker.md), amigo
 
 ### Organizações
 
-* [Lords' Alliance](../../organizations/lords_alliance.md)
-  * membro leal
+* [Lords' Alliance](../../organizations/lords_alliance.md), membro
 
 ### Locais
 
-* [Neverwinter](../../locations/phandalin.md)
-  * cidade de origem
-* [Phandalin](../../locations/phandalin.md)
-  * enviado pela [Lords' Alliance](../../organizations/lords_alliance.md)
-* [Hospedaria Stonehill](../../locations/phandalin/stonehill_inn.md)
-  * hóspede
+* [Neverwinter](../../locations/phandalin.md), cidade de origem
+* [Phandalin](../../locations/phandalin.md), representante
+  da [Lords' Alliance](../../organizations/lords_alliance.md)
+* [Hospedaria Stonehill](../../locations/phandalin/stonehill_inn.md), hóspede
 
 ### Referências
 

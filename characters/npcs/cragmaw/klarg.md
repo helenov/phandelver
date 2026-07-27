@@ -27,21 +27,16 @@ negociar com o traidor [Yeemik](yeemik.md), o atacaram covardemente e o mataram.
 
 ### Relações
 
-* [Yeemik](yeemik.md)
-  * segundo em comando
-  * rival
-* [Grol](grol.md)
-  * soberano
+* [Yeemik](yeemik.md), segundo em comando e rival
+* [Grol](grol.md), rei
 
 ### Organizações
 
-* [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md)
-  * chefe no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
+* [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md), chefe no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
 
 ### Locais
 
-* [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
-  * chefe local
+* [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md), chefe local
 
 ### Referências
 

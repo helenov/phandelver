@@ -16,15 +16,13 @@ _[Texto]_ :construction:
 
 [//]: # (### Organizações)
 [//]: # ()
-[//]: # (* _[Organização]_)
-[//]: # (  * _[detalhe]_)
+[//]: # (* _[Organização]_, _[detalhe]_)
 
 ### Locais
 
-* [Phandalin](../../../../locations/phandalin.md)
-  * morador e gerente da hospedaria
-* [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md)
-  * proprietário e gerente
+* [Phandalin](../../../../locations/phandalin.md), morador
+* [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md),
+  proprietário e gerente
 
 ### Referências
 

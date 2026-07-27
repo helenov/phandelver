@@ -11,22 +11,17 @@
 
 ### Relações
 
-* [Gundren Rockseeker](gundren_rockseeker.md)
-  * irmão
-* [Nundro Rockseeker](nundro_rockseeker.md)
-  * irmão
-* [Elmina Barthen](phandalin/barthens/elmina_barthen.md)
-  * amiga
+* [Gundren Rockseeker](gundren_rockseeker.md), irmão
+* [Nundro Rockseeker](nundro_rockseeker.md), irmão
+* [Elmina Barthen](phandalin/barthens/elmina_barthen.md), amiga
 
 [//]: # (### Organizações)
 [//]: # ()
-[//]: # (* _[Organização]_)
-[//]: # (  * _[detalhe]_)
+[//]: # (* _[Organização]_, _[detalhe]_)
 
-[//]: # (### Locais)
-[//]: # ()
-[//]: # (* _[Local]_)
-[//]: # (  * _[detalhe]_)
+### Locais
+
+* [Phandalin](../../locations/phandalin.md), minerador
 
 ### Referências
 

@@ -11,20 +11,16 @@ _[Texto]_ :construction:
 
 [//]: # (### Relações)
 [//]: # ()
-[//]: # (* _[Character]_)
-[//]: # (  * _[detalhe]_)
+[//]: # (* _[Character]_, _[detalhe]_)
 
 [//]: # (### Organizações)
 [//]: # ()
-[//]: # (* _[Organização]_)
-[//]: # (  * _[detalhe]_)
+[//]: # (* _[Organização]_, _[detalhe]_)
 
 ### Locais
 
-* [Phandalin](../../../../locations/phandalin.md)
-  * moradora e bartender
-* [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md)
-  * bartender
+* [Phandalin](../../../../locations/phandalin.md), moradora
+* [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md), bartender
 
 ### Referências
 

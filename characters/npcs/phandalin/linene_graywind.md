@@ -11,13 +11,15 @@
 
 [//]: # (### Relações)
 [//]: # ()
-[//]: # (* _[Character]_)
-[//]: # (  * _[detalhe]_)
+[//]: # (* _[Character]_, _[detalhe]_)
 
 ### Organizações
 
-* [Lionshield Coster](../../../organizations/lionshield_coster.md)
-  * representante local em [Phandalin](../../../locations/phandalin.md)
+* [Lionshield Coster](../../../organizations/lionshield_coster.md), representante local
+
+### Locais
+
+* [Phandalin](../../../locations/phandalin.md), moradora e representante comercial
 
 [//]: # (### Referências)
 [//]: # ()

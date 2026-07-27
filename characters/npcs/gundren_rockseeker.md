@@ -11,24 +11,20 @@
 
 ### Relações
 
-* [Sildar Hallwinter](sildar_hallwinter.md)
-  * amigo
-* [Elmina Barthen](phandalin/barthens/elmina_barthen.md)
-  * amiga e parceira de negócios
-* [Tharden Rockseeker](tharden_rockseeker.md)
-  * irmão
-* [Nundro Rockseeker](nundro_rockseeker.md)
-  * irmão
+* [Sildar Hallwinter](sildar_hallwinter.md), amigo
+* [Elmina Barthen](phandalin/barthens/elmina_barthen.md), amiga e parceira de
+  negócios
+* [Tharden Rockseeker](tharden_rockseeker.md), irmão
+* [Nundro Rockseeker](nundro_rockseeker.md), irmão
 
 [//]: # (### Organizações)
 [//]: # ()
-[//]: # (* _[Organização]_)
-[//]: # (  * _[detalhe]_)
+[//]: # (* _[Organização]_, _[detalhe]_)
 
 ### Locais
 
-* [Neverwinter](../../locations/phandalin.md)
-  * mercador
+* [Neverwinter](../../locations/neverwinter.md), mercador
+* [Phandalin](../../locations/phandalin.md), mercador e minerador
 
 ### Referências
 
@@ -65,5 +61,5 @@
         ao [Castelo Cragmaw](../../locations/cragmaw_castle.md)
       * foi um pedido de um certo [Spider](spider.md)
   * [Cena 6](../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
-    * [Elmina](phandalin/barthens/elmina_barthen.md), que estava ansiosa por rever o
-      amigo, fica desolada ao saber de seu sequestro
+    * [Elmina](phandalin/barthens/elmina_barthen.md), que estava ansiosa por
+      rever o amigo, fica desolada ao saber de seu sequestro

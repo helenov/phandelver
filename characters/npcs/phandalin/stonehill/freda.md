@@ -11,26 +11,23 @@ _[Texto]_ :construction:
 
 [//]: # (### Relações)
 [//]: # ()
-[//]: # (* _[Character]_)
-[//]: # (  * _[detalhe]_)
+[//]: # (* _[Character]_, _[detalhe]_)
 
 [//]: # (### Organizações)
 [//]: # ()
-[//]: # (* _[Organização]_)
-[//]: # (  * _[detalhe]_)
+[//]: # (* _[Organização]_, _[detalhe]_)
 
 ### Locais
 
-* [Phandalin](../../../../locations/phandalin.md)
-  * moradora e tecelã
-* [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md)
-  * frequentadora
+* [Phandalin](../../../../locations/phandalin.md), moradora e tecelã
+* [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md),
+  frequentadora
 
 ### Referências
 
 * [Sessão 2 Phandalin](../../../../sessions/02_phandalin.md)
   * [Cena 7](../../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
     * sobre os [Redbrands](../../../../organizations/redbrands.md)
-      * sugere que o sequestro de [Gundren](../../gundren_rockseeker.md) seja obra
-        deles
+      * sugere que o sequestro de [Gundren](../../gundren_rockseeker.md) seja
+        obra deles
       * diz que estão incomodando todos na cidade

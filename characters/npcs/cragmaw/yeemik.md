@@ -11,21 +11,16 @@ _[Texto]_ :construction:
 
 ### Relações
 
-* [Klarg](klarg.md) (RIP)
-  * antigo chefe
-  * rival
-* [Grol](grol.md)
-  * soberano
+* [Klarg](klarg.md) (RIP), antigo chefe e rival
+* [Grol](grol.md), rei
 
 ### Organizações
 
-* [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md)
-  * novo chefe no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
+* [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md), novo chefe no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
 
 ### Locais
 
-* [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
-  * novo chefe
+* [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md), novo chefe
 
 ### Referências
 

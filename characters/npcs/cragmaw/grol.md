@@ -11,17 +11,15 @@
 
 ### Relações
 
-* [Klarg](klarg.md) (RIP)
-  * antigo chefe no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
-* [Yeemik](yeemik.md)
-  * novo chefe no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
-* [Spider](../spider.md)
-  * aliado
+* [Klarg](klarg.md) (RIP), antigo chefe
+  no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
+* [Yeemik](yeemik.md), novo chefe
+  no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
+* [Spider](../spider.md), aliado
 
 ### Organizações
 
-* [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md)
-  * rei
+* [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md), rei
 
 ### Referências
 

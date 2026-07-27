@@ -11,18 +11,15 @@
 
 [//]: # (### Relações)
 [//]: # ()
-[//]: # (* _[Character]_)
-[//]: # (  * _[detalhe]_)
+[//]: # (* _[Character]_, _[detalhe]_)
 
 [//]: # (### Organizações)
 [//]: # ()
-[//]: # (* _[Organização]_)
-[//]: # (  * _[detalhe]_)
+[//]: # (* _[Organização]_, _[detalhe]_)
 
 ### Locais
 
-* [Phandalin](../../../locations/phandalin.md)
-  * morador e dono do pomar
+* [Phandalin](../../../locations/phandalin.md), morador
 
 ### Referências
 

@@ -11,18 +11,15 @@ _[Texto]_ :construction:
 
 ### Relações
 
-* _[Character]_
-  * _[detalhe]_
+* _[Character]_, _[detalhe]_
 
 ### Organizações
 
-* _[Organização]_
-  * _[detalhe]_
+* _[Organização]_, _[detalhe]_
 
 ### Locais
 
-* _[Local]_
-  * _[detalhe]_
+* _[Local]_, _[detalhe]_
 
 ### Referências
 

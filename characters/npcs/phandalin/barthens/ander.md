@@ -11,21 +11,16 @@ _[Texto]_ :construction:
 
 ### Relações
 
-* [Thistle](thistle.md)
-  * irmão e colega
-    na [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md)
+* [Thistle](thistle.md), irmão
 
 [//]: # (### Organizações)
 [//]: # ()
-[//]: # (* _[Organização]_)
-[//]: # (  * _[detalhe]_)
+[//]: # (* _[Organização]_, _[detalhe]_)
 
 ### Locais
 
-* [Phandalin](../../../../locations/phandalin.md)
-  * morador
-* [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md)
-  * funcionário
+* [Phandalin](../../../../locations/phandalin.md), morador
+* [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md), funcionário
 
 ### Referências
 

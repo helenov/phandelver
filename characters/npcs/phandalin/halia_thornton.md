@@ -11,18 +11,17 @@
 
 [//]: # (### Relações)
 [//]: # ()
-[//]: # (* _[Character]_)
-[//]: # (  * _[detalhe]_)
+[//]: # (* _[Character]_, _[detalhe]_)
 
 [//]: # (### Organizações)
 [//]: # ()
-[//]: # (* _[Organização]_)
-[//]: # (  * _[detalhe]_)
+[//]: # (* _[Organização]_, _[detalhe]_)
 
-[//]: # (### Locais)
-[//]: # ()
-[//]: # (* _[Local]_)
-[//]: # (  * _[detalhe]_)
+### Locais
+
+* [Phandalin](../../../locations/phandalin.md), morador
+* [Entreposto dos Mineradores](../../../locations/phandalin/miners_exchange.md),
+  mestre da guilda
 
 ### Referências
 

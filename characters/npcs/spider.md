@@ -11,15 +11,15 @@
 
 ### Relações
 
-* [Grol](cragmaw/grol.md)
-  * aliado
+* [Grol](cragmaw/grol.md), aliado
 
-<!--
-### Organizações
+[//]: # (### Organizações)
+[//]: # ()
+[//]: # (* _[Organização]_, _[detalhe]_)
 
-* _[Organização]_
-  * _[detalhe]_
--->
+[//]: # (### Locais)
+[//]: # ()
+[//]: # (* _[Local]_, _[detalhe]_)
 
 ### Referências
 
