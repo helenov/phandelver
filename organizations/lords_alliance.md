@@ -29,6 +29,8 @@ _[Texto]_ :construction:
       <br><br>
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
   * [Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath)
-    * [Daran] mencionada que a **Lords' Alliance** deveria ter mandado um
-      representante há tempos
-      * fica feliz em saber que [Sildar] chegou
+    * [Daran](../characters/npcs/phandalin/daran_edermath.md) diz que a **Lords'
+      Alliance** deveria ter mandado um representante
+      * fica satisfeito ao saber
+        que [Sildar](../characters/npcs/sildar_hallwinter.md) seria este
+        representante

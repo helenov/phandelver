@@ -55,3 +55,6 @@
   * [Cena 7](../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
     * hospeda-se em quarto
       na [Hospedaria Stonehill](../../locations/phandalin/stonehill_inn.md)
+  * [Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath)
+    * [Daran](../characters/npcs/phandalin/daran_edermath.md) fica satisfeito ao
+      saber que **Sildar** seria o representante enviado por **Lords' Alliance**

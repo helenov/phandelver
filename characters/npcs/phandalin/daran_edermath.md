@@ -39,3 +39,6 @@
     * está preocupado com os [Redbrands](../../../organizations/redbrands.md)
     * explica que [Phandalin](../../../locations/phandalin.md) não tem uma
       guarda, nem um governo oficial
+      * diz que a [Lords' Alliance](../../../organizations/lords_alliance.md)
+        deveria ter mandado um representante
+        * fica satisfeito ao saber que [Sildar](../sildar_hallwinter.md) seria este representante
