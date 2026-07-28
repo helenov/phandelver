@@ -27,7 +27,7 @@ _[Texto]_ :construction:
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
   * [Cena 9](../../../sessions/02_phandalin.md#cena-9-pomar-edermath)
-    * [Daran](daran_edermath.md) diz que **Harbin Wester** está recrutando
+    * [Daran](daran_edermath.md) diz que **Harbin** está recrutando
       voluntários para lidar com os ataques
       na [Estrada Triboar](../../../locations/triboar_trail.md)
   * [Cena 11](../../../sessions/02_phandalin.md#cena-11-prefeitura)

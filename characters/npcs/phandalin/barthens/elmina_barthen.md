@@ -46,5 +46,5 @@ aqui já tem uns dez dias, provavelmente devem aparecer em um dia ou dois"
   * [Cena 6](../../../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
     * conhecem **Elmina**, proprietária
       da [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md)
-    * ansiosa por notícias do amigo [Gundren](../../gundren_rockseeker.md)
-      * lamenta profundamente a notícia de seu sequestro
+    * fica desolada ao saber de seu sequestro
+      de [Gundren](../../gundren_rockseeker.md)

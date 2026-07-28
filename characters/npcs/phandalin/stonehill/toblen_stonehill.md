@@ -27,6 +27,5 @@ _[Texto]_ :construction:
 
 * [Sessão 2 Phandalin](../../../../sessions/02_phandalin.md)
   * [Cena 7](../../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
-    * chegando
-      a [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md),
-      o grupo é recebido por **Toblen**, o proprietário
+    * grupo é recebido por **Toblen**
+      na [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md)

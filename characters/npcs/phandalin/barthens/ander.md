@@ -20,7 +20,8 @@ _[Texto]_ :construction:
 ### Locais
 
 * [Phandalin](../../../../locations/phandalin.md), morador
-  * [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md), funcionário
+  * [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md),
+    funcionário
 
 ### Referências
 
@@ -28,6 +29,6 @@ _[Texto]_ :construction:
   * [Cena 6](../../../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
     * funcionário
       da [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md)
-    * sugere que os ataques
-      na [Estrada Triboar](../../../../locations/triboar_trail.md) podem ter
-      relação com os [Redbrands](../../../../organizations/redbrands.md)
+    * sugere que os [Redbrands](../../../../organizations/redbrands.md)
+      podem ser responsáveis pelos ataques
+      na [Estrada Triboar](../../../../locations/triboar_trail.md)

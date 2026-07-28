@@ -42,7 +42,7 @@ negociar com o traidor [Yeemik](yeemik.md), o atacaram covardemente e o mataram.
 
 * [Sessão 1 Goblins](../../../sessions/01_goblins.md)
   * [Cena 4](../../../sessions/01_goblins.md#cena-4-negociação)
-    * [Yeemik](yeemik.md) diz que quer cabeça de **Klarg** em troca de
+    * [Yeemik](yeemik.md) pede a cabeça de **Klarg** em troca de
       libertar [Sildar](../sildar_hallwinter.md)
   * [Cena 5](../../../sessions/01_goblins.md#cena-5-klarg)
     * morto em combate pelo grupo

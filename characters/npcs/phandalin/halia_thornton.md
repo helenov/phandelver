@@ -30,5 +30,4 @@
     * [Lanar](stonehill/lanar.md) menciona que
       os [Redbrands](../../../organizations/redbrands.md) não incomodam
       **Halia**
-      do [Entreposto dos Mineradores](../../../locations/phandalin/miners_exchange.md),
-      que "é uma mulher durona"
+      do [Entreposto dos Mineradores](../../../locations/phandalin/miners_exchange.md)

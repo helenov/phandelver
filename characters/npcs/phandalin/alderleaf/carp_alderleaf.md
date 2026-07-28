@@ -29,11 +29,9 @@ _[Texto]_ :construction:
 * [Sessão 2 Phandalin](../../../../sessions/02_phandalin.md)
   * [Cena 8](../../../../sessions/02_phandalin.md#cena-8-pip)
     * [Pip](../stonehill/pip_stonehill.md) diz que **Carp** quase foi capturada
-      por bandidos - provavelmente
-      os [Redbrands](../../../../organizations/redbrands.md)
+      pelos [Redbrands](../../../../organizations/redbrands.md)
   * [Cena 13](../../../../sessions/02_phandalin.md#cena-13-carp)
     * conta como
       * encontrou um "túnel secreto"
         na [Mata Tresendar](../../../../locations/phandalin/tresendar_wood.md)
-      * quase foi vista pelos bandidos de capa vermelha,
-        os [Redbrands](../../../../organizations/redbrands.md)
+      * quase foi vista pelos [Redbrands](../../../../organizations/redbrands.md)

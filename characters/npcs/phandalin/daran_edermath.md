@@ -31,14 +31,14 @@
       localização do [Castelo Cragmaw](../../../locations/cragmaw_castle.md)
   * [Cena 9](../../../sessions/02_phandalin.md#cena-9-pomar-edermath)
     * diz que o [Castelo Cragmaw](../../../locations/cragmaw_castle.md) fica
-      na [Floresta de Neverwinter](../../../locations/neverwinter_wood.md)
-      * não sabe precisar a localização
+      na [Floresta de Neverwinter](../../../locations/neverwinter_wood.md), mas
+      não sabe o local exato
     * diz que [Harbin Wester](harbin_wester.md) está recrutando voluntários para
       lidar com os ataques
       na [Estrada Triboar](../../../locations/triboar_trail.md)
     * está preocupado com os [Redbrands](../../../organizations/redbrands.md)
-    * explica que [Phandalin](../../../locations/phandalin.md) não tem uma
-      guarda, nem um governo oficial
-      * diz que a [Lords' Alliance](../../../organizations/lords_alliance.md)
-        deveria ter mandado um representante
-        * fica satisfeito ao saber que [Sildar](../sildar_hallwinter.md) seria este representante
+    * explica sobre (des)organização política
+      de [Phandalin](../../../locations/phandalin.md)
+    * fica satisfeito ao saber que [Sildar](../sildar_hallwinter.md) chegou como
+      representante
+      da [Lords' Alliance](../../../organizations/lords_alliance.md)

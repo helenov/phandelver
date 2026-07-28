@@ -28,7 +28,3 @@
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * [Cena 6](../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
     * [Elmina](phandalin/barthens/elmina_barthen.md) menciona que os irmãos Rockseeker
-      * vivem nos arredores da cidade, sempre acampando em lugares diferentes
-      * visitam sua venda com frequência para se reabastecer
-        * devem aparecer em poucos dias
-      * ficarão abalados pela notícia do sequestro de [Gundren](gundren_rockseeker.md)
