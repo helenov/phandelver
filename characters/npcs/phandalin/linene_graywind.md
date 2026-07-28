@@ -21,11 +21,13 @@
 ### Locais
 
 * [Phandalin](../../../locations/phandalin.md), moradora
-  * [Loja da Lionshield Coster](../../../locations/phandalin/lionshield_coster_post.md),
+  * [Posto da Lionshield Coster](../../../locations/phandalin/lionshield_coster_post.md),
     gerente
 
-[//]: # (### Referências)
-[//]: # ()
-[//]: # (* _[Sessão]_)
-[//]: # (  * _[Cena]_)
-[//]: # (    * _[detalhe]_)
+### Referências
+
+* [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
+  * [Cena 10](../../../sessions/02_phandalin.md#cena-10-lionshield-coster)
+    * grupo conhece **Linene Graywind**
+      no [Posto da Lionshield Coster](../../../locations/phandalin/lionshield_coster_post.md)
+    * conversam sobre a possibilidade de recuperar a carga roubada pelos _[Cragmaw Goblins]_ 

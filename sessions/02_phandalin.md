@@ -24,7 +24,8 @@ _próxima_ : [Sessão 3 Redbrands]
 
 ### Participações
 
-* [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
+* [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md), representante
+  da [Lords' Alliance](../organizations/lords_alliance.md)
 
 #### No [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
 
@@ -53,6 +54,8 @@ _próxima_ : [Sessão 3 Redbrands]
   amiga de Pip
 * [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do
   pomar
+* [Linene Graywind](../characters/npcs/phandalin/linene_graywind.md),
+  representante da [Lionshield Coster](../organizations/lionshield_coster.md)
 
 #### Mencionados
 
@@ -378,14 +381,15 @@ da [Lionshield Coster](../organizations/lionshield_coster.md), uma grande
 companhia mercante, o mesmo escudo que viram entre as cargas saqueadas no
 _[Esconderijo Cragmaw]_.
 
-Resolvem entrar e conhecem _[Linene Graywind]_, uma mulher de 30 e poucos anos,
-responsável pelo novo posto da companhia na região.
+Resolvem entrar e
+conhecem [Linene Graywind](../characters/npcs/phandalin/linene_graywind.md), uma
+mulher de 30 e poucos anos, responsável pelo novo posto da companhia na região.
 
 O grupo conta de seu encontro com os _[Cragmaw Goblins]_ na estrada e sobre a
 carga que encontraram no seu esconderijo. Linene diz que tem sofrido muito com
-os ataques na estrada e que estaria interessada em recuperar a carga roubada,
-mas que precisaria alguém disposto a isso, ainda mais sabendo que ainda há
-goblins no local.
+os ataques na estrada, que não recebe nenhuma carga há semanas, e que estaria
+interessada em recuperar ao menos parte da carga roubada, mas que precisaria
+alguém disposto a isso, ainda mais sabendo que ainda há goblins no local.
 
 O grupo exita, mas diz que poderia fazer o serviço de terminar a limpeza do
 local, mas que ela precisaria conseguir quem ajudasse a carregar tudo. Ficam de
