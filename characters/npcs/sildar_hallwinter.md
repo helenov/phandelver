@@ -2,10 +2,10 @@
 
 ## Sildar Hallwinter, <small>_humano_</small>
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-_[Imagem]_
+<!-- @formatter:off -->
+<img alt="[Imagem]" src="../../images/characters/sildar_hallwinter.png" style="width:200px; margin-right: 15px; float: left" />
+<!-- @formatter:on -->
+
 _[Texto]_ :construction:
 <br clear="left"/>
 

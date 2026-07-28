@@ -2,10 +2,10 @@
 
 ## Harbin Wester, <small>_humano_</small>
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-_[Imagem]_
+<!-- @formatter:off -->
+<img alt="Harbin Wester" src="../../../images/characters/phandalin/harbin_wester.png" style="width:300px;margin-right: 15px; float: left" />
+<!-- @formatter:on -->
+
 _[Texto]_ :construction:
 <br clear="left"/>
 

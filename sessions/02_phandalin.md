@@ -66,15 +66,18 @@ _próxima_ : [Sessão 3 Redbrands]
 * [Nundro Rockseeker](../characters/npcs/nundro_rockseeker.md), irmão de Gundren
 
 ####
+
 * [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
   * [Klarg](../characters/npcs/cragmaw/klarg.md) (RIP), antigo chefe
   * [Grol](../characters/npcs/cragmaw/grol.md), rei
 
 ####
+
 * [Spider](../characters/npcs/spider.md), possível vilão
 * [Ruxithid](../characters/npcs/ruxithid.md), desconhecido
 
 ####
+
 * [Phandalin](../locations/phandalin.md)
   * [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), mestre da
     guilda dos mineiradores
@@ -84,11 +87,13 @@ _próxima_ : [Sessão 3 Redbrands]
     carpinteiro
 
 ####
+
 * [Iarno Albrek](../characters/npcs/iarno_albrek.md), representante
   da [Lords' Alliance](../organizations/lords_alliance.md) desaparecido
 
 ####
-* [Redbrands](../organizations/redbrands.md) 
+
+* [Redbrands](../organizations/redbrands.md)
   * [Glasstaff](../characters/npcs/glasstaff.md), líder criminoso
 
 ### Cenários
@@ -441,9 +446,9 @@ primeira coisa que veem é o cartaz pregado ao lado da porta.
 >
 > Recompensa: 100 gp
 
-Batendo, são recebidos pelo próprio prefeito, um homem baixo e gorducho, com
-sorriso e bigode fartos. Mencionando o cartaz, falam sobre o ataque que sofreram
-vindo de Neverwinter, a oeste, e de como limparam um esconderijo deles.
+Batendo, são recebidos pelo próprio prefeito, um homem baixo, com sorriso e
+pança fartos. Mencionando o cartaz, falam sobre o ataque que sofreram vindo de
+Neverwinter, a oeste, e de como limparam um esconderijo deles.
 
 Harbin reconhece então o grupo como os heróis que salvaram o
 nobre [Sildar](../characters/npcs/sildar_hallwinter.md), que por acaso está ali

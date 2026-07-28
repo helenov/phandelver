@@ -2,12 +2,12 @@
 
 ## Gundren Rockseeker, <small>_anão_</small>
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-[//]: # (_[Imagem]_)
-[//]: # (_[Texto]_ :construction:)
-[//]: # (<br clear="left"/>)
+<!-- @formatter:off -->
+<img alt="Gundren Rockseeker" src="../../images/characters/gundren_rockseeker.png" style="width:300px; margin-right: 15px; float: left" />
+<!-- @formatter:on -->
+
+_[Texto]_ :construction:
+<br clear="left"/>
 
 ### Relações
 
@@ -34,17 +34,20 @@
     * oferece trabalho de escolta de carga
       até [Phandalin](../../locations/phandalin.md)
   * [Cena 2](../../sessions/00_prologo.md#cena-2-partida)
-    * parte na frente para [Phandalin](../../locations/phandalin.md) com [Sildar](sildar_hallwinter.md)
+    * parte na frente para [Phandalin](../../locations/phandalin.md)
+      com [Sildar](sildar_hallwinter.md)
   * [Cena 3](../../sessions/00_prologo.md#cena-3-corpos)
     * grupo encontra cavalo morto
       na [Estrada Triboar](../../locations/triboar_trail.md)
 
 ####
+
 * [Sessão 1 Goblins](../../sessions/01_goblins.md)
   * [Cena 4](../../sessions/01_goblins.md#cena-4-negociação)
     * [Sildar](sildar_hallwinter.md) diz que grupo deve salvar **Gundren**
 
 ####
+
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * [Cena 1](../../sessions/02_phandalin.md#cena-1-decisões)
     * não é encontrado
@@ -56,9 +59,10 @@
       * **Gundren** foi enviado para
         o [Castelo Cragmaw](../../locations/cragmaw_castle.md)
   * [Cena 3](../../sessions/02_phandalin.md#cena-3-sildar)
-    * [Sildar](sildar_hallwinter.md) confirma que 
-      * **Gundren** teria sido enviado
-        para o [Castelo Cragmaw](../../locations/cragmaw_castle.md)
+    * [Sildar](sildar_hallwinter.md) confirma que
+      * **Gundren** teria sido enviado para
+        o [Castelo Cragmaw](../../locations/cragmaw_castle.md)
       * foi um pedido de um certo [Spider](spider.md)
   * [Cena 6](../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
-    * [Elmina](phandalin/barthens/elmina_barthen.md) fica desolada ao saber de seu sequestro do amigo
+    * [Elmina](phandalin/barthens/elmina_barthen.md) fica desolada ao saber de
+      seu sequestro do amigo

@@ -15,7 +15,7 @@ estava ansiosa pelas novidades que o amigo trazia, embora não saiba dizer do qu
 se tratavam "mas deve ter relação com as minas perdidas que eles têm procurado"
 e ficou extremamente abalada com a notícia de seu sequestro.
 
-Segundo ela os irmãos Rockseeker vivem acampados nas montanhas fora da cidade,
+Segundo ela, os irmãos Rockseeker vivem acampados nas montanhas fora da cidade,
 sempre mudando de lugar em suas explorações da região, mas vêm a cidade com
 frequência para se reabastecer de suprimentos. "A última vez que estiveram por
 aqui já tem uns dez dias, provavelmente devem aparecer em um dia ou dois"
