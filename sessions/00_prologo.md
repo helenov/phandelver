@@ -11,7 +11,7 @@ _próxima_ : [Sessão 1 Goblins](01_goblins.md)
 * [Cena 2 Partida](#cena-2-partida)
 * [Cena 3 Corpos](#cena-3-corpos)
 
-### Participações
+### Elenco
 
 * [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md), mercador e
   contratante

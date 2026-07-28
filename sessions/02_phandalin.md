@@ -22,7 +22,7 @@ _próxima_ : [Sessão 3 Redbrands]
 * [Cena 12 Ferraria e Carpintaria](#cena-12-ferraria-e-carpintaria)
 * [Cena 13 Carp](#cena-13-carp)
 
-### Participações
+### Elenco
 
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md), representante
   da [Lords' Alliance](../organizations/lords_alliance.md)

@@ -14,7 +14,7 @@ _próxima_ : [Sessão 2 Phandalin](02_phandalin.md)
 * [Cena 4 Negociação](#cena-4-negociação)
 * [Cena 5 Klarg!](#cena-5-klarg)
 
-### Participações
+### Elenco
 
 * [Yeemik](../characters/npcs/cragmaw/yeemik.md), rival do chefe
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md), prisioneiro

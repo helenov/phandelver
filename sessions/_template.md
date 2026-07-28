@@ -10,7 +10,7 @@ _próxima_ : Sessão _[X-2]_ _[Título]_
 
 * Cena _[X]_ _[Título]_
 
-### Participações
+### Elenco
 
 * _[Character]_
 
