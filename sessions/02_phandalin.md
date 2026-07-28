@@ -408,8 +408,10 @@ da [Prefeitura](../locations/phandalin/townmasters_hall.md) - na verdade, a casa
 do prefeito [Harbin Weber](../characters/npcs/phandalin/harbin_wester.md) - a
 primeira coisa que veem é o cartaz pregado ao lado da porta.
 
-> A prefeitura de Phandalin procura por bravos voluntários que capturem os
-> bandidos que têm atacado caravanas e viajantes na _[Estrada Triboar]_, na
+> A prefeitura de [Phandalin](../locations/phandalin.md) procura por bravos
+> voluntários que capturem os
+> bandidos que têm atacado caravanas e viajantes
+> na [Estrada Triboar](../locations/triboar_trail.md), na
 > direção de _[Conyberry]_, a leste.
 >
 > Foi reportado que o grupo de bandidos é formado por bugbears, goblins e ao

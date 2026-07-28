@@ -29,3 +29,5 @@ _[Texto]_ :construction:
   * o grupo vai a **Prefeitura**
     procurando o
     prefeito [Harbin](../../characters/npcs/phandalin/harbin_wester.md)
+  * a **Prefeitura** busca voluntários para lidar com os ataques
+    na [Estrada Triboar](../triboar_trail.md)

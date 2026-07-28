@@ -37,3 +37,7 @@ _[Texto]_ :construction:
   * [Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath)
     * [Daran](../characters/npcs/phandalin/daran_edermath.md) fala sobre os
       ataques na **Estrada Triboar**
+  * [Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura)
+    * a [Prefeitura](phandalin/townmasters_hall.md) busca voluntários para lidar
+      com os ataques na **Estrada Triboar**
+
