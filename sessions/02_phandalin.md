@@ -492,7 +492,7 @@ encontrarei grandes tesouros, e..."
 
 Trazendo a menina de volta a realidade, pedem para ela contar de sua aventura na
 floresta. Ele então conta com empolgação sobre como estava brincando de aventura
-na floresta que fica atrás
+na [Mata Tresendar](../locations/phandalin/tresendar_wood.md) que fica atrás
 da [fazenda](../locations/phandalin/alderleaf_farm.md) onde mora com sua
 mãe, [Qelline](../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md), e
 ao sul da [Mansão Tresendar](../locations/phandalin/tresendar_manor.md), e como

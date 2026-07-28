@@ -33,7 +33,7 @@ _[Texto]_ :construction:
       os [Redbrands](../../../../organizations/redbrands.md)
   * [Cena 13](../../../../sessions/02_phandalin.md#cena-13-carp)
     * conta como
-      * encontrou um "túnel secreto" na floresta ao sul
-        da [Mansão Tresendar](../../../../locations/phandalin/tresendar_manor.md)
+      * encontrou um "túnel secreto"
+        na [Mata Tresendar](../../../../locations/phandalin/tresendar_wood.md)
       * quase foi vista pelos bandidos de capa vermelha,
         os [Redbrands](../../../../organizations/redbrands.md)
