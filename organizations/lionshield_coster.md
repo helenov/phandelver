@@ -2,10 +2,10 @@
 
 ## Lionshield Coster
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-_[Imagem]_
+<!-- @formatter:off -->
+<img alt="Lionshield Coster" src="../images/organizations/lionshield_coster.png" style="width:200px; margin-right: 15px; float: left" />
+<!-- @formatter:on -->
+
 _[Texto]_ :construction:
 <br clear="left"/>
 
