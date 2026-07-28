@@ -6,14 +6,16 @@
 <img alt="[Imagem]" src="../../images/characters/sildar_hallwinter.png" style="width:200px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
-**Sildar Hallwinter** é um soldado aposentado e mercenário originário da cidade
-de
-[Neverwinter](../../locations/phandalin.md). Ele é um membro leal
-da [Lords' Alliance](../../organizations/lords_alliance.md), que o está enviando
+**Sildar Hallwinter** é um soldado aposentado de 50 e poucos anos originário da
+cidade de [Neverwinter](../../locations/phandalin.md).
+
+Sendo é um membro leal
+da [Lords' Alliance](../../organizations/lords_alliance.md), está sendo enviando
 a [Phandalin](../../locations/phandalin.md) com a missão de encontrar um
 companheiro. Sabendo que seu velho
-amigo [Gundren Rockseeker](gundren_rockseeker.md) está de partida para a mesma
-cidade, resolve acompanhá-lo.
+amigo [Gundren Rockseeker](gundren_rockseeker.md) está de partida com o mesmo
+destino, resolve acompanhá-lo, pois suspeita que a viagem possa ter mais perigos
+do que julga seu amigo otimista.
 <br clear="left"/>
 
 ### Relações
