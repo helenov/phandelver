@@ -9,9 +9,9 @@ _[Imagem]_
 _[Texto]_ :construction:
 <br clear="left"/>
 
-[//]: # (### Membros)
-[//]: # ()
-[//]: # (* _[Character]_, _[detalhe]_)
+### Membros
+
+* [Glasstaff](../characters/npcs/glasstaff.md), líder
 
 ### Locais
 
@@ -43,6 +43,8 @@ _[Texto]_ :construction:
   * [Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura)
     * [Sildar](../characters/npcs/sildar_hallwinter.md) suspeita que tenham
       capturado [Iarno](../characters/npcs/iarno_albrek.md)
+    * [Sildar](../characters/npcs/sildar_hallwinter.md) propõe que desmantelem
+      os **Redbrands** e capturem [Glasstaff](../characters/npcs/glasstaff.md)
   * [Cena 13](../sessions/02_phandalin.md#cena-13-carp)
     * [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) conta
       sobre como quase a viram

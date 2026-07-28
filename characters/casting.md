@@ -67,3 +67,6 @@
   * [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), mestre da
     guilda dos mineradores
   * [Thel Dendral](npcs/phandalin/thel_dendral.md) (RIP), carpinteiro
+    <br><br>
+* [Redbrands](../organizations/redbrands.md)
+  * [Glasstaff](npcs/glasstaff.md), líder criminoso

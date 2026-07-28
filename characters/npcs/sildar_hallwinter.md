@@ -66,5 +66,7 @@ _[Texto]_ :construction:
         pelos [Redbrands](../../organizations/redbrands.md)
     * conta o que aconteceu com [Thel Dendral](phandalin/thel_dendral.md) e sua
       família
-      * propõe uma recompensa para o grupo capturar _[Glasstaff]_ o líder dos
-        Redbrands 
+      * propõe que o grupo desmantele
+        os [Redbrands](../../organizations/redbrands.md) e
+        capture [Glasstaff](glasstaff.md)
+        

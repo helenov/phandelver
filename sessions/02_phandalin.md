@@ -82,6 +82,9 @@ _próxima_ : [Sessão 3 Redbrands]
     <br><br>
 * [Iarno Albrek](../characters/npcs/iarno_albrek.md), representante
   da [Lords' Alliance](../organizations/lords_alliance.md) desaparecido
+  <br><br>
+* [Redbrands](../organizations/redbrands.md) 
+  * [Glasstaff](../characters/npcs/glasstaff.md), líder criminoso
 
 ### Cenários
 
@@ -465,8 +468,8 @@ assim tão inofensivos".
 O grupo então se oferece para servir como uma força de segurança provisória na
 cidade - até recebem uma carta de autorização do prefeito para isso, e combinam
 uma recompensa de 100 gp pela captura do líder dos Redbrands, um certo
-_[Glasstaff]_, além das despesas de hospedagem e alimentação pagadas pela
-prefeitura.
+[Glasstaff](../characters/npcs/glasstaff.md), além das despesas de hospedagem e
+alimentação pagadas pela prefeitura.
 
 ---
 
