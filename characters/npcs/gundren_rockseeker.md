@@ -11,6 +11,11 @@ escoltar uma carga de suprimentos até [Phandalin](../../locations/phandalin.md)
 Gundren seguiu à frente com o guerreiro e seu
 amigo, [Sildar Hallwinter](sildar_hallwinter.md), para tratar de assuntos na
 cidade, enquanto o grupo segue com os suprimentos.
+
+Gundren e seus irmãos, [Tharden](tharden_rockseeker.md)
+e [Nundro](nundro_rockseeker.md), estão empenhados em descobrir a localização de
+certas minas lendárias da região de Phandalin. Seu objetivo é recuperá-las para
+seu clã e restabelecer a mina.
 <br clear="left"/>
 
 ### Relações
