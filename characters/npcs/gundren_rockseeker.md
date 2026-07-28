@@ -6,7 +6,11 @@
 <img alt="Gundren Rockseeker" src="../../images/characters/gundren_rockseeker.png" style="width:300px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
-_[Texto]_ :construction:
+O anão **Gundren Rockseeker** é um velho conhecido do grupo, e os contratou para
+escoltar uma carga de suprimentos até [Phandalin](../../locations/phandalin.md).
+Gundren seguiu à frente com o guerreiro e seu
+amigo, [Sildar Hallwinter](sildar_hallwinter.md), para tratar de assuntos na
+cidade, enquanto o grupo segue com os suprimentos.
 <br clear="left"/>
 
 ### Relações
