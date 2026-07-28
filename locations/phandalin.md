@@ -65,7 +65,7 @@ _[Texto]_ :construction:
 * [Posto da Lionshield Coster](../locations/phandalin/lionshield_coster_post.md),
   posto comercial
 * [Prefeitura](phandalin/townmasters_hall.md), sede da administração
-* _[Ferraria]_
+* [Ferraria](phandalin/blacksmith_shop.md)
 
 #### Mencionados
 

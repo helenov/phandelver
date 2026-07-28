@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Joe Smithe, <small>_humano_</small>
+## Ferraria
 
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
@@ -9,9 +9,9 @@ _[Imagem]_
 _[Texto]_ :construction:
 <br clear="left"/>
 
-[//]: # (### Relações)
-[//]: # ()
-[//]: # (* _[Character]_, _[detalhe]_)
+### Personagens
+
+* [Joe Smithe](../../characters/npcs/phandalin/joe_smithe.md), ferreiro
 
 [//]: # (### Organizações)
 [//]: # ()
@@ -19,13 +19,12 @@ _[Texto]_ :construction:
 
 ### Locais
 
-* [Phandalin](../../../locations/phandalin.md), morador
-  * [Ferraria](../../../locations/phandalin/blacksmith_shop.md), ferreiro
+* [Phandalin](../phandalin.md)
+  * a **Ferraria** está localizada próximo
+    à [Venda da Barthen](barthens_provisions.md)
 
 ### Referências
 
 * [Sessão 2 Phandalin]
   * [Cena 12]
     * o grupo visita a [Ferraria] para encomendar seus distintívos
-    * não sabe nada sobre o [Castelo Cragmaw]
-    * não gosta do dos [Redbrands]
