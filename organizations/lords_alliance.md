@@ -6,7 +6,10 @@
 <img alt="Lords' Alliance" src="../images/organizations/lords_alliance.png" style="width:200px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
-_[Texto]_ :construction:
+A **Lords' Alliance** é uma parceria criada entre as grandes cidades-estado
+mercantis, para garantir a segurança e a prosperidade conjunta, manter uma forte
+coalizão contra as forças da desordem e eliminar proativamente ameaças à
+civilização.
 <br clear="left"/>
 
 ### Membros
@@ -28,7 +31,8 @@ _[Texto]_ :construction:
     * brasão nos trajes de [Sildar](../characters/npcs/sildar_hallwinter.md)
 
 ####
+
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
   * [Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath)
-    * [Daran](../characters/npcs/phandalin/daran_edermath.md) fica 
-      satisfeito que tenham mandado [Sildar](../characters/npcs/sildar_hallwinter.md)
+    * [Daran](../characters/npcs/phandalin/daran_edermath.md) fica satisfeito
+      que tenham mandado [Sildar](../characters/npcs/sildar_hallwinter.md)
