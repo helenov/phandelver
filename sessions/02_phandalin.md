@@ -498,8 +498,9 @@ mãe, [Qelline](../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md), e
 ao sul da [Mansão Tresendar](../locations/phandalin/tresendar_manor.md), e como
 encontrou um "túnel secreto, que fica escondido atrás de uns arbustos e pedras".
 Mas bem na hora que estava começando a entrar para explorar, viu que alguns
-bandidos de capa vermelha, os _[Redbrands]_, estavam vindo lá de dentro, mas ela
-conseguiu se esconder e "por um triz eles não me viram".
+bandidos de capa vermelha, os [Redbrands](../organizations/redbrands.md),
+estavam vindo lá de dentro, mas ela conseguiu se esconder e "por um triz eles
+não me viram".
 
 "Posso levar vocês lá, se vocês quiserem. O lugar é perigoso, mas vocês são
 heróis corajosos, e não têm medo de bandidos malvados. Ah! Também vi um goblins
