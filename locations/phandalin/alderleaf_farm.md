@@ -27,7 +27,8 @@
 
 ### Referências
 
-* [Cena 13](../../../../sessions/02_phandalin.md#cena-13-carp)
-  * [Carp](../../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) menciona
-    a **fazenda** onde mora com a
-    mãe, [Qelline](../../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md)
+* [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
+  * [Cena 13](../../sessions/02_phandalin.md#cena-13-carp)
+    * [Carp](../../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) menciona
+      a **fazenda** onde mora com a
+      mãe, [Qelline](../../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md)
