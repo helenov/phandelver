@@ -29,12 +29,12 @@ _[Texto]_ :construction:
 ### Referências
 
 * [Sessão 1 Goblins](../sessions/01_goblins.md)
-  * são emboscados por goblins
-    na [Estrada Triboar](../locations/triboar_trail.md)
-  * encontram e invadem o [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
-  * negociam com [Yeemik](../characters/npcs/cragmaw/yeemik.md) a liberdade
+  * grupo é emboscado na [Estrada Triboar](../locations/triboar_trail.md)
+  * grupo encontra e invade o [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
+  * grupo negocia com [Yeemik](../characters/npcs/cragmaw/yeemik.md) a liberdade
     de [Sildar](../characters/npcs/sildar_hallwinter.md)
-  * derrotam [Klarg](../characters/npcs/cragmaw/klarg.md), o chefe do grupo
+  * grupo derrota [Klarg](../characters/npcs/cragmaw/klarg.md), o chefe do grupo
     <br><br>
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
-  * libertam [Sildar](../characters/npcs/sildar_hallwinter.md)
+  * [Cena 2](../sessions/02_phandalin.md#cena-2-troca)
+    * grupo liberta [Sildar](../characters/npcs/sildar_hallwinter.md)

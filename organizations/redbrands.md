@@ -22,23 +22,24 @@ _[Texto]_ :construction:
 
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
   * [Cena 6](../sessions/02_phandalin.md#cena-6-venda-da-barthen)
-    * [Ander](../characters/npcs/phandalin/barthens/ander.md) sugere que os
-      ataques na [Estrada Triboar](../locations/triboar_trail.md) podem ter
-      relação com os **Redbrands**
+    * [Ander](../characters/npcs/phandalin/barthens/ander.md) sugere que podem
+      ser responsáveis pelos ataques
+      na [Estrada Triboar](../locations/triboar_trail.md)
   * [Cena 7](../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
-    * [Freda](../characters/npcs/phandalin/stonehill/freda.md) sugere que o
-      sequestro de [Gundren](../characters/npcs/gundren_rockseeker.md) podem ser
-      obra dos **Redbrands**
-    * [Lanar](../characters/npcs/phandalin/stonehill/lanar.md) diz que os
-      **Redbrands**
-      não incomodam [Halia](../characters/npcs/phandalin/halia_thornton.md)
+    * [Freda](../characters/npcs/phandalin/stonehill/freda.md) sugere que podem
+      ser responsáveis sequestro
+      de [Gundren](../characters/npcs/gundren_rockseeker.md)
+    * [Lanar](../characters/npcs/phandalin/stonehill/lanar.md) diz
+      apenas [Halia](../characters/npcs/phandalin/halia_thornton.md)
       do [Entreposto dos Mineradores](../locations/phandalin/miners_exchange.md)
+      não é incomodada
   * [Cena 8](../sessions/02_phandalin.md#cena-8-pip)
     * [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md)
-      diz que [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md)
-      quase foi capturada pelos **Redbrands**
+      diz que quase
+      capturaram [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md)
   * [Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath)
-    * [Daran](../characters/npcs/phandalin/daran_edermath.md) está preocupado com os **Redbrands**
+    * [Daran](../characters/npcs/phandalin/daran_edermath.md) está preocupado
+      com os ataques na cidade
   * [Cena 13](../sessions/02_phandalin.md#cena-13-carp)
     * [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) conta
-      sobre como quase foi vista pelos **Redbrands**
+      sobre como quase a viram

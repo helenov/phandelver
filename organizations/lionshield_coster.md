@@ -17,14 +17,13 @@ _[Texto]_ :construction:
 ### Locais
 
 * [Posto da Lionshield Coster](../locations/phandalin/lionshield_coster_post.md),
-   em [Phandalin](../locations/phandalin.md)
+  em [Phandalin](../locations/phandalin.md)
 
 ### Referências
 
 * [Sessão 1 Goblins](../sessions/01_goblins.md)
   * [Cena 5](../sessions/01_goblins.md#cena-5-klarg)
-    * brasão da **Lionshield Coster** está em boa parte da carga roubada
+    * brasão está em boa parte da carga roubada
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
   * [Cena 10](../sessions/02_phandalin.md#cena-10-lionshield-coster)
-    * grupo visita o posto comercial da **Lionshield Coster**
-      em [Phandalin](../locations/phandalin.md)
+    * grupo visita o posto comercial
