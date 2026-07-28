@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-# # Flip, <small>_goblin_</small>
+# Flip, <small>_goblin_</small>
 
 <!-- @formatter:off -->
 <img alt="Flip" src="../../../images/characters/cragmaw/flip.png" style="width:200px; margin-right: 15px; float: left" />
