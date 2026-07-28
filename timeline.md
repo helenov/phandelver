@@ -27,12 +27,14 @@
   * [Sessão 1](sessions/01_goblins.md): [Cenas 2 a 5](sessions/01_goblins.md#cena-2-caverna)
   * [Sessão 2](sessions/02_phandalin.md): [Cenas 1 a 4](sessions/02_phandalin.md#cena-1-decisões)
 
+### Dia 5
+
 #### noite
 
 * chegada a [Phandalin](locations/phandalin.md)
   * [Sessão 2](sessions/02_phandalin.md): [Cenas 5 a 7](sessions/02_phandalin.md#cena-5-phandalin)
 
-### Dia 5
+### Dia 6
 
 #### manhã e tarde
 
