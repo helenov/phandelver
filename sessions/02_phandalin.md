@@ -371,9 +371,9 @@ _[Imagem]_ :construction:
 Voltando do pomar, o grupo, enquanto ruma para a prefeitura onde pretendem
 conversar com o prefeito, nota na praça central um modesto posto comercial onde,
 acima da porta da frente, há uma placa em forma de escudo de madeira com um leão
-azul pintado. Reconhecem o emblema da _[Lionshield Coster]_, uma grande
-companhia mercante com sede em _[Yartar]_, e que tem negócios por toda a
-_[Sword Coast]_, e é mesmo escudo que viram entre as cargas saqueadas no
+azul pintado. Reconhecem o emblema
+da [Lionshield Coster](../organizations/lionshield_coster.md), uma grande
+companhia mercante, o mesmo escudo que viram entre as cargas saqueadas no
 _[Esconderijo Cragmaw]_.
 
 Resolvem entrar e conhecem _[Linene Graywind]_, uma mulher de 30 e poucos anos,

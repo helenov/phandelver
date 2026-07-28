@@ -23,4 +23,8 @@ _[Texto]_ :construction:
 
 * [Sessão 1 Goblins](../sessions/01_goblins.md)
   * [Cena 5](../sessions/01_goblins.md#cena-5-klarg)
-    * brasão da **Lionshield Coster** está em boa parte da carga roubada 
+    * brasão da **Lionshield Coster** está em boa parte da carga roubada
+* [Sessão 2 Phandalin](../sessions/02_phandalin.md)
+  * [Cena 10](../sessions/02_phandalin.md#cena-10-lionshield-coster)
+    * grupo visita a loja da **Lionshield Coster**
+      em [Phandalin](../locations/phandalin.md)
