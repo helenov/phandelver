@@ -378,14 +378,15 @@ conversar com o prefeito, nota na praça central um modesto posto comercial onde
 acima da porta da frente, há uma placa em forma de escudo de madeira com um leão
 azul pintado. Reconhecem o emblema
 da [Lionshield Coster](../organizations/lionshield_coster.md), uma grande
-companhia mercante, o mesmo escudo que viram entre as cargas saqueadas no
-_[Esconderijo Cragmaw]_.
+companhia mercante, o mesmo escudo que viram entre as cargas saqueadas
+no [Esconderijo Cragmaw](../locations/cragmaw_hideout.md).
 
 Resolvem entrar e
 conhecem [Linene Graywind](../characters/npcs/phandalin/linene_graywind.md), uma
 mulher de 30 e poucos anos, responsável pelo novo posto da companhia na região.
 
-O grupo conta de seu encontro com os _[Cragmaw Goblins]_ na estrada e sobre a
+O grupo conta de seu encontro com
+os [Cragmaw Goblins](../organizations/cragmaw_goblins.md) na estrada e sobre a
 carga que encontraram no seu esconderijo. Linene diz que tem sofrido muito com
 os ataques na estrada, que não recebe nenhuma carga há semanas, e que estaria
 interessada em recuperar ao menos parte da carga roubada, mas que precisaria
