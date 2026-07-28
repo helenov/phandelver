@@ -127,3 +127,4 @@ e [Sildar](../characters/npcs/sildar_hallwinter.md). Sem muito tempo para
 investigar a cena, uma flecha passa zunindo próxima a Ralf, revelando um goblin
 escondido na vegetação.
 
+---

@@ -197,3 +197,5 @@ da [Lionshield Coster](../organizations/lionshield_coster.md)).
 O grupo bastante ferido e esgotado precisa decidir o que fazer: ir para o
 resgate de [Sildar](../characters/npcs/sildar_hallwinter.md)? Ou recuar para se
 recuperar?
+
+---
