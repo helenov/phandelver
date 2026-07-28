@@ -6,7 +6,9 @@
 <img alt="Ander" src="../../../../images/characters/phandalin/ander.png" style="width:200px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
-_[Texto]_ :construction:
+**Ander** é um garoto de 15 anos que, juntamente com seu
+irmão [Thistle](thistle.md), trabalha como ajudante
+na [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md).
 <br clear="left"/>
 
 ### Relações

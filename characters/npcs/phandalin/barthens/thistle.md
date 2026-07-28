@@ -6,7 +6,9 @@
 <img alt="Thistle" src="../../../../images/characters/phandalin/thistle.png" style="width:200px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
-_[Texto]_ :construction:
+**Thistle** é um garoto de 14 anos que, juntamente com seu
+irmão [Ander](ander.md), trabalha como ajudante
+na [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md).
 <br clear="left"/>
 
 ### Relações
