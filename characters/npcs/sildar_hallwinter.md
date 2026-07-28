@@ -62,9 +62,9 @@ _[Texto]_ :construction:
     * está tentando lidar com a papelada
       da [Prefeitura](../../locations/phandalin/townmasters_hall.md)
     * explica que sua missão era encontrar [Iarno Albrek](iarno_albrek.md)
-      * suspeita que talvez tenha sido capturado
+      * suspeita que tenha sido capturado
         pelos [Redbrands](../../organizations/redbrands.md)
-    * diz que soube por _[Toblen]_ que os _[Redbrands]_ mataram _[Thel Dendral]_
-      * possivelmente capturaram sua família
+    * conta o que aconteceu com [Thel Dendral](phandalin/thel_dendral.md) e sua
+      família
       * propõe uma recompensa para o grupo capturar _[Glasstaff]_ o líder dos
         Redbrands 

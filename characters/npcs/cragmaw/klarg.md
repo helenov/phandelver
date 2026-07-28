@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Klarg, <small>_bugbear_</small> (RIP)
+## Klarg (RIP), <small>_bugbear_</small>
 
 <!-- @formatter:off -->
 <img alt="Klarg" src="../../../images/characters/cragmaw/klarg.png" style="width:300px; margin-right: 15px; float: left" />
