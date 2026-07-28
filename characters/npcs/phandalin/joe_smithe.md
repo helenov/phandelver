@@ -29,5 +29,5 @@ _[Texto]_ :construction:
     * o grupo visita
       a [Ferraria](../../../locations/phandalin/blacksmith_shop.md) para
       encomendar seus distintívos
-    * não sabe nada sobre o [Castelo Cragmaw]
+    * não sabe nada sobre o [Castelo Cragmaw](../../../locations/cragmaw_castle.md)
     * não gosta dos [Redbrands]

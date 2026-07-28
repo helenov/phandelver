@@ -44,3 +44,6 @@
       * o **Castelo Cragmaw** fica
         na [Floresta de Neverwinter](neverwinter_wood.md)
       * não sabe a localização exata
+  * [Cena 12](../sessions/02_phandalin.md#cena-12-ferraria-e-carpintaria)
+    * [Joe Smithe](../characters/npcs/phandalin/joe_smithe.md) diz que não 
+      sabe nada sobre o **Castelo Cragmaw**
