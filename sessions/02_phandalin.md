@@ -55,7 +55,7 @@ _próxima_ : [Sessão 3 Redbrands]
 * [Linene Graywind](../characters/npcs/phandalin/linene_graywind.md),
   representante da [Lionshield Coster](../organizations/lionshield_coster.md)
 * [Harbin Wester](../characters/npcs/phandalin/harbin_wester.md), prefeito
-* _[Joe Smithe]_, ferreiro
+* [Joe Smithe](../characters/npcs/phandalin/joe_smithe.md), ferreiro
 * [Carp Alderleaf](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md),
   amiga de Pip
 
@@ -502,9 +502,10 @@ alimentação pagadas pela prefeitura.
 _[Imagem]_ :construction:
 
 Saindo da prefeitura, o grupo decide procurar pelo ferreiro da cidade, um certo
-_[Joe Smithe]_, que sendo novo na região, não faz ideia de onde fica o tal
-_[Castelo Cragmaw]_, mas que não gosta dos _[Redbrands]_: "um bando de
-encrenqueiros".
+[Joe Smithe](../characters/npcs/phandalin/joe_smithe.md), que sendo novo na
+região, não faz ideia de onde fica o tal
+[Castelo Cragmaw](../locations/cragmaw_castle.md), mas que não gosta
+dos [Redbrands](../organizations/redbrands.md): "um bando de encrenqueiros".
 
 Mas, após tentar entender o que os forasteiros querem, concorda em forjar os
 distintivos para que o grupo possa se identificar como a nova "força de
