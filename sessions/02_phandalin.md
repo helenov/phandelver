@@ -111,7 +111,7 @@ _próxima_ : [Sessão 3 Redbrands]
   * [Pomar Edermath](../locations/phandalin/edermath_orchard.md)
   * [Posto da Lionshield Coster](../locations/phandalin/lionshield_coster_post.md)
   * [Prefeitura](../locations/phandalin/townmasters_hall.md)
-  * _[Ferraria]_
+  * [Ferraria](../locations/phandalin/blacksmith_shop.md)
   * _[Carpintaria]_
 
 #### Mencionados

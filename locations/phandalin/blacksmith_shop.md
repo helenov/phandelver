@@ -25,6 +25,6 @@ _[Texto]_ :construction:
 
 ### Referências
 
-* [Sessão 2 Phandalin]
-  * [Cena 12]
-    * o grupo visita a [Ferraria] para encomendar seus distintívos
+* [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
+  * [Cena 12](../../sessions/02_phandalin.md#cena-12-ferraria-e-carpintaria)
+    * o grupo visita a **Ferraria** para encomendar seus distintívos
