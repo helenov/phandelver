@@ -93,6 +93,7 @@ _próxima_ : [Sessão 3 Redbrands]
   * [Entreposto dos Mineradores](../locations/phandalin/miners_exchange.md)
   * [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md)
   * [Mansão Tresendar](../locations/phandalin/tresendar_manor.md)
+  * [Mata Tresendar](../locations/phandalin/tresendar_wood.md)
 
 ---
 

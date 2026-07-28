@@ -70,6 +70,8 @@ _[Texto]_ :construction:
 * [Fazenda Alderleaf](phandalin/alderleaf_farm.md), fazenda nos limites da
   cidade
 * [Mansão Tresendar](phandalin/tresendar_manor.md), ruínas da velha mansão
+* [Mata Tresendar](../locations/phandalin/tresendar_wood.md), mata ao sul da
+  velha mansão
 
 ### Referências
 
