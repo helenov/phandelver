@@ -66,6 +66,7 @@ _[Texto]_ :construction:
   posto comercial
 * [Prefeitura](phandalin/townmasters_hall.md), sede da administração
 * [Ferraria](phandalin/blacksmith_shop.md)
+* [Carpintaria](phandalin/woodworker_shop.md)
 
 #### Mencionados
 

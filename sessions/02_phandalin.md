@@ -112,7 +112,7 @@ _próxima_ : [Sessão 3 Redbrands]
   * [Posto da Lionshield Coster](../locations/phandalin/lionshield_coster_post.md)
   * [Prefeitura](../locations/phandalin/townmasters_hall.md)
   * [Ferraria](../locations/phandalin/blacksmith_shop.md)
-  * _[Carpintaria]_
+  * [Carpintaria](../locations/phandalin/woodworker_shop.md)
 
 #### Mencionados
 
@@ -511,10 +511,11 @@ Mas, após tentar entender o que os forasteiros querem, concorda em forjar os
 distintivos para que o grupo possa se identificar como a nova "força de
 segurança" da cidade.
 
-Deixando a oficina do ferreiro, o grupo passa na _[casa do carpinteiro]_, mas
-encontram o lugar vazio e abandonado. Algumas cadeiras caídas, pratos na mesa e
-panelas no fogão, indicam que houve alguma, mas pouca, resistência e a família
-deixou o lugar - teriam sido levados? - sem preparativos.
+Deixando a oficina do ferreiro, o grupo passa
+na [Carpintaria](../locations/phandalin/woodworker_shop.md), mas encontram o
+lugar vazio e abandonado. Algumas cadeiras caídas, pratos na mesa e panelas no
+fogão, indicam que houve alguma, mas pouca, resistência e a família deixou o
+lugar - teriam sido levados? - sem preparativos.
 
 ---
 
