@@ -28,7 +28,7 @@ _[Texto]_ :construction:
   * [Cena 3](../sessions/00_prologo.md#cena-3-corpos)
     * grupo encontra os cavalos
       de [Gundren](../characters/npcs/gundren_rockseeker.md)
-      e [Sildar](../characters/npcs/sildar_hallwinter.md) mortos na estrada
+      e [Sildar](../characters/npcs/sildar_hallwinter.md) mortos
       <br><br>
 * [Sessão 1 Goblins](../sessions/01_goblins.md)
   * [Cena 1](../sessions/01_goblins.md#cena-1-emboscada)
@@ -36,4 +36,4 @@ _[Texto]_ :construction:
       de [Gragmaw Goblins](../organizations/cragmaw_goblins.md)
   * [Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath)
     * [Daran](../characters/npcs/phandalin/daran_edermath.md) fala sobre os
-      ataques na **Estrada Triboar** tanto a leste quanto a oeste
+      ataques na **Estrada Triboar**

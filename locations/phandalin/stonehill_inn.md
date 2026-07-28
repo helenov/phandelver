@@ -33,6 +33,4 @@ _[Texto]_ :construction:
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * [Cena 7](../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
-    * são recebidos
-      por [Toblen](../../characters/npcs/phandalin/stonehill/toblen_stonehill.md),
-      o proprietário, com quem acertam sua hospedagem
+    * grupo se hospeda na **Hospedaria Stonehill**

@@ -82,8 +82,7 @@ _[Texto]_ :construction:
     * grupo chega a **Phandalin**
   * [Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath)
     * [Daran](../characters/npcs/phandalin/daran_edermath.md) explica sobre
-      (des)organização política da cidade
+      (des)organização política de **Phandalin**
   * [Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura)
-    * grupo é nomeado,
-      por [Harbin](../characters/npcs/phandalin/harbin_wester.md), como força de
-      segurança provisória de **Phandalin**
+    * [Harbin](../characters/npcs/phandalin/harbin_wester.md) nomeia o grupo
+      como força de segurança provisória de **Phandalin**

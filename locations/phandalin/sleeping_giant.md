@@ -27,7 +27,5 @@ _[Texto]_ :construction:
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * [Cena 6](../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
-    * na [Venda da Barthen](barthens_provisions.md) mencionam que os
-      [Redbrands](../../organizations/redbrands.md) costumam se reunir no
-      **Gigante Adormecido**
-    * descrito como "um bar sujo nos limites da cidade" 
+    * é mencionado que os [Redbrands](../../organizations/redbrands.md)
+      costumam se reunir no **Gigante Adormecido**
