@@ -78,7 +78,8 @@ _próxima_ : [Sessão 3 Redbrands]
 
 ### Cenários
 
-* [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
+* [Estrada Triboar](../locations/triboar_trail.md)
+  * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
 * [Phandalin](../locations/phandalin.md)
   * [Venda da Barthen](../locations/phandalin/barthens_provisions.md)
   * [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)
@@ -94,6 +95,8 @@ _próxima_ : [Sessão 3 Redbrands]
   * [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md)
   * [Mansão Tresendar](../locations/phandalin/tresendar_manor.md)
   * [Mata Tresendar](../locations/phandalin/tresendar_wood.md)
+* [Estrada Triboar](../locations/triboar_trail.md)
+  * [Conyberry](../locations/conyberry.md)
 
 ---
 
@@ -412,7 +415,7 @@ primeira coisa que veem é o cartaz pregado ao lado da porta.
 > voluntários que capturem os
 > bandidos que têm atacado caravanas e viajantes
 > na [Estrada Triboar](../locations/triboar_trail.md), na
-> direção de _[Conyberry]_, a leste.
+> direção de [Conyberry](../locations/conyberry.md), a leste.
 >
 > Foi reportado que o grupo de bandidos é formado por bugbears, goblins e ao
 > menos um ogre foi visto. Também há rumores de "goblins estranhos" - o que

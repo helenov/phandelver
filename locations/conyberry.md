@@ -19,12 +19,12 @@ _[Texto]_ :construction:
 
 ### Locais
 
-* [Estrada Triboar]
-  * **Conyberry** fica na estrada, a cerca de 3 dias a oeste
+* [Estrada Triboar](triboar_trail.md)
+  * **Conyberry** está a cerca de três dias de viagem para oeste, saindo
     de [Phandalin](phandalin.md)
 
 ### Referências
 
-* [Sessão 2 Phandalin]
-  * [Cena 11]
-    * mencionada em convocação na porta da [Prefeitura] 
+* [Sessão 2 Phandalin](../sessions/02_phandalin.md)
+  * [Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura)
+    * mencionada em convocação na porta da [Prefeitura](phandalin/townmasters_hall.md) 
