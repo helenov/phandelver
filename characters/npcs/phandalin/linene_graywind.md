@@ -30,4 +30,5 @@
   * [Cena 10](../../../sessions/02_phandalin.md#cena-10-lionshield-coster)
     * grupo conhece **Linene Graywind**
       no [Posto da Lionshield Coster](../../../locations/phandalin/lionshield_coster_post.md)
-    * conversam sobre a possibilidade de recuperar a carga roubada pelos _[Cragmaw Goblins]_ 
+    * conversam sobre recuperar a carga roubada
+      pelos [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md) 

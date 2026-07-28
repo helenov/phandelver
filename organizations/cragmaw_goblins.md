@@ -30,7 +30,8 @@ _[Texto]_ :construction:
 
 * [Sessão 1 Goblins](../sessions/01_goblins.md)
   * grupo é emboscado na [Estrada Triboar](../locations/triboar_trail.md)
-  * grupo encontra e invade o [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
+  * grupo encontra e invade
+    o [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
   * grupo negocia com [Yeemik](../characters/npcs/cragmaw/yeemik.md) a liberdade
     de [Sildar](../characters/npcs/sildar_hallwinter.md)
   * grupo derrota [Klarg](../characters/npcs/cragmaw/klarg.md), o chefe do grupo
@@ -38,3 +39,8 @@ _[Texto]_ :construction:
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
   * [Cena 2](../sessions/02_phandalin.md#cena-2-troca)
     * grupo liberta [Sildar](../characters/npcs/sildar_hallwinter.md)
+  * [Cena 10](../../../sessions/02_phandalin.md#cena-10-lionshield-coster)
+    * conversam
+      com [Linene Graywind](../characters/npcs/phandalin/linene_graywind.md)
+      sobre recuperar a carga roubada
+ 
