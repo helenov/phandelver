@@ -22,6 +22,9 @@ _[Texto]_ :construction:
 * [Esconderijo Cragmaw](cragmaw_hideout.md)
   * trilha para o esconderijo fica há um dia de viagem a leste
     de [Phandalin](phandalin.md)
+* [Coneberry](conyberry.md)
+  * a cerca de três dias de viagem para oeste, saindo
+    de [Phandalin](phandalin.md)
 
 ### Referências
 
