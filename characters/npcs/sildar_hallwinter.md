@@ -6,7 +6,14 @@
 <img alt="[Imagem]" src="../../images/characters/sildar_hallwinter.png" style="width:200px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
-_[Texto]_ :construction:
+**Sildar Hallwinter** é um soldado aposentado e mercenário originário da cidade
+de
+[Neverwinter](../../locations/phandalin.md). Ele é um membro leal
+da [Lords' Alliance](../../organizations/lords_alliance.md), que o está enviando
+a [Phandalin](../../locations/phandalin.md) com a missão de encontrar um
+companheiro. Sabendo que seu velho
+amigo [Gundren Rockseeker](gundren_rockseeker.md) está de partida para a mesma
+cidade, resolve acompanhá-lo.
 <br clear="left"/>
 
 ### Relações
@@ -39,11 +46,13 @@ _[Texto]_ :construction:
       na [Estrada Triboar](../../locations/triboar_trail.md)
 
 ####
+
 * [Sessão 1 Goblins](../../sessions/01_goblins.md)
   * [Cena 4](../../sessions/01_goblins.md#cena-4-negociação)
     * prisioneiro de [Yeemik](cragmaw/yeemik.md)
 
 ####
+
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * [Cena 2](../../sessions/02_phandalin.md#cena-2-troca)
     * libertado pelo grupo
