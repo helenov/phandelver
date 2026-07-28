@@ -4,7 +4,7 @@
 
 _data_ : 2026-04-13 \
 _anterior_ : [Sessão 1 Goblins](01_goblins.md) \
-_próxima_ : [Sessão 3 Redbrands]
+_próxima_ : [Sessão 3 Redbrands](03_redbrands.md)
 
 ### Cenas
 
