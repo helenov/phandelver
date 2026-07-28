@@ -17,10 +17,11 @@ _[Texto]_ :construction:
 [//]: # ()
 [//]: # (* _[Organização]_, _[detalhe]_)
 
-[//]: # (### Locais)
-[//]: # ()
-[//]: # (* _[Local]_)
-[//]: # (  * _[detalhe]_)
+### Locais
+
+* [Esconderijo Cragmaw](cragmaw_hideout.md)
+  * trilha para o esconderijo fica há um dia de viagem a leste
+    de [Phandalin](phandalin.md)
 
 ### Referências
 

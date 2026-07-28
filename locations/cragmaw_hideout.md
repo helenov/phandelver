@@ -22,6 +22,13 @@ _[Texto]_ :construction:
 
 * [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
 
+### Locais
+
+* [Estrada Triboar](triboar_trail.md)
+  * trilha para o esconderijo fica há um dia de viagem a leste
+    de [Phandalin](phandalin.md)
+  * o esconderijo fica a cerca de 1 milha ao norte da estrada
+
 ### Referências
 
 * [Sessão 1 Goblins](../sessions/01_goblins.md)
