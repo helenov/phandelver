@@ -40,6 +40,7 @@
   * [Linene Graywind](npcs/phandalin/linene_graywind.md), representante
     da [Lionshield Coster](../organizations/lionshield_coster.md)
   * [Harbin Wester](npcs/phandalin/harbin_wester.md), prefeito
+  * _[Joe Smithe]_, ferreiro
 
 ####
 * [Cragmaws Goblins](../organizations/cragmaw_goblins.md)

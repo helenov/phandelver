@@ -50,12 +50,14 @@ _próxima_ : [Sessão 3 Redbrands]
     hospedaria
   * [Pip Stonehill](../characters/npcs/phandalin/stonehill/pip_stonehill.md),
     filho de Toblen
-* [Carp Alderleaf](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md),
-  amiga de Pip
 * [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do
   pomar
 * [Linene Graywind](../characters/npcs/phandalin/linene_graywind.md),
   representante da [Lionshield Coster](../organizations/lionshield_coster.md)
+* [Harbin Wester](../characters/npcs/phandalin/harbin_wester.md), prefeito
+* _[Joe Smithe]_, ferreiro
+* [Carp Alderleaf](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md),
+  amiga de Pip
 
 #### Mencionados
 
@@ -108,6 +110,9 @@ _próxima_ : [Sessão 3 Redbrands]
   * [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)
   * [Pomar Edermath](../locations/phandalin/edermath_orchard.md)
   * [Posto da Lionshield Coster](../locations/phandalin/lionshield_coster_post.md)
+  * [Prefeitura](../locations/phandalin/townmasters_hall.md)
+  * _[Ferraria]_
+  * _[Carpintaria]_
 
 #### Mencionados
 
