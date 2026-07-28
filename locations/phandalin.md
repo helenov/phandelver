@@ -42,6 +42,7 @@ _[Texto]_ :construction:
 * [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do
   pomar
 * [Harbin Weber](../characters/npcs/phandalin/harbin_wester.md), prefeito
+* [Joe Smithe](../characters/npcs/phandalin/joe_smithe.md), ferreiro
 
 #### Mencionados
 
@@ -61,9 +62,10 @@ _[Texto]_ :construction:
 * [Hospedaria Stonehill](phandalin/stonehill_inn.md), hospedaria e ponto de
   encontro dos moradores
 * [Pomar Edermath](phandalin/edermath_orchard.md), pomar de maçãs
-* [Prefeitura](phandalin/townmasters_hall.md), sede da administração
 * [Posto da Lionshield Coster](../locations/phandalin/lionshield_coster_post.md),
   posto comercial
+* [Prefeitura](phandalin/townmasters_hall.md), sede da administração
+* _[Ferraria]_
 
 #### Mencionados
 
