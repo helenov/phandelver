@@ -260,7 +260,7 @@ que sobe em direção a uma mansão em ruínas na encosta leste da cidade.
 
 ### Cena 6 Venda da Barthen
 
-_[Imagem]_ :construction:
+![02_6_venda_da_barthen.png](../images/cenas/02_6_venda_da_barthen.png)
 
 É fim da tarde e a cidade parece se preparar para a noite. Logo na entrada na
 cidade o grupo vê uma casa comercial, com uma placa onde se lê

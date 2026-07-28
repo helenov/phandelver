@@ -2,10 +2,10 @@
 
 ## Thistle, <small>_humano_</small>
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-_[Imagem]_
+<!-- @formatter:off -->
+<img alt="Thistle" src="../../../../images/characters/phandalin/thistle.png" style="width:200px; margin-right: 15px; float: left" />
+<!-- @formatter:on -->
+
 _[Texto]_ :construction:
 <br clear="left"/>
 
@@ -20,7 +20,8 @@ _[Texto]_ :construction:
 ### Locais
 
 * [Phandalin](../../../../locations/phandalin.md), morador
-  * [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md), funcionário
+  * [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md),
+    funcionário
 
 ### Referências
 
