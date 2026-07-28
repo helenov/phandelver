@@ -56,6 +56,8 @@ _[Texto]_ :construction:
   encontro dos moradores
 * [Pomar Edermath](phandalin/edermath_orchard.md), pomar de maçãs
 * [Prefeitura](phandalin/townmasters_hall.md), sede da administração
+* [Posto da Lionshield Coster](../locations/phandalin/lionshield_coster_post.md),
+  posto comercial
 
 #### Mencionados
 

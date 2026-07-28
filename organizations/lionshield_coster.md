@@ -14,10 +14,10 @@ _[Texto]_ :construction:
 * [Linene Graywind](../characters/npcs/phandalin/linene_graywind.md),
   representante local em [Phandalin](../locations/phandalin.md)
 
-[//]: # (### Locais)
-[//]: # ()
-[//]: # (* _[Local]_)
-[//]: # (  * _[detalhe]_)
+### Locais
+
+* [Posto da Lionshield Coster](../locations/phandalin/lionshield_coster_post.md),
+   em [Phandalin](../locations/phandalin.md)
 
 ### Referências
 
@@ -26,5 +26,5 @@ _[Texto]_ :construction:
     * brasão da **Lionshield Coster** está em boa parte da carga roubada
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
   * [Cena 10](../sessions/02_phandalin.md#cena-10-lionshield-coster)
-    * grupo visita a loja da **Lionshield Coster**
+    * grupo visita o posto comercial da **Lionshield Coster**
       em [Phandalin](../locations/phandalin.md)

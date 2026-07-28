@@ -15,11 +15,14 @@
 
 ### Organizações
 
-* [Lionshield Coster](../../../organizations/lionshield_coster.md), representante local
+* [Lionshield Coster](../../../organizations/lionshield_coster.md),
+  representante comercial
 
 ### Locais
 
-* [Phandalin](../../../locations/phandalin.md), moradora e representante comercial
+* [Phandalin](../../../locations/phandalin.md), moradora
+  * [Loja da Lionshield Coster](../../../locations/phandalin/lionshield_coster_post.md),
+    gerente
 
 [//]: # (### Referências)
 [//]: # ()

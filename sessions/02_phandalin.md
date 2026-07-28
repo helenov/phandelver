@@ -79,6 +79,8 @@ _próxima_ : [Sessão 3 Redbrands]
 * [Phandalin](../locations/phandalin.md)
   * [Venda da Barthen](../locations/phandalin/barthens_provisions.md)
   * [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)
+  * [Pomar Edermath](../locations/phandalin/edermath_orchard.md)
+  * [Posto da Lionshield Coster](../locations/phandalin/lionshield_coster_post.md)
 
 #### Mencionados
 
