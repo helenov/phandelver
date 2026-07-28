@@ -45,6 +45,9 @@
       capturado [Iarno](../characters/npcs/iarno_albrek.md)
     * [Sildar](../characters/npcs/sildar_hallwinter.md) propõe que desmantelem
       os **Redbrands** e capturem [Glasstaff](../characters/npcs/glasstaff.md)
+  * [Cena 12](../sessions/02_phandalin.md#cena-12-ferraria-e-carpintaria)
+    * [Joe Smithe](../characters/npcs/phandalin/joe_smithe.md) diz que não 
+      gosta dos **Redbrands**
   * [Cena 13](../sessions/02_phandalin.md#cena-13-carp)
     * [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) conta
       sobre como quase a viram
