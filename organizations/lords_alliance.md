@@ -2,10 +2,10 @@
 
 ## Lords' Alliance
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-_[Imagem]_
+<!-- @formatter:off -->
+<img alt="Lords' Alliance" src="../images/organizations/lords_alliance.png" style="width:200px; margin-right: 15px; float: left" />
+<!-- @formatter:on -->
+
 _[Texto]_ :construction:
 <br clear="left"/>
 
