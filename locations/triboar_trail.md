@@ -33,7 +33,8 @@ _[Texto]_ :construction:
     * grupo encontra os cavalos
       de [Gundren](../characters/npcs/gundren_rockseeker.md)
       e [Sildar](../characters/npcs/sildar_hallwinter.md) mortos
-      <br><br>
+
+####
 * [Sessão 1 Goblins](../sessions/01_goblins.md)
   * [Cena 1](../sessions/01_goblins.md#cena-1-emboscada)
     * grupo sobre emboscada de um grupo

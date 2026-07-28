@@ -13,14 +13,16 @@ _[Texto]_ :construction:
 
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md), representante
   da [Lords' Alliance](../organizations/lords_alliance.md)
-  <br><br>
+
+####
 * [Elmina Barthen](../characters/npcs/phandalin/barthens/elmina_barthen.md),
   dona da venda
   * [Ander](../characters/npcs/phandalin/barthens/ander.md), funcionário da
     venda
   * [Thistle](../characters/npcs/phandalin/barthens/thistle.md), funcionário da
     venda
-    <br><br>
+
+####
 * [Toblen Stonehill](../characters/npcs/phandalin/stonehill/toblen_stonehill.md),
   dono da hospedaria
   * [Freda](../characters/npcs/phandalin/stonehill/freda.md), tecelã
@@ -29,12 +31,14 @@ _[Texto]_ :construction:
     hospedaria
   * [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md), filho de
     Toblen
-    <br><br>
+
+####
 * [Qelline Alderleaf](../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md),
   fazendeira
   * [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md), filha de
     Qelline
-    <br><br>
+
+####
 * [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do
   pomar
 * [Harbin Weber](../characters/npcs/phandalin/harbin_wester.md), prefeito
@@ -80,7 +84,8 @@ _[Texto]_ :construction:
 * [Sessão 0 Prólogo](../sessions/00_prologo.md)
   * [Cena 1](../sessions/00_prologo.md#cena-1-trabalho)
     * destino da carga de [Gundren](../characters/npcs/gundren_rockseeker.md)
-      <br><br>
+
+####
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
   * [Cena 5](../sessions/02_phandalin.md#cena-5-phandalin)
     * grupo chega a **Phandalin**

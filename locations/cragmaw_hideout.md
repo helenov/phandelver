@@ -36,7 +36,8 @@ _[Texto]_ :construction:
     * grupo encontra e explora o **Esconderijo Cragmaw**
   * [Cena 5](../sessions/01_goblins.md#cena-5-klarg)
     * grupo derrota [Klarg](../characters/npcs/cragmaw/klarg.md) em combate
-      <br><br>
+
+####
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
   * [Cena 2](../sessions/02_phandalin.md#cena-2-troca)
     * grupo liberta [Sildar](../characters/npcs/sildar_hallwinter.md)

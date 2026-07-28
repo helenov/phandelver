@@ -28,7 +28,8 @@ _[Texto]_ :construction:
   * [Cena 4](../../../sessions/01_goblins.md#cena-4-negociação)
     * pede a cabeça de [Klarg](klarg.md) em troca da liberdade
       de [Sildar](../sildar_hallwinter.md)
-      <br><br>
+
+####
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
   * [Cena 2](../../../sessions/02_phandalin.md#cena-2-troca)
     * novo líder no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)

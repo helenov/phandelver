@@ -64,14 +64,17 @@ _próxima_ : [Sessão 3 Redbrands]
 * [Tharden Rockseeker](../characters/npcs/tharden_rockseeker.md), irmão de
   Gundren
 * [Nundro Rockseeker](../characters/npcs/nundro_rockseeker.md), irmão de Gundren
-  <br><br>
+
+####
 * [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
   * [Klarg](../characters/npcs/cragmaw/klarg.md) (RIP), antigo chefe
   * [Grol](../characters/npcs/cragmaw/grol.md), rei
-    <br><br>
+
+####
 * [Spider](../characters/npcs/spider.md), possível vilão
 * [Ruxithid](../characters/npcs/ruxithid.md), desconhecido
-  <br><br>
+
+####
 * [Phandalin](../locations/phandalin.md)
   * [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), mestre da
     guilda dos mineiradores
@@ -79,10 +82,12 @@ _próxima_ : [Sessão 3 Redbrands]
     fazendeira
   * [Thel Dendral](../characters/npcs/phandalin/thel_dendral.md) (RIP),
     carpinteiro
-    <br><br>
+
+####
 * [Iarno Albrek](../characters/npcs/iarno_albrek.md), representante
   da [Lords' Alliance](../organizations/lords_alliance.md) desaparecido
-  <br><br>
+
+####
 * [Redbrands](../organizations/redbrands.md) 
   * [Glasstaff](../characters/npcs/glasstaff.md), líder criminoso
 

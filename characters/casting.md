@@ -16,12 +16,11 @@
 
 ### Non-player Characters
 
-#### Aliados
-
 * [Gundren Rockseeker](npcs/gundren_rockseeker.md), anão mercador
 * [Sildar Hallwinter](npcs/sildar_hallwinter.md), representante
   da [Lords' Alliance](../organizations/lords_alliance.md)
-  <br><br>
+
+####
 * [Phandalin](../locations/phandalin.md)
   * [Elmina Barthen](npcs/phandalin/barthens/elmina_barthen.md), dona da venda
     * [Ander](npcs/phandalin/barthens/ander.md), funcionário da venda
@@ -40,10 +39,9 @@
     pomar
   * [Linene Graywind](npcs/phandalin/linene_graywind.md), representante
     da [Lionshield Coster](../organizations/lionshield_coster.md)
-  * [Harbin Wester.md](npcs/phandalin/harbin_wester.md), prefeito
+  * [Harbin Wester](npcs/phandalin/harbin_wester.md), prefeito
 
-#### Inimigos
-
+####
 * [Cragmaws Goblins](../organizations/cragmaw_goblins.md)
   * [Klarg](npcs/cragmaw/klarg.md) (RIP), antigo chefe local
   * [Yeemik](npcs/cragmaw/yeemik.md), novo chefe local
@@ -53,20 +51,25 @@
 
 * [Cragmaws Goblins](../organizations/cragmaw_goblins.md)
   * [Grol](npcs/cragmaw/grol.md), rei
-    <br><br>
+
+####
 * [Spider](npcs/spider.md)
 * [Ruxithid](npcs/ruxithid.md)
-  <br><br>
+
+####
 * [Tharden Rockseeker](npcs/tharden_rockseeker.md)
 * [Nundro Rockseeker](npcs/tharden_rockseeker.md)
-  <br><br>
+
+####
 * [Iarno Albrek](npcs/iarno_albrek.md), representante
   da [Lords' Alliance](../organizations/lords_alliance.md) desaparecido
-  <br><br>
+
+####
 * [Phandalin](../locations/phandalin.md)
   * [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), mestre da
     guilda dos mineradores
   * [Thel Dendral](npcs/phandalin/thel_dendral.md) (RIP), carpinteiro
-    <br><br>
+
+####
 * [Redbrands](../organizations/redbrands.md)
   * [Glasstaff](npcs/glasstaff.md), líder criminoso

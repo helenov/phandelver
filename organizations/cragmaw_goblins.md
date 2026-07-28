@@ -35,7 +35,8 @@ _[Texto]_ :construction:
   * grupo negocia com [Yeemik](../characters/npcs/cragmaw/yeemik.md) a liberdade
     de [Sildar](../characters/npcs/sildar_hallwinter.md)
   * grupo derrota [Klarg](../characters/npcs/cragmaw/klarg.md), o chefe do grupo
-    <br><br>
+
+####
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
   * [Cena 2](../sessions/02_phandalin.md#cena-2-troca)
     * grupo liberta [Sildar](../characters/npcs/sildar_hallwinter.md)

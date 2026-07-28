@@ -28,7 +28,8 @@ _[Texto]_ :construction:
 * [Sessão 1 Goblins](../../../sessions/01_goblins.md)
   * [Cena 5](../../../sessions/01_goblins.md#cena-5-klarg)
     * foge do [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
-      <br><br>
+
+####
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
   * [Cena 4](../../../sessions/02_phandalin.md#cena-4-interrogatório)
     * capturado na [Estrada Triboar](../../../locations/triboar_trail.md),

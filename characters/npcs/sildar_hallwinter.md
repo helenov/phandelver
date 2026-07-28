@@ -37,11 +37,13 @@ _[Texto]_ :construction:
   * [Cena 3](../../sessions/00_prologo.md#cena-3-corpos)
     * grupo encontra cavalo morto
       na [Estrada Triboar](../../locations/triboar_trail.md)
-      <br><br>
+
+####
 * [Sessão 1 Goblins](../../sessions/01_goblins.md)
   * [Cena 4](../../sessions/01_goblins.md#cena-4-negociação)
     * prisioneiro de [Yeemik](cragmaw/yeemik.md)
-      <br><br>
+
+####
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * [Cena 2](../../sessions/02_phandalin.md#cena-2-troca)
     * libertado pelo grupo

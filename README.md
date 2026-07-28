@@ -6,13 +6,15 @@
 
 * [Player Characters](characters/casting.md#player-characters)
   * [Companions](characters/casting.md#companions)
-    <br><br>
+
+####
 * [Non-Player Characters](characters/casting.md#non-player-characters)
 
 ## Diário
 
 * [Linha do tempo](timeline.md)
-  <br><br>
+
+####
 * Sessões
   * (2026-03-16) [Sessão 0 Prólogo](sessions/00_prologo.md)
   * (2026-03-31) [Sessão 1 Goblins](sessions/01_goblins.md)

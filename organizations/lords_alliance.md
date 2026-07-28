@@ -26,7 +26,8 @@ _[Texto]_ :construction:
 * [Sessão 0 Prólogo](../sessions/00_prologo.md)
   * [Cena 1](../sessions/00_prologo.md#cena-1-trabalho)
     * brasão nos trajes de [Sildar](../characters/npcs/sildar_hallwinter.md)
-      <br><br>
+
+####
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
   * [Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath)
     * [Daran](../characters/npcs/phandalin/daran_edermath.md) fica 

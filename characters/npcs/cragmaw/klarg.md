@@ -46,7 +46,8 @@ negociar com o traidor [Yeemik](yeemik.md), o atacaram covardemente e o mataram.
       libertar [Sildar](../sildar_hallwinter.md)
   * [Cena 5](../../../sessions/01_goblins.md#cena-5-klarg)
     * morto em combate pelo grupo
-      <br><br>
+
+####
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
   * [Cena 2](../../../sessions/02_phandalin.md#cena-2-troca)
     * corpo negociado em troca da liberdade de [Sildar](../sildar_hallwinter.md)

@@ -25,7 +25,8 @@ aqui já tem uns dez dias, provavelmente devem aparecer em um dia ou dois"
 
 * [Ander](ander.md), funcionário
 * [Thistle](thistle.md), funcionário
-  <br><br>
+
+####
 * [Gundren Rockseeker](../../gundren_rockseeker.md), amigo e fornecedor
 * [Tharden Rockseeker](../../tharden_rockseeker.md), amigo e cliente
 * [Nundro Rockseeker](../../nundro_rockseeker.md), amigo e cliente
