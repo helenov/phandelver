@@ -13,6 +13,8 @@ _[Texto]_ :construction:
 
 * [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md), representante
   em [Phandalin](../locations/phandalin.md)
+* [Iarno Albrek](../characters/npcs/iarno_albrek.md), representante
+  em [Phandalin](../locations/phandalin.md) desaparecido
 
 [//]: # (### Locais)
 [//]: # ()

@@ -31,14 +31,16 @@
     * [Freda](npcs/phandalin/stonehill/freda.md), tecelã
     * [Lanar](npcs/phandalin/stonehill/lanar.md), minerador
     * [Elsa](npcs/phandalin/stonehill/elsa.md), bartender da hospedaria
-    * [Pip](npcs/phandalin/stonehill/pip_stonehill.md), filho de
-      Toblen
+    * [Pip](npcs/phandalin/stonehill/pip_stonehill.md), filho de Toblen
   * [Qelline Alderleaf](npcs/phandalin/alderleaf/qelline_alderleaf.md),
     fazendeira
-    * [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md),
-      filha de Qelline
+    * [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md), filha de
+      Qelline
   * [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do
     pomar
+  * [Linene Graywind](npcs/phandalin/linene_graywind.md), representante
+    da [Lionshield Coster](../organizations/lionshield_coster.md)
+  * [Harbin Wester.md](npcs/phandalin/harbin_wester.md), prefeito
 
 #### Inimigos
 
@@ -58,9 +60,10 @@
 * [Tharden Rockseeker](npcs/tharden_rockseeker.md)
 * [Nundro Rockseeker](npcs/tharden_rockseeker.md)
   <br><br>
+* [Iarno Albrek](npcs/iarno_albrek.md), representante
+  da [Lords' Alliance](../organizations/lords_alliance.md) desaparecido
+  <br><br>
 * [Phandalin](../locations/phandalin.md)
   * [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), mestre da
     guilda dos mineradores
-  * [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do
-    pomar
 

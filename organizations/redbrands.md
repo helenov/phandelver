@@ -27,7 +27,7 @@ _[Texto]_ :construction:
       na [Estrada Triboar](../locations/triboar_trail.md)
   * [Cena 7](../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
     * [Freda](../characters/npcs/phandalin/stonehill/freda.md) sugere que podem
-      ser responsáveis sequestro
+      ser responsáveis pelo sequestro
       de [Gundren](../characters/npcs/gundren_rockseeker.md)
     * [Lanar](../characters/npcs/phandalin/stonehill/lanar.md) diz
       apenas [Halia](../characters/npcs/phandalin/halia_thornton.md)
@@ -40,6 +40,9 @@ _[Texto]_ :construction:
   * [Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath)
     * [Daran](../characters/npcs/phandalin/daran_edermath.md) está preocupado
       com os ataques na cidade
+  * [Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura)
+    * [Sildar](../characters/npcs/sildar_hallwinter.md) suspeita que tenham
+      capturado [Iarno](../characters/npcs/iarno_albrek.md)
   * [Cena 13](../sessions/02_phandalin.md#cena-13-carp)
     * [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) conta
       sobre como quase a viram

@@ -59,22 +59,27 @@ _próxima_ : [Sessão 3 Redbrands]
 
 #### Mencionados
 
-* [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
-* [Tharden Rockseeker](../characters/npcs/tharden_rockseeker.md)
-* [Nundro Rockseeker](../characters/npcs/nundro_rockseeker.md)
+* [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md), mercador
+  sequestrado
+* [Tharden Rockseeker](../characters/npcs/tharden_rockseeker.md), irmão de
+  Gundren
+* [Nundro Rockseeker](../characters/npcs/nundro_rockseeker.md), irmão de Gundren
   <br><br>
 * [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
   * [Klarg](../characters/npcs/cragmaw/klarg.md) (RIP), antigo chefe
   * [Grol](../characters/npcs/cragmaw/grol.md), rei
     <br><br>
-* [Spider](../characters/npcs/spider.md)
-* [Ruxithid](../characters/npcs/ruxithid.md)
+* [Spider](../characters/npcs/spider.md), possível vilão
+* [Ruxithid](../characters/npcs/ruxithid.md), desconhecido
   <br><br>
 * [Phandalin](../locations/phandalin.md)
   * [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), mestre da
     guilda dos mineiradores
   * [Qelline Alderleaf](../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md),
     fazendeira
+    <br><br>
+* [Iarno Albrek](../characters/npcs/iarno_albrek.md), representante
+  da [Lords' Alliance](../organizations/lords_alliance.md) desaparecido
 
 ### Cenários
 
@@ -435,10 +440,11 @@ com ele.
 
 Levados para dentro, encontram Sildar sentado à mesa do prefeito, estudando uma
 papelada. Ele explica que sua missão era buscar notícias de seu colega, um certo
-_[Iarno Albrek]_ - descrito como "um humano baixo, de barba escura, na casa dos
-30 anos". Iarno havia sido enviado a cidade há dois meses, mas desapareceu, logo
-após informar a sede de sua chegada. Sildar teme que Iarno possa ter sido
-capturado pelos _[Redbrands]_.
+[Iarno Albrek](../characters/npcs/iarno_albrek.md) - descrito como "um humano
+baixo, de barba escura, na casa dos 30 anos". Iarno havia sido enviado a cidade
+há dois meses, mas desapareceu, logo após informar a sede de sua chegada. Sildar
+teme que Iarno possa ter sido capturado
+pelos [Redbrands](../organizations/redbrands.md).
 
 Sildar está preocupado, pois sua missão parece ser bem mais complexa do que
 tinha imaginado, "mas vamos ver o que pode ser feito!", diz apontando para a
