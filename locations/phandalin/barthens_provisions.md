@@ -2,16 +2,12 @@
 
 ## Venda da Barthen
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-_[Imagem]_ :construction:
+![02_6_venda_da_barthen.png](../../images/cenas/02_6_venda_da_barthen.png)
 
 A Venda de Barthen é o maior posto comercial de [Phandalin](../phandalin.md).
 Suas prateleiras oferecem a maioria dos produtos e suprimentos comuns, incluindo
 mochilas, colchonetes, cordas e rações. O local fica aberto do nascer ao pôr do
 sol.
-<br clear="left"/>
 
 ### Personagens
 
