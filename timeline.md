@@ -2,8 +2,6 @@
 
 ## Timeline
 
----
-
 ### Dia 0
 
 #### noite
