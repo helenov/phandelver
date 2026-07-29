@@ -28,3 +28,11 @@
 * [Sessão 2 Phandalin](../../../../sessions/02_phandalin.md)
   * [Carp](carp_alderleaf.md) menciona sua mãe, **Qelline**
     ([Cena 13](../../../../sessions/02_phandalin.md#cena-13-carp))
+
+####
+
+* [Sessão 3 Redbrands](../../../../sessions/03_redbrands.md)
+  * grupo deixa [Carp](carp_alderleaf.md) e [Pip](../stonehill/pip_stonehill.md)
+    com **Qelline**
+    na [Fazenda Alderleaf](../../../../locations/phandalin/alderleaf_farm.md)
+    ([Cena 3](../../../../sessions/03_redbrands.md#cena-3-uma-voz))

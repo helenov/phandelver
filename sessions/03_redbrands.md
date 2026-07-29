@@ -29,7 +29,8 @@ _próxima_ : [Sessão 4 Glasstaff]
   garota halfling
 * [Pip Stonehill](../characters/npcs/phandalin/stonehill/pip_stonehill.md),
   garoto humano
-* [Qelline Alderleaf], mãe de Carp
+* [Qelline Alderleaf](../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md),
+  mãe de Carp
 
 #### No [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
 
@@ -136,7 +137,9 @@ estalajadeiro, está cabisbaixo, claramente contrariado e infeliz.
 
 Após tomar café, apressados por uma garota inquieta ao lado, ela os leva até uma
 [fazenda](../locations/phandalin/alderleaf_farm.md) no extremo sudeste da vila.
-"É aqui que eu moro com [minha mãe], mas é melhor não a incomoda ela agora."
+"É aqui que eu moro com minha
+mãe, [Qelline](../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md), mas
+é melhor não a incomoda ela agora."
 Contornam a casa, atravessam um campo de canteiros de hortaliças diversas e
 chegam a uma densa mata, conhecida
 como [Mata Tresendar](../locations/phandalin/tresendar_wood.md) já além dos
@@ -165,7 +168,9 @@ cuida para manter o lugar em segredo.
 Após levar [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md)
 e [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md) de volta
 a [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md), e deixá-la aos
-cuidados da [Sra. Alderleaf], o grupo retorna a entrada escondida.
+cuidados
+da [Sra. Alderleaf](../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md),
+o grupo retorna a entrada escondida.
 
 Sempre com a coruja Bia investigando a frente, o grupo segue um túnel estreito e
 chega a um grande salão de caverna natural cortado por uma fenda no sentido
