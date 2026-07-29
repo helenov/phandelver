@@ -214,9 +214,9 @@ Retiram as capas dos três que são deixados amarrados e fecham a porta.
 
 ### Cena 5 Cripta
 
-:construction:
+![03_5_cripta.png](../images/cenas/03_5_cripta.png)
 
-_[Imagem]_
+:construction:
 
 Explorando mais a sala da cisterna, o grupo nota uma porta abaixo de uma das
 escadas, que leva a corredor largo que leva uma grande porta dupla decorada.
