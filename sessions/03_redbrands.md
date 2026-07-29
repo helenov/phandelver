@@ -36,9 +36,9 @@ _próxima_ : _[Sessão 4 Glasstaff]_
 
 ### Cena 1 Gigante Adormecido
 
-:construction:
+![03_1_gigante_adormecido.jpeg](../images/cenas/03_1_gigante_adormecido.jpeg)
 
-_[Imagem]_
+:construction:
 
 Ao anoitecer o grupo decide investigar o Gigante Adormecido, o bar que todos
 dizem que os Redbrands costumam frequentar. Pedem orientações sobre a sua
@@ -91,9 +91,9 @@ os enterre no dia seguinte.
 
 ### Cena 2 Túnel Secreto
 
-:construction:
+![03_2_tunel_secreto.jpeg](../images/cenas/03_2_tunel_secreto.jpeg)
 
-_[Imagem]_
+:construction:
 
 Na manhã seguinte, quando o grupo desce para tomar seu café da manhã na
 estalagem, já encontram Carp, a garota halfling, ansiosa a espera. Ao seu lado,
@@ -124,9 +124,9 @@ cidade.
 
 ### Cena 3 Uma Voz
 
-:construction:
+![03_3_uma_voz.png](../images/cenas/03_3_uma_voz.png)
 
-_[Imagem]_
+:construction:
 
 Após levar Carp e Pip de volta a fazenda, e deixá-la aos cuidados da Sra.
 Alderleaf, o grupo retorna ao túnel.
@@ -167,9 +167,9 @@ Duas pontes atravessam a fenda. Bia ao descer voando para dentro da fenda,
 
 ### Cena 4 Cisterna
 
-:construction:
+![03_4_cisterna.png](../images/cenas/03_4_cisterna.png)
 
-_[Imagem]_
+:construction:
 
 > - R1 e R2
 > 
