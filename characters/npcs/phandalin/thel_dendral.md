@@ -19,8 +19,8 @@
 
 ### Locais
 
-* [Phandalin](../../../locations/phandalin.md), morador
-  * [Carpintaria], carpinteiro
+* [Phandalin](../../../locations/phandalin.md), morador e carpinteiro
+  * [Carpintaria], proprietário
 
 ### Referências
 

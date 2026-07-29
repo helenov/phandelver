@@ -19,7 +19,7 @@ _[Texto]_ :construction:
 
 ### Locais
 
-* [Phandalin](../../../../locations/phandalin.md), morador
+* [Phandalin](../../../../locations/phandalin.md), morador e estalajadeiro
   * [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md),
     proprietário e gerente
 

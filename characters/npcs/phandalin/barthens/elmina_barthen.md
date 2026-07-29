@@ -37,7 +37,7 @@ aqui já tem uns dez dias, provavelmente devem aparecer em um dia ou dois"
 
 ### Locais
 
-* [Phandalin](../../../../locations/phandalin.md), moradora
+* [Phandalin](../../../../locations/phandalin.md), moradora e comerciante
   * [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md),
     proprietária
 

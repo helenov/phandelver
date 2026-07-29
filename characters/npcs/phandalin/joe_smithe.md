@@ -19,8 +19,8 @@ _[Texto]_ :construction:
 
 ### Locais
 
-* [Phandalin](../../../locations/phandalin.md), morador
-  * [Ferraria](../../../locations/phandalin/blacksmith_shop.md), ferreiro
+* [Phandalin](../../../locations/phandalin.md), morador e ferreiro
+  * [Ferraria](../../../locations/phandalin/blacksmith_shop.md), proprietário
 
 ### Referências
 

@@ -20,7 +20,7 @@ _[Texto]_ :construction:
 
 ### Locais
 
-* [Phandalin](../../../locations/phandalin.md), moradora
+* [Phandalin](../../../locations/phandalin.md), moradora e comerciante 
   * [Posto da Lionshield Coster](../../../locations/phandalin/lionshield_coster_post.md),
     gerente
 

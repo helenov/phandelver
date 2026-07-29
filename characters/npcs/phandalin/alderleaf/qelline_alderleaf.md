@@ -19,9 +19,9 @@
 
 ### Locais
 
-* [Phandalin](../../../../locations/phandalin.md), morador
+* [Phandalin](../../../../locations/phandalin.md), moradora e fazendeira
   * [Fazenda Alderleaf](../../../../locations/phandalin/alderleaf_farm.md),
-    fazendeira
+    proprietária
 
 ### Referências
 

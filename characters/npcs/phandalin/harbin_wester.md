@@ -19,7 +19,7 @@ _[Texto]_ :construction:
 
 ### Locais
 
-* [Phandalin](../../../locations/phandalin.md), prefeito e mercador
+* [Phandalin](../../../locations/phandalin.md), morador, prefeito e mercador
   * [Prefeitura](../../../locations/phandalin/townmasters_hall.md), prefeito e
     morador
 
@@ -27,8 +27,8 @@ _[Texto]_ :construction:
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
   * [Cena 9](../../../sessions/02_phandalin.md#cena-9-pomar-edermath)
-    * [Daran](daran_edermath.md) diz que **Harbin** está recrutando
-      voluntários para lidar com os ataques
+    * [Daran](daran_edermath.md) diz que **Harbin** está recrutando voluntários
+      para lidar com os ataques
       na [Estrada Triboar](../../../locations/triboar_trail.md)
   * [Cena 11](../../../sessions/02_phandalin.md#cena-11-prefeitura)
     * recebe o grupo
