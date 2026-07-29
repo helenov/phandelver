@@ -22,7 +22,7 @@ _próxima_ : [Sessão 4 Glasstaff]
   * bandidos
 * [Greska](../characters/npcs/phandalin/greska.md), ogre taverneiro
 
-#### Em [Phandalin]
+#### Em [Phandalin](../locations/phandalin.md)
 
 * [Harbin Wester], prefeito
 * [Carp Alderleaf](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md),
