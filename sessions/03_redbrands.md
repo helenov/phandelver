@@ -8,7 +8,11 @@ _próxima_ : _[Sessão 4 Glasstaff]_
 
 ### Cenas
 
-* Cena _[X]_ _[Título]_
+* [Cena 1 Gigante Adormecido](#cena-1-gigante-adormecido)
+* [Cena 2 Túnel Secreto](#cena-2-túnel-secreto)
+* [Cena 3 Uma Voz](#cena-3-uma-voz)
+* [Cena 4 Cisterna](#cena-4-cisterna)
+* [Cena 5 Cripta](#cena-5-cripta)
 
 ### Elenco
 
@@ -30,7 +34,43 @@ _próxima_ : _[Sessão 4 Glasstaff]_
 
 ---
 
-### Cena _[X]_ _[Título]_
+### Cena 1 Gigante Adormecido
+
+:construction:
+
+_[Imagem]_
+
+_[Texto]_
+
+---
+### Cena 2 Túnel Secreto
+
+:construction:
+
+_[Imagem]_
+
+_[Texto]_
+
+---
+### Cena 3 Uma Voz
+
+:construction:
+
+_[Imagem]_
+
+_[Texto]_
+
+---
+### Cena 4 Cisterna
+
+:construction:
+
+_[Imagem]_
+
+_[Texto]_
+
+---
+### Cena 5 Cripta
 
 :construction:
 
