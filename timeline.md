@@ -56,3 +56,20 @@
 
 * conversas por [Phandalin](locations/phandalin.md)
   * [Sessão 2](sessions/02_phandalin.md): [Cenas 8 a 13](sessions/02_phandalin.md#cena-8-pip)
+
+#### noite
+
+* combate com bandidos
+  no [Gigante Adormecido](locations/phandalin/sleeping_giant.md)
+  * [Sessão 3](sessions/03_redbrands.md): [Cena 1](sessions/03_redbrands.md#cena-1-gigante-adormecido)
+
+---
+
+### Dia 7
+
+#### manhã
+
+* invasão ao esconderijo
+  na [Mansão Tresendar](locations/phandalin/tresendar_manor.md)
+  * [Sessão 3](sessions/03_redbrands.md): [Cenas 2 a 5](sessions/03_redbrands.md#cena-2-túnel-secreto)
+  * _[Sessão 4]_: continua...
