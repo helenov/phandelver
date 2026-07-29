@@ -35,3 +35,4 @@ _[Texto]_ :construction:
 * [Sessão 0 Prólogo](../sessions/00_prologo.md)
   * grupo recebe oferta de trabalho
     de [Gundren](../characters/npcs/gundren_rockseeker.md)
+    ([Cena 1](../sessions/00_prologo.md#cena-1-trabalho))

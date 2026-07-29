@@ -28,6 +28,7 @@ sol.
 ### Referências
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
-  * [Cena 6](../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
-    * conhecem [Elmina](../../characters/npcs/phandalin/barthens/elmina_barthen.md),
-      a proprietária
+  * grupo
+    conhece [Elmina](../../characters/npcs/phandalin/barthens/elmina_barthen.md),
+    a proprietária
+    ([Cena 6](../../sessions/02_phandalin.md#cena-6-venda-da-barthen))

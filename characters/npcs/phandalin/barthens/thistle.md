@@ -28,6 +28,6 @@ na [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md).
 ### Referências
 
 * [Sessão 2 Phandalin](../../../../sessions/02_phandalin.md)
-  * [Cena 6](../../../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
-    * funcionário
-      da [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md)
+  * funcionário
+    da [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md)
+    ([Cena 6](../../../../sessions/02_phandalin.md#cena-6-venda-da-barthen))

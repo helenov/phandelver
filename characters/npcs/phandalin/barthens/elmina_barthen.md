@@ -27,6 +27,7 @@ aqui já tem uns dez dias, provavelmente devem aparecer em um dia ou dois"
 * [Thistle](thistle.md), funcionário
 
 ####
+
 * [Gundren Rockseeker](../../gundren_rockseeker.md), amigo e fornecedor
 * [Tharden Rockseeker](../../tharden_rockseeker.md), amigo e cliente
 * [Nundro Rockseeker](../../nundro_rockseeker.md), amigo e cliente
@@ -44,8 +45,9 @@ aqui já tem uns dez dias, provavelmente devem aparecer em um dia ou dois"
 ### Referências
 
 * [Sessão 2 Phandalin](../../../../sessions/02_phandalin.md)
-  * [Cena 6](../../../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
-    * conhecem **Elmina**, proprietária
-      da [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md)
-    * fica desolada ao saber de seu sequestro
-      de [Gundren](../../gundren_rockseeker.md)
+  * conhecem **Elmina**, proprietária
+    da [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md)
+    ([Cena 6](../../../../sessions/02_phandalin.md#cena-6-venda-da-barthen))
+  * fica desolada ao saber de seu sequestro
+    de [Gundren](../../gundren_rockseeker.md)
+    ([Cena 6](../../../../sessions/02_phandalin.md#cena-6-venda-da-barthen))

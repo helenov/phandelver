@@ -20,12 +20,12 @@ _[Texto]_ :construction:
 ### Locais
 
 * [Phandalin](../../../../locations/phandalin.md), moradora
-  * [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md), 
+  * [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md),
     bartender
 
 ### Referências
 
 * [Sessão 2 Phandalin](../../../../sessions/02_phandalin.md)
-  * [Cena 7](../../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
-    * diz que [Daran](../daran_edermath.md) talvez saiba algo sobre a localização
-      do [Castelo Cragmaw](../../../../locations/cragmaw_castle.md)
+  * diz que [Daran](../daran_edermath.md) talvez saiba algo sobre a localização
+    do [Castelo Cragmaw](../../../../locations/cragmaw_castle.md)
+    ([Cena 7](../../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill))

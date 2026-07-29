@@ -26,8 +26,9 @@ _[Texto]_ :construction:
 ### Referências
 
 * [Sessão 2 Phandalin](../../../../sessions/02_phandalin.md)
-  * [Cena 7](../../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
-    * sobre os [Redbrands](../../../../organizations/redbrands.md)
-      * sugere que o sequestro de [Gundren](../../gundren_rockseeker.md) seja
-        obra deles
-      * diz que estão incomodando todos na cidade
+  * sugere que o sequestro de [Gundren](../../gundren_rockseeker.md) seja obra
+    dos [Redbrands](../../../../organizations/redbrands.md)
+    ([Cena 7](../../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill))
+  * diz que os [Redbrands](../../../../organizations/redbrands.md) estão
+    incomodando todos na cidade
+    ([Cena 7](../../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill))

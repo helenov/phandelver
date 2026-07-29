@@ -38,40 +38,45 @@ seu clã e restabelecer a mina.
 ### Referências
 
 * [Sessão 0 Prólogo](../../sessions/00_prologo.md)
-  * [Cena 1](../../sessions/00_prologo.md#cena-1-trabalho)
-    * conhecido do grupo
-    * oferece trabalho de escolta de carga
-      até [Phandalin](../../locations/phandalin.md)
-  * [Cena 2](../../sessions/00_prologo.md#cena-2-partida)
-    * parte na frente para [Phandalin](../../locations/phandalin.md)
-      com [Sildar](sildar_hallwinter.md)
-  * [Cena 3](../../sessions/00_prologo.md#cena-3-corpos)
-    * grupo encontra cavalo morto
-      na [Estrada Triboar](../../locations/triboar_trail.md)
+  * **Gundren** apresenta seu amigo [Sildar](sildar_hallwinter.md)
+    ([Cena 1](../../sessions/00_prologo.md#cena-1-trabalho))
+  * **Gundren** oferece trabalho de escolta de carga
+    até [Phandalin](../../locations/phandalin.md)
+    ([Cena 1](../../sessions/00_prologo.md#cena-1-trabalho))
+  * parte na frente para [Phandalin](../../locations/phandalin.md)
+    com [Sildar](sildar_hallwinter.md)
+    ([Cena 2](../../sessions/00_prologo.md#cena-2-partida))
+  * grupo encontra cavalo morto
+    na [Estrada Triboar](../../locations/triboar_trail.md)
+    ([Cena 3](../../sessions/00_prologo.md#cena-3-corpos))
 
 ####
 
 * [Sessão 1 Goblins](../../sessions/01_goblins.md)
-  * [Cena 4](../../sessions/01_goblins.md#cena-4-negociação)
-    * [Sildar](sildar_hallwinter.md) diz que grupo deve salvar **Gundren**
+  * [Sildar](sildar_hallwinter.md) diz que grupo deve salvar **Gundren**
+    ([Cena 4](../../sessions/01_goblins.md#cena-4-negociação))
 
 ####
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
-  * [Cena 1](../../sessions/02_phandalin.md#cena-1-decisões)
-    * não é encontrado
-      no [Esconderijo Cragmaw](../../locations/cragmaw_hideout.md)
-  * [Cena 2](../../sessions/02_phandalin.md#cena-2-troca)
-    * [Yeemik](cragmaw/yeemik.md) diz que
-      * a ordem de capturar **Gundren** veio de [Grol](cragmaw/grol.md)
-      * a ordem teria sido um pedido de [Spider](spider.md)
-      * **Gundren** foi enviado para
-        o [Castelo Cragmaw](../../locations/cragmaw_castle.md)
-  * [Cena 3](../../sessions/02_phandalin.md#cena-3-sildar)
-    * [Sildar](sildar_hallwinter.md) confirma que
-      * **Gundren** teria sido enviado para
-        o [Castelo Cragmaw](../../locations/cragmaw_castle.md)
-      * foi um pedido de um certo [Spider](spider.md)
-  * [Cena 6](../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
-    * [Elmina](phandalin/barthens/elmina_barthen.md) fica desolada ao saber de
-      seu sequestro do amigo
+  * **Gundren** não é encontrado
+    no [Esconderijo Cragmaw](../../locations/cragmaw_hideout.md)
+    ([Cena 1](../../sessions/02_phandalin.md#cena-1-decisões))
+  * [Yeemik](cragmaw/yeemik.md) diz que a ordem de capturar **Gundren** veio
+    de [Grol](cragmaw/grol.md)
+    ([Cena 2](../../sessions/02_phandalin.md#cena-2-troca))
+  * [Yeemik](cragmaw/yeemik.md) diz que a ordem teria sido um pedido
+    de [Spider](spider.md)
+    ([Cena 2](../../sessions/02_phandalin.md#cena-2-troca))
+  * [Yeemik](cragmaw/yeemik.md) diz que **Gundren** foi enviado para
+    o [Castelo Cragmaw](../../locations/cragmaw_castle.md)
+    ([Cena 2](../../sessions/02_phandalin.md#cena-2-troca))
+  * [Sildar](sildar_hallwinter.md) confirma que **Gundren** teria sido enviado
+    para o [Castelo Cragmaw](../../locations/cragmaw_castle.md)
+    ([Cena 3](../../sessions/02_phandalin.md#cena-3-sildar))
+  * [Sildar](sildar_hallwinter.md) confirma que foi um pedido de um
+    certo [Spider](spider.md)
+    ([Cena 3](../../sessions/02_phandalin.md#cena-3-sildar))
+  * [Elmina](phandalin/barthens/elmina_barthen.md) fica desolada ao saber de seu
+    sequestro do amigo
+    ([Cena 6](../../sessions/02_phandalin.md#cena-6-venda-da-barthen))

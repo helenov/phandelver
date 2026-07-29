@@ -21,29 +21,26 @@
 ### Referências
 
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
-  * [Cena 2](../sessions/02_phandalin.md#cena-2-troca)
-    * [Yeemik](../characters/npcs/cragmaw/yeemik.md) diz
-      que [Gundren](../characters/npcs/gundren_rockseeker.md) foi enviado para o
-      **Castelo Cragmaw**
-  * [Cena 3](../sessions/02_phandalin.md#cena-3-sildar)
-    * [Sildar](../characters/npcs/sildar_hallwinter.md) confirma
-      que [Gundren](../characters/npcs/gundren_rockseeker.md) teria sido enviado
-      para o **Castelo Cragmaw**
-  * [Cena 4](../sessions/02_phandalin.md#cena-4-interrogatório)
-    * [Flip](../characters/npcs/cragmaw/flip.md) diz que
-      * o **Castelo Cragmaw** fica
-        na [Floresta de Neverwinter](neverwinter_wood.md)
-      * apenas [Klarg](../characters/npcs/cragmaw/klarg.md) sabia a localização
-        exata
-  * [Cena 7](../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
-    * [Elsa](../characters/npcs/phandalin/stonehill/elsa.md) diz
-      que [Daran](../characters/npcs/phandalin/daran_edermath.md) talvez saiba
-      algo sobre o **Castelo Cragmaw**
-  * [Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath)
-    * [Daran](../characters/npcs/phandalin/daran_edermath.md) diz que
-      * o **Castelo Cragmaw** fica
-        na [Floresta de Neverwinter](neverwinter_wood.md)
-      * não sabe a localização exata
-  * [Cena 12](../sessions/02_phandalin.md#cena-12-ferraria-e-carpintaria)
-    * [Joe Smithe](../characters/npcs/phandalin/joe_smithe.md) diz que não 
-      sabe nada sobre o **Castelo Cragmaw**
+  * [Yeemik](../characters/npcs/cragmaw/yeemik.md) diz
+    que [Gundren](../characters/npcs/gundren_rockseeker.md) foi enviado para o
+    **Castelo Cragmaw** ([Cena 2](../sessions/02_phandalin.md#cena-2-troca))
+  * [Sildar](../characters/npcs/sildar_hallwinter.md) confirma
+    que [Gundren](../characters/npcs/gundren_rockseeker.md) teria sido enviado
+    para o **Castelo Cragmaw**
+    ([Cena 3](../sessions/02_phandalin.md#cena-3-sildar))
+  * [Flip](../characters/npcs/cragmaw/flip.md) diz que o **Castelo Cragmaw**
+    fica na [Floresta de Neverwinter](neverwinter_wood.md)
+    ([Cena 4](../sessions/02_phandalin.md#cena-4-interrogatório))
+  * [Flip](../characters/npcs/cragmaw/flip.md) diz que
+    apenas [Klarg](../characters/npcs/cragmaw/klarg.md) sabia a localização
+    exata ([Cena 4](../sessions/02_phandalin.md#cena-4-interrogatório))
+  * [Elsa](../characters/npcs/phandalin/stonehill/elsa.md) diz
+    que [Daran](../characters/npcs/phandalin/daran_edermath.md) talvez saiba
+    algo sobre o **Castelo Cragmaw**
+    ([Cena 7](../sessions/02_phandalin.md#cena-7-hospedaria-stonehill))
+  * [Daran](../characters/npcs/phandalin/daran_edermath.md) diz que o **Castelo
+    Cragmaw** fica na [Floresta de Neverwinter](neverwinter_wood.md), mas não sabe onde
+    ([Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath))
+  * [Joe Smithe](../characters/npcs/phandalin/joe_smithe.md) diz que não sabe
+    nada sobre o **Castelo Cragmaw**
+    ([Cena 12](../sessions/02_phandalin.md#cena-12-ferraria-e-carpintaria))

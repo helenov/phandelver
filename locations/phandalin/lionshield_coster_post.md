@@ -27,6 +27,6 @@ _[Texto]_ :construction:
 ### Referências
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
-  * [Cena 10](../../sessions/02_phandalin.md#cena-10-lionshield-coster)
-    * grupo visita o **Posto da Lionshield Coster**
-      em [Phandalin](../../locations/phandalin.md)
+  * grupo visita o **Posto da Lionshield Coster**
+    em [Phandalin](../../locations/phandalin.md)
+    ([Cena 10](../../sessions/02_phandalin.md#cena-10-lionshield-coster))

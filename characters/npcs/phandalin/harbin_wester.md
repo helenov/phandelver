@@ -26,12 +26,13 @@ _[Texto]_ :construction:
 ### Referências
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
-  * [Cena 9](../../../sessions/02_phandalin.md#cena-9-pomar-edermath)
-    * [Daran](daran_edermath.md) diz que **Harbin** está recrutando voluntários
-      para lidar com os ataques
-      na [Estrada Triboar](../../../locations/triboar_trail.md)
-  * [Cena 11](../../../sessions/02_phandalin.md#cena-11-prefeitura)
-    * recebe o grupo
-      na [Prefeitura](../../../locations/phandalin/townmasters_hall.md)
-    * faz acordo para atuarem como força de segurança provisória em
-      [Phandalin](../../../locations/phandalin.md)
+  * [Daran](daran_edermath.md) diz que **Harbin** está recrutando voluntários
+    para lidar com os ataques
+    na [Estrada Triboar](../../../locations/triboar_trail.md)
+    ([Cena 9](../../../sessions/02_phandalin.md#cena-9-pomar-edermath))
+  * **Harbin** recebe o grupo
+    na [Prefeitura](../../../locations/phandalin/townmasters_hall.md)
+    ([Cena 11](../../../sessions/02_phandalin.md#cena-11-prefeitura))
+  * **Harbin** faz acordo para atuarem como força de segurança provisória
+    em [Phandalin](../../../locations/phandalin.md)
+    ([Cena 11](../../../sessions/02_phandalin.md#cena-11-prefeitura))

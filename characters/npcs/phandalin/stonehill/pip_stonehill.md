@@ -27,8 +27,8 @@ _[Texto]_ :construction:
 ### Referências
 
 * [Sessão 2 Phandalin](../../../../sessions/02_phandalin.md)
-  * [Cena 8](../../../../sessions/02_phandalin.md#cena-8-pip)
-    * diz que [Carp](../alderleaf/carp_alderleaf.md) quase foi capturada
-      pelos [Redbrands](../../../../organizations/redbrands.md)
-  * [Cena 13](../../../../sessions/02_phandalin.md#cena-13-carp)
-    * acompanha [Carp](../alderleaf/carp_alderleaf.md) na conversa com o grupo
+  * diz que [Carp](../alderleaf/carp_alderleaf.md) quase foi capturada
+    pelos [Redbrands](../../../../organizations/redbrands.md)
+    ([Cena 8](../../../../sessions/02_phandalin.md#cena-8-pip))
+  * acompanha [Carp](../alderleaf/carp_alderleaf.md) na conversa com o grupo
+    ([Cena 13](../../../../sessions/02_phandalin.md#cena-13-carp))

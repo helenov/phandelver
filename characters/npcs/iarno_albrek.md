@@ -35,10 +35,9 @@ que ele tenha sido capturado pelo
 
 ### Referências
 
-* [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
-  * [Cena 11](../../sessions/02_phandalin.md#cena-11-prefeitura)
-    * [Sildar](sildar_hallwinter.md) diz
-      * que **Iarno** foi enviado para representar
-        a [Lords' Alliance](../../organizations/lords_alliance.md) na cidade
-      * que **Iarno** pode ter sido capturado
-        pelos [Redbrands](../../organizations/redbrands.md)
+* [Sildar](sildar_hallwinter.md) diz que **Iarno** foi enviado para representar
+  a [Lords' Alliance](../../organizations/lords_alliance.md) na cidade
+  ([Cena 11](../../sessions/02_phandalin.md#cena-11-prefeitura))
+* [Sildar](sildar_hallwinter.md) acha que **Iarno** pode ter sido capturado
+  pelos [Redbrands](../../organizations/redbrands.md)
+  ([Cena 11](../../sessions/02_phandalin.md#cena-11-prefeitura))

@@ -12,6 +12,7 @@ _[Texto]_ :construction:
   da [Lords' Alliance](../organizations/lords_alliance.md)
 
 ####
+
 * [Elmina Barthen](../characters/npcs/phandalin/barthens/elmina_barthen.md),
   dona da venda
   * [Ander](../characters/npcs/phandalin/barthens/ander.md), funcionário da
@@ -20,6 +21,7 @@ _[Texto]_ :construction:
     venda
 
 ####
+
 * [Toblen Stonehill](../characters/npcs/phandalin/stonehill/toblen_stonehill.md),
   dono da hospedaria
   * [Freda](../characters/npcs/phandalin/stonehill/freda.md), tecelã
@@ -30,12 +32,14 @@ _[Texto]_ :construction:
     Toblen
 
 ####
+
 * [Qelline Alderleaf](../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md),
   fazendeira
   * [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md), filha de
     Qelline
 
 ####
+
 * [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do
   pomar
 * [Harbin Weber](../characters/npcs/phandalin/harbin_wester.md), prefeito
@@ -82,16 +86,17 @@ _[Texto]_ :construction:
 ### Referências
 
 * [Sessão 0 Prólogo](../sessions/00_prologo.md)
-  * [Cena 1](../sessions/00_prologo.md#cena-1-trabalho)
-    * destino da carga de [Gundren](../characters/npcs/gundren_rockseeker.md)
+  * destino da carga de [Gundren](../characters/npcs/gundren_rockseeker.md)
+    ([Cena 1](../sessions/00_prologo.md#cena-1-trabalho))
 
 ####
+
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
-  * [Cena 5](../sessions/02_phandalin.md#cena-5-phandalin)
-    * grupo chega a **Phandalin**
-  * [Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath)
-    * [Daran](../characters/npcs/phandalin/daran_edermath.md) explica sobre
-      (des)organização política de **Phandalin**
-  * [Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura)
-    * [Harbin](../characters/npcs/phandalin/harbin_wester.md) nomeia o grupo
-      como força de segurança provisória de **Phandalin**
+  * grupo chega a **Phandalin**
+    ([Cena 5](../sessions/02_phandalin.md#cena-5-phandalin))
+  * [Daran](../characters/npcs/phandalin/daran_edermath.md) explica sobre (des)
+    organização política de **Phandalin**
+    ([Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath))
+  * [Harbin](../characters/npcs/phandalin/harbin_wester.md) nomeia o grupo como
+    força de segurança provisória de **Phandalin**
+    ([Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura))

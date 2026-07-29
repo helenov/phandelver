@@ -26,7 +26,7 @@ _[Texto]_ :construction:
 ### Referências
 
 * [Sessão 2 Phandalin](../../../../sessions/02_phandalin.md)
-  * [Cena 7](../../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
-    * menciona que os [Redbrands](../../../../organizations/redbrands.md) não
-      incomodam [Halia](../halia_thornton.md)
-      do [Entreposto dos Mineradores](../../../../locations/phandalin/miners_exchange.md)
+  * menciona que os [Redbrands](../../../../organizations/redbrands.md) não
+    incomodam [Halia](../halia_thornton.md)
+    do [Entreposto dos Mineradores](../../../../locations/phandalin/miners_exchange.md)
+    ([Cena 7](../../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill))

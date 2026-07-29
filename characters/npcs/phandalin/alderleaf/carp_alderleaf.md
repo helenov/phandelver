@@ -27,22 +27,22 @@ _[Texto]_ :construction:
 ### Referências
 
 * [Sessão 2 Phandalin](../../../../sessions/02_phandalin.md)
-  * [Cena 8](../../../../sessions/02_phandalin.md#cena-8-pip)
-    * [Pip](../stonehill/pip_stonehill.md) diz que **Carp** quase foi capturada
-      pelos [Redbrands](../../../../organizations/redbrands.md)
-  * [Cena 13](../../../../sessions/02_phandalin.md#cena-13-carp)
-    * conta como
-      * encontrou um "túnel secreto"
-        na [Mata Tresendar](../../../../locations/phandalin/tresendar_wood.md)
-      * quase foi vista
-        pelos [Redbrands](../../../../organizations/redbrands.md)
+  * [Pip](../stonehill/pip_stonehill.md) diz que **Carp** quase foi capturada
+    pelos [Redbrands](../../../../organizations/redbrands.md)
+    ([Cena 8](../../../../sessions/02_phandalin.md#cena-8-pip))
+  * **Carp** conta como encontrou um "túnel secreto"
+    na [Mata Tresendar](../../../../locations/phandalin/tresendar_wood.md)
+    ([Cena 13](../../../../sessions/02_phandalin.md#cena-13-carp))
+  * **Carp** conta que quase foi vista
+    pelos [Redbrands](../../../../organizations/redbrands.md)
+    ([Cena 13](../../../../sessions/02_phandalin.md#cena-13-carp))
 
 ####
 
 * [Sessão 3 Redbrands](../../../../sessions/03_redbrands.md)
-  * [Cena 2](../../../../sessions/03_redbrands.md#cena-2-túnel-secreto)
-    * leva o grupo até o "túnel secreto"
-      na [Mata Tresendar](../../../../locations/phandalin/tresendar_wood.md)
-  * [Cena 3](../../../../sessions/03_redbrands.md#cena-3-uma-voz)
-    * grupo a leva de volta
-      a [Fazenda Alderleaf](../../../../locations/phandalin/alderleaf_farm.md)
+  * **Carp** leva o grupo até o "túnel secreto"
+    na [Mata Tresendar](../../../../locations/phandalin/tresendar_wood.md)
+    ([Cena 2](../../../../sessions/03_redbrands.md#cena-2-túnel-secreto))
+  * grupo a leva de volta
+    a [Fazenda Alderleaf](../../../../locations/phandalin/alderleaf_farm.md)
+    ([Cena 3](../../../../sessions/03_redbrands.md#cena-3-uma-voz))

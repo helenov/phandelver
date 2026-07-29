@@ -27,7 +27,7 @@
 ### Referências
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
-  * [Cena 7](../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
-    * [Lanar](../../characters/npcs/phandalin/stonehill/lanar.md)
-      menciona [Halia](../../characters/npcs/phandalin/halia_thornton.md)
-      do **Entreposto dos Mineradores**
+  * [Lanar](../../characters/npcs/phandalin/stonehill/lanar.md)
+    menciona [Halia](../../characters/npcs/phandalin/halia_thornton.md) do
+    **Entreposto dos Mineradores**
+    ([Cena 7](../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill))

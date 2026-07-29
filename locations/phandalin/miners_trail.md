@@ -20,8 +20,8 @@
 ### Locais
 
 * [Phandalin](../phandalin.md)
-  * a **Trilha dos Mineradores** sai da cidade na direção sul, rumo às 
-    montanhas e às minas
+  * a **Trilha dos Mineradores** sai da cidade na direção sul, rumo às montanhas
+    e às minas
 
 [//]: # (### Referências)
 [//]: # ()

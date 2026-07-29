@@ -22,8 +22,8 @@ _[Texto]_ :construction:
 ### Referências
 
 * [Sessão 1 Goblins](../sessions/01_goblins.md)
-  * [Cena 5](../sessions/01_goblins.md#cena-5-klarg)
-    * brasão está em boa parte da carga roubada
+  * brasão está em boa parte da carga roubada
+    ([Cena 5](../sessions/01_goblins.md#cena-5-klarg))
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
-  * [Cena 10](../sessions/02_phandalin.md#cena-10-lionshield-coster)
-    * grupo visita o posto comercial
+  * grupo visita o posto comercial
+    ([Cena 10](../sessions/02_phandalin.md#cena-10-lionshield-coster))

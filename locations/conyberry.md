@@ -26,5 +26,6 @@
 ### Referências
 
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
-  * [Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura)
-    * mencionada em convocação na porta da [Prefeitura](phandalin/townmasters_hall.md) 
+  * mencionada em convocação na porta
+    da [Prefeitura](phandalin/townmasters_hall.md)
+    ([Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura))

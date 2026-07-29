@@ -21,6 +21,7 @@
   da [Lords' Alliance](../organizations/lords_alliance.md)
 
 ####
+
 * [Phandalin](../locations/phandalin.md)
   * [Elmina Barthen](npcs/phandalin/barthens/elmina_barthen.md), dona da venda
     * [Ander](npcs/phandalin/barthens/ander.md), funcionário da venda
@@ -43,6 +44,7 @@
   * [Joe Smithe](npcs/phandalin/joe_smithe.md), ferreiro
 
 ####
+
 * [Cragmaws Goblins](../organizations/cragmaw_goblins.md)
   * [Klarg](npcs/cragmaw/klarg.md) (RIP), antigo chefe local
   * [Yeemik](npcs/cragmaw/yeemik.md), novo chefe local
@@ -54,23 +56,28 @@
   * [Grol](npcs/cragmaw/grol.md), rei
 
 ####
+
 * [Spider](npcs/spider.md)
 * [Ruxithid](npcs/ruxithid.md)
 
 ####
+
 * [Tharden Rockseeker](npcs/tharden_rockseeker.md)
 * [Nundro Rockseeker](npcs/tharden_rockseeker.md)
 
 ####
+
 * [Iarno Albrek](npcs/iarno_albrek.md), representante
   da [Lords' Alliance](../organizations/lords_alliance.md) desaparecido
 
 ####
+
 * [Phandalin](../locations/phandalin.md)
   * [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), mestre da
     guilda dos mineradores
   * [Thel Dendral](npcs/phandalin/thel_dendral.md) (RIP), carpinteiro
 
 ####
+
 * [Redbrands](../organizations/redbrands.md)
   * [Glasstaff](npcs/glasstaff.md), líder criminoso

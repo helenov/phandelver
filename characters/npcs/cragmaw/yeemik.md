@@ -16,7 +16,8 @@ _[Texto]_ :construction:
 
 ### Organizações
 
-* [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md), novo chefe no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
+* [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md), novo chefe
+  no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
 
 ### Locais
 
@@ -25,11 +26,12 @@ _[Texto]_ :construction:
 ### Referências
 
 * [Sessão 1 Goblins](../../../sessions/01_goblins.md)
-  * [Cena 4](../../../sessions/01_goblins.md#cena-4-negociação)
-    * pede a cabeça de [Klarg](klarg.md) em troca da liberdade
-      de [Sildar](../sildar_hallwinter.md)
+  * pede a cabeça de [Klarg](klarg.md) em troca da liberdade
+    de [Sildar](../sildar_hallwinter.md)
+    ([Cena 4](../../../sessions/01_goblins.md#cena-4-negociação))
 
 ####
+
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
-  * [Cena 2](../../../sessions/02_phandalin.md#cena-2-troca)
-    * novo líder no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
+  * novo líder no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
+    ([Cena 2](../../../sessions/02_phandalin.md#cena-2-troca))

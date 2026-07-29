@@ -25,9 +25,9 @@
 ### Referências
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
-  * [Cena 8](../../../sessions/02_phandalin.md#cena-8-pip)
-    * [Toblen](stonehill/toblen_stonehill.md) menciona que algo aconteceu com a
-      família do carpinteiro
-  * [Cena 11](../../../sessions/02_phandalin.md#cena-11-prefeitura)
-    * [Sildar](../sildar_hallwinter.md) conta o que aconteceu com o carpinteiro
-      e sua família
+  * [Toblen](stonehill/toblen_stonehill.md) menciona que algo aconteceu com a
+    família do carpinteiro
+    ([Cena 8](../../../sessions/02_phandalin.md#cena-8-pip))
+  * [Sildar](../sildar_hallwinter.md) conta o que aconteceu com o carpinteiro e
+    sua família
+    ([Cena 11](../../../sessions/02_phandalin.md#cena-11-prefeitura))

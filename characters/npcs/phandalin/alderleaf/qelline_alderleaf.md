@@ -26,5 +26,5 @@
 ### Referências
 
 * [Sessão 2 Phandalin](../../../../sessions/02_phandalin.md)
-  * [Cena 13](../../../../sessions/02_phandalin.md#cena-13-carp)
-    * [Carp](carp_alderleaf.md) menciona sua mãe, **Qelline**
+  * [Carp](carp_alderleaf.md) menciona sua mãe, **Qelline**
+    ([Cena 13](../../../../sessions/02_phandalin.md#cena-13-carp))

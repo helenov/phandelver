@@ -26,19 +26,24 @@ _[Texto]_ :construction:
 ### Referências
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
-  * [Cena 7](../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
-    * [Elsa](stonehill/elsa.md) diz que **Daran** talvez saiba algo sobre a
-      localização do [Castelo Cragmaw](../../../locations/cragmaw_castle.md)
-  * [Cena 9](../../../sessions/02_phandalin.md#cena-9-pomar-edermath)
-    * diz que o [Castelo Cragmaw](../../../locations/cragmaw_castle.md) fica
-      na [Floresta de Neverwinter](../../../locations/neverwinter_wood.md), mas
-      não sabe o local exato
-    * diz que [Harbin Wester](harbin_wester.md) está recrutando voluntários para
-      lidar com os ataques
-      na [Estrada Triboar](../../../locations/triboar_trail.md)
-    * está preocupado com os [Redbrands](../../../organizations/redbrands.md)
-    * explica sobre (des)organização política
-      de [Phandalin](../../../locations/phandalin.md)
-    * fica satisfeito ao saber que [Sildar](../sildar_hallwinter.md) chegou como
-      representante
-      da [Lords' Alliance](../../../organizations/lords_alliance.md)
+  * [Elsa](stonehill/elsa.md) diz que **Daran** talvez saiba algo sobre a
+    localização do [Castelo Cragmaw](../../../locations/cragmaw_castle.md)
+    ([Cena 7](../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill))
+  * **Daran** diz que o [Castelo Cragmaw](../../../locations/cragmaw_castle.md)
+    fica na [Floresta de Neverwinter](../../../locations/neverwinter_wood.md),
+    mas não sabe o local exato
+    ([Cena 9](../../../sessions/02_phandalin.md#cena-9-pomar-edermath))
+  * **Daran** diz que [Harbin Wester](harbin_wester.md) está recrutando
+    voluntários para lidar com os ataques
+    na [Estrada Triboar](../../../locations/triboar_trail.md)
+    ([Cena 9](../../../sessions/02_phandalin.md#cena-9-pomar-edermath))
+  * **Daran** está preocupado com
+    os [Redbrands](../../../organizations/redbrands.md)
+    ([Cena 9](../../../sessions/02_phandalin.md#cena-9-pomar-edermath))
+  * **Daran** explica sobre (des)organização política
+    de [Phandalin](../../../locations/phandalin.md)
+    ([Cena 9](../../../sessions/02_phandalin.md#cena-9-pomar-edermath))
+  * **Daran** fica satisfeito ao saber que [Sildar](../sildar_hallwinter.md)
+    chegou como representante
+    da [Lords' Alliance](../../../organizations/lords_alliance.md)
+    ([Cena 9](../../../sessions/02_phandalin.md#cena-9-pomar-edermath))

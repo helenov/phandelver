@@ -16,8 +16,8 @@ _[Texto]_ :construction:
 * [Freda](../../characters/npcs/phandalin/stonehill/freda.md), frequentadora
 * [Lanar](../../characters/npcs/phandalin/stonehill/lanar.md), frequentador
 * [Elsa](../../characters/npcs/phandalin/stonehill/elsa.md), bartender
-* [Pip](../../characters/npcs/phandalin/stonehill/pip_stonehill.md),
-  filho de Toblen
+* [Pip](../../characters/npcs/phandalin/stonehill/pip_stonehill.md), filho de
+  Toblen
 
 [//]: # (### Organizações)
 [//]: # ()
@@ -26,11 +26,11 @@ _[Texto]_ :construction:
 ### Locais
 
 * [Phandalin](../phandalin.md)
-  * a **Hospedaria Stonehill** está localizada logo na entrada da praça 
-    central da cidade
+  * a **Hospedaria Stonehill** está localizada logo na entrada da praça central
+    da cidade
 
 ### Referências
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
-  * [Cena 7](../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill)
-    * grupo se hospeda na **Hospedaria Stonehill**
+  * grupo se hospeda na **Hospedaria Stonehill**
+    ([Cena 7](../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill))

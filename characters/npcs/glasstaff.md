@@ -24,6 +24,7 @@
 ### Referências
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
-  * [Cena 11](../../sessions/02_phandalin.md#cena-11-prefeitura)
-    * mencionado como líder do [Redbrands](../../organizations/redbrands.md)
-    * [Sildar](sildar_hallwinter.md) propõe que o grupo o capture
+  * mencionado como líder do [Redbrands](../../organizations/redbrands.md)
+    ([Cena 11](../../sessions/02_phandalin.md#cena-11-prefeitura))
+  * [Sildar](sildar_hallwinter.md) propõe que o grupo o capture
+    ([Cena 11](../../sessions/02_phandalin.md#cena-11-prefeitura))

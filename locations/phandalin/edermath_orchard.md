@@ -26,6 +26,6 @@ _[Texto]_ :construction:
 ### Referências
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
-  * [Cena 9](../../sessions/02_phandalin.md#cena-9-pomar-edermath)
-    * o grupo visita o **Pomar Edermath**
-      procurando [Daran](../../characters/npcs/phandalin/daran_edermath.md)
+  * o grupo visita o **Pomar Edermath**
+    procurando [Daran](../../characters/npcs/phandalin/daran_edermath.md)
+    ([Cena 9](../../sessions/02_phandalin.md#cena-9-pomar-edermath))

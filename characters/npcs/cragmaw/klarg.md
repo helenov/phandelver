@@ -32,7 +32,8 @@ negociar com o traidor [Yeemik](yeemik.md), o atacaram covardemente e o mataram.
 
 ### Organizações
 
-* [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md), chefe no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
+* [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md), chefe
+  no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
 
 ### Locais
 
@@ -41,16 +42,17 @@ negociar com o traidor [Yeemik](yeemik.md), o atacaram covardemente e o mataram.
 ### Referências
 
 * [Sessão 1 Goblins](../../../sessions/01_goblins.md)
-  * [Cena 4](../../../sessions/01_goblins.md#cena-4-negociação)
-    * [Yeemik](yeemik.md) pede a cabeça de **Klarg** em troca de
-      libertar [Sildar](../sildar_hallwinter.md)
-  * [Cena 5](../../../sessions/01_goblins.md#cena-5-klarg)
-    * morto em combate pelo grupo
+  * [Yeemik](yeemik.md) pede a cabeça de **Klarg** em troca de
+    libertar [Sildar](../sildar_hallwinter.md)
+    ([Cena 4](../../../sessions/01_goblins.md#cena-4-negociação))
+  * morto em combate pelo grupo
+    ([Cena 5](../../../sessions/01_goblins.md#cena-5-klarg))
 
 ####
+
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
-  * [Cena 2](../../../sessions/02_phandalin.md#cena-2-troca)
-    * corpo negociado em troca da liberdade de [Sildar](../sildar_hallwinter.md)
-  * [Cena 4](../../../sessions/02_phandalin.md#cena-4-interrogatório)
-    * [Flip](flip.md) diz que apenas **Klarg** sabia a localização
-      do [Castelo Cragmaw](../../../locations/cragmaw_castle.md)
+  * corpo negociado em troca da liberdade de [Sildar](../sildar_hallwinter.md)
+    ([Cena 2](../../../sessions/02_phandalin.md#cena-2-troca))
+  * [Flip](flip.md) diz que apenas **Klarg** sabia a localização
+    do [Castelo Cragmaw](../../../locations/cragmaw_castle.md)
+    ([Cena 4](../../../sessions/02_phandalin.md#cena-4-interrogatório))

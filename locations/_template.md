@@ -25,5 +25,4 @@ _[Texto]_ :construction:
 ### Referências
 
 * _[Sessão]_
-  * _[Cena]_
-    * _[detalhe]_
+  * _[detalhe]_ (_[Cena]_)

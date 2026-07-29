@@ -26,5 +26,5 @@
 ### Referências
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
-  * [Cena 6](../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
-    * [Elmina](phandalin/barthens/elmina_barthen.md) menciona que os irmãos Rockseeker
+  * [Elmina](phandalin/barthens/elmina_barthen.md) menciona os irmãos Rockseeker
+    ([Cena 6](../../sessions/02_phandalin.md#cena-6-venda-da-barthen))
