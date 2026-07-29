@@ -4,7 +4,7 @@
 
 _data_ : 2026-04-27 \
 _anterior_ : [Sessão 2 Phandalin](02_phandalin.md) \
-_próxima_ : _[Sessão 4 Glasstaff]_
+_próxima_ : [Sessão 4 Glasstaff](04_glasstaff.md)
 
 ### Cenas
 
