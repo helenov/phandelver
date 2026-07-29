@@ -83,9 +83,9 @@ levado até o porão onde trancam o prisioneiro em uma cela. Também deixam as
 espadas apreendidas na prefeitura.
 
 O prefeito Weber os orienta a levar o corpo para o cemitério que fica atrás do
-Templo de Tymora, mas já adianta que a Irmã Garaele não se encontra na cidade.
-No templo, realmente não encontram ninguém, e deixam os corpos para que alguém
-os enterre no dia seguinte.
+Templo da Fortuna, do outro lado da praça, mas já adianta que a Irmã Garaele não
+se encontra na cidade. No templo, realmente não encontram ninguém, e deixam os
+corpos para que alguém os enterre no dia seguinte.
 
 ---
 
@@ -189,41 +189,43 @@ Retiram as capas dos três que são deixados amarrados e fecham a porta.
 
 _[Imagem]_
 
-> A Armadilha
->
-> - R3
->
-> - Sapão e Ralf quase caem na armadilha
->   - passam pelas saliencias laterais
->
-> [t = 40 min]
->
-> A Cripta
->
-> - R4
->
-> - caulesosos procuram armadilhas
-> - examinam os sarcófagos sem abri-los
-> - ao chegarem as portas norte
->   - armaduras se movem em sua direção (susto!)
->   - olham as capas e recuam, voltando a posição de guarda
->
-> - porta norte (para R6)
->   - corredor com porta trancada
->   - falham em tentar arrombar
->
-> - porta nordeste (para R5)
->   - não ouvem nada
->
->   - entram, guardas estão esperando
->   - ao verem as capas ficam confusos "quem são vocês?"
->   - "somos novos recrutas"
->   - "ninguém avisa nada mais nesta organização? quem trouxe vocẽs?"
->
-> - guardas querem que os "recrutas" fiquem ali até um deles ir averiguar
->
-> - a tensão aumenta e um combate é iminente
->
-> [t = 50 min]
+Explorando mais a sala da cisterna, o grupo nota uma porta por baixo de uma das
+escadas, que leva a corredor largo com um grande porta decorada ao fundo.
+
+Seguindo pelo corredor, Ralf e Sapão quase caem em um fosso escondido sob
+algumas pedras soltas do piso. Passando por pequenas saliências laterais, o
+grupo consegue ultrapassar a armadilha sem grande dificuldade.
+
+Chegando mais próximo da porta dupla ao fundo, podem notar que as folhas são
+revestidas com placas de cobre esverdeadas pelo tempo, e mostram, em relevo, a
+figura de um anjo melancólico.
+
+Agora mais cautelosos procuram por armadilhas antes de abrir a porta, revelando
+uma sala com três sarcófagos. Ao lado de cada sarcófago, uma armadura está de pé
+como que guardando quem quer que alí esteja depositado.
+
+Examinando, sem abrir, as grandes caixas de pedra, veem que cada uma tem a tampa
+esculpida com uma figura humana: dois homens e uma mulher, todos vestindo trajes
+nobres.
+
+No lado oposto da sala, duas portas. Quando se aproximarem destas portas, as
+armaduras se movem em sua direção revelando esqueletos animados em seu interior.
+Mas tão rápido quanto os surpreenderam, pararam e, após observá-los por alguns
+segundos, retornaram a sua posição de guarda original.
+
+Agora atentos às armaduras, examinam as portas. Uma delas leva a um pequeno
+corredor e a outra porta, esta trancada.
+
+Na outra, não ouvindo nada, entram deparando com dois bandidos que aparentemente
+já estavam de prontidão. Estavam prontos para atacar, mas ao verem as capas que
+o grupo está usando, demonstram uma certa confusão. "Quem são vocês?", "Somos
+novos recrutas", "Ninguém avisa mais nada nesta organização? Quem trouxe vocês?"
+
+Os bandidos querem que o grupo permaneça naquele local, enquanto um deles vai
+averiguar. Neste momento, notam que o lugar possui duas selas, onde é possível
+ver, em uma, duas mulheres encolhidas e abraçadas a um canto, e na outra, um
+rapaz adolescente sentado abraçando os próprios joelhos.
+
+A tensão aumenta e parece que um combate é inevitável.
  
 ---
