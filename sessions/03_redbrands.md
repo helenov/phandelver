@@ -118,9 +118,10 @@ improvisado.
 
 O prefeito os orienta a levar o corpo para o cemitério que fica atrás
 do [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md), do outro
-lado da praça, mas já adianta que a [Irmã Garaele] não se encontra na cidade. No
-templo, realmente não encontram ninguém, e deixam os corpos para que alguém os
-enterre no dia seguinte.
+lado da praça, mas já adianta que
+a [Irmã Garaele](../characters/npcs/phandalin/sister_garaele.md) não se encontra
+na cidade. No templo, realmente não encontram ninguém, e deixam os corpos para
+que alguém os enterre no dia seguinte.
 
 ---
 
