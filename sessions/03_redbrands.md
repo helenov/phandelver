@@ -16,21 +16,43 @@ _próxima_ : _[Sessão 4 Glasstaff]_
 
 ### Elenco
 
-* _[Character]_
+#### No _[Gigante Adormecido]_
+
+* _[Redbrands]_
+  * bandidos
+* _[Greska]_, ogre taverneiro
+
+#### Em _[Phandalin]_
+
+* _[Harbin Wester]_, prefeito
+* _[Carp Alderleaf]_, garota halfling
+* _[Pip Stonehill]_, garoto filho de _[Toblen Stonehill]_
+* _[Qelline Alterleaf]_, mãe de Carp
+
+#### No _[Esconderijo Redbrand]_
+
+* _[Redbrands]_
+  * bandidos
+* prisioneiros
+  * duas mulheres e um rapaz
 
 #### Mencionados
 
-* _[Character]_
+* _[Irmã Garaele]_, responsável pelo _[Templo da Fortuna]_
 
 ### Cenários
 
-* _[Location]_
-  * _[detalhe]_
+* _[Gigante Adormecido]_
+* _[Prefeitura]_
+* _[Hospedaria Stonehill]_
+* _[Fazenda Alderleaf]_
+* _[Mata Tresendar]_
+* _[Esconderijo Redbrand]_
 
 #### Mencionados
 
-* _[Location]_
-  * _[detalhe]_
+* _[Mansão Tresendar]_
+* _[Templo da Fortuna]_
 
 ---
 
@@ -40,13 +62,13 @@ _próxima_ : _[Sessão 4 Glasstaff]_
 
 :construction:
 
-Ao anoitecer o grupo decide investigar o Gigante Adormecido, o bar que todos
-dizem que os Redbrands costumam frequentar. Pedem orientações sobre a sua
-localização na estalagem, e, embora sejam desencorajados da ideia, o grupo está
-decidido a cumprir com seu novo papel de garantidores da lei na cidade.
+Ao anoitecer o grupo decide investigar o _[Gigante Adormecido]_, o bar que todos
+dizem que os _[Redbrands]_ costumam frequentar. Pedem orientações sobre a sua
+localização na estalagem, e, embora sejam desencorajados, o grupo está decidido
+a cumprir com seu novo papel de garantidores da lei na cidade.
 
-Ao se aproximarem do local - que é pouco mais que os escombros de antiga taverna
-de estrada -, quatro humanos desgrenhados e mal-humorados, usando capas
+Ao se aproximarem do local - que é pouco mais que os escombros de uma antiga
+taverna de estrada -, quatro humanos desgrenhados e mal-humorados, usando capas
 vermelhas imundas, estão na varanda do estabelecimento, empoleirados em barris
 de cerveja, bebendo, encaram os forasteiros.
 
@@ -57,35 +79,38 @@ latir para nós?"
 Este e mais dois saem para a rua, enquanto o quarto permanece na varanda. Há uma
 pequena discussão em que o grupo insiste que são a nova autoridade na cidade, ao
 que os rufiões debocham e, entre ameaças, diz que o grupo deve deixar a cidade e
-a região imediatamente.
+a região imediatamente. "Nós somos a 'autoridade' aqui! Vão embora com o rabo
+entre as pernas se valorizam suas vidas!"
 
 Com o impasse, nenhum lado quer ceder, irrompe um combate. Os bandidos, bem
 falastrões, começam bem, mas logo ficam sérios quando a maré vira e acabam
-derrotados. O quarto homem, que permaneceu observando da varanda, primeiro
-rindo, depois preocupado e temeroso, foge para trás do bar dizendo que vai
-buscar reforços. Ralf chega a tentar persegui-lo, mas ele escapa na noite.
+derrotados. O quarto homem, que permaneceu observando da varanda todo este
+tempo, primeiro rindo, depois preocupado e temeroso, foge para trás do bar
+gritando que vai trazer reforços. Ralf chega a tentar persegui-lo, mas ele
+escapa na noite.
 
 Dentro do bar, o grupo encontra o taverneiro, um ogre grandalhão e aborrecido,
 que mergulha copos na água suja que está na pia, e os enxuga com um pano
 encardido. Após pedir cervejas e serem atendidos - o ogre usa os mesmos copos
-que vinha "lavando" -, o grupe se apresenta, e o ogre, que se apresenta como
-Greska, parece se divertir muito quando dizem que estão ali para livrar a cidade
-dos bandidos. Greska diz que o Redbrands são seus únicos clientes e o dinheiro
-deles é tão bom quanto qualquer outro, e que não se importa com o que fazem fora
-de seu estabelecimento. Diz que acha que eles se escondem "para os lados da
-velha mansão".
+que vinha "lavando" -, o grupo se apresenta, e o ogre, que se apresenta como
+_[Greska]_, parece se divertir muito quando dizem que estão ali para livrar a
+cidade dos bandidos. Greska diz que o Redbrands são seus únicos clientes e o
+dinheiro deles é tão bom quanto o de qualquer outro, e que não se importa com o
+que fazem fora de seu estabelecimento. Diz que acha que eles se escondem "pros
+lados da velha _[Mansão Tresendar]_".
 
 Dos homens derrotados, dois estão mortos, mas um está apenas inconsciente.
 
-O grupo batem a porta da prefeitura, sendo atendidos por um prefeito já de
-camisola. Explicam a situação e, sobre protestos de que foi acordado, o grupo é
-levado até o porão onde trancam o prisioneiro em uma cela. Também deixam as
-espadas apreendidas na prefeitura.
+Quando o grupo bate a porta da _[Prefeitura]_, são atendidos por um prefeito já
+de camisola. Explicam a situação e, sobre protestos de que foi acordado, o grupo
+é levado até o porão onde trancam o bandido inconsciente em uma cela. Também
+deixam as espadas apreendidas em uma sala da prefeitura, agora um arsenal
+improvisado.
 
-O prefeito Weber os orienta a levar o corpo para o cemitério que fica atrás do
-Templo da Fortuna, do outro lado da praça, mas já adianta que a Irmã Garaele não
-se encontra na cidade. No templo, realmente não encontram ninguém, e deixam os
-corpos para que alguém os enterre no dia seguinte.
+O prefeito _[Harbin]_ os orienta a levar o corpo para o cemitério que fica atrás
+do _[Templo da Fortuna]_, do outro lado da praça, mas já adianta que a
+_[Irmã Garaele]_ não se encontra na cidade. No templo, realmente não encontram
+ninguém, e deixam os corpos para que alguém os enterre no dia seguinte.
 
 ---
 
@@ -96,29 +121,27 @@ corpos para que alguém os enterre no dia seguinte.
 :construction:
 
 Na manhã seguinte, quando o grupo desce para tomar seu café da manhã na
-estalagem, já encontram Carp, a garota halfling, ansiosa a espera. Ao seu lado,
-Pip, o filho do estalajadeiro, está cabisbaixo, claramente contrariado e
-infeliz.
+_[hospedaria]_, já encontram _[Carp]_, a garota halfling, ansiosa a espera. Ao
+seu lado, _[Pip]_, o filho do estalajadeiro, está cabisbaixo, claramente
+contrariado e infeliz.
 
 Após tomar café, apressados por uma garota inquieta ao lado, ela os leva até uma
-fazenda no extremo sudeste da vila. "É aqui que eu moro com minha mãe, mas é
-melhor não a incomoda ela agora." Contornam a casa, atravessam um campo de
-canteiros de hortaliças diversas e chegam a uma densa floresta já além dos
+_[fazenda]_ no extremo sudeste da vila. "É aqui que eu moro com _[minha mãe]_,
+mas é melhor não a incomoda ela agora." Contornam a casa, atravessam um campo de
+canteiros de hortaliças diversas e chegam a uma densa _[mata]_ já além dos
 limites da cidade.
 
 Após algum tempo seguindo por trilhas que a garota indica, o grupo chega ao sopé
-de um morro, no alto do que é possível ver parte das ruínas da velha Mansão
-Tresendar.
+de um morro - no alto é possível ver parte das ruínas da velha
+_[Mansão Tresendar]_.
 
-A garota segue acompanhando o só para um lado, e depois muda de ideia. "Não!
+A garota segue acompanhando o sopé para um lado, e depois muda de ideia. "Não!
 Acho que é pra lá!". Após procurar um pouco aponta o lugar, que a princípio
-parece ser apenas algumas pedras grandes e arbustos, mas que logo se revela a
-entrada de uma caverna estreita.
+parece ser apenas pedras grandes e alguns arbustos, mas olhando com atenção logo
+se revela a entrada de uma caverna estreita.
 
-O grupo chega a procurar e, com alguma dificuldade, encontram uns poucos
-rastros. Quem quer que use a passagem tenta manter o lugar secreto. Estes poucos
-rastros parecem seguir acompanhando o morro na direção leste para longe da
-cidade.
+O grupo chega a procurar por rastros, mas quem quer que esteja usando a passagem
+cuida para manter o lugar em segredo.
 
 ---
 
@@ -128,27 +151,33 @@ cidade.
 
 :construction:
 
-Após levar Carp e Pip de volta a fazenda, e deixá-la aos cuidados da Sra.
-Alderleaf, o grupo retorna ao túnel.
+Após levar _[Carp]_ e _[Pip]_ de volta a fazenda, e deixá-la aos cuidados da
+_[Sra. Alderleaf]_, o grupo retorna a entrada escondida.
 
-Sempre com a coruja Bia investigando a frente, o grupo segue o túnel e chega a
-um grande salão de caverna natural cortado por uma fenda no sentido norte-sul.
-Duas pontes atravessam a fenda. Bia ao descer voando pela fenda, ela vê ossos
-incluindo de pelo menos dois crânios de goblins estranhamente alongados, e um
-esqueleto humano ainda praticamente completo. "Frio!"
+Sempre com a coruja Bia investigando a frente, o grupo segue um túnel estreito e
+chega a um grande salão de caverna natural cortado por uma fenda no sentido
+norte-sul.
 
-Explorando o lugar, vêem que há duas passagens a esquerda e uma a direita, além
-do que parece ser uma oficina do fundo, depois da fenda.
+Duas pontes rústicas que atravessam a fenda que tem por volta de 20 pés de
+profundidade, embora suas paredes pareçam ser facilmente escaláveis. Do alto é
+possível ver alguns ossos incluindo de pelo menos dois crânios de goblins
+estranhamente alongados e um esqueleto humano ainda praticamente completo. Bia,
+ao descer voando pela fenda, relata apenas "Frio!"
 
-Sem aviso uma voz estridente e sussurrante rompe o silêncio, "Ssnark tem fome...
-Carne fresca...", seguindo de uma risada insana. O grupo olha em volta,
-procurando sem sucesso a origem da voz. Ao olhar para o fundo da fenda, a voz
-retorna, "Homenzinhos burros! Ssnark não está aí embaixo. Mas podem descer...
-Não vão descer, não?... Desçam..." Neste momento percebem que a voz não vem do
-ambiente, mas está falando diretamente em suas cabeças.
+Explorando o lugar, veem que há duas passagens a esquerda e uma a direita, todas
+elas corredores bem construídos, além do que parece ser uma oficina do outro
+lado do salão, depois da fenda.
+
+Sem nenhum aviso uma voz estridente e sussurrante rompe o silêncio do lugar,
+"_[Ssnark]_ tem fome... Carne fresca...", seguindo uma risada insana. O grupo
+olha em volta, procurando sem sucesso a origem da voz. Ao olhar para o fundo da
+fenda, a voz retorna, "Homenzinhos burros! Ssnark não está aí embaixo. Mas podem
+descer... Não vão descer, não?... Desçam..." Neste momento percebem que a voz
+não vem do ambiente, mas está falando diretamente em suas cabeças.
 
 Ansiosos por deixar este lugar sinistro e curiosos ao notar que a passagem da
-direita leva a um beco sem saída, resolvem explorar esta direção.
+direita leva a um beco sem saída, o que não faz sentido, resolvem explorar esta
+direção.
 
 ---
 
@@ -159,25 +188,25 @@ direita leva a um beco sem saída, resolvem explorar esta direção.
 :construction:
 
 Investigando o final do corredor, facilmente encontram uma passagem secreta que
-leva a uma sala grande com uma grande cisterna de água fresca. Ao redor da sala,
-junto às paredes dezenas de caixas e barris contendo carne seca, cereais,
+leva a uma sala de teto alto com uma grande cisterna de água fresca. Ao redor da
+sala, junto às paredes, dezenas de caixas e barris contendo carne seca, cereais,
 frutas, vinho e cerveja - tudo em bom estado de conservação, deixando claro que
 é um depósito que vem sendo usado.
 
 No lado oposto da sala, duas escadas levam a um patamar, onde é possível ver uma
 porta. Contornando a cisterna, há outra porta, que Ralf abre impetuosamente,
-surpreendendo três bandidos de capas vermelhas, que se levantam de pronto das
-camas onde estavam sentados.
+surpreendendo três bandidos de capas vermelhas, que interrompem a conversa e se
+levantam de pronto das camas onde estavam sentados.
 
 "Quem são vocês! O que estão fazendo aqui?"
 
-"Hã... somos novos recrutas", Ralf tenta emplacar.
+"Hã... somos novos recrutas...", Ralf tenta emplacar.
 
-"Ué!? Ninguém falou nada sobre novos recrutas..."
+"Ué!? Ninguém falou nada sobre novos recrutas!"
 
 Enquanto dura o impasse, o grupo bloqueia a saída do quarto, e um combate
 inicia. Rapidamente um dos bandidos cai desacordado por uma pancada de Ralf, e
-os outros dois são colocados para dormir pela magia do Sapão.
+os outros dois são colocados para dormir pela magia de Sapão.
 
 Retiram as capas dos três que são deixados amarrados e fecham a porta.
 
@@ -189,42 +218,45 @@ Retiram as capas dos três que são deixados amarrados e fecham a porta.
 
 _[Imagem]_
 
-Explorando mais a sala da cisterna, o grupo nota uma porta por baixo de uma das
-escadas, que leva a corredor largo com um grande porta decorada ao fundo.
+Explorando mais a sala da cisterna, o grupo nota uma porta abaixo de uma das
+escadas, que leva a corredor largo que leva uma grande porta dupla decorada.
 
 Seguindo pelo corredor, Ralf e Sapão quase caem em um fosso escondido sob
 algumas pedras soltas do piso. Passando por pequenas saliências laterais, o
-grupo consegue ultrapassar a armadilha sem grande dificuldade.
+grupo ultrapassa a armadilha sem grande dificuldade.
 
-Chegando mais próximo da porta dupla ao fundo, podem notar que as folhas são
-revestidas com placas de cobre esverdeadas pelo tempo, e mostram, em relevo, a
-figura de um anjo melancólico.
+Chegando mais próximo da porta ao fundo, notam que as suas folhas são revestidas
+por placas de cobre esverdeadas pelo tempo, e mostram, em relevo, a figura de um
+anjo melancólico.
 
-Agora mais cautelosos procuram por armadilhas antes de abrir a porta, revelando
-uma sala com três sarcófagos. Ao lado de cada sarcófago, uma armadura está de pé
-como que guardando quem quer que alí esteja depositado.
+Agora mais cautelosos, procuram por armadilhas antes de abrir a porta, que
+revela uma sala com três sarcófagos. Ao lado de cada sarcófago, uma armadura
+está de pé como que guardando quem quer que alí esteja depositado.
 
 Examinando, sem abrir, as grandes caixas de pedra, veem que cada uma tem a tampa
 esculpida com uma figura humana: dois homens e uma mulher, todos vestindo trajes
 nobres.
 
-No lado oposto da sala, duas portas. Quando se aproximarem destas portas, as
+No extremo norte da sala, duas portas. Quando se aproximam destas portas, as
 armaduras se movem em sua direção revelando esqueletos animados em seu interior.
-Mas tão rápido quanto os surpreenderam, pararam e, após observá-los por alguns
-segundos, retornaram a sua posição de guarda original.
+O susto é grande, mas tão inesperadamente quanto se moveram, as armaduras
+pararam e, após observá-los por alguns segundos, retornaram a sua posição de
+guarda original.
 
 Agora atentos às armaduras, examinam as portas. Uma delas leva a um pequeno
-corredor e a outra porta, esta trancada.
+corredor e a outra porta, esta trancada. Incapazes de arrombá-la decidem
+investigar a outra.
 
-Na outra, não ouvindo nada, entram deparando com dois bandidos que aparentemente
-já estavam de prontidão. Estavam prontos para atacar, mas ao verem as capas que
-o grupo está usando, demonstram uma certa confusão. "Quem são vocês?", "Somos
-novos recrutas", "Ninguém avisa mais nada nesta organização? Quem trouxe vocês?"
+Na outra porta, não ouvindo nada, abrem deparando com dois bandidos que
+aparentemente já estavam de prontidão aguardando para atacar quem entrasse. Mas
+ao verem as capas que o grupo está usando, demonstram uma certa confusão. "Quem
+são vocês?", "Somos novos recrutas", "Ninguém avisa mais nada nesta organização?
+Quem trouxe vocês?"
 
 Os bandidos querem que o grupo permaneça naquele local, enquanto um deles vai
-averiguar. Neste momento, notam que o lugar possui duas selas, onde é possível
-ver, em uma, duas mulheres encolhidas e abraçadas a um canto, e na outra, um
-rapaz adolescente sentado abraçando os próprios joelhos.
+averiguar. Agora, o grupo pode notar que o lugar é um tipo de prisão, com duas
+selas. Em uma, duas mulheres encolhidas estão abraçadas a um canto, e na outra,
+um rapaz adolescente está sentado abraçando os próprios joelhos.
 
 A tensão aumenta e parece que um combate é inevitável.
  

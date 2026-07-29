@@ -12,21 +12,19 @@ _próxima_ : Sessão _[X-2]_ _[Título]_
 
 ### Elenco
 
-* _[Character]_
+* _[Character]_, _[detalhe]_
 
 #### Mencionados
 
-* _[Character]_
+* _[Character]_, _[detalhe]_
 
 ### Cenários
 
 * _[Location]_
-  * _[detalhe]_
 
 #### Mencionados
 
 * _[Location]_
-  * _[detalhe]_
 
 ---
 
