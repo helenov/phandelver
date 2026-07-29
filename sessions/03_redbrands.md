@@ -35,7 +35,9 @@ _próxima_ : [Sessão 4 Glasstaff]
 #### No [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
 
 * [Redbrands](../organizations/redbrands.md)
+  * [Ssnark](../characters/npcs/redbrands/ssnark.md), voz na cabeça
   * bandidos
+  * esqueletos
 * prisioneiros
   * duas mulheres e um rapaz
 
@@ -190,11 +192,12 @@ elas corredores bem construídos, além do que parece ser uma oficina do outro
 lado do salão, depois da fenda.
 
 Sem nenhum aviso uma voz estridente e sussurrante rompe o silêncio do lugar,
-"[Ssnark] tem fome... Carne fresca...", seguindo uma risada insana. O grupo olha
-em volta, procurando sem sucesso a origem da voz. Ao olhar para o fundo da
-fenda, a voz retorna, "Homenzinhos burros! Ssnark não está aí embaixo. Mas podem
-descer... Não vão descer, não?... Desçam..." Neste momento percebem que a voz
-não vem do ambiente, mas está falando diretamente em suas cabeças.
+"[Ssnark](../characters/npcs/redbrands/ssnark.md) tem fome... Carne fresca...",
+seguindo uma risada insana. O grupo olha em volta, procurando sem sucesso a
+origem da voz. Ao olhar para o fundo da fenda, a voz retorna, "Homenzinhos
+burros! Ssnark não está aí embaixo. Mas podem descer... Não vão descer, não?...
+Desçam..." Neste momento percebem que a voz não vem do ambiente, mas está
+falando diretamente em suas cabeças.
 
 Ansiosos por deixar este lugar sinistro e curiosos ao notar que a passagem da
 direita leva a um beco sem saída, o que não faz sentido, resolvem explorar esta

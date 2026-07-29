@@ -11,7 +11,9 @@ _[Texto]_ :construction:
 
 ### Personagens
 
+* [Ssnark](../../characters/npcs/redbrands/ssnark.md), voz na cabeça
 * bandidos
+* esqueletos
 
 ### Organizações
 
@@ -40,3 +42,5 @@ _[Texto]_ :construction:
     ([Cena 2](../../sessions/03_redbrands.md#cena-2-túnel-secreto))
   * grupo inicia a exploração do **Esconderijo Redbrand**
     ([Cenas 3 a 5)](../../sessions/03_redbrands.md#cena-3-uma-voz))
+  * grupo ouve [Ssnark](../../characters/npcs/redbrands/ssnark.md) como uma voz
+    em suas cabeças ([Cena 3](../../sessions/03_redbrands.md#cena-3-uma-voz))
