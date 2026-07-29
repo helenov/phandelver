@@ -133,35 +133,22 @@ Alderleaf, o grupo retorna ao túnel.
 
 Sempre com a coruja Bia investigando a frente, o grupo segue o túnel e chega a
 um grande salão de caverna natural cortado por uma fenda no sentido norte-sul.
-Duas pontes atravessam a fenda. Bia ao descer voando para dentro da fenda,
+Duas pontes atravessam a fenda. Bia ao descer voando pela fenda, ela vê ossos
+incluindo de pelo menos dois crânios de goblins estranhamente alongados, e um
+esqueleto humano ainda praticamente completo. "Frio!"
 
-> - levam Carp e Pip para a casa da garota
-> - voltam para a entrada do túnel
-> 
-> [t = 0]
-> 
-> A Fenda
-> 
-> - R8 e R7
-> 
-> - com a coruja Bia investigando a frente
-> - encontra um salão grande com uma fenda (R8), e passagens laterais
->   - ouvem som de conversa apenas em R9
-> - a coruja sente "frio" ao entrar na fenda
->   - esqueletos em decomposição no fundo
-> - Sapão percebe que a ponte sul não é segura
->   - saltando, passam facilmente de um lado para o outro sem dificuldade
-> 
-> - enquanto exploram o lugar, ouvem uma risada insana com sussurros
->   - "Ssnark tem fome.... Carne fresca... hihihihi"
->   - percebem que os sussurros não vêm de fora, mas de dentro de suas cabeças
-> - acham que tem alguma criatura no fundo da fenda
->   - "Homenzinhos burros! Ssnark não está aí em baixo. Não vão descer não...
->     Desçam... hihihihi"
-> 
-> - ao norte (R7) encontrar a oficina de embalagens de contrabando
-> 
-> [t = 20 min]
+Explorando o lugar, vêem que há duas passagens a esquerda e uma a direita, além
+do que parece ser uma oficina do fundo, depois da fenda.
+
+Sem aviso uma voz estridente e sussurrante rompe o silêncio, "Ssnark tem fome...
+Carne fresca...", seguindo de uma risada insana. O grupo olha em volta,
+procurando sem sucesso a origem da voz. Ao olhar para o fundo da fenda, a voz
+retorna, "Homenzinhos burros! Ssnark não está aí embaixo. Mas podem descer...
+Não vão descer, não?... Desçam..." Neste momento percebem que a voz não vem do
+ambiente, mas está falando diretamente em suas cabeças.
+
+Ansiosos por deixar este lugar sinistro e curiosos ao notar que a passagem da
+direita leva a um beco sem saída, resolvem explorar esta direção.
 
 ---
 
@@ -171,23 +158,28 @@ Duas pontes atravessam a fenda. Bia ao descer voando para dentro da fenda,
 
 :construction:
 
-> - R1 e R2
-> 
-> - explorando o corredor que é um beco sem saída
-> - encontram passagem secreta que leva a cisterna (R1)
-> - exploram os barris e caixas
-> - abrem a porta de R2 direto e surpreendem o rufiões
-> 
-> - pequeno impasse
->   - PCs alegam ser novos recrutas
->   - bandidos desconfiam "ninguém falou nada!"
->   - PCs bloqueam a saida de R2
->   - combate rápido
->     - dois dormem, um cai desacordado
->     - deixados amarrado em R2
->     - pegam as capas
-> 
-> [t = 30 min]
+Investigando o final do corredor, facilmente encontram uma passagem secreta que
+leva a uma sala grande com uma grande cisterna de água fresca. Ao redor da sala,
+junto às paredes dezenas de caixas e barris contendo carne seca, cereais,
+frutas, vinho e cerveja - tudo em bom estado de conservação, deixando claro que
+é um depósito que vem sendo usado.
+
+No lado oposto da sala, duas escadas levam a um patamar, onde é possível ver uma
+porta. Contornando a cisterna, há outra porta, que Ralf abre impetuosamente,
+surpreendendo três bandidos de capas vermelhas, que se levantam de pronto das
+camas onde estavam sentados.
+
+"Quem são vocês! O que estão fazendo aqui?"
+
+"Hã... somos novos recrutas", Ralf tenta emplacar.
+
+"Ué!? Ninguém falou nada sobre novos recrutas..."
+
+Enquanto dura o impasse, o grupo bloqueia a saída do quarto, e um combate
+inicia. Rapidamente um dos bandidos cai desacordado por uma pancada de Ralf, e
+os outros dois são colocados para dormir pela magia do Sapão.
+
+Retiram as capas dos três que são deixados amarrados e fecham a porta.
 
 ---
 
@@ -198,40 +190,40 @@ Duas pontes atravessam a fenda. Bia ao descer voando para dentro da fenda,
 _[Imagem]_
 
 > A Armadilha
-> 
+>
 > - R3
-> 
+>
 > - Sapão e Ralf quase caem na armadilha
 >   - passam pelas saliencias laterais
-> 
+>
 > [t = 40 min]
-> 
+>
 > A Cripta
-> 
+>
 > - R4
-> 
+>
 > - caulesosos procuram armadilhas
 > - examinam os sarcófagos sem abri-los
 > - ao chegarem as portas norte
 >   - armaduras se movem em sua direção (susto!)
 >   - olham as capas e recuam, voltando a posição de guarda
-> 
+>
 > - porta norte (para R6)
 >   - corredor com porta trancada
 >   - falham em tentar arrombar
-> 
+>
 > - porta nordeste (para R5)
 >   - não ouvem nada
-> 
+>
 >   - entram, guardas estão esperando
 >   - ao verem as capas ficam confusos "quem são vocês?"
 >   - "somos novos recrutas"
 >   - "ninguém avisa nada mais nesta organização? quem trouxe vocẽs?"
-> 
+>
 > - guardas querem que os "recrutas" fiquem ali até um deles ir averiguar
-> 
+>
 > - a tensão aumenta e um combate é iminente
-> 
+>
 > [t = 50 min]
  
 ---
