@@ -1,27 +1,27 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## _[Nome do Personagem]_, <small>_[espécie]_</small>
+## _[_Nome do Personagem_]_, <small>_[_espécie_]_</small>
 
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
 [//]: # (<!-- @formatter:on -->)
-_[Imagem]_
-_[Texto]_ :construction:
+_[_Imagem_]_
+_[_Texto_]_ :construction:
 <br clear="left"/>
 
 ### Relações
 
-* _[Character]_, _[detalhe]_
+* _[_Character_]_, _[_detalhe_]_
 
 ### Organizações
 
-* _[Organização]_, _[detalhe]_
+* _[_Organização_]_, _[_detalhe_]_
 
 ### Locais
 
-* _[Local]_, _[detalhe]_
+* _[_Local_]_, _[_detalhe_]_
 
 ### Referências
 
-* _[Sessão]_
-  * _[detalhe]_ (_[Cena]_)
+* _[_Sessão_]_
+  * _[_detalhe_]_ (_[_Cena_]_)

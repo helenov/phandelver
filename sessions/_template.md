@@ -1,39 +1,39 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Sessão _[X]_ _[Título]_
+## _[Sessão _X_ _Título_]_
 
-_data_ : _[YYYY-MM-DD]_ \
-_anterior_ : Sessão _[X-1]_ _[Título]_ \
-_próxima_ : Sessão _[X-2]_ _[Título]_
+_data_ : _[_YYYY-MM-DD_]_ \
+_anterior_ : _[Sessão _X-1_ _Título_]_ \
+_próxima_ : _[Sessão _X-2_ _Título_]_
 
 ### Cenas
 
-* Cena _[X]_ _[Título]_
+* _[Cena _X_ _Título_]_
 
 ### Elenco
 
-* _[Character]_, _[detalhe]_
+* _[_Character_]_, _[_detalhe_]_
 
 #### Mencionados
 
-* _[Character]_, _[detalhe]_
+* _[_Character_]_, _[_detalhe_]_
 
 ### Cenários
 
-* _[Location]_
+* _[_Location_]_
 
 #### Mencionados
 
-* _[Location]_
+* _[_Location_]_
 
 ---
 
-### Cena _[X]_ _[Título]_
+### _[Cena _X_ _Título_]_
 
 :construction:
 
-_[Imagem]_
+_[_Imagem_]_
 
-_[Texto]_
+_[_Texto_]_
 
 ---

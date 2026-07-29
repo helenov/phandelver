@@ -5,7 +5,7 @@
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
 [//]: # (<!-- @formatter:on -->)
-[//]: # (_[Imagem]_ :construction:)
+[//]: # (_[_Imagem_]_ :construction:)
 
 Descrito como "um homem baixo, de barba e cabelos escuros, na casa dos 30 anos",
 **Iarno Albrek** é um mago e membro

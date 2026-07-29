@@ -34,7 +34,7 @@ aqui já tem uns dez dias, provavelmente devem aparecer em um dia ou dois"
 
 [//]: # (### Organizações)
 [//]: # ()
-[//]: # (* _[Organização]_, _[detalhe]_)
+[//]: # (* _[_Organização_]_, _[_detalhe_]_)
 
 ### Locais
 

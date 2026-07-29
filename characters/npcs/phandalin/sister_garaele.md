@@ -1,21 +1,21 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Irmã Garaele<!--, <small>_[espécie]_</small>-->
+## Irmã Garaele<!--, <small>_[_espécie_]_</small>-->
 
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
 [//]: # (<!-- @formatter:on -->)
-[//]: # (_[Imagem]_)
-[//]: # (_[Texto]_ :construction:)
+[//]: # (_[_Imagem_]_)
+[//]: # (_[_Texto_]_ :construction:)
 [//]: # (<br clear="left"/>)
 
 [//]: # (### Relações)
 [//]: # ()
-[//]: # (* _[Character]_, _[detalhe]_)
+[//]: # (* _[_Character_]_, _[_detalhe_]_)
 
 [//]: # (### Organizações)
 [//]: # ()
-[//]: # (* _[Organização]_, _[detalhe]_)
+[//]: # (* _[_Organização_]_, _[_detalhe_]_)
 
 ### Locais
 

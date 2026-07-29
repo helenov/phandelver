@@ -8,6 +8,7 @@
   * [Companions](characters/casting.md#companions)
 
 ####
+
 * [Non-Player Characters](characters/casting.md#non-player-characters)
 
 ## Diário
@@ -15,13 +16,14 @@
 * [Linha do tempo](timeline.md)
 
 ####
+
 * Sessões
   * (2026-03-16) [Sessão 0 Prólogo](sessions/00_prologo.md)
   * (2026-03-31) [Sessão 1 Goblins](sessions/01_goblins.md)
   * (2026-04-13) [Sessão 2 Phandalin](sessions/02_phandalin.md)
   * (2026-04-27) [Sessão 3 Redbrands](sessions/03_redbrands.md)
-  * (2026-05-11) [Sessão 4 Glasstaff]
-  * (2026-05-25) [Sessão 5 Uma Perda]
-  * (2026-06-08) [Sessão 6 Wyvern Tor]
-  * (2026-07-06) [Sessão 7 A Floresta]
-  * (2026-07-30) [Sessão 8]
+  * (2026-05-11) _[Sessão 4 Glasstaff]_
+  * (2026-05-25) _[Sessão 5 Uma Perda]_
+  * (2026-06-08) _[Sessão 6 Wyvern Tor]_
+  * (2026-07-06) _[Sessão 7 A Floresta]_
+  * (2026-07-30) _[Sessão 8]_

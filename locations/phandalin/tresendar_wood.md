@@ -5,8 +5,8 @@
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
 [//]: # (<!-- @formatter:on -->)
-_[Imagem]_
-_[Texto]_ :construction:
+_[_Imagem_]_
+_[_Texto_]_ :construction:
 <br clear="left"/>
 
 ### Personagens
@@ -16,7 +16,7 @@ _[Texto]_ :construction:
 
 [//]: # (### Organizações)
 [//]: # ()
-[//]: # (* _[Organização]_, _[detalhe]_)
+[//]: # (* _[_Organização_]_, _[_detalhe_]_)
 
 ### Locais
 

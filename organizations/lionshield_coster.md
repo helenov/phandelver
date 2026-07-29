@@ -6,7 +6,7 @@
 <img alt="Lionshield Coster" src="../images/organizations/lionshield_coster.png" style="width:200px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
-_[Texto]_ :construction:
+_[_Texto_]_ :construction:
 <br clear="left"/>
 
 ### Membros

@@ -21,8 +21,8 @@ civilização.
 
 [//]: # (### Locais)
 [//]: # ()
-[//]: # (* _[Local]_)
-[//]: # (  * _[detalhe]_)
+[//]: # (* _[_Local_]_)
+[//]: # (  * _[_detalhe_]_)
 
 ### Referências
 

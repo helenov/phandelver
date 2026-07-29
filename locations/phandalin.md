@@ -4,7 +4,7 @@
 
 ![02_5_phandalin.jpg](../images/cenas/02_5_phandalin.jpg)
 
-_[Texto]_ :construction:
+_[_Texto_]_ :construction:
 
 ### Personagens
 
@@ -54,7 +54,7 @@ _[Texto]_ :construction:
 
 [//]: # (### Organizações)
 [//]: # ()
-[//]: # (* _[Organização]_, _[detalhe]_)
+[//]: # (* _[_Organização_]_, _[_detalhe_]_)
 
 ### Locais
 
