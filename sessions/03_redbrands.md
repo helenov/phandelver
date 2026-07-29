@@ -18,7 +18,7 @@ _próxima_ : [Sessão 4 Glasstaff]
 
 #### No [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
 
-* [Redbrands]
+* [Redbrands](../organizations/redbrands.md)
   * bandidos
 * [Greska], ogre taverneiro
 
@@ -31,7 +31,7 @@ _próxima_ : [Sessão 4 Glasstaff]
 
 #### No [Esconderijo Redbrand]
 
-* [Redbrands]
+* [Redbrands](../organizations/redbrands.md)
   * bandidos
 * prisioneiros
   * duas mulheres e um rapaz
@@ -64,7 +64,7 @@ _próxima_ : [Sessão 4 Glasstaff]
 
 Ao anoitecer o grupo decide investigar
 o [Gigante Adormecido](../locations/phandalin/sleeping_giant.md), o bar que
-todos dizem que os [Redbrands] costumam frequentar. Pedem orientações sobre a
+todos dizem que os [Redbrands](../organizations/redbrands.md) costumam frequentar. Pedem orientações sobre a
 sua localização na estalagem, e, embora sejam desencorajados, o grupo está
 decidido a cumprir com seu novo papel de garantidores da lei na cidade.
 

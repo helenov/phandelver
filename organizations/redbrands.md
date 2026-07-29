@@ -46,8 +46,20 @@
     * [Sildar](../characters/npcs/sildar_hallwinter.md) propõe que desmantelem
       os **Redbrands** e capturem [Glasstaff](../characters/npcs/glasstaff.md)
   * [Cena 12](../sessions/02_phandalin.md#cena-12-ferraria-e-carpintaria)
-    * [Joe Smithe](../characters/npcs/phandalin/joe_smithe.md) diz que não 
-      gosta dos **Redbrands**
+    * [Joe Smithe](../characters/npcs/phandalin/joe_smithe.md) diz que não gosta
+      dos **Redbrands**
   * [Cena 13](../sessions/02_phandalin.md#cena-13-carp)
     * [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) conta
       sobre como quase a viram
+
+####
+
+* [Sessão 3](../sessions/03_redbrands.md)
+  * [Cena 1](../sessions/03_redbrands.md#cena-1-gigante-adormecido)
+    * grupo enfrenta um grupo de **Redbrands**
+      no [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
+  * [Cena 2](../sessions/03_redbrands.md#cena-2-túnel-secreto)
+    * grupo encontra a entrada para o [Esconderijo Redbrand] com a ajuda
+      de [Carp]
+  * [Cenas 3 a 5](../sessions/03_redbrands.md#cena-3-uma-voz)
+    * grupo inicia a exploração do [Esconderijo Redbrand]
