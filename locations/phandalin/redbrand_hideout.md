@@ -27,5 +27,16 @@ _[Texto]_ :construction:
 
 ### Referências
 
-* _[Sessão]_
-  * _[detalhe]_ (_[Cena]_)
+* [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
+  * [Carp](../../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) conta
+    sobre o "túnel secreto" na [Mata Tresendar](tresendar_wood.md)
+    ([Cena 13](../../sessions/02_phandalin.md#cena-13-carp))
+
+####
+
+* [Sessão 3 Redbrands](../../sessions/03_redbrands.md)
+  * [Carp](../../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) mostra
+    ao grupo o "túnel secreto" que leva ao **Esconderijo Redbrand**
+    ([Cena 2](../../sessions/03_redbrands.md#cena-2-túnel-secreto))
+  * grupo inicia a exploração do **Esconderijo Redbrand**
+    ([Cenas 3 a 5)](../../sessions/03_redbrands.md#cena-3-uma-voz))

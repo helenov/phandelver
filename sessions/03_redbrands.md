@@ -28,9 +28,9 @@ _próxima_ : [Sessão 4 Glasstaff]
 * [Carp Alderleaf](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md),
   garota halfling
 * [Pip Stonehill], garoto filho de [Toblen Stonehill]
-* [Qelline Alterleaf], mãe de Carp
+* [Qelline Alderleaf], mãe de Carp
 
-#### No [Esconderijo Redbrand]
+#### No [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
 
 * [Redbrands](../organizations/redbrands.md)
   * bandidos
@@ -48,7 +48,7 @@ _próxima_ : [Sessão 4 Glasstaff]
 * [Hospedaria Stonehill]
 * [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md)
 * [Mata Tresendar]
-* [Esconderijo Redbrand]
+* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
 
 #### Mencionados
 
