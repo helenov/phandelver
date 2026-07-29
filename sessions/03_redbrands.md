@@ -39,12 +39,14 @@ _próxima_ : [Sessão 4 Glasstaff]
 
 #### Mencionados
 
-* [Irmã Garaele], responsável pelo [Santuário da Fortuna]
+* [Irmã Garaele], responsável
+  pelo [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md)
 
 ### Cenários
 
 * [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
 * [Prefeitura]
+* [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md)
 * [Hospedaria Stonehill]
 * [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md)
 * [Mata Tresendar](../locations/phandalin/tresendar_wood.md)
@@ -53,7 +55,6 @@ _próxima_ : [Sessão 4 Glasstaff]
 #### Mencionados
 
 * [Mansão Tresendar]
-* [Santuário da Fortuna]
 
 ---
 
@@ -112,9 +113,10 @@ o porão onde trancam o bandido inconsciente em uma cela. Também deixam as
 espadas apreendidas em uma sala da prefeitura, agora um arsenal improvisado.
 
 O prefeito os orienta a levar o corpo para o cemitério que fica atrás
-do [Santuário da Fortuna], do outro lado da praça, mas já adianta que a
-[Irmã Garaele] não se encontra na cidade. No templo, realmente não encontram
-ninguém, e deixam os corpos para que alguém os enterre no dia seguinte.
+do [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md), do outro
+lado da praça, mas já adianta que a [Irmã Garaele] não se encontra na cidade. No
+templo, realmente não encontram ninguém, e deixam os corpos para que alguém os
+enterre no dia seguinte.
 
 ---
 

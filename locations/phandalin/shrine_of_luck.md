@@ -24,5 +24,7 @@ _[Texto]_ :construction:
 
 ### Referências
 
-* [Sessão 3 Redbrands]
-  * grupo deixa os corpos de dois [Redbrands] mortos em combate ([Cena 1])
+* [Sessão 3 Redbrands](../../sessions/03_redbrands.md)
+  * grupo deixa os corpos de dois [Redbrands](../../organizations/redbrands.md)
+    no **Santuário da Fortuna**
+    ([Cena 1](../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
