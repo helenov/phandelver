@@ -60,6 +60,6 @@
       no [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
   * [Cena 2](../sessions/03_redbrands.md#cena-2-túnel-secreto)
     * grupo encontra a entrada para o [Esconderijo Redbrand] com a ajuda
-      de [Carp]
+      de [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md)
   * [Cenas 3 a 5](../sessions/03_redbrands.md#cena-3-uma-voz)
     * grupo inicia a exploração do [Esconderijo Redbrand]

@@ -34,4 +34,14 @@ _[Texto]_ :construction:
     * conta como
       * encontrou um "túnel secreto"
         na [Mata Tresendar](../../../../locations/phandalin/tresendar_wood.md)
-      * quase foi vista pelos [Redbrands](../../../../organizations/redbrands.md)
+      * quase foi vista
+        pelos [Redbrands](../../../../organizations/redbrands.md)
+
+####
+
+* [Sessão 3 Redbrands](../../../../sessions/03_redbrands.md)
+  * [Cena 2](../../../../sessions/03_redbrands.md#cena-2-túnel-secreto)
+    * leva o grupo até o "túnel secreto"
+      na [Mata Tresendar](../../../../locations/phandalin/tresendar_wood.md)
+  * [Cena 3](../../../../sessions/03_redbrands.md#cena-3-uma-voz)
+    * grupo a leva de volta a [Fazenda Alderleaf]

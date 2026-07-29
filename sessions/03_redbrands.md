@@ -25,7 +25,8 @@ _próxima_ : [Sessão 4 Glasstaff]
 #### Em [Phandalin]
 
 * [Harbin Wester], prefeito
-* [Carp Alderleaf], garota halfling
+* [Carp Alderleaf](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md),
+  garota halfling
 * [Pip Stonehill], garoto filho de [Toblen Stonehill]
 * [Qelline Alterleaf], mãe de Carp
 
@@ -64,9 +65,10 @@ _próxima_ : [Sessão 4 Glasstaff]
 
 Ao anoitecer o grupo decide investigar
 o [Gigante Adormecido](../locations/phandalin/sleeping_giant.md), o bar que
-todos dizem que os [Redbrands](../organizations/redbrands.md) costumam frequentar. Pedem orientações sobre a
-sua localização na estalagem, e, embora sejam desencorajados, o grupo está
-decidido a cumprir com seu novo papel de garantidores da lei na cidade.
+todos dizem que os [Redbrands](../organizations/redbrands.md) costumam
+frequentar. Pedem orientações sobre a sua localização na estalagem, e, embora
+sejam desencorajados, o grupo está decidido a cumprir com seu novo papel de
+garantidores da lei na cidade.
 
 Ao se aproximarem do local - que é pouco mais que os escombros de uma antiga
 taverna de estrada -, quatro humanos desgrenhados e mal-humorados, usando capas
@@ -122,9 +124,10 @@ ninguém, e deixam os corpos para que alguém os enterre no dia seguinte.
 :construction:
 
 Na manhã seguinte, quando o grupo desce para tomar seu café da manhã na
-[hospedaria], já encontram [Carp], a garota halfling, ansiosa a espera. Ao seu
-lado, [Pip], o filho do estalajadeiro, está cabisbaixo, claramente contrariado e
-infeliz.
+[hospedaria], já
+encontram [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md), a
+garota halfling, ansiosa a espera. Ao seu lado, [Pip], o filho do estalajadeiro,
+está cabisbaixo, claramente contrariado e infeliz.
 
 Após tomar café, apressados por uma garota inquieta ao lado, ela os leva até uma
 [fazenda] no extremo sudeste da vila. "É aqui que eu moro com [minha mãe], mas é
@@ -152,7 +155,8 @@ cuida para manter o lugar em segredo.
 
 :construction:
 
-Após levar [Carp] e [Pip] de volta a fazenda, e deixá-la aos cuidados da
+Após levar [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md)
+e [Pip] de volta a fazenda, e deixá-la aos cuidados da
 [Sra. Alderleaf], o grupo retorna a entrada escondida.
 
 Sempre com a coruja Bia investigando a frente, o grupo segue um túnel estreito e
