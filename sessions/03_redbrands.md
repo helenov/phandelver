@@ -4,7 +4,7 @@
 
 _data_ : 2026-04-27 \
 _anterior_ : [Sessão 2 Phandalin](02_phandalin.md) \
-_próxima_ : _[Sessão 4 Glasstaff]_
+_próxima_ : [Sessão 4 Glasstaff]
 
 ### Cenas
 
@@ -16,43 +16,43 @@ _próxima_ : _[Sessão 4 Glasstaff]_
 
 ### Elenco
 
-#### No _[Gigante Adormecido]_
+#### No [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
 
-* _[Redbrands]_
+* [Redbrands]
   * bandidos
-* _[Greska]_, ogre taverneiro
+* [Greska], ogre taverneiro
 
-#### Em _[Phandalin]_
+#### Em [Phandalin]
 
-* _[Harbin Wester]_, prefeito
-* _[Carp Alderleaf]_, garota halfling
-* _[Pip Stonehill]_, garoto filho de _[Toblen Stonehill]_
-* _[Qelline Alterleaf]_, mãe de Carp
+* [Harbin Wester], prefeito
+* [Carp Alderleaf], garota halfling
+* [Pip Stonehill], garoto filho de [Toblen Stonehill]
+* [Qelline Alterleaf], mãe de Carp
 
-#### No _[Esconderijo Redbrand]_
+#### No [Esconderijo Redbrand]
 
-* _[Redbrands]_
+* [Redbrands]
   * bandidos
 * prisioneiros
   * duas mulheres e um rapaz
 
 #### Mencionados
 
-* _[Irmã Garaele]_, responsável pelo _[Templo da Fortuna]_
+* [Irmã Garaele], responsável pelo [Templo da Fortuna]
 
 ### Cenários
 
-* _[Gigante Adormecido]_
-* _[Prefeitura]_
-* _[Hospedaria Stonehill]_
-* _[Fazenda Alderleaf]_
-* _[Mata Tresendar]_
-* _[Esconderijo Redbrand]_
+* [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
+* [Prefeitura]
+* [Hospedaria Stonehill]
+* [Fazenda Alderleaf]
+* [Mata Tresendar]
+* [Esconderijo Redbrand]
 
 #### Mencionados
 
-* _[Mansão Tresendar]_
-* _[Templo da Fortuna]_
+* [Mansão Tresendar]
+* [Templo da Fortuna]
 
 ---
 
@@ -62,10 +62,11 @@ _próxima_ : _[Sessão 4 Glasstaff]_
 
 :construction:
 
-Ao anoitecer o grupo decide investigar o _[Gigante Adormecido]_, o bar que todos
-dizem que os _[Redbrands]_ costumam frequentar. Pedem orientações sobre a sua
-localização na estalagem, e, embora sejam desencorajados, o grupo está decidido
-a cumprir com seu novo papel de garantidores da lei na cidade.
+Ao anoitecer o grupo decide investigar
+o [Gigante Adormecido](../locations/phandalin/sleeping_giant.md), o bar que
+todos dizem que os [Redbrands] costumam frequentar. Pedem orientações sobre a
+sua localização na estalagem, e, embora sejam desencorajados, o grupo está
+decidido a cumprir com seu novo papel de garantidores da lei na cidade.
 
 Ao se aproximarem do local - que é pouco mais que os escombros de uma antiga
 taverna de estrada -, quatro humanos desgrenhados e mal-humorados, usando capas
@@ -93,23 +94,23 @@ Dentro do bar, o grupo encontra o taverneiro, um ogre grandalhão e aborrecido,
 que mergulha copos na água suja que está na pia, e os enxuga com um pano
 encardido. Após pedir cervejas e serem atendidos - o ogre usa os mesmos copos
 que vinha "lavando" -, o grupo se apresenta, e o ogre, que se apresenta como
-_[Greska]_, parece se divertir muito quando dizem que estão ali para livrar a
+[Greska], parece se divertir muito quando dizem que estão ali para livrar a
 cidade dos bandidos. Greska diz que o Redbrands são seus únicos clientes e o
 dinheiro deles é tão bom quanto o de qualquer outro, e que não se importa com o
 que fazem fora de seu estabelecimento. Diz que acha que eles se escondem "pros
-lados da velha _[Mansão Tresendar]_".
+lados da velha [Mansão Tresendar]".
 
 Dos homens derrotados, dois estão mortos, mas um está apenas inconsciente.
 
-Quando o grupo bate a porta da _[Prefeitura]_, são atendidos por um prefeito já
-de camisola. Explicam a situação e, sobre protestos de que foi acordado, o grupo
-é levado até o porão onde trancam o bandido inconsciente em uma cela. Também
+Quando o grupo bate a porta da [Prefeitura], são atendidos por um prefeito já de
+camisola. Explicam a situação e, sobre protestos de que foi acordado, o grupo é
+levado até o porão onde trancam o bandido inconsciente em uma cela. Também
 deixam as espadas apreendidas em uma sala da prefeitura, agora um arsenal
 improvisado.
 
-O prefeito _[Harbin]_ os orienta a levar o corpo para o cemitério que fica atrás
-do _[Templo da Fortuna]_, do outro lado da praça, mas já adianta que a
-_[Irmã Garaele]_ não se encontra na cidade. No templo, realmente não encontram
+O prefeito [Harbin] os orienta a levar o corpo para o cemitério que fica atrás
+do [Templo da Fortuna], do outro lado da praça, mas já adianta que a
+[Irmã Garaele] não se encontra na cidade. No templo, realmente não encontram
 ninguém, e deixam os corpos para que alguém os enterre no dia seguinte.
 
 ---
@@ -121,19 +122,19 @@ ninguém, e deixam os corpos para que alguém os enterre no dia seguinte.
 :construction:
 
 Na manhã seguinte, quando o grupo desce para tomar seu café da manhã na
-_[hospedaria]_, já encontram _[Carp]_, a garota halfling, ansiosa a espera. Ao
-seu lado, _[Pip]_, o filho do estalajadeiro, está cabisbaixo, claramente
-contrariado e infeliz.
+[hospedaria], já encontram [Carp], a garota halfling, ansiosa a espera. Ao seu
+lado, [Pip], o filho do estalajadeiro, está cabisbaixo, claramente contrariado e
+infeliz.
 
 Após tomar café, apressados por uma garota inquieta ao lado, ela os leva até uma
-_[fazenda]_ no extremo sudeste da vila. "É aqui que eu moro com _[minha mãe]_,
-mas é melhor não a incomoda ela agora." Contornam a casa, atravessam um campo de
-canteiros de hortaliças diversas e chegam a uma densa _[mata]_ já além dos
-limites da cidade.
+[fazenda] no extremo sudeste da vila. "É aqui que eu moro com [minha mãe], mas é
+melhor não a incomoda ela agora." Contornam a casa, atravessam um campo de
+canteiros de hortaliças diversas e chegam a uma densa [mata] já além dos limites
+da cidade.
 
 Após algum tempo seguindo por trilhas que a garota indica, o grupo chega ao sopé
 de um morro - no alto é possível ver parte das ruínas da velha
-_[Mansão Tresendar]_.
+[Mansão Tresendar].
 
 A garota segue acompanhando o sopé para um lado, e depois muda de ideia. "Não!
 Acho que é pra lá!". Após procurar um pouco aponta o lugar, que a princípio
@@ -151,8 +152,8 @@ cuida para manter o lugar em segredo.
 
 :construction:
 
-Após levar _[Carp]_ e _[Pip]_ de volta a fazenda, e deixá-la aos cuidados da
-_[Sra. Alderleaf]_, o grupo retorna a entrada escondida.
+Após levar [Carp] e [Pip] de volta a fazenda, e deixá-la aos cuidados da
+[Sra. Alderleaf], o grupo retorna a entrada escondida.
 
 Sempre com a coruja Bia investigando a frente, o grupo segue um túnel estreito e
 chega a um grande salão de caverna natural cortado por uma fenda no sentido
@@ -169,8 +170,8 @@ elas corredores bem construídos, além do que parece ser uma oficina do outro
 lado do salão, depois da fenda.
 
 Sem nenhum aviso uma voz estridente e sussurrante rompe o silêncio do lugar,
-"_[Ssnark]_ tem fome... Carne fresca...", seguindo uma risada insana. O grupo
-olha em volta, procurando sem sucesso a origem da voz. Ao olhar para o fundo da
+"[Ssnark] tem fome... Carne fresca...", seguindo uma risada insana. O grupo olha
+em volta, procurando sem sucesso a origem da voz. Ao olhar para o fundo da
 fenda, a voz retorna, "Homenzinhos burros! Ssnark não está aí embaixo. Mas podem
 descer... Não vão descer, não?... Desçam..." Neste momento percebem que a voz
 não vem do ambiente, mas está falando diretamente em suas cabeças.

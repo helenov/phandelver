@@ -29,3 +29,9 @@
   * [Cena 6](../../sessions/02_phandalin.md#cena-6-venda-da-barthen)
     * é mencionado que os [Redbrands](../../organizations/redbrands.md)
       costumam se reunir no **Gigante Adormecido**
+
+####
+
+* [Sessão 3 Redbrands](../../sessions/03_redbrands.md)
+  * [Cena 1](../../sessions/03_redbrands.md)
+    * o grupo vai investigar o **Gigante Adormecido**
