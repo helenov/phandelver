@@ -56,7 +56,7 @@ _próxima_ : [Sessão 4 Glasstaff]
 
 #### Mencionados
 
-* [Mansão Tresendar]
+* [Mansão Tresendar](../locations/phandalin/tresendar_manor.md)
 
 ---
 
@@ -104,7 +104,7 @@ quando dizem que estão ali para livrar a cidade dos bandidos. Greska diz que o
 Redbrands são seus únicos clientes e o dinheiro deles é tão bom quanto o de
 qualquer outro, e que não se importa com o que fazem fora de seu
 estabelecimento. Diz que acha que eles se escondem "pros lados da
-velha [Mansão Tresendar]".
+velha [Mansão Tresendar](../locations/phandalin/tresendar_manor.md)".
 
 Dos homens derrotados, dois estão mortos, mas um está apenas inconsciente.
 
@@ -149,7 +149,7 @@ limites da cidade.
 
 Após algum tempo seguindo por trilhas que a garota indica, o grupo chega ao sopé
 de um morro - no alto é possível ver parte das ruínas da velha
-[Mansão Tresendar].
+[Mansão Tresendar](../locations/phandalin/tresendar_manor.md).
 
 A garota segue acompanhando o sopé para um lado, e depois muda de ideia. "Não!
 Acho que é pra lá!". Após procurar um pouco aponta o lugar, que a princípio

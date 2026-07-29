@@ -32,7 +32,9 @@
 ####
 
 * [Sessão 3 Redbrands](../../sessions/03_redbrands.md)
-  * [Greska](../../characters/npcs/phandalin/greska.md) diz que os [Redbrands](../../organizations/redbrands.md)
-    se escondem para os lados
-    da **Mansão Tresendar**
+  * [Greska](../../characters/npcs/phandalin/greska.md) diz que
+    os [Redbrands](../../organizations/redbrands.md)
+    se escondem para os lados da **Mansão Tresendar**
     ([Cena1](../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
+  * a entrada para o [Esconderijo Redbrand](redbrand_hideout.md) fica no sopé da
+    colina onde fica a **Mansão Tresendar**
