@@ -128,7 +128,40 @@ cidade.
 
 _[Imagem]_
 
-_[Texto]_
+Após levar Carp e Pip de volta a fazenda, e deixá-la aos cuidados da Sra.
+Alderleaf, o grupo retorna ao túnel.
+
+Sempre com a coruja Bia investigando a frente, o grupo segue o túnel e chega a
+um grande salão de caverna natural cortado por uma fenda no sentido norte-sul.
+Duas pontes atravessam a fenda. Bia ao descer voando para dentro da fenda,
+
+> - levam Carp e Pip para a casa da garota
+> - voltam para a entrada do túnel
+> 
+> [t = 0]
+> 
+> A Fenda
+> 
+> - R8 e R7
+> 
+> - com a coruja Bia investigando a frente
+> - encontra um salão grande com uma fenda (R8), e passagens laterais
+>   - ouvem som de conversa apenas em R9
+> - a coruja sente "frio" ao entrar na fenda
+>   - esqueletos em decomposição no fundo
+> - Sapão percebe que a ponte sul não é segura
+>   - saltando, passam facilmente de um lado para o outro sem dificuldade
+> 
+> - enquanto exploram o lugar, ouvem uma risada insana com sussurros
+>   - "Ssnark tem fome.... Carne fresca... hihihihi"
+>   - percebem que os sussurros não vêm de fora, mas de dentro de suas cabeças
+> - acham que tem alguma criatura no fundo da fenda
+>   - "Homenzinhos burros! Ssnark não está aí em baixo. Não vão descer não...
+>     Desçam... hihihihi"
+> 
+> - ao norte (R7) encontrar a oficina de embalagens de contrabando
+> 
+> [t = 20 min]
 
 ---
 
@@ -138,7 +171,23 @@ _[Texto]_
 
 _[Imagem]_
 
-_[Texto]_
+> - R1 e R2
+> 
+> - explorando o corredor que é um beco sem saída
+> - encontram passagem secreta que leva a cisterna (R1)
+> - exploram os barris e caixas
+> - abrem a porta de R2 direto e surpreendem o rufiões
+> 
+> - pequeno impasse
+>   - PCs alegam ser novos recrutas
+>   - bandidos desconfiam "ninguém falou nada!"
+>   - PCs bloqueam a saida de R2
+>   - combate rápido
+>     - dois dormem, um cai desacordado
+>     - deixados amarrado em R2
+>     - pegam as capas
+> 
+> [t = 30 min]
 
 ---
 
@@ -148,6 +197,41 @@ _[Texto]_
 
 _[Imagem]_
 
-_[Texto]_
-
+> A Armadilha
+> 
+> - R3
+> 
+> - Sapão e Ralf quase caem na armadilha
+>   - passam pelas saliencias laterais
+> 
+> [t = 40 min]
+> 
+> A Cripta
+> 
+> - R4
+> 
+> - caulesosos procuram armadilhas
+> - examinam os sarcófagos sem abri-los
+> - ao chegarem as portas norte
+>   - armaduras se movem em sua direção (susto!)
+>   - olham as capas e recuam, voltando a posição de guarda
+> 
+> - porta norte (para R6)
+>   - corredor com porta trancada
+>   - falham em tentar arrombar
+> 
+> - porta nordeste (para R5)
+>   - não ouvem nada
+> 
+>   - entram, guardas estão esperando
+>   - ao verem as capas ficam confusos "quem são vocês?"
+>   - "somos novos recrutas"
+>   - "ninguém avisa nada mais nesta organização? quem trouxe vocẽs?"
+> 
+> - guardas querem que os "recrutas" fiquem ali até um deles ir averiguar
+> 
+> - a tensão aumenta e um combate é iminente
+> 
+> [t = 50 min]
+ 
 ---
