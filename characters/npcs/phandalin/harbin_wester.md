@@ -45,5 +45,6 @@ _[Texto]_ :construction:
   * **Harbin** orienta o grupo a levar os mortos para
     o [Santuário da Fortuna](../../../locations/phandalin/shrine_of_luck.md)
     ([Cena 1](../../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
-  * **Harbin** menciona que [Irmã Garaele] não se encontra na cidade
+  * **Harbin** menciona que [Irmã Garaele](sister_garaele.md) não se encontra na
+    cidade
     ([Cena 1](../../../sessions/03_redbrands.md#cena-1-gigante-adormecido))

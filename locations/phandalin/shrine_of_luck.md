@@ -11,7 +11,7 @@ _[Texto]_ :construction:
 
 ### Personagens
 
-* [Irmã Garaele], clériga
+* [Irmã Garaele](../../characters/npcs/phandalin/sister_garaele.md), clériga
 
 [//]: # (### Organizações)
 [//]: # ()
