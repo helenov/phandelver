@@ -20,7 +20,7 @@ _próxima_ : [Sessão 4 Glasstaff]
 
 * [Redbrands](../organizations/redbrands.md)
   * bandidos
-* [Greska], ogre taverneiro
+* [Greska](../characters/npcs/phandalin/greska.md), ogre taverneiro
 
 #### Em [Phandalin]
 
@@ -96,11 +96,12 @@ Dentro do bar, o grupo encontra o taverneiro, um ogre grandalhão e aborrecido,
 que mergulha copos na água suja que está na pia, e os enxuga com um pano
 encardido. Após pedir cervejas e serem atendidos - o ogre usa os mesmos copos
 que vinha "lavando" -, o grupo se apresenta, e o ogre, que se apresenta como
-[Greska], parece se divertir muito quando dizem que estão ali para livrar a
-cidade dos bandidos. Greska diz que o Redbrands são seus únicos clientes e o
-dinheiro deles é tão bom quanto o de qualquer outro, e que não se importa com o
-que fazem fora de seu estabelecimento. Diz que acha que eles se escondem "pros
-lados da velha [Mansão Tresendar]".
+[Greska](../characters/npcs/phandalin/greska.md), parece se divertir
+muito quando dizem que estão ali para livrar a cidade dos bandidos. Greska diz
+que o Redbrands são seus únicos clientes e o dinheiro deles é tão bom quanto o
+de qualquer outro, e que não se importa com o que fazem fora de seu
+estabelecimento. Diz que acha que eles se escondem "pros lados da
+velha [Mansão Tresendar]".
 
 Dos homens derrotados, dois estão mortos, mas um está apenas inconsciente.
 
