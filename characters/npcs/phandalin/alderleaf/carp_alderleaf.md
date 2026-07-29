@@ -44,4 +44,5 @@ _[Texto]_ :construction:
     * leva o grupo até o "túnel secreto"
       na [Mata Tresendar](../../../../locations/phandalin/tresendar_wood.md)
   * [Cena 3](../../../../sessions/03_redbrands.md#cena-3-uma-voz)
-    * grupo a leva de volta a [Fazenda Alderleaf]
+    * grupo a leva de volta
+      a [Fazenda Alderleaf](../../../../locations/phandalin/alderleaf_farm.md)

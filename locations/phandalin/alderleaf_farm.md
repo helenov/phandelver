@@ -29,6 +29,18 @@
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * [Cena 13](../../sessions/02_phandalin.md#cena-13-carp)
-    * [Carp](../../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) menciona
-      a **fazenda** onde mora com a
+    * [Carp](../../characters/npcs/phandalin/alderleaf/carp_alderleaf.md)
+      menciona a **Fazenda Alderleaf** onde mora com a
       mãe, [Qelline](../../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md)
+
+####
+
+* [Sessão 3 Redbrands](../../sessions/03_redbrands.md)
+  * [Cena 2](../../sessions/03_redbrands.md#cena-2-túnel-secreto)
+    * passam pela **Fazenda Alderleaf** a caminho
+      da [Mata Tresendar](tresendar_wood.md)
+  * [Cena 3](../../sessions/03_redbrands.md#cena-3-uma-voz)
+    * grupo
+      leva [Carp](../../characters/npcs/phandalin/alderleaf/carp_alderleaf.md)
+      e [Pip](../../characters/npcs/phandalin/stonehill/pip_stonehill.md) de
+      volta a **Fazenda Alderleaf**

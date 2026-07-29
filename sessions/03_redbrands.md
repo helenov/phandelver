@@ -46,7 +46,7 @@ _próxima_ : [Sessão 4 Glasstaff]
 * [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
 * [Prefeitura]
 * [Hospedaria Stonehill]
-* [Fazenda Alderleaf]
+* [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md)
 * [Mata Tresendar]
 * [Esconderijo Redbrand]
 
@@ -130,10 +130,10 @@ garota halfling, ansiosa a espera. Ao seu lado, [Pip], o filho do estalajadeiro,
 está cabisbaixo, claramente contrariado e infeliz.
 
 Após tomar café, apressados por uma garota inquieta ao lado, ela os leva até uma
-[fazenda] no extremo sudeste da vila. "É aqui que eu moro com [minha mãe], mas é
-melhor não a incomoda ela agora." Contornam a casa, atravessam um campo de
-canteiros de hortaliças diversas e chegam a uma densa [mata] já além dos limites
-da cidade.
+[fazenda](../locations/phandalin/alderleaf_farm.md) no extremo sudeste da vila.
+"É aqui que eu moro com [minha mãe], mas é melhor não a incomoda ela agora."
+Contornam a casa, atravessam um campo de canteiros de hortaliças diversas e
+chegam a uma densa [mata] já além dos limites da cidade.
 
 Após algum tempo seguindo por trilhas que a garota indica, o grupo chega ao sopé
 de um morro - no alto é possível ver parte das ruínas da velha
@@ -156,8 +156,9 @@ cuida para manter o lugar em segredo.
 :construction:
 
 Após levar [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md)
-e [Pip] de volta a fazenda, e deixá-la aos cuidados da
-[Sra. Alderleaf], o grupo retorna a entrada escondida.
+e [Pip] de volta
+a [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md), e deixá-la aos
+cuidados da [Sra. Alderleaf], o grupo retorna a entrada escondida.
 
 Sempre com a coruja Bia investigando a frente, o grupo segue um túnel estreito e
 chega a um grande salão de caverna natural cortado por uma fenda no sentido
