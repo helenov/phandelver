@@ -39,7 +39,7 @@ _próxima_ : [Sessão 4 Glasstaff]
 
 #### Mencionados
 
-* [Irmã Garaele], responsável pelo [Templo da Fortuna]
+* [Irmã Garaele], responsável pelo [Santuário da Fortuna]
 
 ### Cenários
 
@@ -53,7 +53,7 @@ _próxima_ : [Sessão 4 Glasstaff]
 #### Mencionados
 
 * [Mansão Tresendar]
-* [Templo da Fortuna]
+* [Santuário da Fortuna]
 
 ---
 
@@ -112,7 +112,7 @@ o porão onde trancam o bandido inconsciente em uma cela. Também deixam as
 espadas apreendidas em uma sala da prefeitura, agora um arsenal improvisado.
 
 O prefeito os orienta a levar o corpo para o cemitério que fica atrás
-do [Templo da Fortuna], do outro lado da praça, mas já adianta que a
+do [Santuário da Fortuna], do outro lado da praça, mas já adianta que a
 [Irmã Garaele] não se encontra na cidade. No templo, realmente não encontram
 ninguém, e deixam os corpos para que alguém os enterre no dia seguinte.
 

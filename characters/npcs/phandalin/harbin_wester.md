@@ -42,7 +42,7 @@ _[Texto]_ :construction:
 * [Sessão 3 Redbrands](../../../sessions/03_redbrands.md)
   * **Harbin** recebe o bandido prisioneiro
     ([Cena 1](../../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
-  * **Harbin** orienta o grupo a levar os mortos para o [Templo da Fortuna]
+  * **Harbin** orienta o grupo a levar os mortos para o [Santuário da Fortuna]
     ([Cena 1](../../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
   * **Harbin** menciona que [Irmã Garaele] não se encontra na cidade
     ([Cena 1](../../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
