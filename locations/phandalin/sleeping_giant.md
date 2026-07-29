@@ -9,9 +9,10 @@ _[Imagem]_
 _[Texto]_ :construction:
 <br clear="left"/>
 
-[//]: # (### Personagens)
-[//]: # ()
-[//]: # (* _[Character]_, _[detalhe]_)
+### Personagens
+
+* [Greska](../../characters/npcs/phandalin/greska.md), taverneiro e ocupante
+* bandidos
 
 ### Organizações
 

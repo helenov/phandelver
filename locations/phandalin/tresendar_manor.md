@@ -28,3 +28,11 @@
   * [Carp](../../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) conta
     como encontrou um "túnel secreto" na mata ao sul da **Mansão Tresendar**
     ([Cena 13](../../sessions/02_phandalin.md#cena-13-carp))
+
+####
+
+* [Sessão 3 Redbrands](../../sessions/03_redbrands.md)
+  * [Greska](../../characters/npcs/phandalin/greska.md) diz que os [Redbrands](../../organizations/redbrands.md)
+    se escondem para os lados
+    da **Mansão Tresendar**
+    ([Cena1](../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
