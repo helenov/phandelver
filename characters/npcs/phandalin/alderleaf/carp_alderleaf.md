@@ -43,6 +43,6 @@ _[Texto]_ :construction:
   * **Carp** leva o grupo até o "túnel secreto"
     na [Mata Tresendar](../../../../locations/phandalin/tresendar_wood.md)
     ([Cena 2](../../../../sessions/03_redbrands.md#cena-2-túnel-secreto))
-  * grupo a leva de volta
+  * grupo acompanha **Carp** e [Pip](../stonehill/pip_stonehill.md) de volta
     a [Fazenda Alderleaf](../../../../locations/phandalin/alderleaf_farm.md)
     ([Cena 3](../../../../sessions/03_redbrands.md#cena-3-uma-voz))

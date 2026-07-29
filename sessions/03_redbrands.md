@@ -27,7 +27,8 @@ _próxima_ : [Sessão 4 Glasstaff]
 * [Harbin Wester](../characters/npcs/phandalin/harbin_wester.md), prefeito
 * [Carp Alderleaf](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md),
   garota halfling
-* [Pip Stonehill], garoto filho de [Toblen Stonehill]
+* [Pip Stonehill](../characters/npcs/phandalin/stonehill/pip_stonehill.md),
+  garoto humano
 * [Qelline Alderleaf], mãe de Carp
 
 #### No [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
@@ -129,8 +130,9 @@ enterre no dia seguinte.
 Na manhã seguinte, quando o grupo desce para tomar seu café da manhã na
 [hospedaria], já
 encontram [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md), a
-garota halfling, ansiosa a espera. Ao seu lado, [Pip], o filho do estalajadeiro,
-está cabisbaixo, claramente contrariado e infeliz.
+garota halfling, ansiosa a espera. Ao seu
+lado, [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md), o filho do
+estalajadeiro, está cabisbaixo, claramente contrariado e infeliz.
 
 Após tomar café, apressados por uma garota inquieta ao lado, ela os leva até uma
 [fazenda](../locations/phandalin/alderleaf_farm.md) no extremo sudeste da vila.
@@ -161,7 +163,7 @@ cuida para manter o lugar em segredo.
 :construction:
 
 Após levar [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md)
-e [Pip] de volta
+e [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md) de volta
 a [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md), e deixá-la aos
 cuidados da [Sra. Alderleaf], o grupo retorna a entrada escondida.
 

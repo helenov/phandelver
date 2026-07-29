@@ -32,3 +32,14 @@ _[Texto]_ :construction:
     ([Cena 8](../../../../sessions/02_phandalin.md#cena-8-pip))
   * acompanha [Carp](../alderleaf/carp_alderleaf.md) na conversa com o grupo
     ([Cena 13](../../../../sessions/02_phandalin.md#cena-13-carp))
+
+####
+
+* [Sessão 3 Redbrand](../../../../sessions/03_redbrands.md)
+  * **Pip** acompanha [Carp](../alderleaf/carp_alderleaf.md) e o grupo até o
+    "túnel secreto"
+    na [Mata Tresendar](../../../../locations/phandalin/tresendar_wood.md)
+    ([Cena 2](../../../../sessions/03_redbrands.md#cena-2-túnel-secreto))
+  * grupo acompanha [Carp](../alderleaf/carp_alderleaf.md) e **Pip** de volta
+    a [Fazenda Alderleaf](../../../../locations/phandalin/alderleaf_farm.md)
+    ([Cena 3](../../../../sessions/03_redbrands.md#cena-3-uma-voz))
