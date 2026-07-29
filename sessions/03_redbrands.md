@@ -49,7 +49,7 @@ _próxima_ : [Sessão 4 Glasstaff]
 * [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
 * [Prefeitura](../locations/phandalin/townmasters_hall.md)
 * [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md)
-* [Hospedaria Stonehill]
+* [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)
 * [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md)
 * [Mata Tresendar](../locations/phandalin/tresendar_wood.md)
 * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
@@ -130,8 +130,8 @@ enterre no dia seguinte.
 
 :construction:
 
-Na manhã seguinte, quando o grupo desce para tomar seu café da manhã na
-[hospedaria], já
+Na manhã seguinte, quando o grupo desce para tomar seu café da manhã
+na [hospedaria](../locations/phandalin/stonehill_inn.md), já
 encontram [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md), a
 garota halfling, ansiosa a espera. Ao seu
 lado, [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md), o filho do

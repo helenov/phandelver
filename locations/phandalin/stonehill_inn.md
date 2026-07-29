@@ -34,3 +34,10 @@ _[Texto]_ :construction:
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * grupo se hospeda na **Hospedaria Stonehill**
     ([Cena 7](../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill))
+
+####
+
+* [Sessão 3 Redbrands](../../sessions/03_redbrands.md)
+  * [Carp](../../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) está
+    esperando o grupo na **Hospedaria Stonehill**
+    ([Cena 2](../../sessions/03_redbrands.md#cena-2-túnel-secreto))
