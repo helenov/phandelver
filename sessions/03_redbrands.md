@@ -41,7 +41,7 @@ _próxima_ : [Sessão 4 Glasstaff]
 
 #### Mencionados
 
-* [Irmã Garaele], responsável
+* [Irmã Garaele](../characters/npcs/phandalin/sister_garaele.md), responsável
   pelo [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md)
 
 ### Cenários
