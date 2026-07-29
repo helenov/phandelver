@@ -17,6 +17,8 @@
 
 * [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
   * bar que os **Redbrands** costumam frequentar
+* [Esconderijo Redbrands](../locations/phandalin/redbrand_hideout.md)
+  * base dos **Redbrands**
 
 ### Referências
 
@@ -58,8 +60,10 @@
   * grupo enfrenta alguns **Redbrands**
     no [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
     ([Cena 1](../sessions/03_redbrands.md#cena-1-gigante-adormecido))
-  * grupo encontra a entrada para o [Esconderijo Redbrand] com a ajuda
-    de [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md)
+  * grupo encontra a entrada para
+    o [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md) com a
+    ajuda de [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md)
     ([Cena 2](../sessions/03_redbrands.md#cena-2-túnel-secreto))
-  * grupo inicia a exploração do [Esconderijo Redbrand]
+  * grupo inicia a exploração
+    do [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
     ([Cenas 3 a 5](../sessions/03_redbrands.md#cena-3-uma-voz))

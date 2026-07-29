@@ -26,5 +26,5 @@
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * [Carp](../../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) conta
-    como encontrou um "túnel secreto" na floresta ao sul da **Mansão Tresendar**
+    como encontrou um "túnel secreto" na mata ao sul da **Mansão Tresendar**
     ([Cena 13](../../sessions/02_phandalin.md#cena-13-carp))

@@ -17,7 +17,7 @@ _[Texto]_ :construction:
 
 ### Organizações
 
-* [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
+* [Cragmaw Goblins](../organizations/cragmaw_goblins.md), ocupantes
 
 ### Locais
 
