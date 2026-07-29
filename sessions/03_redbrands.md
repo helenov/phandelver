@@ -47,7 +47,7 @@ _próxima_ : [Sessão 4 Glasstaff]
 ### Cenários
 
 * [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
-* [Prefeitura]
+* [Prefeitura](../locations/phandalin/townmasters_hall.md)
 * [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md)
 * [Hospedaria Stonehill]
 * [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md)
@@ -108,11 +108,13 @@ velha [Mansão Tresendar]".
 
 Dos homens derrotados, dois estão mortos, mas um está apenas inconsciente.
 
-Quando o grupo bate a porta da [Prefeitura], são atendidos por um
-prefeito [Harbin](../characters/npcs/phandalin/harbin_wester.md) já de camisola.
-Explicam a situação e, sobre protestos de que foi acordado, o grupo é levado até
-o porão onde trancam o bandido inconsciente em uma cela. Também deixam as
-espadas apreendidas em uma sala da prefeitura, agora um arsenal improvisado.
+Quando o grupo bate a porta
+da [Prefeitura](../locations/phandalin/townmasters_hall.md), são atendidos por
+um prefeito [Harbin](../characters/npcs/phandalin/harbin_wester.md) já de
+camisola. Explicam a situação e, sobre protestos de que foi acordado, o grupo é
+levado até o porão onde trancam o bandido inconsciente em uma cela. Também
+deixam as espadas apreendidas em uma sala da prefeitura, agora um arsenal
+improvisado.
 
 O prefeito os orienta a levar o corpo para o cemitério que fica atrás
 do [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md), do outro
