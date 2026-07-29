@@ -68,20 +68,19 @@ _[Texto]_ :construction:
 * [Prefeitura](phandalin/townmasters_hall.md), sede da administração
 * [Ferraria](phandalin/blacksmith_shop.md)
 * [Carpintaria](phandalin/woodworker_shop.md)
+* [Gigante Adormecido](phandalin/sleeping_giant.md), bar sujo e decadente
+* [Fazenda Alderleaf](phandalin/alderleaf_farm.md), fazenda nos limites da
+  cidade
+* [Mata Tresendar](../locations/phandalin/tresendar_wood.md), mata ao sul da
+  velha mansão
 
 #### Mencionados
 
-* [Gigante Adormecido](phandalin/sleeping_giant.md), bar sujo e decadente nos
-  limites da cidade
 * [Entreposto dos Mineradores](phandalin/miners_exchange.md), guilda dos
   mineradores
   * [Trilha dos Mineradores](phandalin/miners_trail.md), trilha para as
     montanhas e as minas
-* [Fazenda Alderleaf](phandalin/alderleaf_farm.md), fazenda nos limites da
-  cidade
 * [Mansão Tresendar](phandalin/tresendar_manor.md), ruínas da velha mansão
-* [Mata Tresendar](../locations/phandalin/tresendar_wood.md), mata ao sul da
-  velha mansão
 
 ### Referências
 
