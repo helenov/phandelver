@@ -8,7 +8,10 @@ _próxima_ : _[Sessão 5 Perda]_
 
 ### Cenas
 
-* _[Cena _X_ _Título_]_
+* [Cena 1 Prisioneiros](#cena-1-prisioneiros)
+* [Cena 2 Ssnark](#cena-2-ssnark)
+* [Cena 3 Mago](#cena-3-mago)
+* [Cena 4 Pé-de-Cabra](#cena-4-pé-de-cabra)
 
 ### Elenco
 
@@ -28,7 +31,35 @@ _próxima_ : _[Sessão 5 Perda]_
 
 ---
 
-### _[Cena _X_ _Título_]_
+### Cena 1 Prisioneiros
+
+:construction:
+
+_[_Imagem_]_
+
+_[_Texto_]_
+
+---
+
+### Cena 2 Ssnark
+
+:construction:
+
+_[_Imagem_]_
+
+_[_Texto_]_
+
+---
+### Cena 3 Mago
+
+:construction:
+
+_[_Imagem_]_
+
+_[_Texto_]_
+
+---
+### Cena 4 Pé-de-Cabra
 
 :construction:
 
