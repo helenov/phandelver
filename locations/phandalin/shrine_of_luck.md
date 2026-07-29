@@ -19,7 +19,7 @@ _[Texto]_ :construction:
 
 ### Locais
 
-* [Phandalin]
+* [Phandalin](../phandalin.md)
   * o **Santuário da Fortuna** está localizado na praça central da cidade
 
 ### Referências

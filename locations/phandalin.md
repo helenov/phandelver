@@ -69,6 +69,7 @@ _[Texto]_ :construction:
 * [Ferraria](phandalin/blacksmith_shop.md)
 * [Carpintaria](phandalin/woodworker_shop.md)
 * [Gigante Adormecido](phandalin/sleeping_giant.md), bar sujo e decadente
+* [Santuário da Fortuna](phandalin/shrine_of_luck.md), templo
 * [Fazenda Alderleaf](phandalin/alderleaf_farm.md), fazenda nos limites da
   cidade
 * [Mata Tresendar](../locations/phandalin/tresendar_wood.md), mata ao sul da
