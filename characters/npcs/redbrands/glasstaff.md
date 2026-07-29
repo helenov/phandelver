@@ -15,7 +15,7 @@
 
 ### Organizações
 
-* [Redbrands](../../organizations/redbrands.md), líder
+* [Redbrands](../../../organizations/redbrands.md), líder
 
 ### Locais
 
@@ -23,8 +23,8 @@
 
 ### Referências
 
-* [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
-  * mencionado como líder do [Redbrands](../../organizations/redbrands.md)
-    ([Cena 11](../../sessions/02_phandalin.md#cena-11-prefeitura))
-  * [Sildar](sildar_hallwinter.md) propõe que o grupo o capture
-    ([Cena 11](../../sessions/02_phandalin.md#cena-11-prefeitura))
+* [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
+  * mencionado como líder do [Redbrands](../../../organizations/redbrands.md)
+    ([Cena 11](../../../sessions/02_phandalin.md#cena-11-prefeitura))
+  * [Sildar](../sildar_hallwinter.md) propõe que o grupo o capture
+    ([Cena 11](../../../sessions/02_phandalin.md#cena-11-prefeitura))

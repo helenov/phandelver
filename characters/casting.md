@@ -80,4 +80,4 @@
 ####
 
 * [Redbrands](../organizations/redbrands.md)
-  * [Glasstaff](npcs/glasstaff.md), líder criminoso
+  * [Glasstaff](npcs/redbrands/glasstaff.md), líder criminoso

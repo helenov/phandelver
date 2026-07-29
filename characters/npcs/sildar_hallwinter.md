@@ -86,5 +86,5 @@ do que julga seu amigo otimista.
     ([Cena 11](../../sessions/02_phandalin.md#cena-11-prefeitura))
   * **Sildar** propõe que o grupo desmantele
     os [Redbrands](../../organizations/redbrands.md) e
-    capture [Glasstaff](glasstaff.md)
+    capture [Glasstaff](redbrands/glasstaff.md)
     ([Cena 11](../../sessions/02_phandalin.md#cena-11-prefeitura))

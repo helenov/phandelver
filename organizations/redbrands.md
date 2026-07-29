@@ -11,7 +11,7 @@
 
 ### Membros
 
-* [Glasstaff](../characters/npcs/glasstaff.md), líder
+* [Glasstaff](../characters/npcs/redbrands/glasstaff.md), líder
 
 ### Locais
 
@@ -46,7 +46,7 @@
     capturado [Iarno](../characters/npcs/iarno_albrek.md)
     ([Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura))
   * [Sildar](../characters/npcs/sildar_hallwinter.md) propõe que desmantelem os
-    **Redbrands** e capturem [Glasstaff](../characters/npcs/glasstaff.md)
+    **Redbrands** e capturem [Glasstaff](../characters/npcs/redbrands/glasstaff.md)
     ([Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura))
   * [Joe Smithe](../characters/npcs/phandalin/joe_smithe.md) diz que não gosta
     dos **Redbrands**
