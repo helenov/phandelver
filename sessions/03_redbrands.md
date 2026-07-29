@@ -47,7 +47,7 @@ _próxima_ : [Sessão 4 Glasstaff]
 * [Prefeitura]
 * [Hospedaria Stonehill]
 * [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md)
-* [Mata Tresendar]
+* [Mata Tresendar](../locations/phandalin/tresendar_wood.md)
 * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
 
 #### Mencionados
@@ -133,7 +133,9 @@ Após tomar café, apressados por uma garota inquieta ao lado, ela os leva até 
 [fazenda](../locations/phandalin/alderleaf_farm.md) no extremo sudeste da vila.
 "É aqui que eu moro com [minha mãe], mas é melhor não a incomoda ela agora."
 Contornam a casa, atravessam um campo de canteiros de hortaliças diversas e
-chegam a uma densa [mata] já além dos limites da cidade.
+chegam a uma densa mata, conhecida
+como [Mata Tresendar](../locations/phandalin/tresendar_wood.md) já além dos
+limites da cidade.
 
 Após algum tempo seguindo por trilhas que a garota indica, o grupo chega ao sopé
 de um morro - no alto é possível ver parte das ruínas da velha
