@@ -36,3 +36,13 @@ _[Texto]_ :construction:
   * **Harbin** faz acordo para atuarem como força de segurança provisória
     em [Phandalin](../../../locations/phandalin.md)
     ([Cena 11](../../../sessions/02_phandalin.md#cena-11-prefeitura))
+
+####
+
+* [Sessão 3 Redbrands](../../../sessions/03_redbrands.md)
+  * **Harbin** recebe o bandido prisioneiro
+    ([Cena 1](../../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
+  * **Harbin** orienta o grupo a levar os mortos para o [Templo da Fortuna]
+    ([Cena 1](../../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
+  * **Harbin** menciona que [Irmã Garaele] não se encontra na cidade
+    ([Cena 1](../../../sessions/03_redbrands.md#cena-1-gigante-adormecido))

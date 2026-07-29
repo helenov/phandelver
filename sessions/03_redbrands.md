@@ -24,7 +24,7 @@ _próxima_ : [Sessão 4 Glasstaff]
 
 #### Em [Phandalin](../locations/phandalin.md)
 
-* [Harbin Wester], prefeito
+* [Harbin Wester](../characters/npcs/phandalin/harbin_wester.md), prefeito
 * [Carp Alderleaf](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md),
   garota halfling
 * [Pip Stonehill], garoto filho de [Toblen Stonehill]
@@ -96,22 +96,22 @@ Dentro do bar, o grupo encontra o taverneiro, um ogre grandalhão e aborrecido,
 que mergulha copos na água suja que está na pia, e os enxuga com um pano
 encardido. Após pedir cervejas e serem atendidos - o ogre usa os mesmos copos
 que vinha "lavando" -, o grupo se apresenta, e o ogre, que se apresenta como
-[Greska](../characters/npcs/phandalin/greska.md), parece se divertir
-muito quando dizem que estão ali para livrar a cidade dos bandidos. Greska diz
-que o Redbrands são seus únicos clientes e o dinheiro deles é tão bom quanto o
-de qualquer outro, e que não se importa com o que fazem fora de seu
+[Greska](../characters/npcs/phandalin/greska.md), parece se divertir muito
+quando dizem que estão ali para livrar a cidade dos bandidos. Greska diz que o
+Redbrands são seus únicos clientes e o dinheiro deles é tão bom quanto o de
+qualquer outro, e que não se importa com o que fazem fora de seu
 estabelecimento. Diz que acha que eles se escondem "pros lados da
 velha [Mansão Tresendar]".
 
 Dos homens derrotados, dois estão mortos, mas um está apenas inconsciente.
 
-Quando o grupo bate a porta da [Prefeitura], são atendidos por um prefeito já de
-camisola. Explicam a situação e, sobre protestos de que foi acordado, o grupo é
-levado até o porão onde trancam o bandido inconsciente em uma cela. Também
-deixam as espadas apreendidas em uma sala da prefeitura, agora um arsenal
-improvisado.
+Quando o grupo bate a porta da [Prefeitura], são atendidos por um
+prefeito [Harbin](../characters/npcs/phandalin/harbin_wester.md) já de camisola.
+Explicam a situação e, sobre protestos de que foi acordado, o grupo é levado até
+o porão onde trancam o bandido inconsciente em uma cela. Também deixam as
+espadas apreendidas em uma sala da prefeitura, agora um arsenal improvisado.
 
-O prefeito [Harbin] os orienta a levar o corpo para o cemitério que fica atrás
+O prefeito os orienta a levar o corpo para o cemitério que fica atrás
 do [Templo da Fortuna], do outro lado da praça, mas já adianta que a
 [Irmã Garaele] não se encontra na cidade. No templo, realmente não encontram
 ninguém, e deixam os corpos para que alguém os enterre no dia seguinte.
