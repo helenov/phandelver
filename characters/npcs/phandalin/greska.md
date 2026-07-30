@@ -19,8 +19,9 @@ _[_Texto_]_ :construction:
 
 ### Locais
 
-* [Gigante Adormecido](../../../locations/phandalin/sleeping_giant.md),
-  taverneiro e ocupante
+* [Phandalin](../../../locations/phandalin.md)
+  * [Gigante Adormecido](../../../locations/phandalin/sleeping_giant.md),
+    taverneiro e ocupante
 
 ### Referências
 

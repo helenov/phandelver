@@ -19,7 +19,7 @@
 
 ### Locais
 
-* [Phandalin](../../../locations/phandalin.md), morador
+* [Phandalin](../../../locations/phandalin.md), moradora
   * [Entreposto dos Mineradores](../../../locations/phandalin/miners_exchange.md),
     mestre da guilda
 

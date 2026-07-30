@@ -19,9 +19,9 @@ _[_Texto_]_ :construction:
 
 ### Locais
 
-* [Phandalin](../../../locations/phandalin.md), morador, prefeito e mercador
+* [Phandalin](../../../locations/phandalin.md), morador, mercador e prefeito
   * [Prefeitura](../../../locations/phandalin/townmasters_hall.md), prefeito e
-    morador
+    residente
 
 ### Referências
 

@@ -22,7 +22,7 @@ _[_Texto_]_ :construction:
 
 * [Phandalin](../../../../locations/phandalin.md), morador
   * [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md),
-    filho do dono
+    filho de [Toblen](toblen_stonehill.md)
 
 ### Referências
 

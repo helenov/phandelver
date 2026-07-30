@@ -21,7 +21,7 @@ _[_Texto_]_ :construction:
 
 * [Phandalin](../../../locations/phandalin.md), morador
   * [Pomar Edermath](../../../locations/phandalin/edermath_orchard.md),
-    proprietário
+    proprietário e residente
 
 ### Referências
 

@@ -22,7 +22,7 @@ _[_Texto_]_ :construction:
 ### Locais
 
 * _[Phandalin]_, moradora
-  * _[Carpintaria]_, residência
+  * _[Carpintaria]_, residente
 
 ### Referências
 

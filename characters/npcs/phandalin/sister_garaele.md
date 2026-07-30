@@ -19,8 +19,9 @@
 
 ### Locais
 
-* [Santuário da Fortuna](../../../locations/phandalin/shrine_of_luck.md),
-  clériga
+* [Phandalin](../../../locations/phandalin.md), moradora e clériga
+  * [Santuário da Fortuna](../../../locations/phandalin/shrine_of_luck.md),
+    clériga responsável
 
 ### Referências
 

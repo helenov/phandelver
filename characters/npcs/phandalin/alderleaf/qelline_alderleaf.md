@@ -21,7 +21,7 @@
 
 * [Phandalin](../../../../locations/phandalin.md), moradora e fazendeira
   * [Fazenda Alderleaf](../../../../locations/phandalin/alderleaf_farm.md),
-    proprietária
+    proprietária e residente
 
 ### Referências
 

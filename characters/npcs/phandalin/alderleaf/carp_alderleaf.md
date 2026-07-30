@@ -20,9 +20,9 @@ _[_Texto_]_ :construction:
 
 ### Locais
 
-* [Phandalin](../../../../locations/phandalin.md), morador
+* [Phandalin](../../../../locations/phandalin.md), moradora
   * [Fazenda Alderleaf](../../../../locations/phandalin/alderleaf_farm.md),
-    moradora
+    residente
 
 ### Referências
 
