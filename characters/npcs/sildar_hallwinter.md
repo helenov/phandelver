@@ -82,7 +82,7 @@ do que julga seu amigo otimista.
     pelos [Redbrands](../../organizations/redbrands.md)
     ([Cena 11](../../sessions/02_phandalin.md#cena-11-prefeitura))
   * **Sildar** conta o que aconteceu
-    com [Thel Dendrar](phandalin/thel_dendrar.md) e sua família
+    com [Thel Dendrar](phandalin/dendrar/thel_dendrar.md) e sua família
     ([Cena 11](../../sessions/02_phandalin.md#cena-11-prefeitura))
   * **Sildar** propõe que o grupo desmantele
     os [Redbrands](../../organizations/redbrands.md) e

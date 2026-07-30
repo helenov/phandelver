@@ -11,7 +11,7 @@ _[_Texto_]_ :construction:
 
 ### Personagens
 
-* [Thel Dentral](../../characters/npcs/phandalin/thel_dendrar.md) (RIP),
+* [Thel Dentral](../../characters/npcs/phandalin/dendrar/thel_dendrar.md) (RIP),
   carpinteiro
 
 [//]: # (### Organizações)
