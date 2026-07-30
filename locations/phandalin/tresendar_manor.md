@@ -42,12 +42,14 @@ _[_Texto_]_ :construction:
   * [Greska](../../characters/npcs/phandalin/greska.md) diz que
     os [Redbrands](../../organizations/redbrands.md)
     se escondem para os lados da **Mansão Tresendar**
-    ([Cena1](../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
+    ([Cena 1](../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
   * a entrada para o [Esconderijo Redbrand](redbrand_hideout.md) fica no sopé da
-    colina onde fica a **Mansão Tresendar**
+    colina da **Mansão Tresendar**
+    ([Cena 2](../../sessions/03_redbrands.md#cena-2-túnel-secreto))
 
 ####
 
 * [Sessão 4 Glasstaff](../../sessions/04_glasstaff.md)
-  * grupo persegue _[Glasstaff]_ até as ruínas da **Mansão Tresendar**
+  * grupo persegue [Glasstaff](../../characters/npcs/redbrands/glasstaff.md) até
+    as ruínas da **Mansão Tresendar**
     ([Cena 3](../../sessions/04_glasstaff.md#cena-3-mago))
