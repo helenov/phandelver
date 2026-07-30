@@ -82,25 +82,30 @@ vamos voltar."
 
 ### Cena 2 Ssnark
 
-_[_Imagem_]_ :construction:
+![04_2_ssnark.png](../images/cenas/04_2_ssnark.png)
 
-> - passando pela passagem secreta de R6 para R7, chegam a R8
->
-> - Ssnark novamente fala em suas cabeças
->   - "vocês voltaram! agora não são mais intrusos. venham conversar"
->
-> - visto pela coruja Bia
->   - Ssnark se revela
->   - Sapão ataca => combate
->
-> - bastante ferido, Ssnark foge da briga e tenta negociar
->   - indica onde está o "mestre" (entendem que é o mago)
->   - mas tenta impedir que sigam por aquele corredor
->
-> - combate reinicia
-> - Ssnark é derrotado
->
-> [t = 1h 10m]
+Passando pela passagem secreta revelada pelo bandido na sua tentativa de fuga, o
+grupo se vê na oficina ao fundo da caverna da fenda. O lugar está atulhado de
+caixotes, tanto vazios quanto cheios de itens roubados prontos para serem
+contrabandeados - além de ferramentas para trabalhar com as caixas.
+
+"Homenzinhos voltaram! Ah! Mas agora não são mais intrusos. Venham conversar com
+_[Ssnark]_...", sussurra a voz diretamente em suas cabeças, e mais risadas
+insanas.
+
+Bia, a coruja, sobrevoa a caverna, e vê a criatura atrás de uma das pilastras.
+Nisso, a criatura se revela. Um ser escamoso, com braços e pernas longos, garras
+e dentes afiadas, e, o mais notável, um único olho verde enorme que ocupa quase
+toda sua cabeça.
+
+Sapão rapidamente ataca de longe, iniciando o combate.
+
+Ssnark fica bastante ferido e foge da briga, tentando negociar. "Mestre não quer
+intrusos em sua casa", diz a criatura apontando para um dos corredores que saem
+da caverna para oeste.
+
+Quando o grupo faz menção se dirigir para este corredor, Ssnark corre para
+bloquear o caminho, reiniciando o combate, e a criatura acaba derrotada.
 
 ---
 
