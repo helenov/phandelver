@@ -64,7 +64,7 @@ _próxima_ : [Sessão 4 Glasstaff](04_glasstaff.md)
 
 ### Cena 1 Gigante Adormecido
 
-![03_1_gigante_adormecido.jpeg](../images/cenas/03_1_gigante_adormecido.jpeg)
+![Um grupo de vilões usando capas vermelhas está reunido em frente a um bar em ruinas, eles seguram canecos de cerveja enquanto encaram vocês.](../images/cenas/03_1_gigante_adormecido.jpeg)
 
 Ao anoitecer o grupo decide investigar
 o [Gigante Adormecido](../locations/phandalin/sleeping_giant.md), o bar que
@@ -127,7 +127,7 @@ que alguém os enterre no dia seguinte.
 
 ### Cena 2 Túnel Secreto
 
-![03_2_tunel_secreto.jpeg](../images/cenas/03_2_tunel_secreto.jpeg)
+![Na base de uma colina, em meio a pedras e vegetação é possível ver a entrada de um túnel. No alto da colina vê-se algumas ruínas.](../images/cenas/03_2_tunel_secreto.jpeg)
 
 Na manhã seguinte, quando o grupo desce para tomar seu café da manhã
 na [hospedaria](../locations/phandalin/stonehill_inn.md), já
@@ -162,7 +162,7 @@ cuida para manter o lugar em segredo.
 
 ### Cena 3 Uma Voz
 
-![03_3_uma_voz.png](../images/cenas/03_3_uma_voz.png)
+![O túnel se abre em uma grande caverna cortada por uma fenda mais ou menos profunda. Duas pontes precárias atravessam a fenda. Luzes de tochas iluminam o lugar.](../images/cenas/03_3_uma_voz.png)
 
 Após levar [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md)
 e [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md) de volta
@@ -201,7 +201,7 @@ direção.
 
 ### Cena 4 Cisterna
 
-![03_4_cisterna.png](../images/cenas/03_4_cisterna.png)
+![Um grande salão contendo uma cisterna cheia de água limpa que jorra de um cano em forma de cabeça de leão na parede. Ao redor da sala estão muitas caixas e sacos de suprimentos.](../images/cenas/03_4_cisterna.png)
 
 Investigando o final do corredor, facilmente encontram uma passagem secreta que
 leva a uma sala de teto alto com uma grande cisterna de água fresca. Ao redor da
@@ -230,7 +230,7 @@ Retiram as capas dos três que são deixados amarrados e fecham a porta.
 
 ### Cena 5 Cripta
 
-![03_5_cripta.png](../images/cenas/03_5_cripta.png)
+![Uma cripta com quatro sarcófagos quardados por esqueletos vestindo armaduras enferrujadas. O lugar é empoeirado e cheio de teias de aranha. Ao fundo uma porta de madeira.](../images/cenas/03_5_cripta.png)
 
 Explorando mais a sala da cisterna, o grupo nota uma porta abaixo de uma das
 escadas, que leva a corredor largo que leva uma grande porta dupla decorada.

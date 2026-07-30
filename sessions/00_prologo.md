@@ -35,7 +35,7 @@ _próxima_ : [Sessão 1 Goblins](01_goblins.md)
 
 ### Cena 1 Trabalho
 
-![00_1_um_trabalho.png](../images/cenas/00_1_trabalho.png)
+![Uma taverna medieval lotada de pessoas animadas. No centro da cena, como quem acaba de chegar, um anão usando chapéu de abas largas acena ao lado de um soldado que permanece sério.](../images/cenas/00_1_trabalho.png)
 
 Um antigo amigo, [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md),
 um anão mercador, sabendo que o grupo estava
@@ -78,7 +78,7 @@ preparativos para a viagem.
 
 ### Cena 2 Partida
 
-![00_2_a_partida.png](../images/cenas/00_2_partida.png)
+![Uma carroça atrelada a dois grandes bois está sendo carregada em frente a um armazem de suprimentos, em uma rua movimentada de uma grande cidade medieval.](../images/cenas/00_2_partida.png)
 
 Na manhã seguinte, o grupo está esperando no local combinado para a partida
 quando o [Gundren](../characters/npcs/gundren_rockseeker.md)
@@ -105,7 +105,7 @@ suprimentos está carregada.
 
 ### Cena 3 Corpos
 
-![00_3_corpos.png](../images/cenas/00_3_corpos.png)
+![Uma estrada de terra ladeada por encostas de pedra e vegetação cerrada. Ao fundo, próximo a uma curva da estrada, é possível ver o corpo de um cavalor caído e cravejado de flechas.](../images/cenas/00_3_corpos.png)
 
 Após três dias de viagem tranquilos pela movimentada High Road, o grupo inicia o
 quarto dia saindo da estrada principal para entrar
