@@ -38,6 +38,6 @@
 ####
 
 * _[Sessão 4]_
-  * grupo encontra a família de **Thel** prisioneira dos _[Redbrands]_
-    (_[Cena 1]_)
-  * grupo liberta a família de **Thel** (_[Cena 4]_)
+  * grupo liberta a família de **Thel** prisioneira
+    dos [Redbrands](../../../../organizations/redbrands.md)
+    (_[Cenas 1 e 4]_)

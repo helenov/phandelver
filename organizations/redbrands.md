@@ -46,7 +46,8 @@
     capturado [Iarno](../characters/npcs/iarno_albrek.md)
     ([Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura))
   * [Sildar](../characters/npcs/sildar_hallwinter.md) propõe que desmantelem os
-    **Redbrands** e capturem [Glasstaff](../characters/npcs/redbrands/glasstaff.md)
+    **Redbrands** e
+    capturem [Glasstaff](../characters/npcs/redbrands/glasstaff.md)
     ([Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura))
   * [Joe Smithe](../characters/npcs/phandalin/joe_smithe.md) diz que não gosta
     dos **Redbrands**
@@ -67,3 +68,11 @@
   * grupo inicia a exploração
     do [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
     ([Cenas 3 a 5](../sessions/03_redbrands.md#cena-3-uma-voz))
+
+####
+
+* _[Sessão 4]_
+  * grupo
+    liberta [Mirna Dendrar](../characters/npcs/phandalin/dendrar/mirna_dendrar.md)
+    e seus filhos dos **Redbrands**
+    (_[Cenas 1 e 4]_)

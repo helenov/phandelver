@@ -27,9 +27,8 @@ _[_Texto_]_ :construction:
 ### Referências
 
 * _[Sessão 4]_
-  * grupo encontra [Mirna](mirna_dendrar.md) e seus filhos prisioneiros dos
-    _[Redbrands]_
-    (_[Cena 1]_)
-  * grupo liberta [Mirna](mirna_dendrar.md) e seus filhos (_[Cena 4]_)
-  * **Nars** diz que conhece a _[Mata Tresendar]_ e pode chegar
-    a _[Fazenda Alderleaf]_
+  * grupo liberta [Mirna](mirna_dendrar.md) e seus filhos prisioneiros
+    dos [Redbrands](../../../../organizations/redbrands.md)
+    (_[Cenas 1 e 4]_)
+  * **Nars** diz que conhece a _[Mata Tresendar]_ e pode chegar a
+    _[Fazenda Alderleaf]_ (_[Cena 4]_)
