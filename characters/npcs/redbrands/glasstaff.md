@@ -1,17 +1,18 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Glasstaff<!--, <small>_[_espécie_]_</small>-->
+## Glasstaff, <small>_humano_</small>
 
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
 [//]: # (<!-- @formatter:on -->)
 [//]: # (_[_Imagem_]_)
-[//]: # (_[_Texto_]_ :construction:)
+_[_Texto_]_ :construction:
+
 [//]: # (<br clear="left"/>)
 
 ### Relações
 
-* [Ssnark](ssnark.md), aliado subordinado
+* [Ssnark](ssnark.md) (RIP), aliado subordinado
 * seu mascote
 
 ### Organizações
