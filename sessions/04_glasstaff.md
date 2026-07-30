@@ -53,13 +53,13 @@ beco-sem-saída.
 
 Professor, que estava mais atrás, é o primeiro a ser atacado por estes novos
 adversários, e logo reconhece que são os mesmos bandidos que havia colocado para
-dormir no quarto ao lado da cisterna - parece que houve tempo suficiente para
-acordarem, e se livrarem das suas amarras. Mas de onde eles vieram?
+dormir no quarto ao lado da cisterna. Parece que houve tempo suficiente para
+acordarem, e se livrarem das suas amarras. Mas de onde vieram?
 
-Este reforço não se mostra suficiente. Após três deles serem neutralizados, o
-quarto bandido tenta fugir pelo mesmo corredor de onde veio, revelando que é uma
-passagem secreta na parede em frente a porta trancada. Ralf consegue ser rápido
-e o encurralar justamente nesta passagem, derrotando enfim o último adversário.
+Mas este reforço não se mostra suficiente. Após três deles serem neutralizados,
+o quarto bandido tenta fugir pelo mesmo corredor de onde veio, revelando que há
+uma passagem secreta em frente a porta trancada. Ralf consegue ser rápido e o
+encurralar justamente nesta passagem, derrotando enfim o último adversário.
 
 Agora com tudo mais calmo novamente, o grupo conversa com os prisioneiros. A
 mulher mais velha se apresenta como _[Mirna Dendrar]_, esposa do carpinteiro
@@ -88,7 +88,7 @@ vamos voltar."
 Passando pela passagem secreta revelada pelo bandido na sua tentativa de fuga, o
 grupo se vê na oficina ao fundo da caverna da fenda. O lugar está atulhado de
 caixotes, tanto vazios quanto cheios de itens roubados prontos para serem
-contrabandeados - além de ferramentas para trabalhar com as caixas.
+contrabandeados &mdash; além de ferramentas para trabalhar com as caixas.
 
 "Homenzinhos voltaram! Ah! Mas agora não são mais intrusos. Venham conversar com
 _[Ssnark]_...", sussurra a voz diretamente em suas cabeças, e mais risadas
@@ -138,18 +138,18 @@ Neste mesmo momento, Bia, que havia sido deixada vigiando na caverna, alerta
 "Homem passando!"
 
 O grupo corre em perseguição. A passagem se abre para uma escada que sobe até
-outra passagem secreta - esta aberta - que os leva novamente na oficina de
+outra passagem secreta, esta deixada aberta, que os leva novamente na oficina de
 encaixotamento, a tempo de ver um homem usando um robe vermelho entrando no
 corredor que leva a cisterna.
 
-Sapão, a frente, chega na cisterna a tempo de ver o homem - baixo e moreno -,
-que acabou de pegar algo dentro da água, tomar uma poção e sumir bem na sua
-frente.
+Sapão, a frente, chega na cisterna a tempo de ver o homem baixo e barbado, que
+acabou de pegar algo dentro da água, tomar uma poção e sumir bem na sua frente.
 
-Sapão percebe uma movimentação e a porta no patamar se abre. Neste momento, uma
-criatura alada surge do nada, ataca e desaparece em seguida. Sapão sobe a escada
-correndo e chega a tropeçar no mago invisível ao alcançar a porta, mas é atacado
-novamente pela criatura alada - novamente atacando e sumindo.
+Sapão percebe uma movimentação que parece subir as escadas. Neste momento, uma
+criatura alada surge do nada, ataca e desaparece em seguida. Sem perder tempo,
+Sapão sobe correndo, e vê a porta no patamar se abrir. Chega a tropeçar no mago
+invisível ao alcançar a porta, mas é atacado novamente pela criatura alada, que
+passa por ele, sumindo em seguida.
 
 A porta revela uma escada que leva às ruínas do que deve ser da cozinha da velha
 _[Mansão Tresendar]_. _[Glasstaff]_ e seu mascote fugiram.

@@ -144,9 +144,9 @@ contrário "[Yeemik](../characters/npcs/cragmaw/yeemik.md) matar humano!".
 Ralf propõe pagar um resgate pelo "humano", ao que o líder pede 50 gp, mas Ralf
 diz que não tem este dinheiro todo e oferece 5 gp. O líder fala, então, que
 "libertar humano, se trazer cabeça
-de [Klarg](../characters/npcs/cragmaw/klarg.md)". Nisso uma voz humana,
-que parece ser a de [Sildar](../characters/npcs/sildar_hallwinter.md), grita
-dizendo que não devem confiar neles, "é mais importante
+de [Klarg](../characters/npcs/cragmaw/klarg.md)". Nisso uma voz humana, que
+parece ser a de [Sildar](../characters/npcs/sildar_hallwinter.md), grita dizendo
+que não devem confiar neles, "é mais importante
 resgatarem [Gundren](../characters/npcs/gundren_rockseeker.md)". Fica, então,
 claro que o anão não está com eles.
 
@@ -175,15 +175,14 @@ diversos.
 
 Quando Ralf avança para atacar o lobo, sai de trás de algumas caixas um bugbear
 que logo o ataca, tentando intimidar o grupo
-"[Klarg](../characters/npcs/cragmaw/klarg.md) ordena que invasores vão
-embora!".
+"[Klarg](../characters/npcs/cragmaw/klarg.md) ordena que invasores vão embora!".
 
 A princípio bugbear parece estar sozinho, mas após bradar que seus "Lacaios
 covardes expulsem invasores da caverna de Klarg!", três goblins relutantes
 deixam seus esconderijos, se juntam a defesa de seu líder.
 
-Sapão e Professor chegam a cair em combate, mas conseguem se recuperam e juntos
-ferir bastante o bugbear - que estava tendo bastante azar nas investidas de sua
+Sapão e Professor chegam a cair no combate, mas conseguem se recuperam e juntos
+ferem bastante o bugbear, que estava tendo bastante azar nas investidas de sua
 maça de espinhos.
 
 Os goblins, vendo que seu líder está prestes a cair, fogem. E, pouco depois, um

@@ -287,7 +287,7 @@ Gundren, [Tharden](../characters/npcs/tharden_rockseeker.md)
 e [Nundro](../characters/npcs/nundro_rockseeker.md), também devem estar ansiosos
 e ficarão muito abalados ao saber do sequestro do irmão. Eles vivem acampados
 fora da cidade, sempre em lugares diferentes, explorando, mas vêm a cidade
-frequentemente para se reabastecer - "a última vez foi há uns dez dias,
+frequentemente para se reabastecer. "A última vez foi há uns dez dias,
 provavelmente devem aparecer em um dia ou dois"
 
 Um dos garotos, Ander, sugere se o sequestro poderia ter alguma relação com os
@@ -314,21 +314,22 @@ voltam curiosos para o grupo de forasteiros que entram.
 Logo são recebidos
 por [Toblen Stonehill](../characters/npcs/phandalin/stonehill/toblen_stonehill.md),
 o proprietário, que amigável e jovial logo oferece seus serviços. Após acertarem
-os detalhes da hospedagem - [Sildar](../characters/npcs/sildar_hallwinter.md)
-tem um quarto para si, e o grupo combina dividir outro - Toblen pergunta o que
-os traz a cidade "viéram para a mineração?"
+os detalhes da hospedagem
+&mdash; [Sildar](../characters/npcs/sildar_hallwinter.md)
+tem um quarto reservado para si, e o grupo combina de dividir outro &mdash;
+Toblen puxa conversa, perguntando o que traz os forasteiros a cidade, "Estão
+aqui pela mineração?"
 
-O grupo fala da carga e do sequestro do anão e todos, inclusive um grupo de
-moradores sentados a uma mesa próxima, ficam chocados. Uma gnoma, que se
-apresenta como [Freda](../characters/npcs/phandalin/stonehill/freda.md), a
-tecelã, fala que isso "tem cheiro de coisa
-dos [Redbrands](../organizations/redbrands.md). Eles tão incomodando todos da
-cidade já faz uns dois meses". "Só não mexem com
+Falam da carga e do sequestro do anão e todos, inclusive um grupo de moradores
+sentados a uma mesa próxima, ficam chocados. Uma gnoma, que se apresenta
+como [Freda](../characters/npcs/phandalin/stonehill/freda.md), a tecelã, fala
+que isso "tem cheiro de coisa dos [Redbrands](../organizations/redbrands.md).
+Eles tão incomodando todos da cidade já tem uns dois meses". "Só não mexem com
 a [Halia](../characters/npcs/phandalin/halia_thornton.md),
 do [Entreposto dos Mineradores](../locations/phandalin/miners_exchange.md)",
-interviu o homem baixo da mesa ao
-lado, [Lanar](../characters/npcs/phandalin/stonehill/lanar.md), o minerador,
-"ela sim é uma mulher durona!"
+completou o homem baixo do lado oposto da
+mesa, [Lanar](../characters/npcs/phandalin/stonehill/lanar.md), o minerador,
+"Ela, sim, é uma mulher durona!"
 
 Perguntados sobre o [Castelo Cragmaw](../locations/cragmaw_castle.md), ninguém
 sabe dar informações,
@@ -370,10 +371,10 @@ que ele é um velho que cuida
 do [pomar de maçãs](../locations/phandalin/edermath_orchard.md) que fica no
 limite noroeste da cidade.
 
-Chegando ao local - um pequeno chalé ao lado de um velho pomar de macieiras
-coberto de mato e hera. Um velho está de costas para eles cortando e arrancando
-mato próximo da casa. Quando se aproximam, ele se vira veem que é um velho elfo
-negro, um draw, que deve ter mais de 500 anos.
+Chegando ao local, um pequeno chalé ao lado de um velho pomar de macieiras
+coberto de mato e hera, um velho está encurvado de costas para eles cortando e
+arrancando mato próximo da casa. Quando se aproximam, o homem se vira veem que
+se trata de um velho elfo negro, um drow, que deve ter mais de 500 anos.
 
 Daran é um aventureiro aposentado que, após uma juventude de aventuras no sul,
 voltou a região onde nasceu para ter uma vida calma.
@@ -442,9 +443,10 @@ combinar os detalhes mais tarde.
 _[_Imagem_]_ :construction:
 
 Ao chegarem a porta do prédio
-da [Prefeitura](../locations/phandalin/townmasters_hall.md) - na verdade, a casa
-do prefeito [Harbin Weber](../characters/npcs/phandalin/harbin_wester.md) - a
-primeira coisa que veem é o cartaz pregado ao lado da porta.
+da [Prefeitura](../locations/phandalin/townmasters_hall.md), que, na verdade, é
+a residência do
+prefeito [Harbin Weber](../characters/npcs/phandalin/harbin_wester.md), a
+primeira coisa que veem é o cartaz pregado a uma tábua ao lado da porta.
 
 > A prefeitura de [Phandalin](../locations/phandalin.md) procura por bravos
 > voluntários que capturem os
@@ -453,8 +455,8 @@ primeira coisa que veem é o cartaz pregado ao lado da porta.
 > direção de [Conyberry](../locations/conyberry.md), a leste.
 >
 > Foi reportado que o grupo de bandidos é formado por bugbears, goblins e ao
-> menos um ogre foi visto. Também há rumores de "goblins estranhos" - o que
-> quer que isso signifique.
+> menos um ogre foi visto. Também há rumores de "goblins estranhos" &mdash; o
+> que quer que isso signifique.
 >
 > Cautela é recomendada.
 >
@@ -470,11 +472,10 @@ com ele.
 
 Levados para dentro, encontram Sildar sentado à mesa do prefeito, estudando uma
 papelada. Ele explica que sua missão era buscar notícias de seu colega, um certo
-[Iarno Albrek](../characters/npcs/iarno_albrek.md) - descrito como "um humano
-baixo, de barba escura, na casa dos 30 anos". Iarno havia sido enviado a cidade
-há dois meses, mas desapareceu, logo após informar a sede de sua chegada. Sildar
-teme que Iarno possa ter sido capturado
-pelos [Redbrands](../organizations/redbrands.md).
+[Iarno Albrek](../characters/npcs/iarno_albrek.md), "um homem baixo, de barba
+escura, na casa dos 30 anos". Iarno havia sido enviado a cidade há dois meses,
+mas desapareceu, logo após informar a sede de sua chegada. Sildar teme que Iarno
+possa ter sido capturado pelos [Redbrands](../organizations/redbrands.md).
 
 Sildar está preocupado, pois sua missão parece ser bem mais complexa do que
 tinha imaginado, "mas vamos ver o que pode ser feito!", diz apontando para a
@@ -490,10 +491,10 @@ que sua família desapareceu naquela mesma noite. "Eles não estão me parecendo
 assim tão inofensivos".
 
 O grupo então se oferece para servir como uma força de segurança provisória na
-cidade - até recebem uma carta de autorização do prefeito para isso, e combinam
-uma recompensa de 100 gp pela captura do líder dos Redbrands, um certo
-[Glasstaff](../characters/npcs/redbrands/glasstaff.md), além das despesas de hospedagem e
-alimentação pagadas pela prefeitura.
+cidade &mdash; até recebem uma carta de autorização do prefeito para isso, e
+combinam uma recompensa de 100 gp pela captura do líder dos Redbrands, um certo
+[Glasstaff](../characters/npcs/redbrands/glasstaff.md), além das despesas de
+hospedagem e alimentação pagadas pela prefeitura.
 
 ---
 
@@ -514,8 +515,8 @@ segurança" da cidade.
 Deixando a oficina do ferreiro, o grupo passa
 na [Carpintaria](../locations/phandalin/woodworker_shop.md), mas encontram o
 lugar vazio e abandonado. Algumas cadeiras caídas, pratos na mesa e panelas no
-fogão, indicam que houve alguma, mas pouca, resistência e a família deixou o
-lugar - teriam sido levados? - sem preparativos.
+fogão, indicam que houve alguma, mas pouca, resistência quando a família foi
+levada do lugar, sem tempo para quaisquer preparativos.
 
 ---
 

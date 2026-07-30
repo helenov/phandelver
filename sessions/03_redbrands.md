@@ -73,8 +73,8 @@ frequentar. Pedem orientações sobre a sua localização na estalagem, e, embor
 sejam desencorajados, o grupo está decidido a cumprir com seu novo papel de
 garantidores da lei na cidade.
 
-Ao se aproximarem do local - que é pouco mais que os escombros de uma antiga
-taverna de estrada -, quatro humanos desgrenhados e mal-humorados, usando capas
+Ao se aproximarem do local, que é pouco mais que os escombros de uma antiga
+taverna de estrada, quatro humanos desgrenhados e mal-humorados, usando capas
 vermelhas imundas, estão na varanda do estabelecimento, empoleirados em barris
 de cerveja, bebendo, encaram os forasteiros.
 
@@ -97,12 +97,12 @@ escapa na noite.
 
 Dentro do bar, o grupo encontra o taverneiro, um ogre grandalhão e aborrecido,
 que mergulha copos na água suja que está na pia, e os enxuga com um pano
-encardido. Após pedir cervejas e serem atendidos - o ogre usa os mesmos copos
-que vinha "lavando" -, o grupo se apresenta, e o ogre, que se apresenta como
-[Greska](../characters/npcs/phandalin/greska.md), parece se divertir muito
-quando dizem que estão ali para livrar a cidade dos bandidos. Greska diz que o
-Redbrands são seus únicos clientes e o dinheiro deles é tão bom quanto o de
-qualquer outro, e que não se importa com o que fazem fora de seu
+encardido. Após pedir cervejas e serem atendidos &mdash; o ogre usa os mesmos
+copos que vinha 'lavando' &mdash;, o grupo se apresenta, e o ogre, que se
+apresenta como [Greska](../characters/npcs/phandalin/greska.md), parece se
+divertir muito quando dizem que estão ali para livrar a cidade dos bandidos.
+Greska diz que o Redbrands são seus únicos clientes e o dinheiro deles é tão bom
+quanto o de qualquer outro, e que não se importa com o que fazem fora de seu
 estabelecimento. Diz que acha que eles se escondem "pros lados da
 velha [Mansão Tresendar](../locations/phandalin/tresendar_manor.md)".
 
@@ -146,14 +146,14 @@ chegam a uma densa mata, conhecida
 como [Mata Tresendar](../locations/phandalin/tresendar_wood.md) já além dos
 limites da cidade.
 
-Após algum tempo seguindo por trilhas que a garota indica, o grupo chega ao sopé
-de um morro - no alto é possível ver parte das ruínas da velha
+Após algum tempo seguindo por trilhas indicadas pela garota, o grupo chega ao
+sopé de um morro. No alto é possível ver parte das ruínas da velha
 [Mansão Tresendar](../locations/phandalin/tresendar_manor.md).
 
 A garota segue acompanhando o sopé para um lado, e depois muda de ideia. "Não!
 Acho que é pra lá!". Após procurar um pouco aponta o lugar, que a princípio
-parece ser apenas pedras grandes e alguns arbustos, mas olhando com atenção logo
-se revela a entrada de uma caverna estreita.
+parece ser apenas algumas pedras grandes e arbustos, mas olhando com atenção
+revela a entrada de uma caverna estreita.
 
 O grupo chega a procurar por rastros, mas quem quer que esteja usando a passagem
 cuida para manter o lugar em segredo.
@@ -206,8 +206,8 @@ direção.
 Investigando o final do corredor, facilmente encontram uma passagem secreta que
 leva a uma sala de teto alto com uma grande cisterna de água fresca. Ao redor da
 sala, junto às paredes, dezenas de caixas e barris contendo carne seca, cereais,
-frutas, vinho e cerveja - tudo em bom estado de conservação, deixando claro que
-é um depósito que vem sendo usado.
+frutas, vinho e cerveja. Tudo em bom estado de conservação, deixando claro que é
+um depósito que vem sendo usado cotidianamente.
 
 No lado oposto da sala, duas escadas levam a um patamar, onde é possível ver uma
 porta. Contornando a cisterna, há outra porta, que Ralf abre impetuosamente,
