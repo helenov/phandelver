@@ -9,9 +9,9 @@
 [//]: # (_[_Texto_]_ :construction:)
 [//]: # (<br clear="left"/>)
 
-[//]: # (### Relações)
-[//]: # ()
-[//]: # (* _[_Character_]_, _[_detalhe_]_)
+### Relações
+
+* [Glasstaff](glasstaff.md), mestre
 
 [//]: # (### Organizações)
 [//]: # ()

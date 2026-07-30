@@ -9,9 +9,10 @@
 [//]: # (_[_Texto_]_ :construction:)
 [//]: # (<br clear="left"/>)
 
-[//]: # (### Relações)
-[//]: # ()
-[//]: # (* _[_Character_]_, _[_detalhe_]_)
+### Relações
+
+* [Ssnark](ssnark.md), criatura que guarda
+  o [Esconderijo Redbrand](../../../locations/phandalin/redbrand_hideout.md)
 
 ### Organizações
 
@@ -20,6 +21,7 @@
 ### Locais
 
 * [Phandalin](../../../locations/phandalin.md), líder criminoso
+  * [Esconderijo Redbrand](../../../locations/phandalin/redbrand_hideout.md), ocupante
 
 ### Referências
 
