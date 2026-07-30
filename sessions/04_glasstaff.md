@@ -33,6 +33,7 @@ _próxima_ : _[Sessão 5 Perda]_
 ### Cenários
 
 * _[Esconderijo Redbrand]_
+* _[Mansão Tresendar]_
 
 #### Mencionados
 
@@ -111,42 +112,47 @@ bloquear o caminho, reiniciando o combate, e a criatura acaba derrotada.
 
 ### Cena 3 Mago
 
-_[_Imagem_]_ :construction:
+![04_3_mago.png](../images/cenas/04_3_mago.png)
 
-> - escutam risadas e xingamentos em R10
->
-> - abrem a porta de R11
->   - barulho de asas de morcego
->
-> - laboratório de magia
->   - mesa com equipamentos, papeis
->   - livro aberto
->     - Professor reconhece instruções para fazer poções de invisibilidade
->     - Professor pega
->
-> - Ralf ouve uma movimentação em R12
->
-> - abrem a porta de R12
->   - quarto vazio
->   - papeis na mesa (Professor pega)
->   - Sapão encontra passagem secreta
->
-> - Coruja vigiando na fenda
->   - avisa que tem alguém passando
->
-> - correria
->   - Sapão alcança o sujeito em R1
->   - pegando algo na água, toma poção e some (invisível)
->   - movimentação e porta no alto abre
->   - Sapão é atacado pelo Quasit (familiar do mago), que some em seguida
->
-> - Sapão sobe as escadas e chega a tropeçar no mago invisível
->   - é atacado novamente pelo Quasit (ataca e some)
->   - o mago e seu familiar conseguem fugir
->   - subindo por onde o mago fugiu
->     - chegam às ruínas da cozinha da mansão
->
-> [t = 1h 20m]
+Explorando o corredor indicado por Ssnark, após descer um lance de escada,
+encontram duas portas. Na porta da esquerda escutam risadas e xingamentos:
+parece ser um grupo de homens bebendo e jogando.
+
+Resolvem então verificar primeiro a outra porta, de onde ouvem apenas o tênue
+som de líquido borbulhando. Ao abrir a porta ouvem o que parece ser o bater de
+asas de um morcego, mas seja qual for o bicho que estivesse ali, já tinha se
+escondido.
+
+A sala é um laboratório de alquimia, com uma mesa central abarrotada de
+equipamentos, tubos e jarros de vidro com líquidos de muitas cores fumegando e
+borbulhando sobre chamas de lamparinas. Um livro aberto, que o Professor
+reconhece como instruções para fazer algum tipo de poção, talvez de
+invisibilidade. Professor guarda este livro.
+
+Ralf ouve uma movimentação vinda da porta do outro lado da sala. Corre para
+abrir a porta para encontrar um quarto. Apenas uma cama e uma pequena mesa cheia
+de papéis. Sapão nota uma irregularidade na parede oposta, que revela uma
+passagem secreta que foi deixada entreaberta.
+
+Neste mesmo momento, Bia, que havia sido deixada vigiando na caverna, alerta
+"Homem passando!"
+
+O grupo corre em perseguição. A passagem se abre para uma escada que sobe até
+outra passagem secreta - esta aberta - que os leva novamente na oficina de
+encaixotamento, a tempo de ver um homem usando um robe vermelho entrando no
+corredor que leva a cisterna.
+
+Sapão, a frente, chega na cisterna a tempo de ver o homem - baixo e moreno -,
+que acabou de pegar algo dentro da água, tomar uma poção e sumir bem na sua
+frente.
+
+Sapão percebe uma movimentação e a porta no patamar se abre. Neste momento, uma
+criatura alada surge do nada, ataca e desaparece em seguida. Sapão sobe a escada
+correndo e chega a tropeçar no mago invisível ao alcançar a porta, mas é atacado
+novamente pela criatura alada - novamente atacando e sumindo.
+
+A porta revela uma escada que leva às ruínas do que deve ser da cozinha da velha
+_[Mansão Tresendar]_. _[Glasstaff]_ e seu mascote fugiram.
 
 ---
 
