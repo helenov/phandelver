@@ -33,9 +33,7 @@ _próxima_ : _[Sessão 5 Perda]_
 
 ### Cena 1 Prisioneiros
 
-_[_Imagem_]_
-
-:construction:
+_[_Imagem_]_ :construction:
 
 > - combate
 >
@@ -60,9 +58,7 @@ _[_Imagem_]_
 
 ### Cena 2 Ssnark
 
-_[_Imagem_]_
-
-:construction:
+_[_Imagem_]_ :construction:
 
 > - passando pela passagem secreta de R6 para R7, chegam a R8
 >
@@ -86,9 +82,7 @@ _[_Imagem_]_
 
 ### Cena 3 Mago
 
-_[_Imagem_]_
-
-:construction:
+_[_Imagem_]_ :construction:
 
 > - escutam risadas e xingamentos em R10
 >
@@ -129,9 +123,7 @@ _[_Imagem_]_
 
 ### Cena 4 Pé-de-Cabra
 
-_[_Imagem_]_
-
-:construction:
+_[_Imagem_]_ :construction:
 
 > - voltam para os prisioneiros
 >   - Professor lembra que tem um pé-de-cabra
