@@ -2,10 +2,8 @@
 
 ## Esconderijo Redbrand
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-_[_Imagem_]_
+![03_4_cisterna.png](../../images/cenas/03_4_cisterna.png)
+
 _[_Texto_]_ :construction:
 <br clear="left"/>
 

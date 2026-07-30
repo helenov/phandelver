@@ -2,10 +2,8 @@
 
 ## Gigante Adormecido
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-_[_Imagem_]_
+![03_1_gigante_adormecido.jpeg](../../images/cenas/03_1_gigante_adormecido.jpeg)
+
 _[_Texto_]_ :construction:
 <br clear="left"/>
 
