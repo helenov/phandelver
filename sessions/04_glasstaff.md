@@ -43,7 +43,7 @@ _próxima_ : _[Sessão 5 Perda]_
 
 ### Cena 1 Prisioneiros
 
-_[_Imagem_]_ :construction:
+![04_1_prisioneiros.png](../images/cenas/04_1_prisioneiros.png)
 
 Após alguns segundos de tensão, o combate inicia. Os dois guardas encurralados
 na sala pequena parecem não ter muitas chances, mas o grupo é surpreendido por
