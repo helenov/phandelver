@@ -28,11 +28,11 @@ _[_Texto_]_ :construction:
 * [Sessão 3 Redbrands](../../../sessions/03_redbrands.md)
   * grupo conhece **Greska** ao visitarem
     o [Gigante Adormecido](../../../locations/phandalin/sleeping_giant.md)
-    ([Cena1](../../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
+    ([Cena 1](../../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
   * **Greska** diz que os [Redbrands](../../../organizations/redbrands.md) são
     seus principais clientes
-    ([Cena1](../../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
+    ([Cena 1](../../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
   * **Greska** diz que os [Redbrands](../../../organizations/redbrands.md) se
     escondem para os lados
     da [Mansão Tresendar](../../../locations/phandalin/tresendar_manor.md)
-    ([Cena1](../../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
+    ([Cena 1](../../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
