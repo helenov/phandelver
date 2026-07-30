@@ -45,24 +45,38 @@ _próxima_ : _[Sessão 5 Perda]_
 
 _[_Imagem_]_ :construction:
 
-> - combate
->
->   - 2 outros guardas (os que foram deixados dormindo)
->     - chegam pela porta norte
->     - deixados dormindo em R2 tiverem tempo para
->       - acordar (1m), se soltar (20m) e dar a volta (1m)
-> - 1 tenta fugir
->   - revela passagem secreta
->   - encurralado pelo Ralf, é derrotado
->
-> - conversam com os prisioneiros
->   - se apresentam
->   - não tem como abrir as celas
->   - Mirna falta que sabe que um "monstro peludo de orelhas grandes" tem as
->     chaves
->   - "esperem aqui, vamos procurar a chave e voltamos"
->
-> [t = 1h]
+Após alguns segundos de tensão, o combate inicia. Os dois guardas encurralados
+na sala pequena parecem não ter muitas chances, mas o grupo é surpreendido por
+trás, com a chegada de mais dois bandidos vindos da porta que era um
+beco-sem-saída.
+
+Professor, que estava mais atrás, é o primeiro a ser atacado por estes novos
+adversários, e logo reconhece que são os mesmos bandidos que havia colocado para
+dormir no quarto ao lado da cisterna - parece que houve tempo suficiente para
+acordarem, e se livrarem das suas amarras. Mas de onde eles vieram?
+
+Este reforço não se mostra suficiente. Após três deles serem neutralizados, o
+quarto bandido tenta fugir pelo mesmo corredor de onde veio, revelando que é uma
+passagem secreta na parede em frente a porta trancada. Ralf consegue ser rápido
+e o encurralar justamente nesta passagem, derrotando enfim o último adversário.
+
+Agora com tudo mais calmo novamente, o grupo conversa com os prisioneiros. A
+mulher mais velha se apresenta como _[Mirna Dendrar]_, esposa do carpinteiro
+_[Thel Dendrar]_, e "estas são nossos filhos _[Nilsa]_", uma jovem de pouco mais
+de 18 anos, "e _[Nars]_", um garoto de 12.
+
+Mirna conta como os _[Redbrands]_ mataram seu marido, e depois voltaram para
+buscar seu corpo e os levou. "Acho que eles pretendem nos vender como escravos."
+
+Percebem então que não tem como abrir as celas. "Tem um 'mostro peludo de
+orelhas grandes' que tem as chaves", informa Mirna.
+
+"Fiquem calmos. Vamos procurar este monstro e voltamos para libertá-los."
+
+"Vocês vão nos deixar aqui!?"
+
+"Fiquem tranquilos! Estamos aqui para salvá-los. Vocês têm nossa palavra de que
+vamos voltar."
 
 ---
 
