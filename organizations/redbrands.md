@@ -12,12 +12,14 @@
 ### Membros
 
 * [Glasstaff](../characters/npcs/redbrands/glasstaff.md), líder
+* [Ssnark](../characters/npcs/redbrands/ssnark.md) (RIP), criatura que guarda
+  o [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
 
 ### Locais
 
 * [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
   * bar que os **Redbrands** costumam frequentar
-* [Esconderijo Redbrands](../locations/phandalin/redbrand_hideout.md)
+* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
   * base dos **Redbrands**
 
 ### Referências

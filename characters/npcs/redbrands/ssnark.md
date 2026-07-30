@@ -13,9 +13,10 @@
 
 * [Glasstaff](glasstaff.md), mestre
 
-[//]: # (### Organizações)
-[//]: # ()
-[//]: # (* _[_Organização_]_, _[_detalhe_]_)
+### Organizações
+
+* [Redbrands](../../../organizations/redbrands.md), criatura que guarda
+  o [Esconderijo Redbrand](../../../locations/phandalin/redbrand_hideout.md)
 
 ### Locais
 
