@@ -26,7 +26,7 @@ _próxima_ : _[Sessão 5 Perda]_
 
 ####
 
-* _[Redbrands]_
+* [Redbrands](../organizations/redbrands.md)
   * _[Glasstaff]_, líder
   * _[Ssnark]_, guarda da caverna
   * bandidos
@@ -77,9 +77,9 @@ jovem de pouco mais de 18 anos,
 "e [Nars](../characters/npcs/phandalin/dendrar/nars_dendrar.md)", um garoto de
 12 anos.
 
-Mirna conta como os _[Redbrands]_ mataram seu marido e levaram seu corpo, depois
-voltaram e levaram a família. "Acho que eles pretendem nos vender como
-escravos."
+Mirna conta como os [Redbrands](../organizations/redbrands.md) mataram seu
+marido e levaram seu corpo, depois voltaram e levaram a família. "Acho que eles
+pretendem nos vender como escravos."
 
 Percebem então que não tem como abrir as celas. "Tem um 'mostro peludo de
 orelhas grandes' que tem as chaves", informa Mirna.
@@ -178,9 +178,10 @@ entrada para o porão na cozinha está sendo usado frequentemente por muitas
 pessoas.
 
 Enquanto lamentam o fato de perderem a chance de capturar o líder dos
-_[Redbrands]_, Professor se lembra que possui um pé-de-cabra entre seu
-equipamento, o grupo volta para os prisioneiros. Com a ajuda da ferramenta, Ralf
-consegue romper as correntes que prendem as grades das celas.
+[Redbrands](../organizations/redbrands.md), Professor se lembra que possui um
+pé-de-cabra entre seu equipamento, o grupo volta para os prisioneiros. Com a
+ajuda da ferramenta, Ralf consegue romper as correntes que prendem as grades das
+celas.
 
 Cautelosamente, conduzem a família Dendrar pela caverna até o túnel, onde são
 orientados a seguir
