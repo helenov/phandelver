@@ -66,8 +66,6 @@ _próxima_ : [Sessão 4 Glasstaff](04_glasstaff.md)
 
 ![03_1_gigante_adormecido.jpeg](../images/cenas/03_1_gigante_adormecido.jpeg)
 
-:construction:
-
 Ao anoitecer o grupo decide investigar
 o [Gigante Adormecido](../locations/phandalin/sleeping_giant.md), o bar que
 todos dizem que os [Redbrands](../organizations/redbrands.md) costumam
@@ -131,8 +129,6 @@ que alguém os enterre no dia seguinte.
 
 ![03_2_tunel_secreto.jpeg](../images/cenas/03_2_tunel_secreto.jpeg)
 
-:construction:
-
 Na manhã seguinte, quando o grupo desce para tomar seu café da manhã
 na [hospedaria](../locations/phandalin/stonehill_inn.md), já
 encontram [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md), a
@@ -167,8 +163,6 @@ cuida para manter o lugar em segredo.
 ### Cena 3 Uma Voz
 
 ![03_3_uma_voz.png](../images/cenas/03_3_uma_voz.png)
-
-:construction:
 
 Após levar [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md)
 e [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md) de volta
@@ -209,8 +203,6 @@ direção.
 
 ![03_4_cisterna.png](../images/cenas/03_4_cisterna.png)
 
-:construction:
-
 Investigando o final do corredor, facilmente encontram uma passagem secreta que
 leva a uma sala de teto alto com uma grande cisterna de água fresca. Ao redor da
 sala, junto às paredes, dezenas de caixas e barris contendo carne seca, cereais,
@@ -239,8 +231,6 @@ Retiram as capas dos três que são deixados amarrados e fecham a porta.
 ### Cena 5 Cripta
 
 ![03_5_cripta.png](../images/cenas/03_5_cripta.png)
-
-:construction:
 
 Explorando mais a sala da cisterna, o grupo nota uma porta abaixo de uma das
 escadas, que leva a corredor largo que leva uma grande porta dupla decorada.
