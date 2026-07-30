@@ -49,7 +49,7 @@ _[_Texto_]_ :construction:
 
 * [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), mestre da
   guilda dos mineradores
-* [Thel Dendral](../characters/npcs/phandalin/thel_dendral.md) (RIP),
+* [Thel Dendrar](../characters/npcs/phandalin/thel_dendrar.md) (RIP),
   carpinteiro
 
 [//]: # (### Organizações)

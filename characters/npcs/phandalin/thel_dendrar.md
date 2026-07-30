@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Thel Dendral (RIP), <small>_humano_</small>
+## Thel Dendrar (RIP), <small>_humano_</small>
 
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)

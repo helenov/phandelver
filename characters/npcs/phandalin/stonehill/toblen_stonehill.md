@@ -30,8 +30,8 @@ _[_Texto_]_ :construction:
     na [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md)
     ([Cena 7](../../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill))
   * menciona que algo aconteceu com a família do
-    carpinteiro [Thel](../thel_dendral.md)
+    carpinteiro [Thel](../thel_dendrar.md)
     ([Cena 8](../../../../sessions/02_phandalin.md#cena-8-pip))
   * [Sildar](../../sildar_hallwinter.md) menciona que soube
-    de [Thel](../thel_dendral.md) por **Toblen**
+    de [Thel](../thel_dendrar.md) por **Toblen**
     ([Cena 11](../../../../sessions/02_phandalin.md#cena-11-prefeitura))

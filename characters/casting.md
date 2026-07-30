@@ -75,7 +75,7 @@
 * [Phandalin](../locations/phandalin.md)
   * [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), mestre da
     guilda dos mineradores
-  * [Thel Dendral](npcs/phandalin/thel_dendral.md) (RIP), carpinteiro
+  * [Thel Dendrar](npcs/phandalin/thel_dendrar.md) (RIP), carpinteiro
 
 ####
 

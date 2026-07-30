@@ -85,7 +85,7 @@ _próxima_ : [Sessão 3 Redbrands](03_redbrands.md)
     guilda dos mineiradores
   * [Qelline Alderleaf](../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md),
     fazendeira
-  * [Thel Dendral](../characters/npcs/phandalin/thel_dendral.md) (RIP),
+  * [Thel Dendrar](../characters/npcs/phandalin/thel_dendrar.md) (RIP),
     carpinteiro
 
 ####
@@ -353,7 +353,7 @@ ir lá explorar com ela?"
 \"Já disse para vocês ficarem longe destes
 bandidos, [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md)!
 Você viu o que houve com a família do
-carpinteiro [Thel](../characters/npcs/phandalin/thel_dendral.md)? Vocês ainda
+carpinteiro [Thel](../characters/npcs/phandalin/thel_dendrar.md)? Vocês ainda
 vão arrumar confusão pra gente!"
 
 ---
@@ -484,7 +484,7 @@ O grupo questiona sobre a atuação dos Redbrands, que, pelo que tinham entendid
 seriam apenas arruaceiros sem grande periculosidade. Mas Sildar conta que soube
 por [Toblen](../characters/npcs/phandalin/stonehill/toblen_stonehill.md), da
 hospedaria, que o
-carpinteiro [Thel Dendral](../characters/npcs/phandalin/thel_dendral.md), após
+carpinteiro [Thel Dendrar](../characters/npcs/phandalin/thel_dendrar.md), após
 enfrentar um grupo dos bandidos que importunava sua esposa, foi assassinado e
 que sua família desapareceu naquela mesma noite. "Eles não estão me parecendo
 assim tão inofensivos".
