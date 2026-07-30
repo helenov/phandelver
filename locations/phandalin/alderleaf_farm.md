@@ -44,3 +44,9 @@ _[_Texto_]_ :construction:
     e [Pip](../../characters/npcs/phandalin/stonehill/pip_stonehill.md) de volta
     a **Fazenda Alderleaf**
     ([Cena 3](../../sessions/03_redbrands.md#cena-3-uma-voz))
+
+####
+
+* [Sessão 4 Glasstaff](../../sessions/04_glasstaff.md)
+  * Nars diz que pode guiar sua família até a **Fazenda Alderleaf**
+    ([Cena 4](../../sessions/04_glasstaff.md#cena-4-pé-de-cabra))

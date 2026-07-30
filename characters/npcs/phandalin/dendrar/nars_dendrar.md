@@ -33,5 +33,6 @@ _[_Texto_]_ :construction:
     e [Cena 4](../../../../sessions/04_glasstaff.md#cena-4-pé-de-cabra))
   * **Nars** diz que conhece
     a [Mata Tresendar](../../../../locations/phandalin/tresendar_wood.md) e pode
-    chegar a _[Fazenda Alderleaf]_
+    chegar
+    a [Fazenda Alderleaf](../../../../locations/phandalin/alderleaf_farm.md)
     ([Cena 4](../../../../sessions/04_glasstaff.md#cena-4-pé-de-cabra))

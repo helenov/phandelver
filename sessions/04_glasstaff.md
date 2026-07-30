@@ -44,7 +44,7 @@ _próxima_ : _[Sessão 5 Perda]_
 #### Mencionados
 
 * [Mata Tresendar](../locations/phandalin/tresendar_wood.md)
-* _[Fazenda Alderleaf]_
+* [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md)
 
 ---
 
@@ -184,8 +184,8 @@ consegue romper as correntes que prendem as grades das celas.
 
 Cautelosamente, conduzem a família Dendrar pela caverna até o túnel, onde são
 orientados a seguir
-pela [Mata Tresendar](../locations/phandalin/tresendar_wood.md) até a
-_[Fazenda Alderleaf]_. O
+pela [Mata Tresendar](../locations/phandalin/tresendar_wood.md) até
+a [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md). O
 garoto [Nars](../characters/npcs/phandalin/dendrar/nars_dendrar.md) diz conhecer
 bem a mata e consegue chegar a fazenda.
 
