@@ -38,7 +38,7 @@ _próxima_ : _[Sessão 5 Perda]_
 
 ### Cenários
 
-* _[Esconderijo Redbrand]_
+* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
 * _[Mansão Tresendar]_
 
 #### Mencionados

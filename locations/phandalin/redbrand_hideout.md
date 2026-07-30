@@ -40,5 +40,12 @@ _[_Texto_]_ :construction:
     ([Cena 2](../../sessions/03_redbrands.md#cena-2-túnel-secreto))
   * grupo inicia a exploração do **Esconderijo Redbrand**
     ([Cenas 3 a 5)](../../sessions/03_redbrands.md#cena-3-uma-voz))
-  * grupo ouve [Ssnark](../../characters/npcs/redbrands/ssnark.md) como uma voz
-    em suas cabeças ([Cena 3](../../sessions/03_redbrands.md#cena-3-uma-voz))
+
+####
+
+* [Sessão 4 Glasstaff](../../sessions/04_glasstaff.md)
+  * grupo continua a exploração do **Esconderijo Redbrand**
+    ([Cenas 1 a 4](../../sessions/04_glasstaff.md#cena-1-prisioneiros))
+  * [Glasstaff](../../characters/npcs/redbrands/glasstaff.md) foge do
+    **Esconderijo Redbrand**
+    ([Cena 3](../../sessions/04_glasstaff.md#cena-3-mago))

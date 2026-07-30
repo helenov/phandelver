@@ -24,13 +24,15 @@
 ### Referências
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
-  * mencionado como líder do [Redbrands](../../../organizations/redbrands.md)
+  * **Glasstaff** é mencionado como líder
+    do [Redbrands](../../../organizations/redbrands.md)
     ([Cena 11](../../../sessions/02_phandalin.md#cena-11-prefeitura))
-  * [Sildar](../sildar_hallwinter.md) propõe que o grupo o capture
+  * [Sildar](../sildar_hallwinter.md) propõe que o grupo capture **Glasstaff**
     ([Cena 11](../../../sessions/02_phandalin.md#cena-11-prefeitura))
 
 ####
 
 * [Sessão 4 Glasstaff](../../../sessions/04_glasstaff.md)
-  * **Glasstaff** foge do _[Esconderijo Redbrand]_
+  * **Glasstaff** foge
+    do [Esconderijo Redbrand](../../../locations/phandalin/redbrand_hideout.md)
     ([Cena 3](../../../sessions/04_glasstaff.md#cena-3-mago))
