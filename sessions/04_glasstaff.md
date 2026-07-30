@@ -153,7 +153,7 @@ Neste mesmo momento, Bia, que havia sido deixada vigiando na caverna, alerta
 
 O grupo corre em perseguição. A passagem se abre para uma escada que sobe até
 outra passagem secreta, esta deixada aberta, que os leva novamente na oficina de
-encaixotamento, a tempo de ver um homem usando um robe vermelho entrando no
+encaixotamento, a tempo de ver um homem usando um robe preto entrando no
 corredor que leva a cisterna.
 
 Sapão, a frente, chega na cisterna a tempo de ver o homem baixo e barbado, que

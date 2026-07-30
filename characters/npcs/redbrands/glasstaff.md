@@ -2,17 +2,16 @@
 
 ## Glasstaff, <small>_humano_</small>
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-[//]: # (_[_Imagem_]_)
-_[_Texto_]_ :construction:
+<!-- @formatter:off -->
+<img alt="Glasstaff" src="../../../images/characters/redbrands/glasstaff.jpg" style="width:200px; margin-right: 15px; float: left" />
+<!-- @formatter:on -->
 
-[//]: # (<br clear="left"/>)
+_[_Texto_]_ :construction:
+<br clear="left"/>
 
 ### Relações
 
-* [Ssnark](ssnark.md) (RIP), aliado subordinado
+* [Ssnark](ssnark.md) (RIP), aliado e subordinado
 * seu mascote
 
 ### Organizações
