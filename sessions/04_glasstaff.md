@@ -40,7 +40,7 @@ _próxima_ : _[Sessão 5 Perda]_
 ### Cenários
 
 * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-* _[Mansão Tresendar]_
+* [Mansão Tresendar](../locations/phandalin/tresendar_manor.md)
 
 #### Mencionados
 
@@ -164,9 +164,15 @@ Sapão sobe correndo, e vê a porta no patamar se abrir. Chega a tropeçar no ma
 invisível ao alcançar a porta, mas é atacado novamente pela criatura alada, que
 passa por ele, sumindo em seguida.
 
-A porta revela uma escada que leva às ruínas do que deve ser da cozinha da velha
-_[Mansão Tresendar]_. [Glasstaff](../characters/npcs/redbrands/glasstaff.md) e
-seu mascote fugiram.
+A porta revela uma escada que leva às ruínas do que deve ser da cozinha da
+velha [Mansão Tresendar](../locations/phandalin/tresendar_manor.md).
+
+Após procurarem sem sucesso por rastros do mago. As ruínas estão cheias de
+rastros em muitas direções, mostrando que a entrada para o porão na cozinha está
+sendo usada frequentemente por muitas pessoas.
+
+O mago [Glasstaff](../characters/npcs/redbrands/glasstaff.md) e seu mascote
+fugiram.
 
 ---
 
@@ -174,14 +180,9 @@ seu mascote fugiram.
 
 ![Dois pés-de-cabra repousam, com outras ferramentas, sobre caixotes de madeira colocados junto a uma parede de pedra](../images/cenas/04_4_pe_de_cabra.png)
 
-Após procurarem sem sucesso por rastros do mago. As ruínas da
-_[Mansão Tresendar]_ está cheia de rastros em todas as direções, mostrando que a
-entrada para o porão na cozinha está sendo usado frequentemente por muitas
-pessoas.
-
-Enquanto lamentam o fato de perderem a chance de capturar o líder dos
-[Redbrands](../organizations/redbrands.md), Professor se lembra que possui um
-pé-de-cabra entre seu equipamento, o grupo volta para os prisioneiros. Com a
+Enquanto lamentam a chance perdida de capturar o líder
+dos [Redbrands](../organizations/redbrands.md), Professor se lembra que possui
+um pé-de-cabra entre seu equipamento, o grupo volta para os prisioneiros. Com a
 ajuda da ferramenta, Ralf consegue romper as correntes que prendem as grades das
 celas.
 

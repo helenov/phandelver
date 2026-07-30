@@ -5,22 +5,27 @@
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
 [//]: # (<!-- @formatter:on -->)
-[//]: # (_[_Imagem_]_)
-[//]: # (_[_Texto_]_ :construction:)
-[//]: # (<br clear="left"/>)
+_[_Imagem_]_
+_[_Texto_]_ :construction:
+<br clear="left"/>
 
 [//]: # (### Personagens)
 [//]: # ()
 [//]: # (* _[_Character_]_, _[_detalhe_]_)
 
-[//]: # (### Organizações)
-[//]: # ()
-[//]: # (* _[_Organização_]_, _[_detalhe_]_)
+### Organizações
+
+* _[Redbrands]_, entrada para o _[Esconderijo Redbrand]_
 
 ### Locais
 
 * [Phandalin](../phandalin.md)
   * a **Mansão Tresendar** está localizada em uma colina a leste da cidade
+
+####
+
+* _[Esconderijo Redbrand]_
+  * a base dos _[Redbrands]_ fica nos porões da velha **Mansão Tresendar**
 
 ### Referências
 
@@ -38,3 +43,9 @@
     ([Cena1](../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
   * a entrada para o [Esconderijo Redbrand](redbrand_hideout.md) fica no sopé da
     colina onde fica a **Mansão Tresendar**
+
+####
+
+* [Sessão 4 Glasstaff](../../sessions/04_glasstaff.md)
+  * grupo persegue _[Glasstaff]_ até as ruínas da **Mansão Tresendar**
+    ([Cena 3](../../sessions/04_glasstaff.md#cena-3-mago))
