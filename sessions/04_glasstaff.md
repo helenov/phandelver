@@ -158,22 +158,30 @@ _[Mansão Tresendar]_. _[Glasstaff]_ e seu mascote fugiram.
 
 ### Cena 4 Pé-de-Cabra
 
-_[_Imagem_]_ :construction:
+![04_4_pe_de_cabra.png](../images/cenas/04_4_pe_de_cabra.png)
 
-> - voltam para os prisioneiros
->   - Professor lembra que tem um pé-de-cabra
->   - Ralf consegue abrir as celas
->   - conduzem a família Dendrar até o túnel
->     - orientados a seguir pela floresta até a fazenda da garota Carp
->     - Nars diz que conhece um pouco a floresta e deve conseguir chegar lá
->
-> - também abrem a porta de R6: arsenal
->   - lanças, espadas (short e long), crossbow e quivers
->   - capas vermelhas
->   - pegam os crossbows
->
-> - planejam os próximos passos
->
-> [t = 1h 30m]
+Após procurarem sem sucesso por rastros do mago. As ruínas da
+_[Mansão Tresendar]_ está cheia de rastros em todas as direções, mostrando que a
+entrada para o porão na cozinha está sendo usado frequentemente por muitas
+pessoas.
+
+Enquanto lamentam o fato de perderem a chance de capturar o líder dos
+_[Redbrands]_, Professor se lembra que possui um pé-de-cabra entre seu
+equipamento, o grupo volta para os prisioneiros. Com a ajuda da ferramenta, Ralf
+consegue romper as correntes que prendem as grades das celas.
+
+Cautelosamente, conduzem a família Dendrar pela caverna até o túnel, onde são
+orientados a seguir pela _[Mata Tresendar]_ atá a _[Fazenda Alderleaf]_. O
+garoto _[Nars]_ diz conhecer bem a mata e consegue chegar a fazenda.
+
+Aproveitam que agora têm uma ferramenta &mdash; ao passar pela oficina, não
+notam que há dois pés-de-cabra sobre alguns caixotes &mdash;, conseguem abrir
+também a porta que estava trancada, revelando o arsenal dos bandidos: lanças,
+espadas de vários tamanhos, algumas bestas e setas. Uma dúzia de mantos
+vermelhos demonstra a ambição de crescimento dos bandidos.
+
+Sem poder carregar tudo, pegam apenas as seis bestas, planejando voltar mais
+tarde para buscar o restante. Antes, precisam decidir como fazer para terminar
+de livrar o lugar dos bandidos que ainda restam.
 
 ---
