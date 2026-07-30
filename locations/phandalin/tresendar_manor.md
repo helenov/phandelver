@@ -15,7 +15,8 @@ _[_Texto_]_ :construction:
 
 ### Organizações
 
-* _[Redbrands]_, entrada para o _[Esconderijo Redbrand]_
+* [Redbrands](../../organizations/redbrands.md), entrada para o
+  _[Esconderijo Redbrand]_
 
 ### Locais
 
@@ -25,7 +26,8 @@ _[_Texto_]_ :construction:
 ####
 
 * _[Esconderijo Redbrand]_
-  * a base dos _[Redbrands]_ fica nos porões da velha **Mansão Tresendar**
+  * a base dos [Redbrands](../../organizations/redbrands.md) fica nos porões da
+    velha **Mansão Tresendar**
 
 ### Referências
 

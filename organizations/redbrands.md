@@ -19,8 +19,9 @@
 
 * [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
   * bar que os **Redbrands** costumam frequentar
-* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-  * base dos **Redbrands**
+* [Mansão Tresendar](../locations/phandalin/tresendar_manor.md)
+  * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+    * base dos **Redbrands** nos porões da velha mansão
 
 ### Referências
 
@@ -62,6 +63,10 @@
 * [Sessão 3](../sessions/03_redbrands.md)
   * grupo enfrenta alguns **Redbrands**
     no [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
+    ([Cena 1](../sessions/03_redbrands.md#cena-1-gigante-adormecido))
+  * [Greska](../characters/npcs/phandalin/greska.md) diz que os **Redbrands** se
+    escondem em algum lugar próximo
+    à [Mansão Tresendar](../locations/phandalin/tresendar_manor.md)
     ([Cena 1](../sessions/03_redbrands.md#cena-1-gigante-adormecido))
   * grupo encontra a entrada para
     o [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md) com a
