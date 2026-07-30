@@ -38,3 +38,10 @@ _[_Texto_]_ :construction:
   * [Carp](../../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) guia o
     grupo pela **Mata Tresendar** a caminho do "túnel secreto"
     ([Cena 2](../../sessions/03_redbrands.md#cena-2-túnel-secreto))
+
+####
+
+* [Sessão 4 Glasstaff](../../sessions/04_glasstaff.md)
+  * [Nars](../../characters/npcs/phandalin/dendrar/nars_dendrar.md) diz que
+    conhece a **Mata Tresendar**
+    ([Cena 4](../../sessions/04_glasstaff.md#cena-4-pé-de-cabra))

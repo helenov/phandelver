@@ -31,6 +31,7 @@ _[_Texto_]_ :construction:
     dos [Redbrands](../../../../organizations/redbrands.md)
     ([Cena 1](../../../../sessions/04_glasstaff.md#cena-1-prisioneiros)
     e [Cena 4](../../../../sessions/04_glasstaff.md#cena-4-pé-de-cabra))
-  * **Nars** diz que conhece a _[Mata Tresendar]_ e pode chegar a
-    _[Fazenda Alderleaf]_
+  * **Nars** diz que conhece
+    a [Mata Tresendar](../../../../locations/phandalin/tresendar_wood.md) e pode
+    chegar a _[Fazenda Alderleaf]_
     ([Cena 4](../../../../sessions/04_glasstaff.md#cena-4-pé-de-cabra))
