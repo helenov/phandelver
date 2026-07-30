@@ -28,3 +28,9 @@
     ([Cena 11](../../../sessions/02_phandalin.md#cena-11-prefeitura))
   * [Sildar](../sildar_hallwinter.md) propõe que o grupo o capture
     ([Cena 11](../../../sessions/02_phandalin.md#cena-11-prefeitura))
+
+####
+
+* [Sessão 4 Glasstaff](../../../sessions/04_glasstaff.md)
+  * **Glasstaff** foge do _[Esconderijo Redbrand]_
+    ([Cena 3](../../../sessions/04_glasstaff.md#cena-3-mago))

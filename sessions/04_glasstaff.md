@@ -27,7 +27,7 @@ _próxima_ : _[Sessão 5 Perda]_
 ####
 
 * [Redbrands](../organizations/redbrands.md)
-  * _[Glasstaff]_, líder
+  * [Glasstaff](../characters/npcs/redbrands/glasstaff.md), líder
   * _[Ssnark]_, guarda da caverna
   * bandidos
 
@@ -164,7 +164,8 @@ invisível ao alcançar a porta, mas é atacado novamente pela criatura alada, q
 passa por ele, sumindo em seguida.
 
 A porta revela uma escada que leva às ruínas do que deve ser da cozinha da velha
-_[Mansão Tresendar]_. _[Glasstaff]_ e seu mascote fugiram.
+_[Mansão Tresendar]_. [Glasstaff](../characters/npcs/redbrands/glasstaff.md) e
+seu mascote fugiram.
 
 ---
 
