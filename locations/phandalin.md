@@ -45,6 +45,13 @@ _[_Texto_]_ :construction:
 * [Harbin Weber](../characters/npcs/phandalin/harbin_wester.md), prefeito
 * [Joe Smithe](../characters/npcs/phandalin/joe_smithe.md), ferreiro
 
+####
+
+* [Mirna Dendrar](../characters/npcs/phandalin/dendrar/mirna_dendrar.md), esposa
+  de [Thel Dendrar](../characters/npcs/phandalin/dendrar/thel_dendrar.md)
+  * [Nilsa Dendrar](../characters/npcs/phandalin/dendrar/nilsa_dendrar.md), filha de Thel e Mirna
+  * [Nars Dendrar.md](../characters/npcs/phandalin/dendrar/nars_dendrar.md), filho de Thel e Mirna
+
 #### Mencionados
 
 * [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), mestre da
