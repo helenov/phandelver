@@ -32,11 +32,12 @@ _próxima_ : _[Sessão 5 Perda]_
 
 ### Cenários
 
-* _[_Location_]_
+* _[Esconderijo Redbrand]_
 
 #### Mencionados
 
-* _[_Location_]_
+* _[Mata Tresendar]_
+* _[Fazenda Alderleaf]_
 
 ---
 
