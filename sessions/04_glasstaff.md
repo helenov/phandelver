@@ -15,9 +15,14 @@ _próxima_ : _[Sessão 5 Perda]_
 
 ### Elenco
 
-* _[Mirna Dendrar]_, viúva do carpinteiro _[Thel Dendrar]_ (RIP)
-  * _[Nilsa Dendrar]_, filha de Mirna
-  * _[Nars Dendrar]_, filho de Mirna
+* [Mirna Dendrar](../characters/npcs/phandalin/dendrar/mirna_dendrar.md), viúva
+  do
+  carpinteiro [Thel Dendrar](../characters/npcs/phandalin/dendrar/thel_dendrar.md)
+  (RIP)
+  * [Nilsa Dendrar](../characters/npcs/phandalin/dendrar/nilsa_dendrar.md),
+    filha de Mirna
+  * [Nars Dendrar](../characters/npcs/phandalin/dendrar/nars_dendrar.md), filho
+    de Mirna
 
 ####
 
@@ -28,7 +33,8 @@ _próxima_ : _[Sessão 5 Perda]_
 
 #### Mencionados
 
-* _[Thel Dendrar]_ (RIP), carpinteiro
+* [Thel Dendrar](../characters/npcs/phandalin/dendrar/thel_dendrar.md) (RIP),
+  carpinteiro
 
 ### Cenários
 
@@ -61,13 +67,19 @@ o quarto bandido tenta fugir pelo mesmo corredor de onde veio, revelando que há
 uma passagem secreta em frente a porta trancada. Ralf consegue ser rápido e o
 encurralar justamente nesta passagem, derrotando enfim o último adversário.
 
-Agora com tudo mais calmo novamente, o grupo conversa com os prisioneiros. A
-mulher mais velha se apresenta como _[Mirna Dendrar]_, esposa do carpinteiro
-_[Thel Dendrar]_, e "estas são nossos filhos _[Nilsa]_", uma jovem de pouco mais
-de 18 anos, "e _[Nars]_", um garoto de 12.
+Agora, com tudo mais calmo novamente, o grupo conversa com os prisioneiros. A
+mulher mais velha se apresenta
+como [Mirna Dendrar](../characters/npcs/phandalin/dendrar/mirna_dendrar.md),
+esposa do carpinteiro
+[Thel Dendrar](../characters/npcs/phandalin/dendrar/thel_dendrar.md), e "nossos
+filhos [Nilsa](../characters/npcs/phandalin/dendrar/nilsa_dendrar.md)", uma
+jovem de pouco mais de 18 anos,
+"e [Nars](../characters/npcs/phandalin/dendrar/nars_dendrar.md)", um garoto de
+12 anos.
 
-Mirna conta como os _[Redbrands]_ mataram seu marido, e depois voltaram para
-buscar seu corpo e os levou. "Acho que eles pretendem nos vender como escravos."
+Mirna conta como os _[Redbrands]_ mataram seu marido e levaram seu corpo, depois
+voltaram e levaram a família. "Acho que eles pretendem nos vender como
+escravos."
 
 Percebem então que não tem como abrir as celas. "Tem um 'mostro peludo de
 orelhas grandes' que tem as chaves", informa Mirna.
@@ -172,7 +184,8 @@ consegue romper as correntes que prendem as grades das celas.
 
 Cautelosamente, conduzem a família Dendrar pela caverna até o túnel, onde são
 orientados a seguir pela _[Mata Tresendar]_ atá a _[Fazenda Alderleaf]_. O
-garoto _[Nars]_ diz conhecer bem a mata e consegue chegar a fazenda.
+garoto [Nars](../characters/npcs/phandalin/dendrar/nars_dendrar.md) diz conhecer
+bem a mata e consegue chegar a fazenda.
 
 Aproveitam que agora têm uma ferramenta &mdash; ao passar pela oficina, não
 notam que há dois pés-de-cabra sobre alguns caixotes &mdash;, conseguem abrir

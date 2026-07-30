@@ -26,8 +26,10 @@ _[_Texto_]_ :construction:
 
 ### Referências
 
-* _[Sessão 4]_
+* [Sessão 4 Glasstaff](../../../../sessions/04_glasstaff.md)
   * grupo liberta **Mirna** e seus filhos prisioneiros
     dos [Redbrands](../../../../organizations/redbrands.md)
-    (_[Cenas 1 e 4]_)
-  * **Mirna* fala do "monstro peludo" que tem a chave das celas (_[Cena 1]_)
+    ([Cena 1](../../../../sessions/04_glasstaff.md#cena-1-prisioneiros)
+    e [Cena 4](../../../../sessions/04_glasstaff.md#cena-4-pé-de-cabra))
+  * **Mirna** fala do "monstro peludo" que tem a chave das celas
+    ([Cena 1](../../../../sessions/04_glasstaff.md#cena-1-prisioneiros))

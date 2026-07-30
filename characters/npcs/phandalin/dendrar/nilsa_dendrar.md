@@ -26,7 +26,8 @@ _[_Texto_]_ :construction:
 
 ### Referências
 
-* _[Sessão 4]_
+* [Sessão 4 Glasstaff](../../../../sessions/04_glasstaff.md)
   * grupo liberta [Mirna](mirna_dendrar.md) e seus filhos prisioneiros
     dos [Redbrands](../../../../organizations/redbrands.md)
-    (_[Cenas 1 e 4]_)
+    ([Cena 1](../../../../sessions/04_glasstaff.md#cena-1-prisioneiros)
+    e [Cena 4](../../../../sessions/04_glasstaff.md#cena-4-pé-de-cabra))
