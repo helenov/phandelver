@@ -42,6 +42,10 @@
     da [Lionshield Coster](../organizations/lionshield_coster.md)
   * [Harbin Wester](npcs/phandalin/harbin_wester.md), prefeito
   * [Joe Smithe](npcs/phandalin/joe_smithe.md), ferreiro
+  * [Mirna Dendrar](npcs/phandalin/dendrar/mirna_dendrar.md), esposa
+    de [Thel Dendrar](npcs/phandalin/dendrar/thel_dendrar.md)
+    * [Nilsa Dendrar](npcs/phandalin/dendrar/nilsa_dendrar.md), filha de Thel e Mirna
+    * [Nars Dendrar.md](npcs/phandalin/dendrar/nars_dendrar.md), filho de Thel e Mirna
 
 ####
 
