@@ -9,7 +9,10 @@ _[_Texto_]_ :construction:
 
 ### Personagens
 
-* [Ssnark](../../characters/npcs/redbrands/ssnark.md), voz na cabeça
+* [Glasstaff](../../characters/npcs/redbrands/glasstaff.md), líder
+  dos [Redbrands](../../organizations/redbrands.md)
+* [Ssnark](../../characters/npcs/redbrands/ssnark.md) (RIP), criatura que guarda
+  o **Esconderijo Redbrand**
 * bandidos
 * esqueletos
 

@@ -19,8 +19,8 @@
 
 ### Locais
 
-* [Esconderijo Redbrands](../../../locations/phandalin/redbrand_hideout.md), voz
-  na cabeça
+* [Esconderijo Redbrand](../../../locations/phandalin/redbrand_hideout.md),
+  criatura que guarda a fenda
 
 ### Referências
 
