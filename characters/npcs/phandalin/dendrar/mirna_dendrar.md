@@ -22,7 +22,7 @@ _[_Texto_]_ :construction:
 ### Locais
 
 * [Phandalin](../../../../locations/phandalin.md), moradora
-  * _[Carpintaria]_, residente
+  * [Carpintaria](../../../../locations/phandalin/woodworker_shop.md), residente
 
 ### Referências
 
