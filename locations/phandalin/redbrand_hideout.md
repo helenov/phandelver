@@ -11,6 +11,7 @@ _[_Texto_]_ :construction:
 
 * [Glasstaff](../../characters/npcs/redbrands/glasstaff.md), líder
   dos [Redbrands](../../organizations/redbrands.md)
+  * seu mascote
 * [Ssnark](../../characters/npcs/redbrands/ssnark.md) (RIP), criatura que guarda
   o **Esconderijo Redbrand**
 * bandidos
@@ -23,7 +24,7 @@ _[_Texto_]_ :construction:
 ### Locais
 
 * [Mansão Tresendar](tresendar_manor.md)
-  * o **Esconderijo Redbrand** está localizado no subsolo abaixo da velha mansão
+  * o **Esconderijo Redbrand** está localizado nos porões da velha mansão
 * [Mata Trasandar](tresendar_wood.md)
   * o **Esconderijo Redbrand** tem uma entrada secreta por uma caverna escondida
     na mata

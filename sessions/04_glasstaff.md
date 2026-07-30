@@ -28,6 +28,7 @@ _próxima_ : _[Sessão 5 Perda]_
 
 * [Redbrands](../organizations/redbrands.md)
   * [Glasstaff](../characters/npcs/redbrands/glasstaff.md), líder
+    * seu mascote
   * [Ssnark](../characters/npcs/redbrands/ssnark.md), criatura que guarda
     o [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
   * bandidos

@@ -54,6 +54,11 @@
   * [Yeemik](npcs/cragmaw/yeemik.md), novo chefe local
   * [Flip](npcs/cragmaw/flip.md), goblin interrogado
 
+####
+
+* [Glasstaff](npcs/redbrands/glasstaff.md), líder criminoso
+  * seu mascote
+    
 #### Mencionados
 
 * [Cragmaws Goblins](../organizations/cragmaw_goblins.md)
@@ -81,7 +86,3 @@
     guilda dos mineradores
   * [Thel Dendrar](npcs/phandalin/dendrar/thel_dendrar.md) (RIP), carpinteiro
 
-####
-
-* [Redbrands](../organizations/redbrands.md)
-  * [Glasstaff](npcs/redbrands/glasstaff.md), líder criminoso

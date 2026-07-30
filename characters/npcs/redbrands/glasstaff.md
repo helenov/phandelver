@@ -11,8 +11,8 @@
 
 ### Relações
 
-* [Ssnark](ssnark.md), criatura que guarda
-  o [Esconderijo Redbrand](../../../locations/phandalin/redbrand_hideout.md)
+* [Ssnark](ssnark.md), aliado subordinado
+* seu mascote
 
 ### Organizações
 
