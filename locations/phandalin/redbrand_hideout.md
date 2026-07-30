@@ -49,6 +49,8 @@ _[_Texto_]_ :construction:
 * [Sessão 4 Glasstaff](../../sessions/04_glasstaff.md)
   * grupo continua a exploração do **Esconderijo Redbrand**
     ([Cenas 1 a 4](../../sessions/04_glasstaff.md#cena-1-prisioneiros))
+  * grupo enfrenta e derrota [Ssnark](../../characters/npcs/redbrands/ssnark.md)
+    ([Cena 2](../../sessions/04_glasstaff.md#cena-2-ssnark))
   * [Glasstaff](../../characters/npcs/redbrands/glasstaff.md) foge do
     **Esconderijo Redbrand**
     ([Cena 3](../../sessions/04_glasstaff.md#cena-3-mago))

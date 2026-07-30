@@ -28,7 +28,8 @@ _próxima_ : _[Sessão 5 Perda]_
 
 * [Redbrands](../organizations/redbrands.md)
   * [Glasstaff](../characters/npcs/redbrands/glasstaff.md), líder
-  * _[Ssnark]_, guarda da caverna
+  * [Ssnark](../characters/npcs/redbrands/ssnark.md), criatura que guarda
+    o [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
   * bandidos
 
 #### Mencionados
@@ -103,8 +104,8 @@ caixotes, tanto vazios quanto cheios de itens roubados prontos para serem
 contrabandeados &mdash; além de ferramentas para trabalhar com as caixas.
 
 "Homenzinhos voltaram! Ah! Mas agora não são mais intrusos. Venham conversar com
-_[Ssnark]_...", sussurra a voz diretamente em suas cabeças, e mais risadas
-insanas.
+[Ssnark](../characters/npcs/redbrands/ssnark.md)...", sussurra a voz novamente
+direto na cabeça de cada um, e mais risadas insanas.
 
 Bia, a coruja, sobrevoa a caverna, e vê a criatura atrás de uma das pilastras.
 Nisso, a criatura se revela. Um ser escamoso, com braços e pernas longos, garras
@@ -114,8 +115,8 @@ toda sua cabeça.
 Sapão rapidamente ataca de longe, iniciando o combate.
 
 Ssnark fica bastante ferido e foge da briga, tentando negociar. "Mestre não quer
-intrusos em sua casa", diz a criatura apontando para um dos corredores que saem
-da caverna para oeste.
+intrusos em seus aposentos", diz a criatura apontando para um dos corredores que
+saem da caverna para oeste.
 
 Quando o grupo faz menção se dirigir para este corredor, Ssnark corre para
 bloquear o caminho, reiniciando o combate, e a criatura acaba derrotada.

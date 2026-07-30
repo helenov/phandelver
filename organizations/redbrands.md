@@ -79,3 +79,5 @@
     e seus filhos dos **Redbrands**
     ([Cena 1](../sessions/04_glasstaff.md#cena-1-prisioneiros)
     e [Cena 4](../sessions/04_glasstaff.md#cena-4-pé-de-cabra))
+  * grupo enfrenta e derrota [Ssnark](../characters/npcs/redbrands/ssnark.md)
+    ([Cena 2](../sessions/04_glasstaff.md#cena-2-ssnark))
