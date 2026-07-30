@@ -15,11 +15,20 @@ _próxima_ : _[Sessão 5 Perda]_
 
 ### Elenco
 
-* _[_Character_]_, _[_detalhe_]_
+* _[Mirna Dendrar]_, viúva do carpinteiro _[Thel Dendrar]_ (RIP)
+  * _[Nilsa Dendrar]_, filha de Mirna
+  * _[Nars Dendrar]_, filho de Mirna
+
+####
+
+* _[Redbrands]_
+  * _[Glasstaff]_, líder
+  * _[Ssnark]_, guarda da caverna
+  * bandidos
 
 #### Mencionados
 
-* _[_Character_]_, _[_detalhe_]_
+* _[Thel Dendrar]_ (RIP), carpinteiro
 
 ### Cenários
 
@@ -128,7 +137,7 @@ _[_Imagem_]_ :construction:
 > - voltam para os prisioneiros
 >   - Professor lembra que tem um pé-de-cabra
 >   - Ralf consegue abrir as celas
->   - conduzem a família Dendral até o túnel
+>   - conduzem a família Dendrar até o túnel
 >     - orientados a seguir pela floresta até a fazenda da garota Carp
 >     - Nars diz que conhece um pouco a floresta e deve conseguir chegar lá
 >
