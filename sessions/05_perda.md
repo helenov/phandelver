@@ -32,12 +32,13 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 
 * [Phandalin]
   * [Harbin Weber]
-  * [Sildar]
+  * [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md)
   * [Irmã Garaele]
 
 #### Mencionados
 
-* [Iarno Albrek](../casting/npcs/iarno_albrek.md), aka [Glasstaff](../casting/npcs/redbrands/glasstaff.md)
+* [Iarno Albrek](../casting/npcs/iarno_albrek.md),
+  aka [Glasstaff](../casting/npcs/redbrands/glasstaff.md)
 * [Spider](../casting/npcs/spider.md), inimigo
 
 ####
@@ -183,10 +184,11 @@ da prefeitura, prontamente paga a recompensa de 100 gps prometida. Apesar de
 lamentar a fuga do líder, não consegue esconder um certo alívio por não ter de
 lidar com mais este problema.
 
-Perguntado sobre [Sildar], o prefeito informa que o cavaleiro está
-no [Santuário da Fortuna], onde foi se encontrar com a [Irmã Garaele] que voltou
-de sua viagem. Parece que ela está ferida e, embora não saiba de detalhes, ele
-acha que foi atacada pelos bandidos que seguem agindo na [Estrada Triboar]
+Perguntado sobre [Sildar](../casting/npcs/sildar_hallwinter.md), o prefeito
+informa que o cavaleiro está no [Santuário da Fortuna], onde foi se encontrar
+com a [Irmã Garaele] que voltou de sua viagem. Parece que ela está ferida e,
+embora não saiba de detalhes, ele acha que foi atacada pelos bandidos que seguem
+agindo na [Estrada Triboar]
 "para os lados de [Conyberry]"
 
 ---
@@ -195,10 +197,11 @@ acha que foi atacada pelos bandidos que seguem agindo na [Estrada Triboar]
 
 _[_Imagem_]_ :construction:
 
-Chegando ao [Santuário da Fortuna], são recebidos por [Sildar], que lamenta a
-perda do grupo e os apresenta a [Irmã Garaele], uma jovem elfa com um braço
-suspenso em uma tipóia, que emite um grunhido de dor ao se levantar para
-cumprimentar a dupla de aventureiros.
+Chegando ao [Santuário da Fortuna], são recebidos
+por [Sildar](../casting/npcs/sildar_hallwinter.md), que lamenta a perda do grupo
+e os apresenta a [Irmã Garaele], uma jovem elfa com um braço suspenso em uma
+tipóia, que emite um grunhido de dor ao se levantar para cumprimentar a dupla de
+aventureiros.
 
 Irmã Garaele se apresenta como uma agende dos [Harpers] e tinha recebido
 recentemente a missão de obter uma informação de uma banshee conhecida como
@@ -216,8 +219,9 @@ Em particular, contam a Sildar sobre como derrotaram
 os [Redbrands](../organizations/redbrands.md) e que, apesar da fuga do líder,
 eles não devem voltar a incomodar a cidade por um bom tempo. Apresentam ao
 cavaleiro a carta que encontraram, e este fica chocado ao saber que o
-companheiro [Iarno Albrek](../casting/npcs/iarno_albrek.md) que julgava estar prisioneiro dos bandidos na
-realidade era o seu líder, [Glasstaff](../casting/npcs/redbrands/glasstaff.md).
+companheiro [Iarno Albrek](../casting/npcs/iarno_albrek.md) que julgava estar
+prisioneiro dos bandidos na realidade era o seu
+líder, [Glasstaff](../casting/npcs/redbrands/glasstaff.md).
 
 Sildar diz que, mais do que nunca é necessário encontrar o [Castelo Cragmaw]
 para encontrar o anão [Gundren], mas que, embora tenham perguntado por toda a

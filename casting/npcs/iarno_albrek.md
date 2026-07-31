@@ -69,5 +69,6 @@ invisibilidade.
   * carta de [Spider](spider.md) revela que [Glasstaff](redbrands/glasstaff.md)
     é **Iarno Albrek**
     ([Cena 1](../../sessions/05_perda.md#cena-1-carta))
-  * grupo conta para [Sildar] a verdade sobre **Iarno Albrek**
+  * grupo conta para [Sildar](sildar_hallwinter.md) a verdade sobre **Iarno
+    Albrek**
     ([Cena 4](../../sessions/05_perda.md#cena-4-irmã-garaele))

@@ -88,3 +88,16 @@ do que julga seu amigo otimista.
     os [Redbrands](../../organizations/redbrands.md) e
     capture [Glasstaff](redbrands/glasstaff.md)
     ([Cena 11](../../sessions/02_phandalin.md#cena-11-prefeitura))
+
+####
+
+* [Sessão 5 Perda](../../sessions/05_perda.md)
+  * o [Prefeito] diz que **Sildar** esta com a [Irmã Garaele]
+    no [Santuário da Fortuna]
+    ([Cena 3](../../sessions/05_perda.md#cena-3-recompensa))
+  * **Sildar** apresenta ao grupo a [Irmã Garaele]
+    ([Cena 4](../../sessions/05_perda.md#cena-4-irmã-garaele))
+  * grupo conta para **Sildar** a verdade sobre [Iarno Albrek](iarno_albrek.md)
+    ([Cena 4](../../sessions/05_perda.md#cena-4-irmã-garaele))
+  * **Sildar** sugere que investiguem os ataques na [Estrada Triboar]
+    ([Cena 4](../../sessions/05_perda.md#cena-4-irmã-garaele))

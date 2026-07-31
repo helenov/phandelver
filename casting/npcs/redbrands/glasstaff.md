@@ -50,5 +50,6 @@ _[_Texto_]_ :construction:
   * carta de [Spider](../spider.md) revela que **Glasstaff**
     é [Iarno Albrek](../iarno_albrek.md)
     ([Cena 1](../../../sessions/05_perda.md#cena-1-carta))
-  * grupo conta para [Sildar] a verdade sobre **Glasstaff**
+  * grupo conta para [Sildar](../sildar_hallwinter.md) a verdade sobre
+    **Glasstaff**
     ([Cena 4](../../../sessions/05_perda.md#cena-4-irmã-garaele))
