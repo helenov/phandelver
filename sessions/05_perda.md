@@ -37,7 +37,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 
 #### Mencionados
 
-* [Iarno Albrek], aka [Glasstaff]
+* [Iarno Albrek](../casting/npcs/iarno_albrek.md), aka [Glasstaff](../casting/npcs/redbrands/glasstaff.md)
 * [Spider], inimigo
 
 ####
@@ -85,12 +85,12 @@ que estava aberto sobre a mesa e, olhando as estantes, encontram um livro
 antigo, escrito em língua anã, com o título ["As Aventuras de Urmon"]. Leva
 consigo também alguns frascos de reagentes que julgou interessante.
 
-No quarto de [Glasstaff], sobre sua mesa estão muitos papéis espalhados, a
-maioria pedidos e recibos de material alquímico, mas um se destaca: uma carta
-assinada com o símbolo de uma aranha preta, e escrita em uma caligrafia
-refinada:
+No quarto de [Glasstaff](../casting/npcs/redbrands/glasstaff.md), sobre sua mesa
+estão muitos papéis espalhados, a maioria pedidos e recibos de material
+alquímico, mas um se destaca: uma carta assinada com o símbolo de uma aranha
+preta, e escrita em uma caligrafia refinada:
 
-> Senhor [Albrek],
+> Senhor [Albrek](../casting/npcs/iarno_albrek.md),
 >
 > Meus espiões em [Neverwinter] relataram que forasteiros estão por chegar a
 > [Phandalin]. Eles podem estar a serviço dos anãos. Capture-os se puder,
@@ -216,8 +216,8 @@ Em particular, contam a Sildar sobre como derrotaram
 os [Redbrands](../organizations/redbrands.md) e que, apesar da fuga do líder,
 eles não devem voltar a incomodar a cidade por um bom tempo. Apresentam ao
 cavaleiro a carta que encontraram, e este fica chocado ao saber que o
-companheiro [Iarno Albrek] que julgava estar prisioneiro dos bandidos na
-realidade era o seu líder, [Glasstaff].
+companheiro [Iarno Albrek](../casting/npcs/iarno_albrek.md) que julgava estar prisioneiro dos bandidos na
+realidade era o seu líder, [Glasstaff](../casting/npcs/redbrands/glasstaff.md).
 
 Sildar diz que, mais do que nunca é necessário encontrar o [Castelo Cragmaw]
 para encontrar o anão [Gundren], mas que, embora tenham perguntado por toda a

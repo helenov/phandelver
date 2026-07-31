@@ -93,8 +93,11 @@ _[_Texto_]_ :construction:
 ####
 
 * [Sessão 5 Perda](../sessions/05_perda.md)
-  * grupo descobre que [Glasstaff] é, na verdade, [Iarno Albrek] ([Cena 1])
+  * grupo descobre que [Glasstaff](../casting/npcs/redbrands/glasstaff.md) é, na
+    verdade, [Iarno Albrek] ([Cena 1](../sessions/05_perda.md#cena-1-carta))
   * [Droop](../casting/npcs/cragmaw/droop.md) diz que foram enviados como
     reforço para os **Redbrands**
     ([Cena 2](../sessions/05_perda.md#cena-2-perda))
-  * grupo conta para [Sildar] a verdade sobre [Iarno Albrek] ([Cena 4])
+  * grupo conta para [Sildar] a verdade
+    sobre [Glasstaff](../casting/npcs/redbrands/glasstaff.md) e [Iarno Albrek]
+    ([Cena 4](../sessions/05_perda.md#cena-4-irmã-garaele))

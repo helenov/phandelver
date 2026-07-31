@@ -11,6 +11,10 @@ _[_Texto_]_ :construction:
 
 ### Relações
 
+* [Iarno Albrek](../iarno_albrek.md), verdadeira identidade
+
+####
+
 * [Ssnark](ssnark.md) (RIP), aliado e subordinado
 * seu mascote
 
@@ -21,7 +25,8 @@ _[_Texto_]_ :construction:
 ### Locais
 
 * [Phandalin](../../../locations/phandalin.md), líder criminoso
-  * [Esconderijo Redbrand](../../../locations/phandalin/redbrand_hideout.md), ocupante
+  * [Esconderijo Redbrand](../../../locations/phandalin/redbrand_hideout.md),
+    ocupante
 
 ### Referências
 
@@ -38,3 +43,11 @@ _[_Texto_]_ :construction:
   * **Glasstaff** foge
     do [Esconderijo Redbrand](../../../locations/phandalin/redbrand_hideout.md)
     ([Cena 3](../../../sessions/04_glasstaff.md#cena-3-mago))
+
+####
+
+* [Sessão 5 Perda](../../../sessions/05_perda.md)
+  * grupo descobre que **Glasstaff** é, na verdade, [Iarno Albrek](../iarno_albrek.md)
+    ([Cena 1](../../../sessions/05_perda.md#cena-1-carta))
+  * grupo conta para [Sildar] a verdade sobre **Glasstaff** e [Iarno Albrek](../iarno_albrek.md)
+    ([Cena 4](../../../sessions/05_perda.md#cena-4-irmã-garaele))
