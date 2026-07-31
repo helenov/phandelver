@@ -24,6 +24,6 @@
   * (2026-04-27) [Sessão 3 Redbrands](sessions/03_redbrands.md)
   * (2026-05-11) [Sessão 4 Glasstaff](sessions/04_glasstaff.md)
   * (2026-05-25) [Sessão 5 Perda](sessions/05_perda.md)
-  * (2026-06-08) _[Sessão 6 Wyvern Tor]_
-  * (2026-07-06) _[Sessão 7 A Floresta]_
-  * (2026-07-30) _[Sessão 8]_
+  * (2026-06-08) [Sessão 6 Wyvern Tor]
+  * (2026-07-06) [Sessão 7 A Floresta]
+  * (2026-07-30) [Sessão 8]
