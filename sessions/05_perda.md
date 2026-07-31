@@ -24,7 +24,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 ####
 
 * [Cragmaw Goblins]
-  * [Nosk] (RIP), líder bugbear
+  * [Nosk](../casting/npcs/cragmaw/nosk.md) (RIP), líder bugbear
   * [Droop], goblin medroso
   * bugbears
 
@@ -153,7 +153,8 @@ Droop diz ser um [Cragmaw] que foi mandado para lá com os bugbears para "ajudar
 humanos de capa vermelha". Perguntado sobre a localização do [Castelo Cragmaw],
 diz que veio de [Wyvern Tor] e que nunca esteve no castelo, só sabe que "fica
 escondido na floresta ao norte", claramente a [Floresta de Neverwinter], e
-apontando para o líder morto, "Droop acha que [Nosk] sabia..."
+apontando para o líder morto, "Droop acha
+que [Nosk](../casting/npcs/cragmaw/nosk.md) sabia..."
 
 O líder era um bugbear corpulento que usava um tapa-olho de couro preto
 cravejado de pequenas pedras preciosas. Retirado o tapa-olho, percebem que Nosk,
@@ -247,7 +248,7 @@ longos.
 Com a vista turva pela bebida e ofuscada pela luz alaranjada do sol, os amigos
 se assustam. "Sapão?!? É você?"
 
-Nisso, um cachorro enorme passa pelo recém-chegado entrando no salão com um olhar
-alerta. "Alto lá, Frodo!"
+Nisso, um cachorro enorme passa pelo recém-chegado entrando no salão com um
+olhar alerta. "Alto lá, Frodo!"
 
 ---

@@ -57,7 +57,7 @@
     * [Yeemik](npcs/cragmaw/yeemik.md), novo chefe local
     * [Flip](npcs/cragmaw/flip.md), goblin interrogado
   * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-    * [Nosk] (RIP), líder bugbear
+    * [Nosk](npcs/cragmaw/nosk.md) (RIP), líder bugbear
     * [Droop], goblin capturado
 
 ####
