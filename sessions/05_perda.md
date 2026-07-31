@@ -38,7 +38,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 #### Mencionados
 
 * [Iarno Albrek](../casting/npcs/iarno_albrek.md), aka [Glasstaff](../casting/npcs/redbrands/glasstaff.md)
-* [Spider], inimigo
+* [Spider](../casting/npcs/spider.md), inimigo
 
 ####
 

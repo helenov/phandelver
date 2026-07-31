@@ -12,6 +12,7 @@
 ### Relações
 
 * [Grol](cragmaw/grol.md), aliado
+* [Iarno Albrek](iarno_albrek.md), aliado
 
 [//]: # (### Organizações)
 [//]: # ()
@@ -33,3 +34,9 @@
   * [Flip](cragmaw/flip.md) diz que **Spider** "manda"
     em [Grol](cragmaw/grol.md)
     ([Cena 4](../../sessions/02_phandalin.md#cena-4-interrogatório))
+
+####
+
+* [Sessão 5 Perda](../../sessions/05_perda.md)
+  * carta de **Spider** revela que [Glasstaff](redbrands/glasstaff.md)
+    é [Iarno Albrek](iarno_albrek.md) ([Cena 1](../../sessions/05_perda.md#cena-1-carta))

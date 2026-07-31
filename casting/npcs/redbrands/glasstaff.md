@@ -47,7 +47,8 @@ _[_Texto_]_ :construction:
 ####
 
 * [Sessão 5 Perda](../../../sessions/05_perda.md)
-  * grupo descobre que **Glasstaff** é, na verdade, [Iarno Albrek](../iarno_albrek.md)
+  * carta de [Spider](../spider.md) revela que **Glasstaff**
+    é [Iarno Albrek](../iarno_albrek.md)
     ([Cena 1](../../../sessions/05_perda.md#cena-1-carta))
-  * grupo conta para [Sildar] a verdade sobre **Glasstaff** e [Iarno Albrek](../iarno_albrek.md)
+  * grupo conta para [Sildar] a verdade sobre **Glasstaff**
     ([Cena 4](../../../sessions/05_perda.md#cena-4-irmã-garaele))

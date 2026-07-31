@@ -22,7 +22,7 @@ ele tenha sido capturado pelo
 
 Mais adiante, quando o grupo invade
 o [Esconderijo Redbrand](../../locations/phandalin/redbrand_hideout.md),
-descobrem por uma carta de [Spider] que, Iarno é, na
+descobrem por uma carta de [Spider](spider.md) que, Iarno é, na
 verdade, [Glasstaff](redbrands/glasstaff.md), o líder dos Redbrands. Perseguido
 pelo grupo, Iarno "Glasstaff" consegue fugir com a ajuda de uma poção de
 invisibilidade.
@@ -36,6 +36,10 @@ invisibilidade.
 
 * [Sildar Hallwinter](sildar_hallwinter.md), ex-companheiro
   na [Lords' Alliance](../../organizations/lords_alliance.md)
+
+####
+
+* [Spider](spider.md), aliado
 
 ### Organizações
 
@@ -62,8 +66,8 @@ invisibilidade.
 ####
 
 * [Sessão 5 Perda](../../sessions/05_perda.md)
-  * grupo descobre que [Glasstaff](redbrands/glasstaff.md) é, na verdade,
-    **Iarno Albrek** ([Cena 1](../../sessions/05_perda.md#cena-1-carta))
-  * grupo conta para [Sildar] a verdade
-    sobre [Glasstaff](redbrands/glasstaff.md) e **Iarno Albrek**
+  * carta de [Spider](spider.md) revela que [Glasstaff](redbrands/glasstaff.md)
+    é **Iarno Albrek**
+    ([Cena 1](../../sessions/05_perda.md#cena-1-carta))
+  * grupo conta para [Sildar] a verdade sobre **Iarno Albrek**
     ([Cena 4](../../sessions/05_perda.md#cena-4-irmã-garaele))
