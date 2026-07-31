@@ -11,10 +11,9 @@ _[_Texto_]_ :construction:
 
 ### Personagens
 
-* [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
-  * primeiro encontro
-* [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md)
-  * primeiro encontro
+* [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md), mercador
+* [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md), agente
+  da [Lords' Alliance](../organizations/lords_alliance.md)
 
 [//]: # (### Organizações)
 [//]: # ()

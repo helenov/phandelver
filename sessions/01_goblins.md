@@ -24,7 +24,8 @@ _próxima_ : [Sessão 2 Phandalin](02_phandalin.md)
 
 #### Mencionados
 
-* [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md)
+* [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md), mercador
+  sequestrado
 
 ### Cenários
 

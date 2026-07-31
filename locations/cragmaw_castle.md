@@ -11,8 +11,7 @@
 
 ### Personagens
 
-* [Grol](../characters/npcs/cragmaw/grol.md)
-  * rei dos [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
+* [Grol](../characters/npcs/cragmaw/grol.md), rei
 
 ### Organizações
 

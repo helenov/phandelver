@@ -16,7 +16,7 @@
 
 ### Non-player Characters
 
-* [Gundren Rockseeker](npcs/gundren_rockseeker.md), anão mercador
+* [Gundren Rockseeker](npcs/gundren_rockseeker.md), mercador
 * [Sildar Hallwinter](npcs/sildar_hallwinter.md), representante
   da [Lords' Alliance](../organizations/lords_alliance.md)
 
@@ -37,7 +37,7 @@
     * [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md), filha de
       Qelline
   * [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do
-    pomar
+    pomar e aventureiro aposentado
   * [Linene Graywind](npcs/phandalin/linene_graywind.md), representante
     da [Lionshield Coster](../organizations/lionshield_coster.md)
   * [Harbin Wester](npcs/phandalin/harbin_wester.md), prefeito
