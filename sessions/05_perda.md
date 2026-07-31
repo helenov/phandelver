@@ -16,11 +16,35 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 
 ### Elenco
 
-* _[_Character_]_, _[_detalhe_]_
+* [Redbrands]
+  * bandidos
+
+####
+
+* [Cragmaw Goblins]
+  * [Nosk], líder bugbear
+  * [Droop], goblin medroso
+  * bugbears
+
+####
+
+* [Phandalin]
+  * [Harbin Weber]
+  * [Sildar]
+  * [Irmã Garaele]
 
 #### Mencionados
 
-* _[_Character_]_, _[_detalhe_]_
+* [Iarno Albrek], aka [Glasstaff]
+* [Spider], inimigo
+
+#### 
+
+* [Agatha], banshee
+
+####
+
+* [Gundren Rockseeker], mercador sequestrado
 
 ### Cenários
 
