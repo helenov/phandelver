@@ -8,9 +8,13 @@ _próxima_ : _[Sessão _X-2_ _Título_]_
 
 ### Cenas
 
+:construction:
+
 * _[Cena _X_ _Título_]_
 
 ### Elenco
+
+:construction:
 
 * _[_Character_]_, _[_detalhe_]_
 
@@ -19,6 +23,8 @@ _próxima_ : _[Sessão _X-2_ _Título_]_
 * _[_Character_]_, _[_detalhe_]_
 
 ### Cenários
+
+:construction:
 
 * _[_Location_]_
 
