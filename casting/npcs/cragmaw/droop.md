@@ -23,7 +23,7 @@ _[_Texto_]_ :construction:
 
 * [Wyvern Tor](../../../locations/wyvern_tor.md), base de origem
 * [Esconderijo Redbrand](../../../locations/phandalin/redbrand_hideout.md),
-  enviado como reforço e capturado
+  enviado como reforço
 * [Prefeitura], prisioneiro
 
 ### Referências
@@ -32,7 +32,8 @@ _[_Texto_]_ :construction:
   * grupo captura **Droop**
     no [Esconderijo Redbrand](../../../locations/phandalin/redbrand_hideout.md)
     ([Cena 2](../../../sessions/05_perda.md#cena-2-perda))
-  * **Droop** acha que [Nosk](nosk.md) sabia a localização do [Castelo Cragmaw]
+  * **Droop** acha que [Nosk](nosk.md) sabia a localização
+    do [Castelo Cragmaw](../../../locations/cragmaw_castle.md)
     ([Cena 2](../../../sessions/05_perda.md#cena-2-perda))
   * **Droop** diz foram enviados
     de [Wyvern Tor](../../../locations/wyvern_tor.md)

@@ -34,5 +34,6 @@ _[_Texto_]_ :construction:
   * [Droop](droop.md) diz que ele e os bugbears vieram
     de [Wyvern Tor](../../../locations/wyvern_tor.md)
     ([Cena 2](../../../sessions/05_perda.md#cena-2-perda))
-  * [Droop](droop.md) acha que **Nosk** sabia a localização do [Castelo Cragmaw]
+  * [Droop](droop.md) acha que **Nosk** sabia a localização
+    do [Castelo Cragmaw](../../../locations/cragmaw_castle.md)
     ([Cena 2](../../../sessions/05_perda.md#cena-2-perda))
