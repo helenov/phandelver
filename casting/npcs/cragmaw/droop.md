@@ -24,7 +24,7 @@ _[_Texto_]_ :construction:
 * [Wyvern Tor](../../../locations/wyvern_tor.md), base de origem
 * [Esconderijo Redbrand](../../../locations/phandalin/redbrand_hideout.md),
   enviado como reforço
-* [Prefeitura], prisioneiro
+* [Prefeitura](../../../locations/phandalin/townmasters_hall.md), prisioneiro
 
 ### Referências
 
@@ -39,3 +39,6 @@ _[_Texto_]_ :construction:
     de [Wyvern Tor](../../../locations/wyvern_tor.md)
     como reforço para os [Redbrands](../../../organizations/redbrands.md)
     ([Cena 2](../../../sessions/05_perda.md#cena-2-perda))
+  * **Droop** é deixado preso
+    na [Prefeitura](../../../locations/phandalin/townmasters_hall.md)
+    ([Cena 3](../../../sessions/05_perda.md#cena-3-recompensa))

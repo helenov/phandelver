@@ -14,6 +14,12 @@ _[_Texto_]_ :construction:
 * [Harbin Weber](../../casting/npcs/phandalin/harbin_wester.md), prefeito e
   morador
 
+####      
+
+* [Droop](../../casting/npcs/cragmaw/droop.md), prisioneiro
+* [Redbrands](../../organizations/redbrands.md)
+  * 4 prisioneiros
+
 [//]: # (### Organizações)
 [//]: # ()
 [//]: # (* _[_Organização_]_, _[_detalhe_]_)
@@ -36,5 +42,13 @@ _[_Texto_]_ :construction:
 ####
 
 * [Sessão 3 Redbrands](../../sessions/03_redbrands.md)
-  * grupo deixa um bandido capturado na **Prefeitura**
+  * grupo deixa um [Redbrand](../../organizations/redbrands.md) capturado na
+    **Prefeitura**
     ([Cena 1](../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
+
+####
+
+* [Sessão 5 Perda](../../sessions/05_perda.md)
+  * grupo deixa [Droop](../../casting/npcs/cragmaw/droop.md) e mais três
+    [Redbrands](../../organizations/redbrands.md) capturados na **Prefeitura**
+    ([Cena 3](../../sessions/05_perda.md#cena-3-recompensa))
