@@ -22,7 +22,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 ####
 
 * [Cragmaw Goblins]
-  * [Nosk], líder bugbear
+  * [Nosk] (RIP), líder bugbear
   * [Droop], goblin medroso
   * bugbears
 

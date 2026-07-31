@@ -34,55 +34,61 @@
     * [Pip](npcs/phandalin/stonehill/pip_stonehill.md), filho de Toblen
   * [Qelline Alderleaf](npcs/phandalin/alderleaf/qelline_alderleaf.md),
     fazendeira
-    * [Carp](npcs/phandalin/alderleaf/carp_alderleaf.md), filha de
-      Qelline
-  * [Daran Edermath](npcs/phandalin/daran_edermath.md), velho do
-    pomar e aventureiro aposentado
+    * [Carp](npcs/phandalin/alderleaf/carp_alderleaf.md), filha de Qelline
+  * [Daran Edermath](npcs/phandalin/daran_edermath.md), velho do pomar e
+    aventureiro aposentado
   * [Linene Graywind](npcs/phandalin/linene_graywind.md), representante
     da [Lionshield Coster](../organizations/lionshield_coster.md)
   * [Harbin Wester](npcs/phandalin/harbin_wester.md), prefeito
   * [Joe Smithe](npcs/phandalin/joe_smithe.md), ferreiro
   * [Mirna Dendrar](npcs/phandalin/dendrar/mirna_dendrar.md), esposa
     de [Thel Dendrar](npcs/phandalin/dendrar/thel_dendrar.md)
-    * [Nilsa Dendrar](npcs/phandalin/dendrar/nilsa_dendrar.md), filha de Thel e Mirna
-    * [Nars Dendrar.md](npcs/phandalin/dendrar/nars_dendrar.md), filho de Thel e Mirna
+    * [Nilsa Dendrar](npcs/phandalin/dendrar/nilsa_dendrar.md), filha de Thel e
+      Mirna
+    * [Nars Dendrar.md](npcs/phandalin/dendrar/nars_dendrar.md), filho de Thel e
+      Mirna
+  * [Irmã Garaele]
 
 ####
 
 * [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
-  * [Klarg](npcs/cragmaw/klarg.md) (RIP), antigo chefe local
-  * [Yeemik](npcs/cragmaw/yeemik.md), novo chefe local
-  * [Flip](npcs/cragmaw/flip.md), goblin interrogado
+  * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
+    * [Klarg](npcs/cragmaw/klarg.md) (RIP), antigo chefe local
+    * [Yeemik](npcs/cragmaw/yeemik.md), novo chefe local
+    * [Flip](npcs/cragmaw/flip.md), goblin interrogado
+  * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+    * [Nosk] (RIP), líder bugbear
+    * [Droop], goblin capturado
 
 ####
 
-* [Glasstaff](npcs/redbrands/glasstaff.md), líder criminoso
-  * seu mascote
-    
+* [Redbrands](../organizations/redbrands.md)
+  * [Iarno Albrek](npcs/iarno_albrek.md),
+    aka [Glasstaff](npcs/redbrands/glasstaff.md), líder criminoso
+    * seu mascote
+
 #### Mencionados
+
+* [Tharden Rockseeker](npcs/tharden_rockseeker.md), irmão de [Gundren](npcs/gundren_rockseeker.md)
+* [Nundro Rockseeker](npcs/tharden_rockseeker.md), irmão de [Gundren](npcs/gundren_rockseeker.md)
+
+####
+
+* [Phandalin](../locations/phandalin.md)
+  * [Halia Thornton](npcs/phandalin/halia_thornton.md), mestre da guilda dos
+    mineradores
+  * [Thel Dendrar](npcs/phandalin/dendrar/thel_dendrar.md) (RIP), carpinteiro
+
+####
 
 * [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
   * [Grol](npcs/cragmaw/grol.md), rei
 
 ####
 
-* [Spider](npcs/spider.md)
+* [Spider](npcs/spider.md), inimigo
 * [Ruxithid](npcs/ruxithid.md)
 
 ####
 
-* [Tharden Rockseeker](npcs/tharden_rockseeker.md)
-* [Nundro Rockseeker](npcs/tharden_rockseeker.md)
-
-####
-
-* [Iarno Albrek](npcs/iarno_albrek.md), representante
-  da [Lords' Alliance](../organizations/lords_alliance.md) desaparecido
-
-####
-
-* [Phandalin](../locations/phandalin.md)
-  * [Halia Thornton](npcs/phandalin/halia_thornton.md), mestre da
-    guilda dos mineradores
-  * [Thel Dendrar](npcs/phandalin/dendrar/thel_dendrar.md) (RIP), carpinteiro
-
+* [Agatha], banshee
