@@ -25,7 +25,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 
 * [Cragmaw Goblins]
   * [Nosk](../casting/npcs/cragmaw/nosk.md) (RIP), líder bugbear
-  * [Droop], goblin medroso
+  * [Droop](../casting/npcs/cragmaw/droop.md), goblin medroso
   * bugbears
 
 ####
@@ -147,7 +147,8 @@ apenas para encontrá-lo já sem vida.
 
 Enquanto lamentam a perda do elfo, o goblin desmaiado finalmente acorda. Vendo
 que seus algózes foram derrotados, o goblin implora aos seus salvadores "P-por
-favor... Não matem [Droop]! Droop não fez nada!"
+favor... Não matem [Droop](../casting/npcs/cragmaw/droop.md)! Droop não fez
+nada!"
 
 Droop diz ser um [Cragmaw] que foi mandado para lá com os bugbears para "ajudar
 humanos de capa vermelha". Perguntado sobre a localização do [Castelo Cragmaw],

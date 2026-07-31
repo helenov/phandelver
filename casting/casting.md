@@ -58,7 +58,7 @@
     * [Flip](npcs/cragmaw/flip.md), goblin interrogado
   * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
     * [Nosk](npcs/cragmaw/nosk.md) (RIP), líder bugbear
-    * [Droop], goblin capturado
+    * [Droop](npcs/cragmaw/droop.md), goblin capturado
 
 ####
 
