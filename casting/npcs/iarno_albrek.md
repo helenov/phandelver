@@ -6,26 +6,31 @@
 <img alt="Glasstaff" src="../../images/characters/redbrands/glasstaff.jpg" style="width:200px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
-_[_Texto_]_ :construction:
-<br clear="left"/>
-
 Descrito como "um homem baixo, de barba e cabelos escuros, na casa dos 30 anos",
 **Iarno Albrek** é um mago e membro
 da [Lords' Alliance](../../organizations/lords_alliance.md), que foi enviado
 a [Phandalin](../../locations/phandalin.md) como representante oficial da
 aliança e ajudar a nova cidade a se estruturar administrativamente e progredir.
 
-Mas Iarno desapareceu pouco após chegar a cidade
+Mas **Iarno** desapareceu pouco após chegar a cidade
 e [Sildar Hallwinter](sildar_hallwinter.md), enviado para encontrá-lo, teme que
 ele tenha sido capturado pelo
 [Redbrands](../../organizations/redbrands.md).
 
 Mais adiante, quando o grupo invade
 o [Esconderijo Redbrand](../../locations/phandalin/redbrand_hideout.md),
-descobrem por uma carta de [Spider](spider.md) que, Iarno é, na
-verdade, [Glasstaff](redbrands/glasstaff.md), o líder dos Redbrands. Perseguido
-pelo grupo, Iarno "Glasstaff" consegue fugir com a ajuda de uma poção de
-invisibilidade.
+descobrem por uma carta de [Spider](spider.md) que, **Iarno** é, na
+verdade, [Glasstaff](redbrands/glasstaff.md), o líder
+dos [Redbrands](../../organizations/redbrands.md).
+
+Ambicioso, Iarno viu em [Phandalin](../../locations/phandalin.md) uma
+oportunidade para enriquecer ilicitamente. Em vez de estabelecer uma força se
+segurança, que seria seu objetivo original, reuniu um grupo de foras da lei e
+rufiões locais para criar sua própria força de opressão e coerção,
+os [Redbrands](../../organizations/redbrands.md).
+
+Perseguido pelo grupo, **Iarno "Glasstaff"** consegue fugir com a ajuda de uma poção
+de invisibilidade.
 <br clear="left"/>
 
 ### Relações
