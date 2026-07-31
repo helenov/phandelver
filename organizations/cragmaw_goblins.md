@@ -22,7 +22,7 @@ _[_Texto_]_ :construction:
 
 ####
 
-* [Esconderijo Redbrand]
+* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
   * [Nosk](../casting/npcs/cragmaw/nosk.md), líder enviado
   * [Droop](../casting/npcs/cragmaw/droop.md), goblin enviado
 
@@ -32,10 +32,14 @@ _[_Texto_]_ :construction:
   * base do grupo responsável por ataques
     na [Estrada Triboar](../locations/triboar_trail.md) a leste
     de [Phandalin](../locations/phandalin.md)
-* [Esconderijo Redbrand]
-  * grupo de reforço para os [Redbrands]
+* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+  * grupo de reforço para os [Redbrands](redbrands.md)
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
   * base do rei [Grol](../casting/npcs/cragmaw/grol.md)
+
+### Relações
+
+* [Redbrands](redbrands.md), aliados
 
 ### Referências
 
@@ -64,5 +68,6 @@ _[_Texto_]_ :construction:
 ####
 
 * [Sessão 5 Perda](../sessions/05_perda.md)
-  * grupo derrota bugbears no [Esconderijo Redbrand]
+  * grupo derrota bugbears 
+    no [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
     ([Cena 2](../sessions/05_perda.md#cena-2-perda))

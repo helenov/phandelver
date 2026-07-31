@@ -23,6 +23,10 @@ _[_Texto_]_ :construction:
   * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
     * base dos **Redbrands** nos porões da velha mansão
 
+### Relações
+
+* [Gragmaw Goblins](cragmaw_goblins.md), aliados
+
 ### Referências
 
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
@@ -30,8 +34,8 @@ _[_Texto_]_ :construction:
     responsáveis pelos ataques
     na [Estrada Triboar](../locations/triboar_trail.md)
     ([Cena 6](../sessions/02_phandalin.md#cena-6-venda-da-barthen))
-  * [Freda](../casting/npcs/phandalin/stonehill/freda.md) sugere que podem
-    ser responsáveis pelo sequestro
+  * [Freda](../casting/npcs/phandalin/stonehill/freda.md) sugere que podem ser
+    responsáveis pelo sequestro
     de [Gundren](../casting/npcs/gundren_rockseeker.md)
     ([Cena 7](../sessions/02_phandalin.md#cena-7-hospedaria-stonehill))
   * [Lanar](../casting/npcs/phandalin/stonehill/lanar.md) diz
@@ -42,18 +46,17 @@ _[_Texto_]_ :construction:
   * [Pip](../casting/npcs/phandalin/stonehill/pip_stonehill.md) diz que quase
     capturaram [Carp](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md)
     ([Cena 8](../sessions/02_phandalin.md#cena-8-pip))
-  * [Daran](../casting/npcs/phandalin/daran_edermath.md) está preocupado com
-    os ataques na cidade
+  * [Daran](../casting/npcs/phandalin/daran_edermath.md) está preocupado com os
+    ataques na cidade
     ([Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath))
   * [Sildar](../casting/npcs/sildar_hallwinter.md) suspeita que tenham
     capturado [Iarno](../casting/npcs/iarno_albrek.md)
     ([Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura))
   * [Sildar](../casting/npcs/sildar_hallwinter.md) propõe que desmantelem os
-    **Redbrands** e
-    capturem [Glasstaff](../casting/npcs/redbrands/glasstaff.md)
+    **Redbrands** e capturem [Glasstaff](../casting/npcs/redbrands/glasstaff.md)
     ([Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura))
-  * [Joe Smithe](../casting/npcs/phandalin/joe_smithe.md) diz que não gosta
-    dos **Redbrands**
+  * [Joe Smithe](../casting/npcs/phandalin/joe_smithe.md) diz que não gosta dos
+    **Redbrands**
     ([Cena 12](../sessions/02_phandalin.md#cena-12-ferraria-e-carpintaria))
   * [Carp](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md) conta sobre
     como quase a viram ([Cena 13](../sessions/02_phandalin.md#cena-13-carp))
@@ -86,3 +89,11 @@ _[_Texto_]_ :construction:
     e [Cena 4](../sessions/04_glasstaff.md#cena-4-pé-de-cabra))
   * grupo enfrenta e derrota [Ssnark](../casting/npcs/redbrands/ssnark.md)
     ([Cena 2](../sessions/04_glasstaff.md#cena-2-ssnark))
+
+####
+
+* [Sessão 5 Perda]
+  * [Droop] diz que
+    são [Cragmaw Goblins](../organizations/cragmaw_goblins.md) enviados
+    como reforço para os **Redbrands**
+    ([Cena 2](../sessions/05_perda.md#cena-2-perda))

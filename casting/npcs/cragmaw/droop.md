@@ -31,3 +31,8 @@ _[_Texto_]_ :construction:
     ([Cena 2](../../../sessions/05_perda.md#cena-2-perda))
   * **Droop** acha que [Nosk](nosk.md) sabia a localização do [Castelo Cragmaw]
     ([Cena 2](../../../sessions/05_perda.md#cena-2-perda))
+  * **Droop** diz que
+    são [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md) enviados
+    de [Wyvern Tor](../../../locations/wyvern_tor.md)
+    como reforço para os [Redbrands]
+    ([Cena 2](../../../sessions/05_perda.md#cena-2-perda))
