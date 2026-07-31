@@ -17,6 +17,13 @@ _[_Texto_]_ :construction:
 * bandidos
 * esqueletos
 
+####
+
+* [Cragmaw Goblins](../../organizations/cragmaw_goblins.md)
+  * [Nosk](../../casting/npcs/cragmaw/nosk.md) (RIP), líder bugbear
+  * [Droop](../../casting/npcs/cragmaw/droop.md), goblin
+  * bugbears
+
 ### Organizações
 
 * [Redbrands](../../organizations/redbrands.md), ocupantes
@@ -61,3 +68,4 @@ _[_Texto_]_ :construction:
 * [Sessão 5 Perda](../../sessions/05_perda.md)
   * grupo derrota bugbears de [Wyvern Tor](../wyvern_tor.md) no **Esconderijo
     Redbrand** ([Cena 2](../../sessions/05_perda.md#cena-2-perda))
+  * grupo captura [Droop](../../casting/npcs/cragmaw/droop.md)

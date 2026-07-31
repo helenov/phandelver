@@ -92,8 +92,7 @@ _[_Texto_]_ :construction:
 
 ####
 
-* [Sessão 5 Perda]
-  * [Droop] diz que
-    são [Cragmaw Goblins](../organizations/cragmaw_goblins.md) enviados
-    como reforço para os **Redbrands**
+* [Sessão 5 Perda](../sessions/05_perda.md)
+  * [Droop](../casting/npcs/cragmaw/droop.md) diz que foram enviados como
+    reforço para os **Redbrands**
     ([Cena 2](../sessions/05_perda.md#cena-2-perda))

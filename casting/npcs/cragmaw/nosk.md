@@ -15,18 +15,21 @@ _[_Texto_]_ :construction:
 
 ### Organizações
 
-* [Cragmaw Goblins], líder bugbear no [Esconderijo Redbrand]
+* [Cragmaw Goblins], líder bugbear
+  no [Esconderijo Redbrand](../../../locations/phandalin/redbrand_hideout.md)
 * [Redbrands], enviado como reforço
 
 ### Locais
 
 * [Wyvern Tor](../../../locations/wyvern_tor.md), base de origem
-* [Esconderijo Redbrand], enviado como reforço
+* [Esconderijo Redbrand](../../../locations/phandalin/redbrand_hideout.md),
+  enviado como reforço
 
 ### Referências
 
 * [Sessão 5 Perda](../../../sessions/05_perda.md)
-  * grupo derrota **Nosk** no [Esconderijo Redbrand]
+  * grupo derrota **Nosk**
+    no [Esconderijo Redbrand](../../../locations/phandalin/redbrand_hideout.md)
     ([Cena 2](../../../sessions/05_perda.md#cena-2-perda))
   * [Droop](droop.md) diz que ele e os bugbears vieram
     de [Wyvern Tor](../../../locations/wyvern_tor.md)

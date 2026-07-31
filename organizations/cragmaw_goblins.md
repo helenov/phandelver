@@ -23,7 +23,7 @@ _[_Texto_]_ :construction:
 ####
 
 * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-  * [Nosk](../casting/npcs/cragmaw/nosk.md), líder enviado
+  * [Nosk](../casting/npcs/cragmaw/nosk.md) (RIP), líder enviado
   * [Droop](../casting/npcs/cragmaw/droop.md), goblin enviado
 
 ### Locais
@@ -68,6 +68,9 @@ _[_Texto_]_ :construction:
 ####
 
 * [Sessão 5 Perda](../sessions/05_perda.md)
-  * grupo derrota bugbears 
+  * grupo derrota bugbears
     no [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+    ([Cena 2](../sessions/05_perda.md#cena-2-perda))
+  * [Droop](../casting/npcs/cragmaw/droop.md) diz foram enviados como reforço
+    para os [Redbrands](redbrands.md)
     ([Cena 2](../sessions/05_perda.md#cena-2-perda))

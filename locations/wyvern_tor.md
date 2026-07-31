@@ -11,7 +11,7 @@
 
 ### Personagens
 
-* [Nosk](../casting/npcs/cragmaw/nosk.md), líder enviado
+* [Nosk](../casting/npcs/cragmaw/nosk.md) (RIP), líder enviado
   ao [Esconderijo Redbrand](phandalin/redbrand_hideout.md)
 * [Droop](../casting/npcs/cragmaw/droop.md), goblin enviado
   ao [Esconderijo Redbrand](phandalin/redbrand_hideout.md)

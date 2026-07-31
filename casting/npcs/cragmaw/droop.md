@@ -11,28 +11,30 @@ _[_Texto_]_ :construction:
 
 ### Relações
 
-* [Nosk](nosk.md), superior
+* [Nosk](nosk.md) (RIP), superior
 
 ### Organizações
 
-* [Cragmaw Goblins], goblin no [Esconderijo Redbrand]
-* [Redbrands], enviado como reforço
+* [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md), goblin
+  no [Esconderijo Redbrand](../../../locations/phandalin/redbrand_hideout.md)
+* [Redbrands](../../../organizations/redbrands.md), enviado como reforço
 
 ### Locais
 
 * [Wyvern Tor](../../../locations/wyvern_tor.md), base de origem
-* [Esconderijo Redbrand], enviado como reforço e capturado
+* [Esconderijo Redbrand](../../../locations/phandalin/redbrand_hideout.md),
+  enviado como reforço e capturado
 * [Prefeitura], prisioneiro
 
 ### Referências
 
 * [Sessão 5 Perda](../../../sessions/05_perda.md)
-  * grupo captura **Droop** no [Esconderijo Redbrand]
+  * grupo captura **Droop**
+    no [Esconderijo Redbrand](../../../locations/phandalin/redbrand_hideout.md)
     ([Cena 2](../../../sessions/05_perda.md#cena-2-perda))
   * **Droop** acha que [Nosk](nosk.md) sabia a localização do [Castelo Cragmaw]
     ([Cena 2](../../../sessions/05_perda.md#cena-2-perda))
-  * **Droop** diz que
-    são [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md) enviados
+  * **Droop** diz foram enviados
     de [Wyvern Tor](../../../locations/wyvern_tor.md)
-    como reforço para os [Redbrands]
+    como reforço para os [Redbrands](../../../organizations/redbrands.md)
     ([Cena 2](../../../sessions/05_perda.md#cena-2-perda))
