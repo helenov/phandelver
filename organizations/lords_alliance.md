@@ -24,6 +24,10 @@ civilização.
 [//]: # (* _[_Local_]_)
 [//]: # (  * _[_detalhe_]_)
 
+[//]: # (### Relações)
+[//]: # ()
+[//]: # (* _[_Organização_]_, _[_detalhe_]_)
+
 ### Referências
 
 * [Sessão 0 Prólogo](../sessions/00_prologo.md)

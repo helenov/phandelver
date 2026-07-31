@@ -19,6 +19,10 @@ _[_Texto_]_ :construction:
 * [Posto da Lionshield Coster](../locations/phandalin/lionshield_coster_post.md),
   em [Phandalin](../locations/phandalin.md)
 
+[//]: # (### Relações)
+[//]: # ()
+[//]: # (* _[_Organização_]_, _[_detalhe_]_)
+
 ### Referências
 
 * [Sessão 1 Goblins](../sessions/01_goblins.md)
