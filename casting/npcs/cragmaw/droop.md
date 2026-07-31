@@ -15,19 +15,19 @@ _[_Texto_]_ :construction:
 
 ### Organizações
 
-* [Cragmaw Goblins], goblin no [Esconderijo Redbrands]
+* [Cragmaw Goblins], goblin no [Esconderijo Redbrand]
 * [Redbrands], enviado como reforço
 
 ### Locais
 
 * [Wyvern Tor], base de origem
-* [Esconderijo Redbrands], enviado como reforço e capturado
+* [Esconderijo Redbrand], enviado como reforço e capturado
 * [Prefeitura], prisioneiro
 
 ### Referências
 
 * [Sessão 5 Perda](../../../sessions/05_perda.md)
-  * grupo captura **Droop** no [Esconderijo Redbrands]
+  * grupo captura **Droop** no [Esconderijo Redbrand]
     ([Cena 2](../../../sessions/05_perda.md#cena-2-perda))
   * **Droop** acha que [Nosk](nosk.md) sabia a localização do [Castelo Cragmaw]
     ([Cena 2](../../../sessions/05_perda.md#cena-2-perda))
