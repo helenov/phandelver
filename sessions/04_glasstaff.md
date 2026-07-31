@@ -4,7 +4,7 @@
 
 _data_ : 2026-05-11 \
 _anterior_ : [Sessão 3 Redbrands](03_redbrands.md) \
-_próxima_ : _[Sessão 5 Perda]_
+_próxima_ : [Sessão 5 Perda](05_perda.md)
 
 ### Cenas
 
