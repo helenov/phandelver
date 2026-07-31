@@ -96,9 +96,9 @@ do que julga seu amigo otimista.
 ####
 
 * [Sessão 5 Perda](../../sessions/05_perda.md)
-  * o [Harbin] diz que **Sildar** esta com
+  * [Harbin] diz que **Sildar** esta com
     a [Irmã Garaele](phandalin/sister_garaele.md)
-    no [Santuário da Fortuna]
+    no [Santuário da Fortuna](../../locations/phandalin/shrine_of_luck.md)
     ([Cena 3](../../sessions/05_perda.md#cena-3-recompensa))
   * **Sildar** apresenta ao grupo a [Irmã Garaele](phandalin/sister_garaele.md)
     ([Cena 4](../../sessions/05_perda.md#cena-4-irmã-garaele))
@@ -106,5 +106,6 @@ do que julga seu amigo otimista.
     ([Cena 4](../../sessions/05_perda.md#cena-4-irmã-garaele))
   * **Sildar** pede que investiguem os ataques na [Estrada Triboar]
     ([Cena 4](../../sessions/05_perda.md#cena-4-irmã-garaele))
-  * **Sildar** sugere no caminho ajudem [Irmã Garaele](phandalin/sister_garaele.md) em sua missão
+  * **Sildar** sugere que no caminho
+    ajudem [Irmã Garaele](phandalin/sister_garaele.md) com sua missão
     ([Cena 4](../../sessions/05_perda.md#cena-4-irmã-garaele))

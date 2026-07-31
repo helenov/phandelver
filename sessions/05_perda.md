@@ -59,7 +59,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 
 * [Phandalin]
   * [Prefeitura]
-  * [Santuário da Fortuna]
+  * [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md)
   * [Hospedaria Stonehill]
 
 #### Mencionados
@@ -185,11 +185,12 @@ lamentar a fuga do líder, não consegue esconder um certo alívio por não ter 
 lidar com mais este problema.
 
 Perguntado sobre [Sildar](../casting/npcs/sildar_hallwinter.md), o prefeito
-informa que o cavaleiro está no [Santuário da Fortuna], onde foi se encontrar
-com a [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) que voltou de
-sua viagem. Parece que ela está ferida e, embora não saiba de detalhes, ele acha
-que foi atacada pelos bandidos que seguem agindo na [Estrada Triboar]
-"para os lados de [Conyberry]"
+informa que o cavaleiro está
+no [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md), onde foi se
+encontrar com a [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) que
+voltou de sua viagem. Parece que ela está ferida e, embora não saiba de
+detalhes, ele acha que foi atacada pelos bandidos que seguem agindo
+na [Estrada Triboar] "para os lados de [Conyberry]"
 
 ---
 
@@ -197,11 +198,12 @@ que foi atacada pelos bandidos que seguem agindo na [Estrada Triboar]
 
 _[_Imagem_]_ :construction:
 
-Chegando ao [Santuário da Fortuna], são recebidos
-por [Sildar](../casting/npcs/sildar_hallwinter.md), que lamenta a perda do grupo
-e os apresenta a [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md),
-uma jovem elfa com um braço suspenso em uma tipóia, que emite um grunhido de dor
-ao se levantar para cumprimentar a dupla de aventureiros.
+Chegando ao [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md),
+são recebidos por [Sildar](../casting/npcs/sildar_hallwinter.md), que lamenta a
+perda do grupo e os apresenta
+a [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), uma jovem elfa
+com um braço suspenso em uma tipóia, que emite um grunhido de dor ao se levantar
+para cumprimentar a dupla de aventureiros.
 
 Irmã Garaele se apresenta como uma agente dos [Harpers] e tinha recebido
 recentemente a missão de obter uma informação de uma banshee conhecida como
