@@ -17,7 +17,7 @@ _[_Texto_]_ :construction:
 
 * [Cragmaw Goblins](../../../organizations/cragmaw_goblins.md), líder bugbear
   no [Esconderijo Redbrand](../../../locations/phandalin/redbrand_hideout.md)
-* [Redbrands], enviado como reforço
+* [Redbrands](../../../organizations/redbrands.md), enviado como reforço
 
 ### Locais
 

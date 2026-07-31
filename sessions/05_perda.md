@@ -18,12 +18,12 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 
 :construction:
 
-* [Redbrands]
+* [Redbrands](../organizations/redbrands.md)
   * bandidos
 
 ####
 
-* [Cragmaw Goblins]
+* [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
   * [Nosk](../casting/npcs/cragmaw/nosk.md) (RIP), líder bugbear
   * [Droop](../casting/npcs/cragmaw/droop.md), goblin medroso
   * bugbears
@@ -76,9 +76,9 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 
 _[_Imagem_]_ :construction:
 
-Após perderem o rastro do líder dos [Redbrands], o grupo resolve investigar com
-mais calma seus aposentos em busca de alguma pista de sua identidade, intenções
-e ligações.
+Após perderem o rastro do líder dos [Redbrands](../organizations/redbrands.md),
+o grupo resolve investigar com mais calma seus aposentos em busca de alguma
+pista de sua identidade, intenções e ligações.
 
 No laboratório, Professor pega o livro com instruções para a produção de poções
 que estava aberto sobre a mesa e, olhando as estantes, encontram um livro
@@ -110,8 +110,8 @@ preciosas.
 _[_Imagem_]_ :construction:
 
 Após ver que não há mais nada de interesse nos aposentos do líder
-dos [Redbrands], o grupo resolve dar cabo dos últimos bandidos que ouviram em
-duas salas.
+dos [Redbrands](../organizations/redbrands.md), o grupo resolve dar cabo dos
+últimos bandidos que ouviram em duas salas.
 
 Na primeira sala, pela porta ouvem risadas e gritos de pessoas que aparentam
 estar bêbadas e jogando dados. A princípio, Ralf entra tentando enganar os
@@ -212,11 +212,12 @@ que mesmo assim, dificilmente encontrariam um antes fosse tarde demais para que
 qualquer coisa pudesse ser feita. Mas que poderia cuidar do corpo para que
 fossem feitos os ritos apropriados.
 
-Em particular, contam a Sildar sobre como derrotaram os [Redbrands] e que,
-apesar da fuga do líder, eles não devem voltar a incomodar a cidade por um bom
-tempo. Apresentam ao cavaleiro a carta que encontraram, e este fica chocado ao
-saber que o companheiro [Iarno Albrek] que julgava estar prisioneiro dos
-bandidos na realidade era o seu líder, [Glasstaff].
+Em particular, contam a Sildar sobre como derrotaram
+os [Redbrands](../organizations/redbrands.md) e que, apesar da fuga do líder,
+eles não devem voltar a incomodar a cidade por um bom tempo. Apresentam ao
+cavaleiro a carta que encontraram, e este fica chocado ao saber que o
+companheiro [Iarno Albrek] que julgava estar prisioneiro dos bandidos na
+realidade era o seu líder, [Glasstaff].
 
 Sildar diz que, mais do que nunca é necessário encontrar o [Castelo Cragmaw]
 para encontrar o anão [Gundren], mas que, embora tenham perguntado por toda a
