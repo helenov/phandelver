@@ -24,17 +24,28 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 
 ### Cenários
 
-* _[_Location_]_
+* [Esconderijo Redbrand]
+
+####
+
+* [Phandalin]
+  * [Prefeitura]
+  * [Santuário da Fortuna]
+  * [Hospedaria Stonehill]
 
 #### Mencionados
 
-* _[_Location_]_
+* [Castelo Cragmaw]
+* [Wyvern Tor]
+* [Floresta de Neverwinter]
+* [Estrada Triboar]
+  * [Conyberry]
 
 ---
 
 ### Cena 1 Carta
 
-_[_Imagem_]_ :construction: 
+_[_Imagem_]_ :construction:
 
 _[_Texto_]_ :construction:
 
@@ -42,7 +53,7 @@ _[_Texto_]_ :construction:
 
 ### Cena 2 Perda
 
-_[_Imagem_]_ :construction: 
+_[_Imagem_]_ :construction:
 
 _[_Texto_]_ :construction:
 
@@ -50,7 +61,7 @@ _[_Texto_]_ :construction:
 
 ### Cena 3 Recompensa
 
-_[_Imagem_]_ :construction: 
+_[_Imagem_]_ :construction:
 
 _[_Texto_]_ :construction:
 
@@ -58,7 +69,7 @@ _[_Texto_]_ :construction:
 
 ### Cena 4 Irmã Garaele
 
-_[_Imagem_]_ :construction: 
+_[_Imagem_]_ :construction:
 
 _[_Texto_]_ :construction:
 
@@ -66,7 +77,7 @@ _[_Texto_]_ :construction:
 
 ### Cena 5 Colinas
 
-_[_Imagem_]_ :construction: 
+_[_Imagem_]_ :construction:
 
 _[_Texto_]_ :construction:
 
