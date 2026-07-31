@@ -20,7 +20,7 @@
 ### Locais
 
 * [Estrada Triboar](triboar_trail.md)
-  * **Conyberry** está a cerca de três dias de viagem para oeste, saindo
+  * **Conyberry** está a cerca de três dias de viagem para oeste, partindo
     de [Phandalin](phandalin.md)
 
 ### Referências
