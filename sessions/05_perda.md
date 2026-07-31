@@ -12,7 +12,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 * [Cena 2 Perda](#cena-2-perda)
 * [Cena 3 Recompensa](#cena-3-recompensa)
 * [Cena 4 Irmã Garaele](#cena-4-irmã-garaele)
-* [Cena 5 Colinas](#cena-5-colinas)
+* [Cena 5 Frodo](#cena-5-frodo)
 
 ### Elenco
 
@@ -99,7 +99,7 @@ _[_Texto_]_ :construction:
 
 ---
 
-### Cena 5 Colinas
+### Cena 5 Frodo
 
 _[_Imagem_]_ :construction:
 
