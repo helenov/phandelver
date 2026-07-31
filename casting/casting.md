@@ -47,7 +47,7 @@
       Mirna
     * [Nars Dendrar.md](npcs/phandalin/dendrar/nars_dendrar.md), filho de Thel e
       Mirna
-  * [Irmã Garaele]
+  * [Irmã Garaele](npcs/phandalin/sister_garaele.md)
 
 ####
 

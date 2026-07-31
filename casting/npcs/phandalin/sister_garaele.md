@@ -1,21 +1,21 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Irmã Garaele<!--, <small>_[_espécie_]_</small>-->
+## Irmã Garaele, <small>_elfa_</small>
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-[//]: # (_[_Imagem_]_)
-[//]: # (_[_Texto_]_ :construction:)
-[//]: # (<br clear="left"/>)
+<!-- @formatter:off -->
+<img alt="Irmã Garaele" src="../../../images/characters/phandalin/sister_garaele.png" style="width:200px; margin-right: 15px; float: left" />
+<!-- @formatter:on -->
 
-[//]: # (### Relações)
-[//]: # ()
-[//]: # (* _[_Character_]_, _[_detalhe_]_)
+_[_Texto_]_ :construction:
+<br clear="left"/>
 
-[//]: # (### Organizações)
-[//]: # ()
-[//]: # (* _[_Organização_]_, _[_detalhe_]_)
+### Relações
+
+* [Sildar Hallwinter](../sildar_hallwinter.md), amigo
+
+### Organizações
+
+* [Harpers], agente
 
 ### Locais
 
@@ -29,3 +29,13 @@
   * [Harbin](harbin_wester.md) menciona que **Irmã Garaele** não se encontra na
     cidade
     ([Cena 1](../../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
+
+####
+
+* [Sessão 5 Perda](../../../sessions/05_perda.md)
+  * o [Harbin] diz **Irmã Garaele** retornou a cidade
+    ([Cena 3](../../../sessions/05_perda.md#cena-3-recompensa))
+  * [Sildar] apresenta ao grupo a **Irmã Garaele**
+    ([Cena 4](../../../sessions/05_perda.md#cena-4-irmã-garaele))
+  * **Irmã Garaele** conta sobre sua missão e [Agatha], a banshee
+    ([Cena 4](../../../sessions/05_perda.md#cena-4-irmã-garaele))

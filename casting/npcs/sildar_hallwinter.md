@@ -21,7 +21,11 @@ do que julga seu amigo otimista.
 ### Relações
 
 * [Gundren Rockseeker](gundren_rockseeker.md), amigo
-* [Iarno Albrek](iarno_albrek.md), companheiro
+* [Irmã Garaele](phandalin/sister_garaele.md), amiga
+
+####
+
+* [Iarno Albrek](iarno_albrek.md), ex-companheiro
   na [Lords' Alliance](../../organizations/lords_alliance.md)
 
 ### Organizações
@@ -92,12 +96,15 @@ do que julga seu amigo otimista.
 ####
 
 * [Sessão 5 Perda](../../sessions/05_perda.md)
-  * o [Prefeito] diz que **Sildar** esta com a [Irmã Garaele]
+  * o [Harbin] diz que **Sildar** esta com
+    a [Irmã Garaele](phandalin/sister_garaele.md)
     no [Santuário da Fortuna]
     ([Cena 3](../../sessions/05_perda.md#cena-3-recompensa))
-  * **Sildar** apresenta ao grupo a [Irmã Garaele]
+  * **Sildar** apresenta ao grupo a [Irmã Garaele](phandalin/sister_garaele.md)
     ([Cena 4](../../sessions/05_perda.md#cena-4-irmã-garaele))
   * grupo conta para **Sildar** a verdade sobre [Iarno Albrek](iarno_albrek.md)
     ([Cena 4](../../sessions/05_perda.md#cena-4-irmã-garaele))
-  * **Sildar** sugere que investiguem os ataques na [Estrada Triboar]
+  * **Sildar** pede que investiguem os ataques na [Estrada Triboar]
+    ([Cena 4](../../sessions/05_perda.md#cena-4-irmã-garaele))
+  * **Sildar** sugere no caminho ajudem [Irmã Garaele](phandalin/sister_garaele.md) em sua missão
     ([Cena 4](../../sessions/05_perda.md#cena-4-irmã-garaele))

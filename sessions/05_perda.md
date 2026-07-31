@@ -33,7 +33,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 * [Phandalin]
   * [Harbin Weber]
   * [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md)
-  * [Irmã Garaele]
+  * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
 
 #### Mencionados
 
@@ -186,9 +186,9 @@ lidar com mais este problema.
 
 Perguntado sobre [Sildar](../casting/npcs/sildar_hallwinter.md), o prefeito
 informa que o cavaleiro está no [Santuário da Fortuna], onde foi se encontrar
-com a [Irmã Garaele] que voltou de sua viagem. Parece que ela está ferida e,
-embora não saiba de detalhes, ele acha que foi atacada pelos bandidos que seguem
-agindo na [Estrada Triboar]
+com a [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) que voltou de
+sua viagem. Parece que ela está ferida e, embora não saiba de detalhes, ele acha
+que foi atacada pelos bandidos que seguem agindo na [Estrada Triboar]
 "para os lados de [Conyberry]"
 
 ---
@@ -199,11 +199,11 @@ _[_Imagem_]_ :construction:
 
 Chegando ao [Santuário da Fortuna], são recebidos
 por [Sildar](../casting/npcs/sildar_hallwinter.md), que lamenta a perda do grupo
-e os apresenta a [Irmã Garaele], uma jovem elfa com um braço suspenso em uma
-tipóia, que emite um grunhido de dor ao se levantar para cumprimentar a dupla de
-aventureiros.
+e os apresenta a [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md),
+uma jovem elfa com um braço suspenso em uma tipóia, que emite um grunhido de dor
+ao se levantar para cumprimentar a dupla de aventureiros.
 
-Irmã Garaele se apresenta como uma agende dos [Harpers] e tinha recebido
+Irmã Garaele se apresenta como uma agente dos [Harpers] e tinha recebido
 recentemente a missão de obter uma informação de uma banshee conhecida como
 [Agatha], que "vive" a leste "próximo a [Conyberry]". Garaele diz ter
 subestimado a criatura e que deveria ter usado uma abordagem mais diplomática,
@@ -223,7 +223,7 @@ companheiro [Iarno Albrek](../casting/npcs/iarno_albrek.md) que julgava estar
 prisioneiro dos bandidos na realidade era o seu
 líder, [Glasstaff](../casting/npcs/redbrands/glasstaff.md).
 
-Sildar diz que, mais do que nunca é necessário encontrar o [Castelo Cragmaw]
+Sildar diz que, mais do que nunca, é necessário encontrar o [Castelo Cragmaw]
 para encontrar o anão [Gundren], mas que, embora tenham perguntado por toda a
 cidade, não encontrou nenhuma pista de sua localização.
 
