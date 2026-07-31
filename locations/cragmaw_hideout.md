@@ -8,8 +8,8 @@ _[_Texto_]_ :construction:
 
 ### Personagens
 
-* [Klarg](../characters/npcs/cragmaw/klarg.md) (RIP), antigo chefe local
-* [Yeemik](../characters/npcs/cragmaw/yeemik.md), novo líder local
+* [Klarg](../casting/npcs/cragmaw/klarg.md) (RIP), antigo chefe local
+* [Yeemik](../casting/npcs/cragmaw/yeemik.md), novo líder local
 * goblins
 * lobos
 
@@ -29,11 +29,11 @@ _[_Texto_]_ :construction:
 * [Sessão 1 Goblins](../sessions/01_goblins.md)
   * grupo encontra e explora o **Esconderijo Cragmaw**
     ([Cenas 2 a 5](../sessions/01_goblins.md#cena-2-caverna))
-  * grupo derrota [Klarg](../characters/npcs/cragmaw/klarg.md) em combate
+  * grupo derrota [Klarg](../casting/npcs/cragmaw/klarg.md) em combate
     ([Cena 5](../sessions/01_goblins.md#cena-5-klarg))
 
 ####
 
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
-  * grupo liberta [Sildar](../characters/npcs/sildar_hallwinter.md)
+  * grupo liberta [Sildar](../casting/npcs/sildar_hallwinter.md)
     ([Cena 2](../sessions/02_phandalin.md#cena-2-troca))

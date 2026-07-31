@@ -4,12 +4,12 @@
 
 ## Elenco
 
-* [Player Characters](characters/casting.md#player-characters)
-  * [Companions](characters/casting.md#companions)
+* [Player Characters](casting/casting.md#player-characters)
+  * [Companions](casting/casting.md#companions)
 
 ####
 
-* [Non-Player Characters](characters/casting.md#non-player-characters)
+* [Non-Player Characters](casting/casting.md#non-player-characters)
 
 ## Diário
 

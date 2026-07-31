@@ -11,8 +11,8 @@ _[_Texto_]_ :construction:
 
 ### Membros
 
-* [Glasstaff](../characters/npcs/redbrands/glasstaff.md), líder
-* [Ssnark](../characters/npcs/redbrands/ssnark.md) (RIP), criatura que guarda
+* [Glasstaff](../casting/npcs/redbrands/glasstaff.md), líder
+* [Ssnark](../casting/npcs/redbrands/ssnark.md) (RIP), criatura que guarda
   o [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
 
 ### Locais
@@ -26,36 +26,36 @@ _[_Texto_]_ :construction:
 ### Referências
 
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
-  * [Ander](../characters/npcs/phandalin/barthens/ander.md) sugere que podem ser
+  * [Ander](../casting/npcs/phandalin/barthens/ander.md) sugere que podem ser
     responsáveis pelos ataques
     na [Estrada Triboar](../locations/triboar_trail.md)
     ([Cena 6](../sessions/02_phandalin.md#cena-6-venda-da-barthen))
-  * [Freda](../characters/npcs/phandalin/stonehill/freda.md) sugere que podem
+  * [Freda](../casting/npcs/phandalin/stonehill/freda.md) sugere que podem
     ser responsáveis pelo sequestro
-    de [Gundren](../characters/npcs/gundren_rockseeker.md)
+    de [Gundren](../casting/npcs/gundren_rockseeker.md)
     ([Cena 7](../sessions/02_phandalin.md#cena-7-hospedaria-stonehill))
-  * [Lanar](../characters/npcs/phandalin/stonehill/lanar.md) diz
-    apenas [Halia](../characters/npcs/phandalin/halia_thornton.md)
+  * [Lanar](../casting/npcs/phandalin/stonehill/lanar.md) diz
+    apenas [Halia](../casting/npcs/phandalin/halia_thornton.md)
     do [Entreposto dos Mineradores](../locations/phandalin/miners_exchange.md)
     não é incomodada
     ([Cena 7](../sessions/02_phandalin.md#cena-7-hospedaria-stonehill))
-  * [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md) diz que quase
-    capturaram [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md)
+  * [Pip](../casting/npcs/phandalin/stonehill/pip_stonehill.md) diz que quase
+    capturaram [Carp](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md)
     ([Cena 8](../sessions/02_phandalin.md#cena-8-pip))
-  * [Daran](../characters/npcs/phandalin/daran_edermath.md) está preocupado com
+  * [Daran](../casting/npcs/phandalin/daran_edermath.md) está preocupado com
     os ataques na cidade
     ([Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath))
-  * [Sildar](../characters/npcs/sildar_hallwinter.md) suspeita que tenham
-    capturado [Iarno](../characters/npcs/iarno_albrek.md)
+  * [Sildar](../casting/npcs/sildar_hallwinter.md) suspeita que tenham
+    capturado [Iarno](../casting/npcs/iarno_albrek.md)
     ([Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura))
-  * [Sildar](../characters/npcs/sildar_hallwinter.md) propõe que desmantelem os
+  * [Sildar](../casting/npcs/sildar_hallwinter.md) propõe que desmantelem os
     **Redbrands** e
-    capturem [Glasstaff](../characters/npcs/redbrands/glasstaff.md)
+    capturem [Glasstaff](../casting/npcs/redbrands/glasstaff.md)
     ([Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura))
-  * [Joe Smithe](../characters/npcs/phandalin/joe_smithe.md) diz que não gosta
+  * [Joe Smithe](../casting/npcs/phandalin/joe_smithe.md) diz que não gosta
     dos **Redbrands**
     ([Cena 12](../sessions/02_phandalin.md#cena-12-ferraria-e-carpintaria))
-  * [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) conta sobre
+  * [Carp](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md) conta sobre
     como quase a viram ([Cena 13](../sessions/02_phandalin.md#cena-13-carp))
 
 ####
@@ -64,13 +64,13 @@ _[_Texto_]_ :construction:
   * grupo enfrenta alguns **Redbrands**
     no [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
     ([Cena 1](../sessions/03_redbrands.md#cena-1-gigante-adormecido))
-  * [Greska](../characters/npcs/phandalin/greska.md) diz que os **Redbrands** se
+  * [Greska](../casting/npcs/phandalin/greska.md) diz que os **Redbrands** se
     escondem em algum lugar próximo
     à [Mansão Tresendar](../locations/phandalin/tresendar_manor.md)
     ([Cena 1](../sessions/03_redbrands.md#cena-1-gigante-adormecido))
   * grupo encontra a entrada para
     o [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md) com a
-    ajuda de [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md)
+    ajuda de [Carp](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md)
     ([Cena 2](../sessions/03_redbrands.md#cena-2-túnel-secreto))
   * grupo inicia a exploração
     do [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
@@ -80,9 +80,9 @@ _[_Texto_]_ :construction:
 
 * [Sessão 4 Glasstaff](../sessions/04_glasstaff.md)
   * grupo
-    liberta [Mirna Dendrar](../characters/npcs/phandalin/dendrar/mirna_dendrar.md)
+    liberta [Mirna Dendrar](../casting/npcs/phandalin/dendrar/mirna_dendrar.md)
     e seus filhos dos **Redbrands**
     ([Cena 1](../sessions/04_glasstaff.md#cena-1-prisioneiros)
     e [Cena 4](../sessions/04_glasstaff.md#cena-4-pé-de-cabra))
-  * grupo enfrenta e derrota [Ssnark](../characters/npcs/redbrands/ssnark.md)
+  * grupo enfrenta e derrota [Ssnark](../casting/npcs/redbrands/ssnark.md)
     ([Cena 2](../sessions/04_glasstaff.md#cena-2-ssnark))

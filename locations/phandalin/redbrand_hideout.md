@@ -9,10 +9,10 @@ _[_Texto_]_ :construction:
 
 ### Personagens
 
-* [Glasstaff](../../characters/npcs/redbrands/glasstaff.md), líder
+* [Glasstaff](../../casting/npcs/redbrands/glasstaff.md), líder
   dos [Redbrands](../../organizations/redbrands.md)
   * seu mascote
-* [Ssnark](../../characters/npcs/redbrands/ssnark.md) (RIP), criatura que guarda
+* [Ssnark](../../casting/npcs/redbrands/ssnark.md) (RIP), criatura que guarda
   o **Esconderijo Redbrand**
 * bandidos
 * esqueletos
@@ -32,14 +32,14 @@ _[_Texto_]_ :construction:
 ### Referências
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
-  * [Carp](../../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) conta
+  * [Carp](../../casting/npcs/phandalin/alderleaf/carp_alderleaf.md) conta
     sobre o "túnel secreto" na [Mata Tresendar](tresendar_wood.md)
     ([Cena 13](../../sessions/02_phandalin.md#cena-13-carp))
 
 ####
 
 * [Sessão 3 Redbrands](../../sessions/03_redbrands.md)
-  * [Carp](../../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) mostra
+  * [Carp](../../casting/npcs/phandalin/alderleaf/carp_alderleaf.md) mostra
     ao grupo o "túnel secreto" que leva ao **Esconderijo Redbrand**
     ([Cena 2](../../sessions/03_redbrands.md#cena-2-túnel-secreto))
   * grupo inicia a exploração do **Esconderijo Redbrand**
@@ -50,8 +50,8 @@ _[_Texto_]_ :construction:
 * [Sessão 4 Glasstaff](../../sessions/04_glasstaff.md)
   * grupo continua a exploração do **Esconderijo Redbrand**
     ([Cenas 1 a 4](../../sessions/04_glasstaff.md#cena-1-prisioneiros))
-  * grupo enfrenta e derrota [Ssnark](../../characters/npcs/redbrands/ssnark.md)
+  * grupo enfrenta e derrota [Ssnark](../../casting/npcs/redbrands/ssnark.md)
     ([Cena 2](../../sessions/04_glasstaff.md#cena-2-ssnark))
-  * [Glasstaff](../../characters/npcs/redbrands/glasstaff.md) foge do
+  * [Glasstaff](../../casting/npcs/redbrands/glasstaff.md) foge do
     **Esconderijo Redbrand**
     ([Cena 3](../../sessions/04_glasstaff.md#cena-3-mago))

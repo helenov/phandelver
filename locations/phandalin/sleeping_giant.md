@@ -9,7 +9,7 @@ _[_Texto_]_ :construction:
 
 ### Personagens
 
-* [Greska](../../characters/npcs/phandalin/greska.md), taverneiro e ocupante
+* [Greska](../../casting/npcs/phandalin/greska.md), taverneiro e ocupante
 * bandidos
 
 ### Organizações

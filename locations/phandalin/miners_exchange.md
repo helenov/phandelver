@@ -11,7 +11,7 @@
 
 ### Personagens
 
-* [Halia Thornton](../../characters/npcs/phandalin/halia_thornton.md), mestre da
+* [Halia Thornton](../../casting/npcs/phandalin/halia_thornton.md), mestre da
   guilda
 
 [//]: # (### Organizações)
@@ -27,7 +27,7 @@
 ### Referências
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
-  * [Lanar](../../characters/npcs/phandalin/stonehill/lanar.md)
-    menciona [Halia](../../characters/npcs/phandalin/halia_thornton.md) do
+  * [Lanar](../../casting/npcs/phandalin/stonehill/lanar.md)
+    menciona [Halia](../../casting/npcs/phandalin/halia_thornton.md) do
     **Entreposto dos Mineradores**
     ([Cena 7](../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill))

@@ -11,7 +11,7 @@
 
 ### Personagens
 
-* [Irmã Garaele](../../characters/npcs/phandalin/sister_garaele.md), clériga
+* [Irmã Garaele](../../casting/npcs/phandalin/sister_garaele.md), clériga
 
 [//]: # (### Organizações)
 [//]: # ()

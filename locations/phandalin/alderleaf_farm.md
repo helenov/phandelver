@@ -11,9 +11,9 @@ _[_Texto_]_ :construction:
 
 ### Personagens
 
-* [Qelline Alderleaf](../../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md),
+* [Qelline Alderleaf](../../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md),
   fazendeira
-* [Carp Alderleaf](../../characters/npcs/phandalin/alderleaf/carp_alderleaf.md),
+* [Carp Alderleaf](../../casting/npcs/phandalin/alderleaf/carp_alderleaf.md),
   moradora
 
 [//]: # (### Organizações)
@@ -28,9 +28,9 @@ _[_Texto_]_ :construction:
 ### Referências
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
-  * [Carp](../../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) menciona
+  * [Carp](../../casting/npcs/phandalin/alderleaf/carp_alderleaf.md) menciona
     a **Fazenda Alderleaf** onde mora com a
-    mãe, [Qelline](../../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md)
+    mãe, [Qelline](../../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md)
     ([Cena 13](../../sessions/02_phandalin.md#cena-13-carp))
 
 ####
@@ -40,8 +40,8 @@ _[_Texto_]_ :construction:
     da [Mata Tresendar](tresendar_wood.md)
     ([Cena 2](../../sessions/03_redbrands.md#cena-2-túnel-secreto))
   * grupo
-    leva [Carp](../../characters/npcs/phandalin/alderleaf/carp_alderleaf.md)
-    e [Pip](../../characters/npcs/phandalin/stonehill/pip_stonehill.md) de volta
+    leva [Carp](../../casting/npcs/phandalin/alderleaf/carp_alderleaf.md)
+    e [Pip](../../casting/npcs/phandalin/stonehill/pip_stonehill.md) de volta
     a **Fazenda Alderleaf**
     ([Cena 3](../../sessions/03_redbrands.md#cena-3-uma-voz))
 

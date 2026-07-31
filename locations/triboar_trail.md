@@ -30,8 +30,8 @@ _[_Texto_]_ :construction:
 
 * [Sessão 0 Prólogo](../sessions/00_prologo.md)
   * grupo encontra os cavalos
-    de [Gundren](../characters/npcs/gundren_rockseeker.md)
-    e [Sildar](../characters/npcs/sildar_hallwinter.md) mortos
+    de [Gundren](../casting/npcs/gundren_rockseeker.md)
+    e [Sildar](../casting/npcs/sildar_hallwinter.md) mortos
     ([Cena 3](../sessions/00_prologo.md#cena-3-corpos))
 
 ####
@@ -40,7 +40,7 @@ _[_Texto_]_ :construction:
   * grupo sobre emboscada de um grupo
     de [Gragmaw Goblins](../organizations/cragmaw_goblins.md)
     ([Cena 1](../sessions/01_goblins.md#cena-1-emboscada))
-  * [Daran](../characters/npcs/phandalin/daran_edermath.md) fala sobre os
+  * [Daran](../casting/npcs/phandalin/daran_edermath.md) fala sobre os
     ataques na **Estrada Triboar**
     ([Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath))
   * a [Prefeitura](phandalin/townmasters_hall.md) busca voluntários para lidar

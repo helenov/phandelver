@@ -11,10 +11,10 @@ sol.
 
 ### Personagens
 
-* [Elmina Barthen](../../characters/npcs/phandalin/barthens/elmina_barthen.md),
+* [Elmina Barthen](../../casting/npcs/phandalin/barthens/elmina_barthen.md),
   proprietária e gerente
-* [Ander](../../characters/npcs/phandalin/barthens/ander.md), funcionário
-* [Thistle](../../characters/npcs/phandalin/barthens/thistle.md), funcionário
+* [Ander](../../casting/npcs/phandalin/barthens/ander.md), funcionário
+* [Thistle](../../casting/npcs/phandalin/barthens/thistle.md), funcionário
 
 [//]: # (### Organizações)
 [//]: # ()
@@ -29,6 +29,6 @@ sol.
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * grupo
-    conhece [Elmina](../../characters/npcs/phandalin/barthens/elmina_barthen.md),
+    conhece [Elmina](../../casting/npcs/phandalin/barthens/elmina_barthen.md),
     a proprietária
     ([Cena 6](../../sessions/02_phandalin.md#cena-6-venda-da-barthen))

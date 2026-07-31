@@ -16,15 +16,15 @@ _próxima_ : [Sessão 2 Phandalin](02_phandalin.md)
 
 ### Elenco
 
-* [Yeemik](../characters/npcs/cragmaw/yeemik.md), rival do chefe
-* [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md), prisioneiro
-* [Klarg](../characters/npcs/cragmaw/klarg.md), chefe
+* [Yeemik](../casting/npcs/cragmaw/yeemik.md), rival do chefe
+* [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), prisioneiro
+* [Klarg](../casting/npcs/cragmaw/klarg.md), chefe
 * goblins
 * lobos
 
 #### Mencionados
 
-* [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md), mercador
+* [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md), mercador
   sequestrado
 
 ### Cenários
@@ -40,8 +40,8 @@ _próxima_ : [Sessão 2 Phandalin](02_phandalin.md)
 ![Quatro goblins armados com arcos, espreitam entre a vegetação no alto de um barranco, enquanto uma carroça de suprimentos puxada por dois bois, passa na estrada abaixo.](../images/cenas/01_1_emboscada.png)
 
 Ao se aproximarem dos cavalos mortos, o grupo pode identificar que realmente são
-aqueles usados [Gundren](../characters/npcs/gundren_rockseeker.md)
-e [Sildar](../characters/npcs/sildar_hallwinter.md), mas logo são surpreendidos
+aqueles usados [Gundren](../casting/npcs/gundren_rockseeker.md)
+e [Sildar](../casting/npcs/sildar_hallwinter.md), mas logo são surpreendidos
 por uma flecha que passa zunindo próxima a Ralf.
 
 Da direção de onde a flecha veio se revela um goblin que estava escondido na
@@ -140,15 +140,15 @@ goblins e lobos estão de prontidão aguardando.
 Se esgueirando para o lado esquerdo da ponte, Ralf vê que há outra sala com
 goblins, mas antes que a luz de sua lanterna possa revelar todo o espaço e ver
 quantos estão ali, uma voz que parece ser a de um líder ordena que pare, caso
-contrário "[Yeemik](../characters/npcs/cragmaw/yeemik.md) matar humano!".
+contrário "[Yeemik](../casting/npcs/cragmaw/yeemik.md) matar humano!".
 
 Ralf propõe pagar um resgate pelo "humano", ao que o líder pede 50 gp, mas Ralf
 diz que não tem este dinheiro todo e oferece 5 gp. O líder fala, então, que
 "libertar humano, se trazer cabeça
-de [Klarg](../characters/npcs/cragmaw/klarg.md)". Nisso uma voz humana, que
-parece ser a de [Sildar](../characters/npcs/sildar_hallwinter.md), grita dizendo
+de [Klarg](../casting/npcs/cragmaw/klarg.md)". Nisso uma voz humana, que
+parece ser a de [Sildar](../casting/npcs/sildar_hallwinter.md), grita dizendo
 que não devem confiar neles, "é mais importante
-resgatarem [Gundren](../characters/npcs/gundren_rockseeker.md)". Fica, então,
+resgatarem [Gundren](../casting/npcs/gundren_rockseeker.md)". Fica, então,
 claro que o anão não está com eles.
 
 Discutindo com Yeemik, Ralf entende que Klarg é o líder do grupo, mas que eles
@@ -176,7 +176,7 @@ diversos.
 
 Quando Ralf avança para atacar o lobo, sai de trás de algumas caixas um bugbear
 que logo o ataca, tentando intimidar o grupo
-"[Klarg](../characters/npcs/cragmaw/klarg.md) ordena que invasores vão embora!".
+"[Klarg](../casting/npcs/cragmaw/klarg.md) ordena que invasores vão embora!".
 
 A princípio bugbear parece estar sozinho, mas após bradar que seus "Lacaios
 covardes expulsem invasores da caverna de Klarg!", três goblins relutantes
@@ -195,7 +195,7 @@ identifica a maioria da carga como sendo
 da [Lionshield Coster](../organizations/lionshield_coster.md)).
 
 O grupo bastante ferido e esgotado precisa decidir o que fazer: ir para o
-resgate de [Sildar](../characters/npcs/sildar_hallwinter.md)? Ou recuar para se
+resgate de [Sildar](../casting/npcs/sildar_hallwinter.md)? Ou recuar para se
 recuperar?
 
 ---

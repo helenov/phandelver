@@ -13,9 +13,9 @@ _próxima_ : [Sessão 1 Goblins](01_goblins.md)
 
 ### Elenco
 
-* [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md), mercador e
+* [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md), mercador e
   contratante
-* [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md), membro
+* [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), membro
   da [Lords' Alliance](../organizations/lords_alliance.md)
 
 ### Cenários
@@ -37,7 +37,7 @@ _próxima_ : [Sessão 1 Goblins](01_goblins.md)
 
 ![Uma taverna medieval lotada de pessoas animadas. No centro da cena, como quem acaba de chegar, um anão usando chapéu de abas largas acena ao lado de um soldado que permanece sério.](../images/cenas/00_1_trabalho.png)
 
-Um antigo amigo, [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md),
+Um antigo amigo, [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md),
 um anão mercador, sabendo que o grupo estava
 em [Neverwinter](../locations/neverwinter.md), mandou um recado combinando um
 encontro em uma conhecida taverna.
@@ -49,7 +49,7 @@ da [Lords' Alliance](../organizations/lords_alliance.md).
 
 O anão logo os localiza na taverna cheia e, com um grande sorriso e os braços
 abertos, se aproxima. Cumprimentando o grupo, logo apresenta seu
-amigo, [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md), que
+amigo, [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), que
 retribui com um aceno só sóbrio, mas permanece calado.
 
 Após uma troca inicial de amenidades, o anão traz o ponto que o motivou seu
@@ -81,8 +81,8 @@ preparativos para a viagem.
 ![Uma carroça atrelada a dois grandes bois está sendo carregada em frente a um armazem de suprimentos, em uma rua movimentada de uma grande cidade medieval.](../images/cenas/00_2_partida.png)
 
 Na manhã seguinte, o grupo está esperando no local combinado para a partida
-quando o [Gundren](../characters/npcs/gundren_rockseeker.md)
-e [Sildar](../characters/npcs/sildar_hallwinter.md) chegam meio apresados,
+quando o [Gundren](../casting/npcs/gundren_rockseeker.md)
+e [Sildar](../casting/npcs/sildar_hallwinter.md) chegam meio apresados,
 trazendo dois cavalos.
 
 Gundren explica que houve uma pequena alteração nos planos e que ele e o amigo
@@ -122,8 +122,8 @@ que avançam cautelosos, com Sapão mais para trás trazendo os bois com a carro
 pelas rédeas.
 
 Quando se aproximam mais, agora podem reconhecer os cavalos que
-levavam [Gundren](../characters/npcs/gundren_rockseeker.md)
-e [Sildar](../characters/npcs/sildar_hallwinter.md). Sem muito tempo para
+levavam [Gundren](../casting/npcs/gundren_rockseeker.md)
+e [Sildar](../casting/npcs/sildar_hallwinter.md). Sem muito tempo para
 investigar a cena, uma flecha passa zunindo próxima a Ralf, revelando um goblin
 escondido na vegetação.
 

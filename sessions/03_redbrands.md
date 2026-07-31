@@ -20,22 +20,22 @@ _próxima_ : [Sessão 4 Glasstaff](04_glasstaff.md)
 
 * [Redbrands](../organizations/redbrands.md)
   * bandidos
-* [Greska](../characters/npcs/phandalin/greska.md), ogre taverneiro
+* [Greska](../casting/npcs/phandalin/greska.md), ogre taverneiro
 
 #### Em [Phandalin](../locations/phandalin.md)
 
-* [Harbin Wester](../characters/npcs/phandalin/harbin_wester.md), prefeito
-* [Carp Alderleaf](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md),
+* [Harbin Wester](../casting/npcs/phandalin/harbin_wester.md), prefeito
+* [Carp Alderleaf](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md),
   garota halfling
-* [Pip Stonehill](../characters/npcs/phandalin/stonehill/pip_stonehill.md),
+* [Pip Stonehill](../casting/npcs/phandalin/stonehill/pip_stonehill.md),
   garoto humano
-* [Qelline Alderleaf](../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md),
+* [Qelline Alderleaf](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md),
   mãe de Carp
 
 #### No [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
 
 * [Redbrands](../organizations/redbrands.md)
-  * [Ssnark](../characters/npcs/redbrands/ssnark.md), voz na cabeça
+  * [Ssnark](../casting/npcs/redbrands/ssnark.md), voz na cabeça
   * bandidos
   * esqueletos
 * prisioneiros
@@ -43,7 +43,7 @@ _próxima_ : [Sessão 4 Glasstaff](04_glasstaff.md)
 
 #### Mencionados
 
-* [Irmã Garaele](../characters/npcs/phandalin/sister_garaele.md), responsável
+* [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), responsável
   pelo [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md)
 
 ### Cenários
@@ -99,7 +99,7 @@ Dentro do bar, o grupo encontra o taverneiro, um ogre grandalhão e aborrecido,
 que mergulha copos na água suja que está na pia, e os enxuga com um pano
 encardido. Após pedir cervejas e serem atendidos &mdash; o ogre usa os mesmos
 copos que vinha 'lavando' &mdash;, o grupo se apresenta, e o ogre, que se
-apresenta como [Greska](../characters/npcs/phandalin/greska.md), parece se
+apresenta como [Greska](../casting/npcs/phandalin/greska.md), parece se
 divertir muito quando dizem que estão ali para livrar a cidade dos bandidos.
 Greska diz que o Redbrands são seus únicos clientes e o dinheiro deles é tão bom
 quanto o de qualquer outro, e que não se importa com o que fazem fora de seu
@@ -110,7 +110,7 @@ Dos homens derrotados, dois estão mortos, mas um está apenas inconsciente.
 
 Quando o grupo bate a porta
 da [Prefeitura](../locations/phandalin/townmasters_hall.md), são atendidos por
-um prefeito [Harbin](../characters/npcs/phandalin/harbin_wester.md) já de
+um prefeito [Harbin](../casting/npcs/phandalin/harbin_wester.md) já de
 camisola. Explicam a situação e, sobre protestos de que foi acordado, o grupo é
 levado até o porão onde trancam o bandido inconsciente em uma cela. Também
 deixam as espadas apreendidas em uma sala da prefeitura, agora um arsenal
@@ -119,7 +119,7 @@ improvisado.
 O prefeito os orienta a levar o corpo para o cemitério que fica atrás
 do [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md), do outro
 lado da praça, mas já adianta que
-a [Irmã Garaele](../characters/npcs/phandalin/sister_garaele.md) não se encontra
+a [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) não se encontra
 na cidade. No templo, realmente não encontram ninguém, e deixam os corpos para
 que alguém os enterre no dia seguinte.
 
@@ -131,15 +131,15 @@ que alguém os enterre no dia seguinte.
 
 Na manhã seguinte, quando o grupo desce para tomar seu café da manhã
 na [hospedaria](../locations/phandalin/stonehill_inn.md), já
-encontram [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md), a
+encontram [Carp](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md), a
 garota halfling, ansiosa a espera. Ao seu
-lado, [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md), o filho do
+lado, [Pip](../casting/npcs/phandalin/stonehill/pip_stonehill.md), o filho do
 estalajadeiro, está cabisbaixo, claramente contrariado e infeliz.
 
 Após tomar café, apressados por uma garota inquieta ao lado, ela os leva até uma
 [fazenda](../locations/phandalin/alderleaf_farm.md) no extremo sudeste da vila.
 "É aqui que eu moro com minha
-mãe, [Qelline](../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md), mas
+mãe, [Qelline](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md), mas
 é melhor não a incomoda ela agora."
 Contornam a casa, atravessam um campo de canteiros de hortaliças diversas e
 chegam a uma densa mata, conhecida
@@ -164,11 +164,11 @@ cuida para manter o lugar em segredo.
 
 ![O túnel se abre em uma grande caverna cortada por uma fenda mais ou menos profunda. Duas pontes precárias atravessam a fenda. Luzes de tochas iluminam o lugar.](../images/cenas/03_3_uma_voz.png)
 
-Após levar [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md)
-e [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md) de volta
+Após levar [Carp](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md)
+e [Pip](../casting/npcs/phandalin/stonehill/pip_stonehill.md) de volta
 a [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md), e deixá-la aos
 cuidados
-da [Sra. Alderleaf](../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md),
+da [Sra. Alderleaf](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md),
 o grupo retorna a entrada escondida.
 
 Sempre com a coruja Bia investigando a frente, o grupo segue um túnel estreito e
@@ -186,7 +186,7 @@ elas corredores bem construídos, além do que parece ser uma oficina do outro
 lado do salão, depois da fenda.
 
 Sem nenhum aviso uma voz estridente e sussurrante rompe o silêncio do lugar,
-"[Ssnark](../characters/npcs/redbrands/ssnark.md) tem fome... Carne fresca...",
+"[Ssnark](../casting/npcs/redbrands/ssnark.md) tem fome... Carne fresca...",
 seguindo uma risada insana. O grupo olha em volta, procurando sem sucesso a
 origem da voz. Ao olhar para o fundo da fenda, a voz retorna, "Homenzinhos
 burros! Ssnark não está aí embaixo. Mas podem descer... Não vão descer, não?...

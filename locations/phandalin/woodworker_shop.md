@@ -11,13 +11,13 @@ _[_Texto_]_ :construction:
 
 ### Personagens
 
-* [Thel Dentral](../../characters/npcs/phandalin/dendrar/thel_dendrar.md) (RIP),
+* [Thel Dentral](../../casting/npcs/phandalin/dendrar/thel_dendrar.md) (RIP),
   carpinteiro
-* [Mirna Dendrar](../../characters/npcs/phandalin/dendrar/mirna_dendrar.md),
+* [Mirna Dendrar](../../casting/npcs/phandalin/dendrar/mirna_dendrar.md),
   esposa de Thel
-* [Nilsa Dendrar](../../characters/npcs/phandalin/dendrar/nilsa_dendrar.md),
+* [Nilsa Dendrar](../../casting/npcs/phandalin/dendrar/nilsa_dendrar.md),
   filha de Thel e Mirna
-* [Nars Dendrar.md](../../characters/npcs/phandalin/dendrar/nars_dendrar.md),
+* [Nars Dendrar.md](../../casting/npcs/phandalin/dendrar/nars_dendrar.md),
   filho de Thel e Mirna
 
 [//]: # (### Organizações)

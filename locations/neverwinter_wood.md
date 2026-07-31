@@ -26,9 +26,9 @@
 ### Referências
 
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
-  * [Flip](../characters/npcs/cragmaw/flip.md) diz que
+  * [Flip](../casting/npcs/cragmaw/flip.md) diz que
     o [Castelo Cragmaw](cragmaw_castle.md) fica na **Floresta de Neverwinter**
     ([Cena 4](../sessions/02_phandalin.md#cena-4-interrogatório))
-  * [Daran](../characters/npcs/phandalin/daran_edermath.md) diz que
+  * [Daran](../casting/npcs/phandalin/daran_edermath.md) diz que
     o [Castelo Cragmaw](cragmaw_castle.md) fica na **Floresta de Neverwinter**
     ([Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath))

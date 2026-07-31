@@ -15,27 +15,27 @@ _próxima_ : [Sessão 5 Perda](05_perda.md)
 
 ### Elenco
 
-* [Mirna Dendrar](../characters/npcs/phandalin/dendrar/mirna_dendrar.md), viúva
+* [Mirna Dendrar](../casting/npcs/phandalin/dendrar/mirna_dendrar.md), viúva
   do
-  carpinteiro [Thel Dendrar](../characters/npcs/phandalin/dendrar/thel_dendrar.md)
+  carpinteiro [Thel Dendrar](../casting/npcs/phandalin/dendrar/thel_dendrar.md)
   (RIP)
-  * [Nilsa Dendrar](../characters/npcs/phandalin/dendrar/nilsa_dendrar.md),
+  * [Nilsa Dendrar](../casting/npcs/phandalin/dendrar/nilsa_dendrar.md),
     filha de Mirna
-  * [Nars Dendrar](../characters/npcs/phandalin/dendrar/nars_dendrar.md), filho
+  * [Nars Dendrar](../casting/npcs/phandalin/dendrar/nars_dendrar.md), filho
     de Mirna
 
 ####
 
 * [Redbrands](../organizations/redbrands.md)
-  * [Glasstaff](../characters/npcs/redbrands/glasstaff.md), líder
+  * [Glasstaff](../casting/npcs/redbrands/glasstaff.md), líder
     * seu mascote
-  * [Ssnark](../characters/npcs/redbrands/ssnark.md), criatura que guarda
+  * [Ssnark](../casting/npcs/redbrands/ssnark.md), criatura que guarda
     o [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
   * bandidos
 
 #### Mencionados
 
-* [Thel Dendrar](../characters/npcs/phandalin/dendrar/thel_dendrar.md) (RIP),
+* [Thel Dendrar](../casting/npcs/phandalin/dendrar/thel_dendrar.md) (RIP),
   carpinteiro
 
 ### Cenários
@@ -71,12 +71,12 @@ encurralar justamente nesta passagem, derrotando enfim o último adversário.
 
 Agora, com tudo mais calmo novamente, o grupo conversa com os prisioneiros. A
 mulher mais velha se apresenta
-como [Mirna Dendrar](../characters/npcs/phandalin/dendrar/mirna_dendrar.md),
+como [Mirna Dendrar](../casting/npcs/phandalin/dendrar/mirna_dendrar.md),
 esposa do carpinteiro
-[Thel Dendrar](../characters/npcs/phandalin/dendrar/thel_dendrar.md), e "nossos
-filhos [Nilsa](../characters/npcs/phandalin/dendrar/nilsa_dendrar.md)", uma
+[Thel Dendrar](../casting/npcs/phandalin/dendrar/thel_dendrar.md), e "nossos
+filhos [Nilsa](../casting/npcs/phandalin/dendrar/nilsa_dendrar.md)", uma
 jovem de pouco mais de 18 anos,
-"e [Nars](../characters/npcs/phandalin/dendrar/nars_dendrar.md)", um garoto de
+"e [Nars](../casting/npcs/phandalin/dendrar/nars_dendrar.md)", um garoto de
 12 anos.
 
 Mirna conta como os [Redbrands](../organizations/redbrands.md) mataram seu
@@ -105,7 +105,7 @@ caixotes, tanto vazios quanto cheios de itens roubados prontos para serem
 contrabandeados &mdash; além de ferramentas para trabalhar com as caixas.
 
 "Homenzinhos voltaram! Ah! Mas agora não são mais intrusos. Venham conversar com
-[Ssnark](../characters/npcs/redbrands/ssnark.md)...", sussurra a voz novamente
+[Ssnark](../casting/npcs/redbrands/ssnark.md)...", sussurra a voz novamente
 direto na cabeça de cada um, e mais risadas insanas.
 
 Bia, a coruja, sobrevoa a caverna, e vê a criatura atrás de uma das pilastras.
@@ -172,7 +172,7 @@ Após procurarem sem sucesso por rastros do mago. As ruínas estão cheias de
 rastros em muitas direções, mostrando que a entrada para o porão na cozinha está
 sendo usada frequentemente por muitas pessoas.
 
-O mago [Glasstaff](../characters/npcs/redbrands/glasstaff.md) e seu mascote
+O mago [Glasstaff](../casting/npcs/redbrands/glasstaff.md) e seu mascote
 fugiram.
 
 ---
@@ -191,7 +191,7 @@ Cautelosamente, conduzem a família Dendrar pela caverna até o túnel, onde sã
 orientados a seguir
 pela [Mata Tresendar](../locations/phandalin/tresendar_wood.md) até
 a [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md). O
-garoto [Nars](../characters/npcs/phandalin/dendrar/nars_dendrar.md) diz conhecer
+garoto [Nars](../casting/npcs/phandalin/dendrar/nars_dendrar.md) diz conhecer
 bem a mata e consegue chegar a fazenda.
 
 Aproveitam que agora têm uma ferramenta &mdash; ao passar pela oficina, não

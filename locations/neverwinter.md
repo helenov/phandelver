@@ -11,8 +11,8 @@ _[_Texto_]_ :construction:
 
 ### Personagens
 
-* [Gundren Rockseeker](../characters/npcs/gundren_rockseeker.md), mercador
-* [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md), agente
+* [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md), mercador
+* [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), agente
   da [Lords' Alliance](../organizations/lords_alliance.md)
 
 [//]: # (### Organizações)
@@ -23,15 +23,15 @@ _[_Texto_]_ :construction:
 
 * uma taverna
   * onde recebem uma oferta de trabalho
-    de [Gundren](../characters/npcs/gundren_rockseeker.md)
+    de [Gundren](../casting/npcs/gundren_rockseeker.md)
 * um depósito de mercadorias
-  * onde se despedem de [Gundren](../characters/npcs/gundren_rockseeker.md)
-    e [Sildar](../characters/npcs/sildar_hallwinter.md), que partem a frente
+  * onde se despedem de [Gundren](../casting/npcs/gundren_rockseeker.md)
+    e [Sildar](../casting/npcs/sildar_hallwinter.md), que partem a frente
   * de onde saem com a carroça de suprimentos
 
 ### Referências
 
 * [Sessão 0 Prólogo](../sessions/00_prologo.md)
   * grupo recebe oferta de trabalho
-    de [Gundren](../characters/npcs/gundren_rockseeker.md)
+    de [Gundren](../casting/npcs/gundren_rockseeker.md)
     ([Cena 1](../sessions/00_prologo.md#cena-1-trabalho))

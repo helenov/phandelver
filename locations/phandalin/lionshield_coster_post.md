@@ -11,7 +11,7 @@ _[_Texto_]_ :construction:
 
 ### Personagens
 
-* [Linene Graywind](../../characters/npcs/phandalin/linene_graywind.md), gerente
+* [Linene Graywind](../../casting/npcs/phandalin/linene_graywind.md), gerente
 
 ### Organizações
 

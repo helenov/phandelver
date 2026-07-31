@@ -8,55 +8,55 @@ _[_Texto_]_ :construction:
 
 ### Personagens
 
-* [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md), representante
+* [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), representante
   da [Lords' Alliance](../organizations/lords_alliance.md)
 
 ####
 
-* [Elmina Barthen](../characters/npcs/phandalin/barthens/elmina_barthen.md),
+* [Elmina Barthen](../casting/npcs/phandalin/barthens/elmina_barthen.md),
   dona da venda
-  * [Ander](../characters/npcs/phandalin/barthens/ander.md), funcionário da
+  * [Ander](../casting/npcs/phandalin/barthens/ander.md), funcionário da
     venda
-  * [Thistle](../characters/npcs/phandalin/barthens/thistle.md), funcionário da
+  * [Thistle](../casting/npcs/phandalin/barthens/thistle.md), funcionário da
     venda
 
 ####
 
-* [Toblen Stonehill](../characters/npcs/phandalin/stonehill/toblen_stonehill.md),
+* [Toblen Stonehill](../casting/npcs/phandalin/stonehill/toblen_stonehill.md),
   dono da hospedaria
-  * [Freda](../characters/npcs/phandalin/stonehill/freda.md), tecelã
-  * [Lanar](../characters/npcs/phandalin/stonehill/lanar.md), minerador
-  * [Elsa](../characters/npcs/phandalin/stonehill/elsa.md), bartender da
+  * [Freda](../casting/npcs/phandalin/stonehill/freda.md), tecelã
+  * [Lanar](../casting/npcs/phandalin/stonehill/lanar.md), minerador
+  * [Elsa](../casting/npcs/phandalin/stonehill/elsa.md), bartender da
     hospedaria
-  * [Pip](../characters/npcs/phandalin/stonehill/pip_stonehill.md), filho de
+  * [Pip](../casting/npcs/phandalin/stonehill/pip_stonehill.md), filho de
     Toblen
 
 ####
 
-* [Qelline Alderleaf](../characters/npcs/phandalin/alderleaf/qelline_alderleaf.md),
+* [Qelline Alderleaf](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md),
   fazendeira
-  * [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md), filha de
+  * [Carp](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md), filha de
     Qelline
 
 ####
 
-* [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do
+* [Daran Edermath](../casting/npcs/phandalin/daran_edermath.md), velho do
   pomar
-* [Harbin Weber](../characters/npcs/phandalin/harbin_wester.md), prefeito
-* [Joe Smithe](../characters/npcs/phandalin/joe_smithe.md), ferreiro
+* [Harbin Weber](../casting/npcs/phandalin/harbin_wester.md), prefeito
+* [Joe Smithe](../casting/npcs/phandalin/joe_smithe.md), ferreiro
 
 ####
 
-* [Mirna Dendrar](../characters/npcs/phandalin/dendrar/mirna_dendrar.md), esposa
-  de [Thel Dendrar](../characters/npcs/phandalin/dendrar/thel_dendrar.md)
-  * [Nilsa Dendrar](../characters/npcs/phandalin/dendrar/nilsa_dendrar.md), filha de Thel e Mirna
-  * [Nars Dendrar.md](../characters/npcs/phandalin/dendrar/nars_dendrar.md), filho de Thel e Mirna
+* [Mirna Dendrar](../casting/npcs/phandalin/dendrar/mirna_dendrar.md), esposa
+  de [Thel Dendrar](../casting/npcs/phandalin/dendrar/thel_dendrar.md)
+  * [Nilsa Dendrar](../casting/npcs/phandalin/dendrar/nilsa_dendrar.md), filha de Thel e Mirna
+  * [Nars Dendrar.md](../casting/npcs/phandalin/dendrar/nars_dendrar.md), filho de Thel e Mirna
 
 #### Mencionados
 
-* [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), mestre da
+* [Halia Thornton](../casting/npcs/phandalin/halia_thornton.md), mestre da
   guilda dos mineradores
-* [Thel Dendrar](../characters/npcs/phandalin/dendrar/thel_dendrar.md) (RIP),
+* [Thel Dendrar](../casting/npcs/phandalin/dendrar/thel_dendrar.md) (RIP),
   carpinteiro
 
 [//]: # (### Organizações)
@@ -93,7 +93,7 @@ _[_Texto_]_ :construction:
 ### Referências
 
 * [Sessão 0 Prólogo](../sessions/00_prologo.md)
-  * destino da carga de [Gundren](../characters/npcs/gundren_rockseeker.md)
+  * destino da carga de [Gundren](../casting/npcs/gundren_rockseeker.md)
     ([Cena 1](../sessions/00_prologo.md#cena-1-trabalho))
 
 ####
@@ -101,9 +101,9 @@ _[_Texto_]_ :construction:
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
   * grupo chega a **Phandalin**
     ([Cena 5](../sessions/02_phandalin.md#cena-5-phandalin))
-  * [Daran](../characters/npcs/phandalin/daran_edermath.md) explica sobre (des)
+  * [Daran](../casting/npcs/phandalin/daran_edermath.md) explica sobre (des)
     organização política de **Phandalin**
     ([Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath))
-  * [Harbin](../characters/npcs/phandalin/harbin_wester.md) nomeia o grupo como
+  * [Harbin](../casting/npcs/phandalin/harbin_wester.md) nomeia o grupo como
     força de segurança provisória de **Phandalin**
     ([Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura))

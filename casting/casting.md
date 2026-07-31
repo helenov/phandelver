@@ -34,9 +34,9 @@
     * [Pip](npcs/phandalin/stonehill/pip_stonehill.md), filho de Toblen
   * [Qelline Alderleaf](npcs/phandalin/alderleaf/qelline_alderleaf.md),
     fazendeira
-    * [Carp](../characters/npcs/phandalin/alderleaf/carp_alderleaf.md), filha de
+    * [Carp](npcs/phandalin/alderleaf/carp_alderleaf.md), filha de
       Qelline
-  * [Daran Edermath](../characters/npcs/phandalin/daran_edermath.md), velho do
+  * [Daran Edermath](npcs/phandalin/daran_edermath.md), velho do
     pomar e aventureiro aposentado
   * [Linene Graywind](npcs/phandalin/linene_graywind.md), representante
     da [Lionshield Coster](../organizations/lionshield_coster.md)
@@ -49,7 +49,7 @@
 
 ####
 
-* [Cragmaws Goblins](../organizations/cragmaw_goblins.md)
+* [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
   * [Klarg](npcs/cragmaw/klarg.md) (RIP), antigo chefe local
   * [Yeemik](npcs/cragmaw/yeemik.md), novo chefe local
   * [Flip](npcs/cragmaw/flip.md), goblin interrogado
@@ -61,7 +61,7 @@
     
 #### Mencionados
 
-* [Cragmaws Goblins](../organizations/cragmaw_goblins.md)
+* [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
   * [Grol](npcs/cragmaw/grol.md), rei
 
 ####
@@ -82,7 +82,7 @@
 ####
 
 * [Phandalin](../locations/phandalin.md)
-  * [Halia Thornton](../characters/npcs/phandalin/halia_thornton.md), mestre da
+  * [Halia Thornton](npcs/phandalin/halia_thornton.md), mestre da
     guilda dos mineradores
   * [Thel Dendrar](npcs/phandalin/dendrar/thel_dendrar.md) (RIP), carpinteiro
 

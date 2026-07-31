@@ -36,7 +36,7 @@
 
 ####
 
-* interrogatório de [Flip](characters/npcs/cragmaw/flip.md), o goblin
+* interrogatório de [Flip](casting/npcs/cragmaw/flip.md), o goblin
   * [Sessão 2](sessions/02_phandalin.md): [Cena 4](sessions/02_phandalin.md#cena-4-interrogatório)
 
 ---
@@ -73,7 +73,7 @@
   na [Mansão Tresendar](locations/phandalin/tresendar_manor.md)
   * [Sessão 3](sessions/03_redbrands.md): [Cenas 2 a 5](sessions/03_redbrands.md#cena-2-túnel-secreto)
   * [Sessão 4](sessions/04_glasstaff.md)
-  * [Sessão 5]: continua... 
+  * [Sessão 5] continua... 
 
 :construction:
 

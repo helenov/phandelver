@@ -32,14 +32,14 @@ _[_Texto_]_ :construction:
 ### Referências
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
-  * [Carp](../../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) conta
+  * [Carp](../../casting/npcs/phandalin/alderleaf/carp_alderleaf.md) conta
     como encontrou um "túnel secreto" na mata ao sul da **Mansão Tresendar**
     ([Cena 13](../../sessions/02_phandalin.md#cena-13-carp))
 
 ####
 
 * [Sessão 3 Redbrands](../../sessions/03_redbrands.md)
-  * [Greska](../../characters/npcs/phandalin/greska.md) diz que
+  * [Greska](../../casting/npcs/phandalin/greska.md) diz que
     os [Redbrands](../../organizations/redbrands.md)
     se escondem para os lados da **Mansão Tresendar**
     ([Cena 1](../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
@@ -50,6 +50,6 @@ _[_Texto_]_ :construction:
 ####
 
 * [Sessão 4 Glasstaff](../../sessions/04_glasstaff.md)
-  * grupo persegue [Glasstaff](../../characters/npcs/redbrands/glasstaff.md) até
+  * grupo persegue [Glasstaff](../../casting/npcs/redbrands/glasstaff.md) até
     as ruínas da **Mansão Tresendar**
     ([Cena 3](../../sessions/04_glasstaff.md#cena-3-mago))

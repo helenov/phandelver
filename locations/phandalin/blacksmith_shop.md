@@ -11,7 +11,7 @@ _[_Texto_]_ :construction:
 
 ### Personagens
 
-* [Joe Smithe](../../characters/npcs/phandalin/joe_smithe.md), ferreiro
+* [Joe Smithe](../../casting/npcs/phandalin/joe_smithe.md), ferreiro
 
 [//]: # (### Organizações)
 [//]: # ()

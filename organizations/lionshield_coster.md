@@ -11,7 +11,7 @@ _[_Texto_]_ :construction:
 
 ### Membros
 
-* [Linene Graywind](../characters/npcs/phandalin/linene_graywind.md),
+* [Linene Graywind](../casting/npcs/phandalin/linene_graywind.md),
   representante local em [Phandalin](../locations/phandalin.md)
 
 ### Locais

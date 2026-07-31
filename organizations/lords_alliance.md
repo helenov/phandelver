@@ -14,9 +14,9 @@ civilização.
 
 ### Membros
 
-* [Sildar Hallwinter](../characters/npcs/sildar_hallwinter.md), representante
+* [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), representante
   em [Phandalin](../locations/phandalin.md)
-* [Iarno Albrek](../characters/npcs/iarno_albrek.md), representante
+* [Iarno Albrek](../casting/npcs/iarno_albrek.md), representante
   em [Phandalin](../locations/phandalin.md) desaparecido
 
 [//]: # (### Locais)
@@ -27,12 +27,12 @@ civilização.
 ### Referências
 
 * [Sessão 0 Prólogo](../sessions/00_prologo.md)
-  * brasão nos trajes de [Sildar](../characters/npcs/sildar_hallwinter.md)
+  * brasão nos trajes de [Sildar](../casting/npcs/sildar_hallwinter.md)
     ([Cena 1](../sessions/00_prologo.md#cena-1-trabalho))
 
 ####
 
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
-  * [Daran](../characters/npcs/phandalin/daran_edermath.md) fica satisfeito que
-    tenham mandado [Sildar](../characters/npcs/sildar_hallwinter.md)
+  * [Daran](../casting/npcs/phandalin/daran_edermath.md) fica satisfeito que
+    tenham mandado [Sildar](../casting/npcs/sildar_hallwinter.md)
     ([Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath))

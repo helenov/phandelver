@@ -11,12 +11,12 @@ _[_Texto_]_ :construction:
 
 ### Personagens
 
-* [Toblen](../../characters/npcs/phandalin/stonehill/toblen_stonehill.md),
+* [Toblen](../../casting/npcs/phandalin/stonehill/toblen_stonehill.md),
   proprietário e gerente
-* [Freda](../../characters/npcs/phandalin/stonehill/freda.md), frequentadora
-* [Lanar](../../characters/npcs/phandalin/stonehill/lanar.md), frequentador
-* [Elsa](../../characters/npcs/phandalin/stonehill/elsa.md), bartender
-* [Pip](../../characters/npcs/phandalin/stonehill/pip_stonehill.md), filho de
+* [Freda](../../casting/npcs/phandalin/stonehill/freda.md), frequentadora
+* [Lanar](../../casting/npcs/phandalin/stonehill/lanar.md), frequentador
+* [Elsa](../../casting/npcs/phandalin/stonehill/elsa.md), bartender
+* [Pip](../../casting/npcs/phandalin/stonehill/pip_stonehill.md), filho de
   Toblen
 
 [//]: # (### Organizações)
@@ -38,6 +38,6 @@ _[_Texto_]_ :construction:
 ####
 
 * [Sessão 3 Redbrands](../../sessions/03_redbrands.md)
-  * [Carp](../../characters/npcs/phandalin/alderleaf/carp_alderleaf.md) está
+  * [Carp](../../casting/npcs/phandalin/alderleaf/carp_alderleaf.md) está
     esperando o grupo na **Hospedaria Stonehill**
     ([Cena 2](../../sessions/03_redbrands.md#cena-2-túnel-secreto))

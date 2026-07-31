@@ -11,7 +11,7 @@ _[_Texto_]_ :construction:
 
 ### Personagens
 
-* [Daran Edermath](../../characters/npcs/phandalin/daran_edermath.md),
+* [Daran Edermath](../../casting/npcs/phandalin/daran_edermath.md),
   proprietário
 
 [//]: # (### Organizações)
@@ -27,5 +27,5 @@ _[_Texto_]_ :construction:
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * o grupo visita o **Pomar Edermath**
-    procurando [Daran](../../characters/npcs/phandalin/daran_edermath.md)
+    procurando [Daran](../../casting/npcs/phandalin/daran_edermath.md)
     ([Cena 9](../../sessions/02_phandalin.md#cena-9-pomar-edermath))

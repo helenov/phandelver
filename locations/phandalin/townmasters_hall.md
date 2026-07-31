@@ -11,7 +11,7 @@ _[_Texto_]_ :construction:
 
 ### Personagens
 
-* [Harbin Weber](../../characters/npcs/phandalin/harbin_wester.md), prefeito e
+* [Harbin Weber](../../casting/npcs/phandalin/harbin_wester.md), prefeito e
   morador
 
 [//]: # (### Organizações)
@@ -27,7 +27,7 @@ _[_Texto_]_ :construction:
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
   * grupo vai à **Prefeitura** procurando o
-    prefeito [Harbin](../../characters/npcs/phandalin/harbin_wester.md)
+    prefeito [Harbin](../../casting/npcs/phandalin/harbin_wester.md)
     ([Cena 11](../../sessions/02_phandalin.md#cena-11-prefeitura))
   * a **Prefeitura** busca voluntários para lidar com os ataques
     na [Estrada Triboar](../triboar_trail.md)
