@@ -20,7 +20,7 @@ _[_Texto_]_ :construction:
 
 ### Locais
 
-* [Wyvern Tor], base de origem
+* [Wyvern Tor](../../../locations/wyvern_tor.md), base de origem
 * [Esconderijo Redbrand], enviado como reforço e capturado
 * [Prefeitura], prisioneiro
 

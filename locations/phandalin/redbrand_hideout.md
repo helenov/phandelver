@@ -12,8 +12,8 @@ _[_Texto_]_ :construction:
 * [Glasstaff](../../casting/npcs/redbrands/glasstaff.md), líder
   dos [Redbrands](../../organizations/redbrands.md)
   * seu mascote
-* [Ssnark](../../casting/npcs/redbrands/ssnark.md) (RIP), criatura que guarda
-  o **Esconderijo Redbrand**
+* [Ssnark](../../casting/npcs/redbrands/ssnark.md) (RIP), criatura que guarda o
+  **Esconderijo Redbrand**
 * bandidos
 * esqueletos
 
@@ -32,15 +32,15 @@ _[_Texto_]_ :construction:
 ### Referências
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
-  * [Carp](../../casting/npcs/phandalin/alderleaf/carp_alderleaf.md) conta
-    sobre o "túnel secreto" na [Mata Tresendar](tresendar_wood.md)
+  * [Carp](../../casting/npcs/phandalin/alderleaf/carp_alderleaf.md) conta sobre
+    o "túnel secreto" na [Mata Tresendar](tresendar_wood.md)
     ([Cena 13](../../sessions/02_phandalin.md#cena-13-carp))
 
 ####
 
 * [Sessão 3 Redbrands](../../sessions/03_redbrands.md)
-  * [Carp](../../casting/npcs/phandalin/alderleaf/carp_alderleaf.md) mostra
-    ao grupo o "túnel secreto" que leva ao **Esconderijo Redbrand**
+  * [Carp](../../casting/npcs/phandalin/alderleaf/carp_alderleaf.md) mostra ao
+    grupo o "túnel secreto" que leva ao **Esconderijo Redbrand**
     ([Cena 2](../../sessions/03_redbrands.md#cena-2-túnel-secreto))
   * grupo inicia a exploração do **Esconderijo Redbrand**
     ([Cenas 3 a 5)](../../sessions/03_redbrands.md#cena-3-uma-voz))
@@ -52,6 +52,12 @@ _[_Texto_]_ :construction:
     ([Cenas 1 a 4](../../sessions/04_glasstaff.md#cena-1-prisioneiros))
   * grupo enfrenta e derrota [Ssnark](../../casting/npcs/redbrands/ssnark.md)
     ([Cena 2](../../sessions/04_glasstaff.md#cena-2-ssnark))
-  * [Glasstaff](../../casting/npcs/redbrands/glasstaff.md) foge do
-    **Esconderijo Redbrand**
+  * [Glasstaff](../../casting/npcs/redbrands/glasstaff.md) foge do **Esconderijo
+    Redbrand**
     ([Cena 3](../../sessions/04_glasstaff.md#cena-3-mago))
+
+####
+
+* [Sessão 5 Perda](../../sessions/05_perda.md)
+  * grupo derrota bugbears de [Wyvern Tor](../wyvern_tor.md) no **Esconderijo
+    Redbrand** ([Cena 2](../../sessions/05_perda.md#cena-2-perda))

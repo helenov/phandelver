@@ -65,7 +65,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 
 * [Neverwinter]
 * [Castelo Cragmaw]
-* [Wyvern Tor]
+* [Wyvern Tor](../locations/wyvern_tor.md)
 * [Floresta de Neverwinter]
 * [Estrada Triboar]
   * [Conyberry]
@@ -152,9 +152,9 @@ nada!"
 
 Droop diz ser um [Cragmaw] que foi mandado para lá com os bugbears para "ajudar
 humanos de capa vermelha". Perguntado sobre a localização do [Castelo Cragmaw],
-diz que veio de [Wyvern Tor] e que nunca esteve no castelo, só sabe que "fica
-escondido na floresta ao norte", claramente a [Floresta de Neverwinter], e
-apontando para o líder morto, "Droop acha
+diz que veio de [Wyvern Tor](../locations/wyvern_tor.md) e que nunca esteve no
+castelo, só sabe que "fica escondido na floresta ao norte", claramente
+a [Floresta de Neverwinter], e apontando para o líder morto, "Droop acha
 que [Nosk](../casting/npcs/cragmaw/nosk.md) sabia..."
 
 O líder era um bugbear corpulento que usava um tapa-olho de couro preto

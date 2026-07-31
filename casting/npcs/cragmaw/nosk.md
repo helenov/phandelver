@@ -20,13 +20,16 @@ _[_Texto_]_ :construction:
 
 ### Locais
 
-* [Wyvern Tor], base de origem
+* [Wyvern Tor](../../../locations/wyvern_tor.md), base de origem
 * [Esconderijo Redbrand], enviado como reforço
 
 ### Referências
 
 * [Sessão 5 Perda](../../../sessions/05_perda.md)
   * grupo derrota **Nosk** no [Esconderijo Redbrand]
+    ([Cena 2](../../../sessions/05_perda.md#cena-2-perda))
+  * [Droop](droop.md) diz que ele e os bugbears vieram
+    de [Wyvern Tor](../../../locations/wyvern_tor.md)
     ([Cena 2](../../../sessions/05_perda.md#cena-2-perda))
   * [Droop](droop.md) acha que **Nosk** sabia a localização do [Castelo Cragmaw]
     ([Cena 2](../../../sessions/05_perda.md#cena-2-perda))

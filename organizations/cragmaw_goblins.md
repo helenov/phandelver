@@ -11,11 +11,20 @@ _[_Texto_]_ :construction:
 
 ### Membros
 
-* [Grol](../casting/npcs/cragmaw/grol.md), rei
-* [Klarg](../casting/npcs/cragmaw/klarg.md) (RIP), antigo chefe no
-  [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
-* [Yeemik](../casting/npcs/cragmaw/yeemik.md), novo chefe
-  no [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
+* [Castelo Cragmaw](../locations/cragmaw_castle.md)
+  * [Grol](../casting/npcs/cragmaw/grol.md), rei
+
+####
+
+* [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
+  * [Klarg](../casting/npcs/cragmaw/klarg.md) (RIP), antigo chefe
+  * [Yeemik](../casting/npcs/cragmaw/yeemik.md), novo chefe
+
+####
+
+* [Esconderijo Redbrand]
+  * [Nosk](../casting/npcs/cragmaw/nosk.md), líder enviado
+  * [Droop](../casting/npcs/cragmaw/droop.md), goblin enviado
 
 ### Locais
 
@@ -23,6 +32,8 @@ _[_Texto_]_ :construction:
   * base do grupo responsável por ataques
     na [Estrada Triboar](../locations/triboar_trail.md) a leste
     de [Phandalin](../locations/phandalin.md)
+* [Esconderijo Redbrand]
+  * grupo de reforço para os [Redbrands]
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
   * base do rei [Grol](../casting/npcs/cragmaw/grol.md)
 
@@ -49,4 +60,9 @@ _[_Texto_]_ :construction:
     com [Linene Graywind](../casting/npcs/phandalin/linene_graywind.md) sobre
     recuperar a carga roubada
     ([Cena 10](../sessions/02_phandalin.md#cena-10-lionshield-coster))
- 
+
+####
+
+* [Sessão 5 Perda](../sessions/05_perda.md)
+  * grupo derrota bugbears no [Esconderijo Redbrand]
+    ([Cena 2](../sessions/05_perda.md#cena-2-perda))
