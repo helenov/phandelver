@@ -59,7 +59,7 @@
 
 #### noite
 
-* combate com bandidos
+* combate com [Redbrands](organizations/redbrands.md)
   no [Gigante Adormecido](locations/phandalin/sleeping_giant.md)
   * [Sessão 3](sessions/03_redbrands.md): [Cena 1](sessions/03_redbrands.md#cena-1-gigante-adormecido)
 
@@ -69,12 +69,29 @@
 
 #### manhã
 
-* invasão ao esconderijo
-  na [Mansão Tresendar](locations/phandalin/tresendar_manor.md)
+* invasão ao [Esconderijo Redbrand](locations/phandalin/redbrand_hideout.md)
   * [Sessão 3](sessions/03_redbrands.md): [Cenas 2 a 5](sessions/03_redbrands.md#cena-2-túnel-secreto)
   * [Sessão 4](sessions/04_glasstaff.md)
-  * [Sessão 5] continua... 
+  * [Sessão 5](sessions/05_perda.md): [Cenas 1 a 3](sessions/05_perda.md#cena-1-carta)
 
-:construction:
+####
+
+* morte de Sapão
+  no [Esconderijo Redbrand](locations/phandalin/redbrand_hideout.md)
+  * [Sessão 5](sessions/05_perda.md): [Cena 2](sessions/05_perda.md#cena-2-perda)
+
+#### tarde
+
+* visita ao [Santuário da Sorte](locations/phandalin/shrine_of_luck.md) e
+  à [Irmã Garaele](casting/npcs/phandalin/sister_garaele.md)
+  * [Sessão 5](sessions/05_perda.md): [Cena 4](sessions/05_perda.md#cena-4-irmã-garaele)
+
+#### noite
+
+* chegada de Jeremias
+  * [Sessão 5](sessions/05_perda.md): [Cena 5](sessions/05_perda.md#cena-5-frodo)
+  * [Sessão 6]: [Cena 1]
+
+:construction: continua...
 
 ---

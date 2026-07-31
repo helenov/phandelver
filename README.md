@@ -26,4 +26,4 @@
   * (2026-05-25) [Sessão 5 Perda](sessions/05_perda.md)
   * (2026-06-08) [Sessão 6 Wyvern Tor]
   * (2026-07-06) [Sessão 7 A Floresta]
-  * (2026-07-30) [Sessão 8]
+  * (2026-08-03) [Sessão 8] próxima...
