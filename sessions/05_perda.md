@@ -8,7 +8,11 @@ _próxima_ : _[Sessão 6 Wyvern Tor]_
 
 ### Cenas
 
-* _[Cena _X_ _Título_]_
+* [Cena 1 Carta](#cena-1-carta)
+* [Cena 2 Perda](#cena-2-perda)
+* [Cena 3 Recompensa](#cena-3-recompensa)
+* [Cena 4 Irmã Garaele](#cena-4-irmã-garaele)
+* [Cena 5 Colinas](#cena-5-colinas)
 
 ### Elenco
 
@@ -28,7 +32,39 @@ _próxima_ : _[Sessão 6 Wyvern Tor]_
 
 ---
 
-### _[Cena _X_ _Título_]_
+### Cena 1 Carta
+
+_[_Imagem_]_ :construction: 
+
+_[_Texto_]_ :construction:
+
+---
+
+### Cena 2 Perda
+
+_[_Imagem_]_ :construction: 
+
+_[_Texto_]_ :construction:
+
+---
+
+### Cena 3 Recompensa
+
+_[_Imagem_]_ :construction: 
+
+_[_Texto_]_ :construction:
+
+---
+
+### Cena 4 Irmã Garaele
+
+_[_Imagem_]_ :construction: 
+
+_[_Texto_]_ :construction:
+
+---
+
+### Cena 5 Colinas
 
 _[_Imagem_]_ :construction: 
 
