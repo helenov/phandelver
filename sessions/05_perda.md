@@ -43,7 +43,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 
 ####
 
-* [Agatha], banshee
+* [Agatha](../../sessions/05_perda.md), banshee
 
 ####
 
@@ -209,9 +209,10 @@ para cumprimentar a dupla de aventureiros.
 Irmã Garaele se apresenta como uma agente
 dos [Harpers](../organizations/harpers.md) e tinha recebido recentemente a
 missão de obter uma informação de uma banshee conhecida como
-[Agatha], que "vive" a leste "próximo a [Conyberry]". Garaele diz ter
-subestimado a criatura e que deveria ter usado uma abordagem mais diplomática,
-ao invés de partir para um confronto direto. Sobreviveu por muito pouco.
+[Agatha](../casting/npcs/agatha.md), que 'vive' a leste próximo a [Conyberry].
+Garaele diz ter subestimado a criatura e que deveria ter usado uma abordagem
+mais diplomática, ao invés de partir para um confronto direto. Sobreviveu por
+muito pouco.
 
 Perguntada sobre a possibilidade de trazer o amigo morto de volta, a elfa disse
 com pesar que seria necessário um clérigo com muito mais experiência que ela e,
