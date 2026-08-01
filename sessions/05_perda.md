@@ -235,9 +235,9 @@ cidade, não encontrou nenhuma pista de sua localização.
 
 Ele fica mais tranquilo em saber que a cidade está livre dos arruaceiros, e que
 acha que seria bom que os aventureiros investigassem o problema dos assaltos na
-[Estrada Triboar], talvez descobrindo algo sobre a localização do Castelo.
-"Quem sabe até possam ajudar a Irmã Garaele em sua missão, já que o covil da
-banshee fica para o mesmo lado da estrada".
+[Estrada Triboar](../locations/triboar_trail.md), talvez descobrindo algo sobre
+a localização do Castelo. "Quem sabe até possam ajudar a Irmã Garaele em sua
+missão, já que o covil da banshee fica para o mesmo lado".
 
 "Mas antes de qualquer coisa, vocês precisam descansar".
 
