@@ -43,7 +43,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 
 ####
 
-* [Agatha](../../sessions/05_perda.md), banshee
+* [Agatha](../casting/npcs/agatha.md), banshee
 
 ####
 
@@ -69,7 +69,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 * [Wyvern Tor](../locations/wyvern_tor.md)
 * [Floresta de Neverwinter]
 * [Estrada Triboar]
-  * [Conyberry]
+  * [Conyberry](../locations/conyberry.md)
 
 ---
 
@@ -191,7 +191,7 @@ no [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md), onde foi s
 encontrar com a [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) que
 voltou de sua viagem. Parece que ela está ferida e, embora não saiba de
 detalhes, ele acha que foi atacada pelos bandidos que seguem agindo
-na [Estrada Triboar] "para os lados de [Conyberry]"
+na [Estrada Triboar] "para os lados de [Conyberry](../locations/conyberry.md)"
 
 ---
 
@@ -209,10 +209,10 @@ para cumprimentar a dupla de aventureiros.
 Irmã Garaele se apresenta como uma agente
 dos [Harpers](../organizations/harpers.md) e tinha recebido recentemente a
 missão de obter uma informação de uma banshee conhecida como
-[Agatha](../casting/npcs/agatha.md), que 'vive' a leste próximo a [Conyberry].
-Garaele diz ter subestimado a criatura e que deveria ter usado uma abordagem
-mais diplomática, ao invés de partir para um confronto direto. Sobreviveu por
-muito pouco.
+[Agatha](../casting/npcs/agatha.md), que 'vive' a leste próximo
+a [Conyberry](../locations/conyberry.md). Garaele diz ter subestimado a criatura
+e que deveria ter usado uma abordagem mais diplomática, ao invés de partir para
+um confronto direto. Sobreviveu por muito pouco.
 
 Perguntada sobre a possibilidade de trazer o amigo morto de volta, a elfa disse
 com pesar que seria necessário um clérigo com muito mais experiência que ela e,

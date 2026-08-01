@@ -26,6 +26,12 @@
 ### Referências
 
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
-  * mencionada em convocação na porta
+  * **Conyberry** mencionada em convocação na porta
     da [Prefeitura](phandalin/townmasters_hall.md)
     ([Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura))
+
+####
+
+* [Sessão 5 Perda]
+  * [Harlin] acha que [Irmã Garaele] foi atacada próximo a **Conyberry** ([Cena 3])
+  * [Irmã Garaele] diz que o covil de [Agatha] é próximo a **Conyberry** ([Cena 4])
