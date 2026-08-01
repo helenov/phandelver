@@ -40,5 +40,5 @@ _[_Texto_]_ :construction:
   * **Irmã Garaele** se apresenta como uma agente
     dos [Harpers](../../../organizations/harpers.md)
     ([Cena 4](../../../sessions/05_perda.md#cena-4-irmã-garaele))
-  * **Irmã Garaele** conta sobre sua missão e [Agatha], a banshee
+  * **Irmã Garaele** conta sobre sua missão e [Agatha](../agatha.md), a banshee
     ([Cena 4](../../../sessions/05_perda.md#cena-4-irmã-garaele))

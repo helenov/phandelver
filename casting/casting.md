@@ -91,4 +91,4 @@
 
 ####
 
-* [Agatha], banshee
+* [Agatha](npcs/agatha.md), banshee
