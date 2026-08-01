@@ -15,7 +15,7 @@ _[_Texto_]_ :construction:
 
 ### Organizações
 
-* [Harpers], agente
+* [Harpers](../../../organizations/harpers.md), agente
 
 ### Locais
 
@@ -35,7 +35,10 @@ _[_Texto_]_ :construction:
 * [Sessão 5 Perda](../../../sessions/05_perda.md)
   * [Harbin](harbin_wester.md) diz que **Irmã Garaele** retornou a cidade
     ([Cena 3](../../../sessions/05_perda.md#cena-3-recompensa))
-  * [Sildar](../sildar_hallwinter.md) apresenta ao grupo a **Irmã Garaele**
+  * [Sildar](../sildar_hallwinter.md) apresenta a **Irmã Garaele** ao grupo
+    ([Cena 4](../../../sessions/05_perda.md#cena-4-irmã-garaele))
+  * **Irmã Garaele** se apresenta como uma agente
+    dos [Harpers](../../../organizations/harpers.md)
     ([Cena 4](../../../sessions/05_perda.md#cena-4-irmã-garaele))
   * **Irmã Garaele** conta sobre sua missão e [Agatha], a banshee
     ([Cena 4](../../../sessions/05_perda.md#cena-4-irmã-garaele))

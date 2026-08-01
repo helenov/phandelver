@@ -206,8 +206,9 @@ a [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), uma jovem elfa
 com um braço suspenso em uma tipóia, que emite um grunhido de dor ao se levantar
 para cumprimentar a dupla de aventureiros.
 
-Irmã Garaele se apresenta como uma agente dos [Harpers] e tinha recebido
-recentemente a missão de obter uma informação de uma banshee conhecida como
+Irmã Garaele se apresenta como uma agente
+dos [Harpers](../organizations/harpers.md) e tinha recebido recentemente a
+missão de obter uma informação de uma banshee conhecida como
 [Agatha], que "vive" a leste "próximo a [Conyberry]". Garaele diz ter
 subestimado a criatura e que deveria ter usado uma abordagem mais diplomática,
 ao invés de partir para um confronto direto. Sobreviveu por muito pouco.
