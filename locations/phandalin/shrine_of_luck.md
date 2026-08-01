@@ -29,14 +29,13 @@ _[_Texto_]_ :construction:
     no **Santuário da Fortuna**
     ([Cena 1](../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
 
-####     
+####       
 
 * [Sessão 5 Perda](../../sessions/05_perda.md)
-  * [Harbin] diz
-    que [Irmã Garaele](../../casting/npcs/phandalin/sister_garaele.md) retornou
-    ao **Santuário** ([Cena 3](../../sessions/05_perda.md#cena-3-recompensa))
-  * [Harbin] diz que [Sildar](../../casting/npcs/sildar_hallwinter.md) está com
-    ela ([Cena 3](../../sessions/05_perda.md#cena-3-recompensa))
+  * [Harbin](../../casting/npcs/phandalin/harbin_wester.md) diz
+    que [Sildar](../../casting/npcs/sildar_hallwinter.md) está
+    com [Irmã Garaele](../../casting/npcs/phandalin/sister_garaele.md) no
+    **Santuário** ([Cena 3](../../sessions/05_perda.md#cena-3-recompensa))
   * grupo se encontra
     com [Irmã Garaele](../../casting/npcs/phandalin/sister_garaele.md)
     e [Sildar](../../casting/npcs/sildar_hallwinter.md) no **Santuário**

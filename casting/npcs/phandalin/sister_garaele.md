@@ -33,7 +33,7 @@ _[_Texto_]_ :construction:
 ####
 
 * [Sessão 5 Perda](../../../sessions/05_perda.md)
-  * [Harbin] diz **Irmã Garaele** retornou a cidade
+  * [Harbin](harbin_wester.md) diz que **Irmã Garaele** retornou a cidade
     ([Cena 3](../../../sessions/05_perda.md#cena-3-recompensa))
   * [Sildar](../sildar_hallwinter.md) apresenta ao grupo a **Irmã Garaele**
     ([Cena 4](../../../sessions/05_perda.md#cena-4-irmã-garaele))

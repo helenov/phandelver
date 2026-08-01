@@ -31,7 +31,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 ####
 
 * [Phandalin]
-  * [Harbin Weber]
+  * [Harbin Weber](../casting/npcs/phandalin/harbin_wester.md)
   * [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md)
   * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
 
@@ -178,11 +178,12 @@ _[_Imagem_]_ :construction:
 Ralf e Professor levam os bandidos para a [Prefeitura], onde são recebidos por
 um prefeito com a barba suja de molho e um lenço pendurado na gola da camisa.
 
-Ao saber que os Redbrands foram debandados, [Harbin Wester] felicita o grupo e,
-após deixarem os prisioneiros em suas celas e os tesouros recuperados no cofre
-da prefeitura, prontamente paga a recompensa de 100 gps prometida. Apesar de
-lamentar a fuga do líder, não consegue esconder um certo alívio por não ter de
-lidar com mais este problema.
+Ao saber que os Redbrands foram
+debandados, [Harbin Wester](../casting/npcs/phandalin/harbin_wester.md) felicita
+o grupo e, após deixarem os prisioneiros em suas celas e os tesouros recuperados
+no cofre da prefeitura, prontamente paga a recompensa de 100 gps prometida.
+Apesar de lamentar a fuga do líder, não consegue esconder um certo alívio por
+não ter de lidar com mais este problema.
 
 Perguntado sobre [Sildar](../casting/npcs/sildar_hallwinter.md), o prefeito
 informa que o cavaleiro está

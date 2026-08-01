@@ -96,7 +96,7 @@ do que julga seu amigo otimista.
 ####
 
 * [Sessão 5 Perda](../../sessions/05_perda.md)
-  * [Harbin] diz que **Sildar** esta com
+  * [Harbin](phandalin/harbin_wester.md) diz que **Sildar** esta com
     a [Irmã Garaele](phandalin/sister_garaele.md)
     no [Santuário da Fortuna](../../locations/phandalin/shrine_of_luck.md)
     ([Cena 3](../../sessions/05_perda.md#cena-3-recompensa))

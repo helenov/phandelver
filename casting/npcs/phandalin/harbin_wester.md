@@ -48,3 +48,12 @@ _[_Texto_]_ :construction:
   * **Harbin** menciona que [Irmã Garaele](sister_garaele.md) não se encontra na
     cidade
     ([Cena 1](../../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
+
+####
+
+* [Sessão 5 Perda](../../../sessions/05_perda.md)
+  * **Harbin** paga o grupo a recompensa por desmantelar
+    os [Redbrands](../../../organizations/redbrands.md)
+    ([Cena 3](../../../sessions/05_perda.md#cena-3-recompensa))
+  * **Harbin** diz que [Irmã Garaele](sister_garaele.md) retornou a cidade
+    ([Cena 3](../../../sessions/05_perda.md#cena-3-recompensa))
