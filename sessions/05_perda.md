@@ -68,7 +68,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 * [Castelo Cragmaw]
 * [Wyvern Tor](../locations/wyvern_tor.md)
 * [Floresta de Neverwinter]
-* [Estrada Triboar]
+* [Estrada Triboar](../locations/triboar_trail.md)
   * [Conyberry](../locations/conyberry.md)
 
 ---
@@ -191,7 +191,8 @@ no [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md), onde foi s
 encontrar com a [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) que
 voltou de sua viagem. Parece que ela está ferida e, embora não saiba de
 detalhes, ele acha que foi atacada pelos bandidos que seguem agindo
-na [Estrada Triboar] "para os lados de [Conyberry](../locations/conyberry.md)"
+na [Estrada Triboar](../locations/triboar_trail.md) "para os lados
+de [Conyberry](../locations/conyberry.md)"
 
 ---
 

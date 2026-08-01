@@ -30,7 +30,7 @@ _[_Texto_]_ :construction:
 
 * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
   * base do grupo responsável por ataques
-    na [Estrada Triboar](../locations/triboar_trail.md) a leste
+    na [Estrada Triboar](../locations/triboar_trail.md) a oeste
     de [Phandalin](../locations/phandalin.md)
 * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
   * grupo de reforço para os [Redbrands](redbrands.md)

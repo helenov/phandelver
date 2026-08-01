@@ -40,10 +40,16 @@ _[_Texto_]_ :construction:
   * grupo sobre emboscada de um grupo
     de [Gragmaw Goblins](../organizations/cragmaw_goblins.md)
     ([Cena 1](../sessions/01_goblins.md#cena-1-emboscada))
-  * [Daran](../casting/npcs/phandalin/daran_edermath.md) fala sobre os
-    ataques na **Estrada Triboar**
+  * [Daran](../casting/npcs/phandalin/daran_edermath.md) fala sobre os ataques
+    na **Estrada Triboar**
     ([Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath))
   * a [Prefeitura](phandalin/townmasters_hall.md) busca voluntários para lidar
     com os ataques na **Estrada Triboar**
     ([Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura))
 
+####
+
+* [Sessão 5 Perda](../sessions/05_perda.md)
+  * [Sildar](../casting/npcs/sildar_hallwinter.md) pede que investiguem os
+    ataques na **Estrada Triboar**
+    ([Cena 4](../sessions/05_perda.md#cena-4-irmã-garaele))

@@ -104,7 +104,8 @@ do que julga seu amigo otimista.
     ([Cena 4](../../sessions/05_perda.md#cena-4-irmã-garaele))
   * grupo conta para **Sildar** a verdade sobre [Iarno Albrek](iarno_albrek.md)
     ([Cena 4](../../sessions/05_perda.md#cena-4-irmã-garaele))
-  * **Sildar** pede que investiguem os ataques na [Estrada Triboar]
+  * **Sildar** pede que investiguem os ataques
+    na [Estrada Triboar](../../locations/triboar_trail.md)
     ([Cena 4](../../sessions/05_perda.md#cena-4-irmã-garaele))
   * **Sildar** sugere que no caminho
     ajudem [Irmã Garaele](phandalin/sister_garaele.md) com sua missão
