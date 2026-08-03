@@ -76,7 +76,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 
 ### Cena 1 Carta
 
-_[_Imagem_]_ :construction:
+![05_1_carta.jpeg](../images/cenas/05_1_carta.jpeg)
 
 Após perderem o rastro do líder dos [Redbrands](../organizations/redbrands.md),
 o grupo resolve investigar com mais calma seus aposentos em busca de alguma
