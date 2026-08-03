@@ -13,10 +13,9 @@ _[_Texto_]_ :construction:
 
 ####
 
-* [Elmina Barthen](../casting/npcs/phandalin/barthens/elmina_barthen.md),
-  dona da venda
-  * [Ander](../casting/npcs/phandalin/barthens/ander.md), funcionário da
-    venda
+* [Elmina Barthen](../casting/npcs/phandalin/barthens/elmina_barthen.md), dona
+  da venda
+  * [Ander](../casting/npcs/phandalin/barthens/ander.md), funcionário da venda
   * [Thistle](../casting/npcs/phandalin/barthens/thistle.md), funcionário da
     venda
 
@@ -26,10 +25,8 @@ _[_Texto_]_ :construction:
   dono da hospedaria
   * [Freda](../casting/npcs/phandalin/stonehill/freda.md), tecelã
   * [Lanar](../casting/npcs/phandalin/stonehill/lanar.md), minerador
-  * [Elsa](../casting/npcs/phandalin/stonehill/elsa.md), bartender da
-    hospedaria
-  * [Pip](../casting/npcs/phandalin/stonehill/pip_stonehill.md), filho de
-    Toblen
+  * [Elsa](../casting/npcs/phandalin/stonehill/elsa.md), bartender da hospedaria
+  * [Pip](../casting/npcs/phandalin/stonehill/pip_stonehill.md), filho de Toblen
 
 ####
 
@@ -40,8 +37,7 @@ _[_Texto_]_ :construction:
 
 ####
 
-* [Daran Edermath](../casting/npcs/phandalin/daran_edermath.md), velho do
-  pomar
+* [Daran Edermath](../casting/npcs/phandalin/daran_edermath.md), velho do pomar
 * [Harbin Weber](../casting/npcs/phandalin/harbin_wester.md), prefeito
 * [Joe Smithe](../casting/npcs/phandalin/joe_smithe.md), ferreiro
 
@@ -49,8 +45,10 @@ _[_Texto_]_ :construction:
 
 * [Mirna Dendrar](../casting/npcs/phandalin/dendrar/mirna_dendrar.md), esposa
   de [Thel Dendrar](../casting/npcs/phandalin/dendrar/thel_dendrar.md)
-  * [Nilsa Dendrar](../casting/npcs/phandalin/dendrar/nilsa_dendrar.md), filha de Thel e Mirna
-  * [Nars Dendrar.md](../casting/npcs/phandalin/dendrar/nars_dendrar.md), filho de Thel e Mirna
+  * [Nilsa Dendrar](../casting/npcs/phandalin/dendrar/nilsa_dendrar.md), filha
+    de Thel e Mirna
+  * [Nars Dendrar.md](../casting/npcs/phandalin/dendrar/nars_dendrar.md), filho
+    de Thel e Mirna
 
 #### Mencionados
 

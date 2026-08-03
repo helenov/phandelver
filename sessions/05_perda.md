@@ -30,7 +30,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 
 ####
 
-* [Phandalin]
+* [Phandalin](../locations/phandalin.md)
   * [Harbin Weber](../casting/npcs/phandalin/harbin_wester.md)
   * [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md)
   * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
@@ -57,7 +57,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 
 ####
 
-* [Phandalin]
+* [Phandalin](../locations/phandalin.md)
   * [Prefeitura]
   * [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md)
   * [Hospedaria Stonehill]
@@ -94,9 +94,10 @@ preta, e escrita em uma caligrafia refinada:
 > Senhor [Albrek](../casting/npcs/iarno_albrek.md),
 >
 > Meus espiões em [Neverwinter] relataram que forasteiros estão por chegar a
-> [Phandalin]. Eles podem estar a serviço dos anãos. Capture-os se puder,
-> mate-os se necessário, mas não permita que atrapalhem nossos planos. Qualquer
-> mapa do anão que esteja em posse deles, me envie o mais rápido possível.
+> [Phandalin](../locations/phandalin.md). Eles podem estar a serviço dos anãos.
+> Capture-os se puder, mate-os se necessário, mas não permita que atrapalhem
+> nossos planos. Qualquer mapa do anão que esteja em posse deles, me envie o
+> mais rápido possível.
 >
 > Conto contigo, Iarno. Não me desaponte.
 
