@@ -61,7 +61,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 * [Phandalin](../locations/phandalin.md)
   * [Prefeitura](../locations/phandalin/townmasters_hall.md)
   * [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md)
-  * [Hospedaria Stonehill]
+  * [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)
 
 #### Mencionados
 
@@ -252,9 +252,9 @@ missão, já que o covil da banshee fica para o mesmo lado".
 
 _[_Imagem_]_ :construction:
 
-Já na [Hospedaria Stonehill], Ralf e Professor recebem tanto congratulações pelo
-feito de livrar a cidade dos arruaceiros, quanto condolências pela perda de seu
-companheiro.
+Já na [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md), Ralf e
+Professor recebem tanto congratulações pelo feito de livrar a cidade dos
+arruaceiros, quanto condolências pela perda de seu companheiro.
 
 Passam a tarde toda ali bebendo e relembrando suas aventuras com o amigo.
 
