@@ -14,7 +14,7 @@ _[_Texto_]_ :construction:
 * [Harbin Weber](../../casting/npcs/phandalin/harbin_wester.md), prefeito e
   morador
 
-####      
+####         
 
 * [Droop](../../casting/npcs/cragmaw/droop.md), prisioneiro
 * [Redbrands](../../organizations/redbrands.md)
@@ -51,4 +51,8 @@ _[_Texto_]_ :construction:
 * [Sessão 5 Perda](../../sessions/05_perda.md)
   * grupo deixa [Droop](../../casting/npcs/cragmaw/droop.md) e mais três
     [Redbrands](../../organizations/redbrands.md) capturados na **Prefeitura**
+    ([Cena 3](../../sessions/05_perda.md#cena-3-recompensa))
+  * [Harbin](../../casting/npcs/phandalin/harbin_wester.md) paga a recompensa
+    por desmantelar
+    os [Redbrands](../../organizations/redbrands.md)
     ([Cena 3](../../sessions/05_perda.md#cena-3-recompensa))

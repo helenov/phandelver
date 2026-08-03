@@ -58,7 +58,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 ####
 
 * [Phandalin](../locations/phandalin.md)
-  * [Prefeitura]
+  * [Prefeitura](../locations/phandalin/townmasters_hall.md)
   * [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md)
   * [Hospedaria Stonehill]
 
@@ -176,8 +176,10 @@ cisterna) e o goblin Droop.
 
 _[_Imagem_]_ :construction:
 
-Ralf e Professor levam os bandidos para a [Prefeitura], onde são recebidos por
-um prefeito com a barba suja de molho e um lenço pendurado na gola da camisa.
+Ralf e Professor levam os bandidos para
+a [Prefeitura](../locations/phandalin/townmasters_hall.md),
+onde são recebidos por um prefeito com a barba suja de molho e um lenço
+pendurado na gola da camisa.
 
 Ao saber que os Redbrands foram
 debandados, [Harbin Wester](../casting/npcs/phandalin/harbin_wester.md) felicita

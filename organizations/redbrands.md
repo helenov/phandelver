@@ -100,6 +100,8 @@ _[_Texto_]_ :construction:
   * [Droop](../casting/npcs/cragmaw/droop.md) diz que foram enviados como
     reforço para os **Redbrands**
     ([Cena 2](../sessions/05_perda.md#cena-2-perda))
+  * grupo recebe a recompensa por desmantelar os **Redbrands**
+    ([Cena 3](../sessions/05_perda.md#cena-3-recompensa))
   * grupo conta para [Sildar](../casting/npcs/sildar_hallwinter.md) a verdade
     sobre [Iarno Albrek](../casting/npcs/iarno_albrek.md)
     ([Cena 4](../sessions/05_perda.md#cena-4-irmã-garaele))

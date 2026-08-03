@@ -52,7 +52,7 @@ _[_Texto_]_ :construction:
 ####
 
 * [Sessão 5 Perda](../../../sessions/05_perda.md)
-  * **Harbin** paga o grupo a recompensa por desmantelar
+  * **Harbin** paga a recompensa por desmantelar
     os [Redbrands](../../../organizations/redbrands.md)
     ([Cena 3](../../../sessions/05_perda.md#cena-3-recompensa))
   * **Harbin** diz que [Irmã Garaele](sister_garaele.md) retornou a cidade
