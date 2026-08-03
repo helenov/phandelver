@@ -32,3 +32,10 @@
   * [Daran](../casting/npcs/phandalin/daran_edermath.md) diz que
     o [Castelo Cragmaw](cragmaw_castle.md) fica na **Floresta de Neverwinter**
     ([Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath))
+
+####
+
+* [Sessão 5 Perda](../sessions/05_perda.md)
+  * [Droop](../casting/npcs/cragmaw/droop.md) diz que
+    o [Castelo Cragmaw](cragmaw_castle.md) fica na **Floresta de Neverwinter**
+    ([Cena 2](../sessions/05_perda.md#cena-2-perda))
