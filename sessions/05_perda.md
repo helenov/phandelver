@@ -54,7 +54,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 
 :construction:
 
-* [Esconderijo Redbrand]
+* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
 
 ####
 
