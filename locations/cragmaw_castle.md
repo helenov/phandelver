@@ -53,3 +53,6 @@
   * [Droop](../casting/npcs/cragmaw/droop.md) acha
     que [Nosk](../casting/npcs/cragmaw/nosk.md) sabia a localização exata
     ([Cena 2](../sessions/05_perda.md#cena-2-perda))
+  * [Sildar](../casting/npcs/sildar_hallwinter.md) reforça a importância de
+    encontrar o **Castelo Cragmaw**
+    ([Cena 4](../sessions/05_perda.md#cena-4-irmã-garaele))

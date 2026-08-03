@@ -66,7 +66,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 #### Mencionados
 
 * [Neverwinter](../locations/neverwinter.md)
-* [Castelo Cragmaw]
+* [Castelo Cragmaw](../locations/cragmaw_castle.md)
 * [Wyvern Tor](../locations/wyvern_tor.md)
 * [Floresta de Neverwinter]
 * [Estrada Triboar](../locations/triboar_trail.md)
@@ -154,9 +154,10 @@ favor... Não matem [Droop](../casting/npcs/cragmaw/droop.md)! Droop não fez
 nada!"
 
 Droop diz ser um [Cragmaw] que foi mandado para lá com os bugbears para "ajudar
-humanos de capa vermelha". Perguntado sobre a localização do [Castelo Cragmaw],
-diz que veio de [Wyvern Tor](../locations/wyvern_tor.md) e que nunca esteve no
-castelo, só sabe que "fica escondido na floresta ao norte", claramente
+humanos de capa vermelha". Perguntado sobre a localização
+do [Castelo Cragmaw](../locations/cragmaw_castle.md), diz que veio
+de [Wyvern Tor](../locations/wyvern_tor.md) e que nunca esteve no castelo, só
+sabe que "fica escondido na floresta ao norte", claramente
 a [Floresta de Neverwinter], e apontando para o líder morto, "Droop acha
 que [Nosk](../casting/npcs/cragmaw/nosk.md) sabia..."
 
@@ -233,7 +234,8 @@ companheiro [Iarno Albrek](../casting/npcs/iarno_albrek.md) que julgava estar
 prisioneiro dos bandidos na realidade era o seu
 líder, [Glasstaff](../casting/npcs/redbrands/glasstaff.md).
 
-Sildar diz que, mais do que nunca, é necessário encontrar o [Castelo Cragmaw]
+Sildar diz que, mais do que nunca, é necessário encontrar
+o [Castelo Cragmaw](../locations/cragmaw_castle.md)
 para encontrar o anão [Gundren](../casting/npcs/gundren_rockseeker.md), mas que,
 embora tenham perguntado por toda a cidade, não encontrou nenhuma pista de sua
 localização.
