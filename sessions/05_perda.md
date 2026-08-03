@@ -4,7 +4,7 @@
 
 _data_ : 2026-05-25 \
 _anterior_ : [Sessão 4 Glasstaff](04_glasstaff.md) \
-_próxima_ : [Sessão 6 Wyvern Tor]
+_próxima_ : [Sessão 6 Wyvern Tor](06_wyvern_tor.md)
 
 ### Cenas
 

@@ -90,7 +90,7 @@
 
 * chegada de Jeremias
   * [Sessão 5](sessions/05_perda.md): [Cena 5](sessions/05_perda.md#cena-5-frodo)
-  * [Sessão 6]: [Cena 1]
+  * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 1]
 
 :construction: continua...
 
