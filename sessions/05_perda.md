@@ -47,7 +47,8 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 
 ####
 
-* [Gundren Rockseeker], mercador sequestrado
+* [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md), mercador
+  sequestrado
 
 ### Cenários
 
@@ -177,9 +178,9 @@ cisterna) e o goblin Droop.
 _[_Imagem_]_ :construction:
 
 Ralf e Professor levam os bandidos para
-a [Prefeitura](../locations/phandalin/townmasters_hall.md),
-onde são recebidos por um prefeito com a barba suja de molho e um lenço
-pendurado na gola da camisa.
+a [Prefeitura](../locations/phandalin/townmasters_hall.md), onde são recebidos
+por um prefeito com a barba suja de molho e um lenço pendurado na gola da
+camisa.
 
 Ao saber que os Redbrands foram
 debandados, [Harbin Wester](../casting/npcs/phandalin/harbin_wester.md) felicita
@@ -233,8 +234,9 @@ prisioneiro dos bandidos na realidade era o seu
 líder, [Glasstaff](../casting/npcs/redbrands/glasstaff.md).
 
 Sildar diz que, mais do que nunca, é necessário encontrar o [Castelo Cragmaw]
-para encontrar o anão [Gundren], mas que, embora tenham perguntado por toda a
-cidade, não encontrou nenhuma pista de sua localização.
+para encontrar o anão [Gundren](../casting/npcs/gundren_rockseeker.md), mas que,
+embora tenham perguntado por toda a cidade, não encontrou nenhuma pista de sua
+localização.
 
 Ele fica mais tranquilo em saber que a cidade está livre dos arruaceiros, e que
 acha que seria bom que os aventureiros investigassem o problema dos assaltos na

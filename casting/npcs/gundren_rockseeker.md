@@ -80,3 +80,10 @@ seu clã e restabelecer a mina.
   * [Elmina](phandalin/barthens/elmina_barthen.md) fica desolada ao saber de seu
     sequestro do amigo
     ([Cena 6](../../sessions/02_phandalin.md#cena-6-venda-da-barthen))
+
+####
+
+* [Sessão 5 Perda](../../sessions/05_perda.md)
+  * [Sildar](sildar_hallwinter.md) reforça a importância de
+    encontrar [Gundren](gundren_rockseeker.md)
+    ([Cena 4](../../sessions/05_perda.md#cena-4-irmã-garaele))
