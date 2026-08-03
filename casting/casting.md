@@ -45,9 +45,9 @@
     de [Thel Dendrar](npcs/phandalin/dendrar/thel_dendrar.md)
     * [Nilsa Dendrar](npcs/phandalin/dendrar/nilsa_dendrar.md), filha de Thel e
       Mirna
-    * [Nars Dendrar.md](npcs/phandalin/dendrar/nars_dendrar.md), filho de Thel e
+    * [Nars Dendrar](npcs/phandalin/dendrar/nars_dendrar.md), filho de Thel e
       Mirna
-  * [Irmã Garaele](npcs/phandalin/sister_garaele.md)
+  * [Irmã Garaele](npcs/phandalin/sister_garaele.md), clériga
 
 ####
 

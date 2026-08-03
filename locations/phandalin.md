@@ -47,7 +47,7 @@ _[_Texto_]_ :construction:
   de [Thel Dendrar](../casting/npcs/phandalin/dendrar/thel_dendrar.md)
   * [Nilsa Dendrar](../casting/npcs/phandalin/dendrar/nilsa_dendrar.md), filha
     de Thel e Mirna
-  * [Nars Dendrar.md](../casting/npcs/phandalin/dendrar/nars_dendrar.md), filho
+  * [Nars Dendrar](../casting/npcs/phandalin/dendrar/nars_dendrar.md), filho
     de Thel e Mirna
 
 #### Mencionados

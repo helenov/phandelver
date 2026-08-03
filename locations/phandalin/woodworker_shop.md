@@ -17,7 +17,7 @@ _[_Texto_]_ :construction:
   esposa de Thel
 * [Nilsa Dendrar](../../casting/npcs/phandalin/dendrar/nilsa_dendrar.md),
   filha de Thel e Mirna
-* [Nars Dendrar.md](../../casting/npcs/phandalin/dendrar/nars_dendrar.md),
+* [Nars Dendrar](../../casting/npcs/phandalin/dendrar/nars_dendrar.md),
   filho de Thel e Mirna
 
 [//]: # (### Organizações)
