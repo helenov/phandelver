@@ -64,7 +64,7 @@ _próxima_ : [Sessão 6 Wyvern Tor]
 
 #### Mencionados
 
-* [Neverwinter]
+* [Neverwinter](../locations/neverwinter.md)
 * [Castelo Cragmaw]
 * [Wyvern Tor](../locations/wyvern_tor.md)
 * [Floresta de Neverwinter]
@@ -93,11 +93,11 @@ preta, e escrita em uma caligrafia refinada:
 
 > Senhor [Albrek](../casting/npcs/iarno_albrek.md),
 >
-> Meus espiões em [Neverwinter] relataram que forasteiros estão por chegar a
-> [Phandalin](../locations/phandalin.md). Eles podem estar a serviço dos anãos.
-> Capture-os se puder, mate-os se necessário, mas não permita que atrapalhem
-> nossos planos. Qualquer mapa do anão que esteja em posse deles, me envie o
-> mais rápido possível.
+> Meus espiões em [Neverwinter](../locations/neverwinter.md) relataram que
+> forasteiros estão por chegar a [Phandalin](../locations/phandalin.md). Eles
+> podem estar a serviço dos anãos. Capture-os se puder, mate-os se necessário,
+> mas não permita que atrapalhem nossos planos. Qualquer mapa do anão que esteja
+> em posse deles, me envie o mais rápido possível.
 >
 > Conto contigo, Iarno. Não me desaponte.
 
