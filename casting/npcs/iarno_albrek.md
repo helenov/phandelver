@@ -3,7 +3,7 @@
 ## Iarno Albrek, <small>_humano_</small>
 
 <!-- @formatter:off -->
-<img alt="Glasstaff" src="../../images/characters/redbrands/glasstaff.jpg" style="width:200px; margin-right: 15px; float: left" />
+<img alt="Iarno Albrek" src="../../images/characters/redbrands/glasstaff.jpg" style="width:200px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
 Descrito como "um homem baixo, de barba e cabelos escuros, na casa dos 30 anos",

@@ -36,7 +36,7 @@ _próxima_ : _[Sessão _X-2_ _Título_]_
 
 ### _[Cena _X_ _Título_]_
 
-_[_Imagem_]_ :construction: 
+_[_Imagem_]_ :construction:
 
 _[_Texto_]_ :construction:
 

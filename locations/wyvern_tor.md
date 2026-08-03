@@ -5,7 +5,7 @@
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
 [//]: # (<!-- @formatter:on -->)
-[//]: # (_[_Imagem_]_)
+[//]: # (_[_Imagem_]_ :construction:)
 [//]: # (_[_Texto_]_ :construction:)
 [//]: # (<br clear="left"/>)
 
