@@ -33,7 +33,7 @@
 ####
 
 * [Sessão 5 Perda](../sessions/05_perda.md)
-  * [Harlin](../casting/npcs/phandalin/harbin_wester.md) acha
+  * [Harbin](../casting/npcs/phandalin/harbin_wester.md) acha
     que [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) foi atacada
     próximo a **Conyberry**
     ([Cena 3](../sessions/05_perda.md#cena-3-recompensa))

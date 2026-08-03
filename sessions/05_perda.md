@@ -183,7 +183,7 @@ camisa.
 Ao saber que os Redbrands foram
 debandados, [Harbin Wester](../casting/npcs/phandalin/harbin_wester.md) felicita
 o grupo e, após deixarem os prisioneiros em suas celas e os tesouros recuperados
-no cofre da prefeitura, prontamente paga a recompensa de 100 gps prometida.
+no cofre da prefeitura, prontamente paga a recompensa de 100 gp prometida.
 Apesar de lamentar a fuga do líder, não consegue esconder um certo alívio por
 não ter de lidar com mais este problema.
 
