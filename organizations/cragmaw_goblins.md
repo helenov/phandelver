@@ -24,7 +24,9 @@ _[_Texto_]_ :construction:
 
 * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
   * [Nosk](../casting/npcs/cragmaw/nosk.md) (RIP), líder enviado
+    de [Wyvern Tor](../locations/wyvern_tor.md)
   * [Droop](../casting/npcs/cragmaw/droop.md), goblin enviado
+    de [Wyvern Tor](../locations/wyvern_tor.md)
 
 ### Locais
 

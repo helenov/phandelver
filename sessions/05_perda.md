@@ -153,9 +153,9 @@ que seus algózes foram derrotados, o goblin implora aos seus salvadores "P-por
 favor... Não matem [Droop](../casting/npcs/cragmaw/droop.md)! Droop não fez
 nada!"
 
-Droop diz ser um [Cragmaw] que foi mandado para lá com os bugbears para "ajudar
-humanos de capa vermelha". Perguntado sobre a localização
-do [Castelo Cragmaw](../locations/cragmaw_castle.md), diz que veio
+Droop diz ser um [Cragmaw](../organizations/cragmaw_goblins.md) que foi mandado
+para lá com os bugbears para "ajudar humanos de capa vermelha". Perguntado sobre
+a localização do [Castelo Cragmaw](../locations/cragmaw_castle.md), diz que veio
 de [Wyvern Tor](../locations/wyvern_tor.md) e que nunca esteve no castelo, só
 sabe que "fica escondido na floresta ao norte", claramente
 a [Floresta de Neverwinter], e apontando para o líder morto, "Droop acha
