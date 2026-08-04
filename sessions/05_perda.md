@@ -29,9 +29,9 @@ _próxima_ : [Sessão 6 Wyvern Tor](06_wyvern_tor.md)
 ####
 
 * [Phandalin](../locations/phandalin.md)
-  * [Harbin Weber](../casting/npcs/phandalin/harbin_wester.md)
-  * [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md)
-  * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
+  * [Harbin Weber](../casting/npcs/phandalin/harbin_wester.md), prefeito
+  * [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), aliado
+  * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), clériga
 
 #### Mencionados
 
@@ -49,7 +49,6 @@ _próxima_ : [Sessão 6 Wyvern Tor](06_wyvern_tor.md)
   sequestrado
 
 ### Cenários
-
 
 * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
 
@@ -73,7 +72,7 @@ _próxima_ : [Sessão 6 Wyvern Tor](06_wyvern_tor.md)
 
 ### Cena 1 Carta
 
-![05_1_carta.jpeg](../images/cenas/05_1_carta.jpeg)
+![Uma carta, escrita com uma letra elegante e assinada com um carimbo representando uma aranha preta, está sobre uma mesa de madeira contendo outros papeis e cadernos de anotação.](../images/cenas/05_1_carta.jpeg)
 
 Após perderem o rastro do líder dos [Redbrands](../organizations/redbrands.md),
 o grupo resolve investigar com mais calma seus aposentos em busca de alguma
