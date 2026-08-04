@@ -273,5 +273,5 @@ selas. Em uma, duas mulheres encolhidas estão abraçadas a um canto, e na outra
 um rapaz adolescente está sentado abraçando os próprios joelhos.
 
 A tensão aumenta e parece que um combate é inevitável.
- 
+
 ---

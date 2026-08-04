@@ -76,12 +76,12 @@
 
 * [Wyvern Tor](../locations/wyvern_tor.md)
   * [Brughor] ([Sessão 6 Cena X])
-    * ~200 moedas (sp e ep) (grupo)
+    * 180 sp, 15 ep (grupo)
     * 3 frascos de perfume (grupo)
     * hide armor (grupo)
     * greataxe (grupo)
 
-####                           
+####
 
 * [Floresta de Neverwinter](../locations/neverwinter_wood.md)
   * owlbear ([Sessão 7 Cena X])
@@ -91,9 +91,7 @@
 
 ### Com o Grupo
 
-* 130 gp, 33 sp
-
-* ~200 moedas (sp e ep) de [Wyvern Tor](../locations/wyvern_tor.md)
+* 130 gp, 15 ep, 213 sp
 
 ####
 

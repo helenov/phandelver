@@ -29,7 +29,7 @@ _[_Texto_]_ :construction:
     no **Santuário da Fortuna**
     ([Cena 1](../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
 
-####       
+####
 
 * [Sessão 5 Perda](../../sessions/05_perda.md)
   * [Harbin](../../casting/npcs/phandalin/harbin_wester.md) diz

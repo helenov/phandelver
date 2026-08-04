@@ -14,7 +14,7 @@ _[_Texto_]_ :construction:
 * [Harbin Weber](../../casting/npcs/phandalin/harbin_wester.md), prefeito e
   morador
 
-####         
+####
 
 * [Droop](../../casting/npcs/cragmaw/droop.md), prisioneiro
 * [Redbrands](../../organizations/redbrands.md)
