@@ -10,7 +10,11 @@ _próxima_ : [Sessão 7 Busca]
 
 :construction:
 
-* _[Cena _X_ _Título_]_
+* [Cena 1 Jeremias](#cena-1-jeremias)
+* [Cena 2 Despedidas](#cena-2-despedidas)
+* [Cena 3 Conyberry](#cena-3-conyberry)
+* [Cena 4 Necromancer](#cena-4-necromancer)
+* [Cena 5 Wyvern Tor](#cena-5-wyvern-tor)
 
 ### Elenco
 
@@ -34,7 +38,39 @@ _próxima_ : [Sessão 7 Busca]
 
 ---
 
-### _[Cena _X_ _Título_]_
+### Cena 1 Jeremias
+
+_[_Imagem_]_ :construction:
+
+_[_Texto_]_ :construction:
+
+---
+
+### Cena 2 Despedidas
+
+_[_Imagem_]_ :construction:
+
+_[_Texto_]_ :construction:
+
+---
+
+### Cena 3 Conyberry
+
+_[_Imagem_]_ :construction:
+
+_[_Texto_]_ :construction:
+
+---
+
+### Cena 4 Necromancer
+
+_[_Imagem_]_ :construction:
+
+_[_Texto_]_ :construction:
+
+---
+
+### Cena 5 Wyvern Tor
 
 _[_Imagem_]_ :construction:
 
