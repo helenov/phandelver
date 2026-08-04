@@ -19,9 +19,7 @@
 * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
   * [Klarg](../casting/npcs/cragmaw/klarg.md)
     ([Sessão 2 Cena 1](../sessions/02_phandalin.md#cena-1-decisões))
-    * ~2000 moedas (cp e sp)
-      ([Prefeitura](../locations/phandalin/townmasters_hall.md))
-      &ndash; _levaram?_
+    * 1652 cp, 146 sp ([Prefeitura](../locations/phandalin/townmasters_hall.md))
     * 2 poções de healing (consumidas)
     * [sapinho de jade] (Ralf)
 
@@ -54,14 +52,12 @@
       * (1 com Professor)
     * 8 quivers, 20 bolts cada (deixados)
   * escritório ([Sessão 5 Cena 1](../sessions/05_perda.md#cena-1-carta))
-    * [equipamento de alquimia] (Professor) &ndash; _levaram?_
+    * [equipamento de alquimia] (Professor)
     * [livro de poções] (Professor)
     * [livro "As Aventuras de Urmon"] (Professor)
     * [carta do [Spider](../casting/npcs/spider.md)] (grupo) &ndash; _ou
       com [Sildar](../casting/npcs/sildar_hallwinter.md)?_
-    * ~300 moedas (sp e gp)
-      ([Prefeitura](../locations/phandalin/townmasters_hall.md)) &ndash;
-      _levaram?_
+    * 130 gp, 180 sp ([Prefeitura](../locations/phandalin/townmasters_hall.md))
     * bolsa de seda com pedras preciosas
       ([Prefeitura](../locations/phandalin/townmasters_hall.md))
       * 5 carnelians
@@ -72,20 +68,20 @@
     * 4 capas vermelhas
       ([Prefeitura](../locations/phandalin/townmasters_hall.md))
   * bugbears ([Sessão 5 Cena 2](../sessions/05_perda.md#cena-2-perda))
-    * [tapa olho cravejado de pedras] &ndash; _com quem?_
+    * [tapa-olho cravejado de pedras] &ndash; _com quem?_
     * 33 sp (grupo)
-    * chave &ndash; _levaram?_
+    * chave &ndash; _com quem?_
 
 ####
 
 * [Wyvern Tor](../locations/wyvern_tor.md)
   * [Brughor] ([Sessão 6 Cena X])
-    * ~200 moedas (sp e ep) &ndash; _levaram?_
-    * 3 frascos de perfume &ndash; _levaram?_
-    * hide armor &ndash; _levaram?_
-    * greataxe &ndash; _levaram?_
+    * ~200 moedas (sp e ep) (grupo)
+    * 3 frascos de perfume (grupo)
+    * hide armor (grupo)
+    * greataxe (grupo)
 
-####                       
+####                           
 
 * [Floresta de Neverwinter](../locations/neverwinter_wood.md)
   * owlbear ([Sessão 7 Cena X])
@@ -95,9 +91,9 @@
 
 ### Com o Grupo
 
-* 130 gp
-* 33 sp
-* ~200 moedas (sp e ep) &ndash; _levaram?_
+* 130 gp, 33 sp
+
+* ~200 moedas (sp e ep) de [Wyvern Tor](../locations/wyvern_tor.md)
 
 ####
 
@@ -105,11 +101,11 @@
 * 3 capas vermelhas
 * [carta do [Spider](../casting/npcs/spider.md)] &ndash; _ou
   com [Sildar](../casting/npcs/sildar_hallwinter.md)?_
-* [tapa olho cravejado de pedras] &ndash; _com quem?_
-* chave &ndash; _levaram?_
-* 3 frascos de perfume &ndash; _levaram?_
-* hide armor &ndash; _levaram?_
-* greataxe &ndash; _levaram?_
+* [tapa-olho cravejado de pedras] &ndash; _com quem?_
+* chave &ndash; _com quem?_
+* 3 frascos de perfume
+* hide armor
+* greataxe
 
 ####
 
@@ -121,14 +117,16 @@
 
 * Professor
   * 1 crossbow
-  * [equipamento de alquimia] &ndash; _levaram?_
+  * [equipamento de alquimia]
   * [livro de poções]
   * [livro "As Aventuras de Urmon"]
 
 ### Na [Prefeitura](../locations/phandalin/townmasters_hall.md)
 
-* ~2000 moedas (cp e sp) &ndash; _levaram?_
-* ~300 moedas (sp e gp) &ndash; _levaram?_
+* 130 gp, 326 sp, 1652 cp
+
+####
+
 * bolsa de seda com pedras preciosas
   * 5 carnelians
   * 2 peridots
