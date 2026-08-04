@@ -45,13 +45,19 @@ _próxima_ : [Sessão 7 Busca]
 
 ### Cenários
 
-:construction:
-
-* _[_Location_]_
+* [Hospedaria Stonehill]
+* [Santuário da Fortuna]
+* [Estrada Triboar]
+* [Conyberry]
+* [Poço da Velha Coruja]
+* [Wyvern Tor]
 
 #### Mencionados
 
-* _[_Location_]_
+* [Neverwinter]
+* [Castelo Cragmaw]
+* [Floresta de Neverwinter]
+* [Castelo Cragmaw]
 
 ---
 
