@@ -18,13 +18,30 @@ _próxima_ : [Sessão 7 Busca]
 
 ### Elenco
 
-:construction:
+* [Sildar Hallwinter], aliado
+* [Irmã Garaele], clériga
 
-* _[_Character_]_, _[_detalhe_]_
+####
+
+* [Conyberry]
+  * bugbears
+
+####
+
+* [Poço da Velha Coruja]
+  * [Hamun Kost], necromante [Red Wizard]
+  * zumbis
+
+####
+
+* [Wyvern Tor]
+  * [Brughor], líder local
+  * bugbears
 
 #### Mencionados
 
-* _[_Character_]_, _[_detalhe_]_
+* [Agatha], banshee
+* [Bowgentle], mago lendário
 
 ### Cenários
 

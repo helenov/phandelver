@@ -67,6 +67,16 @@
     aka [Glasstaff](npcs/redbrands/glasstaff.md), líder criminoso
     * seu mascote
 
+####
+
+* [Poço da Velha Coruja]
+  * [Hamun Kost], necromante [Red Wizard]
+
+####
+
+* [Wyvern Tor]
+  * [Brughor], líder local
+
 #### Mencionados
 
 * [Tharden Rockseeker](npcs/tharden_rockseeker.md), irmão de [Gundren](npcs/gundren_rockseeker.md)
@@ -92,3 +102,4 @@
 ####
 
 * [Agatha](npcs/agatha.md), banshee
+* [Bowgentle], mago lendário
