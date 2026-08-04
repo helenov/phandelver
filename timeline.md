@@ -90,7 +90,47 @@
 
 * chegada de Jeremias
   * [Sessão 5](sessions/05_perda.md): [Cena 5](sessions/05_perda.md#cena-5-frodo)
-  * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 1]
+  * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 1](sessions/06_wyvern_tor.md#cena-1-jeremias)
+
+---
+
+### Dia 8
+
+#### manhã
+
+* preparativos para viagem a [Conyberry]
+  * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 2](sessions/06_wyvern_tor.md#cena-2-despedidas)
+
+#### tarde
+
+* partida para [Conyberry]
+  * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 2](sessions/06_wyvern_tor.md#cena-2-despedidas)
+
+--- 
+
+### Dia 11
+
+#### início da tarde
+
+* bandidos em [Conyberry]
+  * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 3](sessions/06_wyvern_tor.md#cena-3-conyberry)
+
+#### fim da tarde
+
+* necromante no [Poço da Velha Coruja]
+  * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 4](sessions/06_wyvern_tor.md#cena-4-necromante)
+
+---
+
+### Dia 12
+
+#### início da tarde
+
+* invasão ao esconderijo em [Wyvern Tor]
+  * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 5](sessions/06_wyvern_tor.md#cena-5-wyvern-tor)
+  * [Sessão 7]: [Cena 1] 
+
+---
 
 :construction: continua...
 
