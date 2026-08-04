@@ -65,18 +65,27 @@ _próxima_ : [Sessão 7 Busca]
 
 _[_Imagem_]_ :construction:
 
-_[_Texto_]_ :construction:
+:construction:
 
-    - Jeremias "Colina" Raizforte
-      - com seu cão Frodo
-      - se apresenta, procurando o primo Sapão
-    
-    - recebe e lamenta a perda do primo
-      - se oferece para ajudar o grupo a vingar o parente
-    
-    - conta que encontrou grupos de viajantes na estrada
-      - vindos em sentido contrário, de leste para oeste, rumando para Neverwinter
-      - tinham sido assaltados na estrada perto de Conyberry
+"Sapão?!? É você?"
+
+"Alto lá, Frodo!", disse a silhueta na porta da [Hospedaria Stone], ao que o cão
+parou imediatamente, mantendo-se em estado de alerta. "Vocês falaram 'Sapão'?
+Vocês conhecem meu primo?", continuou o elfo alto de cabelos longos que entrava
+no salão.
+
+"Eu sou Jeremias 'Colina' Raizforte e este é meu fiel companheiro, Frodo. Sou
+primo de Silas 'Sapão' Raizforte. Soube em [Neverwinter] que ele estaria nesta
+região. Vocês são amigos dele?"
+
+O grupo conta o que acabou de acontecer com o amigo, ao que o recém-chegado fica
+profundamente consternado. Ao relatarem mais detalhes dos últimos acontecimentos
+e dos objetivos do grupo, Jeremias de pronto se oferece para ajudar na caça aos
+responsáveis e vingar o primo.
+
+Jeremias, por sua vez conta que cruzou na [Estrada Triboar] com grupos vindos no
+sentido contrário, que relataram terem sido assaltados por bugbears, próximo
+a [Conyberry].
 
 ---
 
