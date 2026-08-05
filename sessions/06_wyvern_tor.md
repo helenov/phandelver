@@ -168,7 +168,7 @@ por segui-la.
 
 ### Cena 4 Necromante
 
-![No alto de uma pequena colina, estão as ruínas de uma antiga torre de vigia.](../images/cenas/06_4_necromancer.png)
+![No alto de uma pequena colina, estão as ruínas de uma antiga torre de vigia.](../images/cenas/06_4_necromante.png)
 
 :construction:
 
