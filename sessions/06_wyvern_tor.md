@@ -48,7 +48,7 @@ _próxima_ : [Sessão 7 Busca]
 
 * [Phandalin](../locations/phandalin.md)
   * [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)
-  * [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md)
+  * [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
 * [Estrada Triboar]
 * [Conyberry]
 * [Poço da Velha Coruja]
@@ -63,7 +63,7 @@ _próxima_ : [Sessão 7 Busca]
 
 ### Itens
 
-* [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md)
+* [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
   * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
     * 3 poções de healing (para ajudar na missão)
 
@@ -118,7 +118,7 @@ a [Conyberry]. [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) veio
 de lá e pode ter visto alguma coisa.
 
 O grupo vai até
-o [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md) onde,
+o [Santuário da Fortuna](../locations/phandalin/luck_shrine.md) onde,
 enquanto Colina vela seu primo
 Sapão, [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) conta que foi
 para Conyberry para procurar uma banshee

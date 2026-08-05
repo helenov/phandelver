@@ -44,13 +44,13 @@ _próxima_ : [Sessão 4 Glasstaff](04_glasstaff.md)
 #### Mencionados
 
 * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), responsável
-  pelo [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md)
+  pelo [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
 
 ### Cenários
 
 * [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
 * [Prefeitura](../locations/phandalin/townmasters_hall.md)
-* [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md)
+* [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
 * [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)
 * [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md)
 * [Mata Tresendar](../locations/phandalin/tresendar_wood.md)
@@ -135,7 +135,7 @@ deixam as espadas apreendidas em uma sala da prefeitura, agora um arsenal
 improvisado.
 
 O prefeito os orienta a levar o corpo para o cemitério que fica atrás
-do [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md), do outro
+do [Santuário da Fortuna](../locations/phandalin/luck_shrine.md), do outro
 lado da praça, mas já adianta que
 a [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) não se encontra
 na cidade. No templo, realmente não encontram ninguém, e deixam os corpos para

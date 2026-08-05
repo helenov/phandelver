@@ -56,7 +56,7 @@ _próxima_ : [Sessão 6 Wyvern Tor](06_wyvern_tor.md)
 
 * [Phandalin](../locations/phandalin.md)
   * [Prefeitura](../locations/phandalin/townmasters_hall.md)
-  * [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md)
+  * [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
   * [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)
 
 #### Mencionados
@@ -222,7 +222,7 @@ não ter de lidar com mais este problema.
 
 Perguntado sobre [Sildar](../casting/npcs/sildar_hallwinter.md), o prefeito
 informa que o cavaleiro está
-no [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md), onde foi se
+no [Santuário da Fortuna](../locations/phandalin/luck_shrine.md), onde foi se
 encontrar com a [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) que
 voltou de sua viagem. Parece que ela está ferida e, embora não saiba de
 detalhes, ele acha que foi atacada pelos bandidos que seguem agindo
@@ -235,7 +235,7 @@ de [Conyberry](../locations/conyberry.md)"
 
 [//]: # (_[_Imagem_]_ :construction:)
 
-Chegando ao [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md),
+Chegando ao [Santuário da Fortuna](../locations/phandalin/luck_shrine.md),
 são recebidos por [Sildar](../casting/npcs/sildar_hallwinter.md), que lamenta a
 perda do grupo e os apresenta
 a [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), uma jovem elfa

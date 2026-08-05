@@ -43,7 +43,7 @@ _[_Texto_]_ :construction:
   * **Harbin** recebe o bandido prisioneiro
     ([Cena 1](../../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
   * **Harbin** orienta o grupo a levar os mortos para
-    o [Santuário da Fortuna](../../../locations/phandalin/shrine_of_luck.md)
+    o [Santuário da Fortuna](../../../locations/phandalin/luck_shrine.md)
     ([Cena 1](../../../sessions/03_redbrands.md#cena-1-gigante-adormecido))
   * **Harbin** menciona que [Irmã Garaele](sister_garaele.md) não se encontra na
     cidade

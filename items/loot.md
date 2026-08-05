@@ -17,7 +17,7 @@
 
 ####
 
-* [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md)
+* [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
   * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
     ([Sessão 6 Cena 2](../sessions/06_wyvern_tor.md#cena-2-despedidas))
     * 3 poções de healing (para ajudar na missão) &ndash; _com grupo_

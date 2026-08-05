@@ -20,7 +20,7 @@ _[_Texto_]_ :construction:
 ### Locais
 
 * [Phandalin](../../../locations/phandalin.md), moradora e clériga
-  * [Santuário da Fortuna](../../../locations/phandalin/shrine_of_luck.md),
+  * [Santuário da Fortuna](../../../locations/phandalin/luck_shrine.md),
     clériga responsável
 
 ### Referências
