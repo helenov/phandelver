@@ -19,7 +19,7 @@ _próxima_ : [Sessão 7 Busca]
 ### Elenco
 
 * [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), aliado
-* [Irmã Garaele], clériga
+* [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), clériga
 
 ####
 
@@ -57,13 +57,13 @@ _próxima_ : [Sessão 7 Busca]
 
 * [Neverwinter]
 * [Castelo Cragmaw]
+* [Covil da Agatha]
 * [Floresta de Neverwinter]
-* [Castelo Cragmaw]
 
 ### Itens
 
 * [Santuário da Fortuna]
-  * [Irmã Garaele]
+  * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
     * 3 poções de healing (para ajudar na missão)
 
 [//]: # (#### Mencionados)
@@ -111,8 +111,9 @@ Pela manhã, encontram [Sildar](../casting/npcs/sildar_hallwinter.md) tomando
 café na [Hospedaria], que comenta que andou perguntando por toda a cidade, e não
 obteve nenhuma pista da localização do [Castelo Cragmaw] e reforça a
 recomendação de que o grupo vá investigar os bandoleiros que seguem atacando
-na [Estrada Triboar], a leste, próximo a [Conyberry]. [Irmã Garaele] veio de lá
-e pode ter visto alguma coisa.
+na [Estrada Triboar], a leste, próximo
+a [Conyberry]. [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) veio
+de lá e pode ter visto alguma coisa.
 
 O grupo vai até o [Santuário da Fortuna] onde, enquanto Colina vela seu primo
 Sapão, Irmã Garaele conta que foi para Conyberry para procurar uma banshee
@@ -126,9 +127,9 @@ troca de uma resposta, foi atacada e se salvou por pouco. A banshee tem especial
 predileção por objetos belos, e antes de fugir percebeu que Agatha demonstrou
 especial interesse por seu [pente de prata].
 
-Ofereceu para o grupo três poções de cura para tentarem se concordarem em
-negociar com a criatura. "E, claro! Levem o pente de prata, para usarem na
-barganha. E tomem muito cuidado!"
+Ofereceu para o grupo três poções de cura para tentarem se concordarem em ir
+ao [Covil da Agatha] para negociar com a criatura. "E, claro! Levem o pente de
+prata, para usarem na barganha. E tomem muito cuidado!"
 
 Sobre os assaltantes, disse que realmente encontrou alguns goblins e bugbears,
 mas que pode evitá-los.
@@ -152,7 +153,8 @@ para viajantes: hoje é apenas um poço no meio do que já foi uma praça, cerca
 por ruínas de umas poucas construções.
 
 Uma trilha ao norte segue entrando na [Floresta de Neverwinter] e, que, segundo
-as orientações da [Irmã Garaele], leva ao covil de [Agatha], a banshee.
+as orientações da [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md),
+leva ao [Covil da Agatha].
 
 Ao se aproximarem do poço, rumando para a trilha, são atacados por dois
 bugbears, que acabam se revelando pouco perigosos, sendo derrotados com relativa

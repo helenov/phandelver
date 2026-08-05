@@ -42,3 +42,11 @@ _[_Texto_]_ :construction:
     ([Cena 4](../../../sessions/05_perda.md#cena-4-irmã-garaele))
   * **Irmã Garaele** conta sobre sua missão e [Agatha](../agatha.md), a banshee
     ([Cena 4](../../../sessions/05_perda.md#cena-4-irmã-garaele))
+
+####
+
+* [Sessão 6 Wyvern Tor](../../../sessions/06_wyvern_tor.md)
+  * **Irmã Garaele** dá detalhes sobre [Agatha], a banshee
+    ([Cena 2](../../../sessions/06_wyvern_tor.md#cena-2-despedidas))
+  * grupo encontra a trilha para o [Covil da Agatha] mencionada por **Irmã
+    Garaele** ([Cena 3](../../../sessions/06_wyvern_tor.md#cena-3-conyberry))
