@@ -49,8 +49,8 @@ _próxima_ : [Sessão 7 Busca]
 * [Phandalin](../locations/phandalin.md)
   * [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)
   * [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
-* [Estrada Triboar]
-* [Conyberry]
+* [Estrada Triboar](../locations/triboar_trail.md)
+  * [Conyberry]
 * [Poço da Velha Coruja]
 * [Wyvern Tor](../locations/wyvern_tor.md)
 
@@ -97,8 +97,9 @@ profundamente consternado. Ao relatarem mais detalhes dos últimos acontecimento
 e dos objetivos do grupo, Jeremias de pronto se oferece para ajudar na caça aos
 responsáveis e vingar o primo.
 
-Jeremias, por sua vez conta que cruzou na [Estrada Triboar] com grupos vindos no
-sentido contrário, que relataram terem sido assaltados por bugbears, próximo
+Jeremias, por sua vez conta que cruzou
+na [Estrada Triboar](../locations/triboar_trail.md) com grupos vindos no sentido
+contrário, que relataram terem sido assaltados por bugbears, próximo
 a [Conyberry].
 
 ---
@@ -113,13 +114,13 @@ Pela manhã, encontram [Sildar](../casting/npcs/sildar_hallwinter.md) tomando
 café na [Hospedaria](../locations/phandalin/stonehill_inn.md), que comenta que
 andou perguntando por toda a cidade, e não obteve nenhuma pista da localização
 do [Castelo Cragmaw] e reforça a recomendação de que o grupo vá investigar os
-bandoleiros que seguem atacando na [Estrada Triboar], a leste, próximo
+bandoleiros que seguem atacando
+na [Estrada Triboar](../locations/triboar_trail.md), a leste, próximo
 a [Conyberry]. [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) veio
 de lá e pode ter visto alguma coisa.
 
-O grupo vai até
-o [Santuário da Fortuna](../locations/phandalin/luck_shrine.md) onde,
-enquanto Colina vela seu primo
+O grupo vai até o [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
+onde, enquanto Colina vela seu primo
 Sapão, [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) conta que foi
 para Conyberry para procurar uma banshee
 chamada [Agatha](../casting/npcs/agatha.md), em uma missão passada por seus
@@ -152,10 +153,10 @@ norte, já na [Floresta de Neverwinter].
 
 :construction:
 
-Após três dias de viagem pela [Estrada Triboar], próximo ao meio-dia, chegam às
-ruínas de [Conyberry], uma vila que um dia foi pouco mais que posto de parada
-para viajantes: hoje é apenas um poço no meio do que já foi uma praça, cercada
-por ruínas de umas poucas construções.
+Após três dias de viagem pela [Estrada Triboar](../locations/triboar_trail.md),
+próximo ao meio-dia, chegam às ruínas de [Conyberry], uma vila que um dia foi
+pouco mais que posto de parada para viajantes: hoje é apenas um poço no meio do
+que já foi uma praça, cercada por ruínas de umas poucas construções.
 
 Uma trilha ao norte segue entrando na [Floresta de Neverwinter] e, que, segundo
 as orientações da [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md),

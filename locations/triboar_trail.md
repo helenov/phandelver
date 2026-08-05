@@ -53,3 +53,13 @@ _[_Texto_]_ :construction:
   * [Sildar](../casting/npcs/sildar_hallwinter.md) pede que investiguem os
     ataques na **Estrada Triboar**
     ([Cena 4](../sessions/05_perda.md#cena-4-irmã-garaele))
+
+####
+
+* [Sessão 6 Wyvern Tor](../sessions/06_wyvern_tor.md)
+  * Jeremias menciona viajantes atacados na **Estrada Triboar** próximo a
+    [Conyberry] ([Cena 1](../sessions/06_wyvern_tor.md#cena-1-jeremias))
+  * [Sildar](../casting/npcs/sildar_hallwinter.md) reforça pedido para investigarem os bandidos na **Estrada Triboar**
+    ([Cena 2](../sessions/06_wyvern_tor.md#cena-2-despedidas))
+  * grupo viaja 3 dias pela **Estrada Triboar** até [Conyberry]
+    ([Cena 3](../sessions/06_wyvern_tor.md#cena-3-conyberry))

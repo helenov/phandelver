@@ -115,4 +115,4 @@ do que julga seu amigo otimista.
 
 * [Sessao 6 Wyvern Tor](../../sessions/06_wyvern_tor.md)
   * **Sildar** reforça pedido para investigarem próximo a [Conyberry]
-    ([Cena 1](../../sessions/06_wyvern_tor.md#cena-1-jeremias))
+    ([Cena 2](../../sessions/06_wyvern_tor.md#cena-2-despedidas))
