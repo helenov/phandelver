@@ -70,7 +70,7 @@
 ####
 
 * [Poço da Velha Coruja]
-  * [Hamun Kost], necromante [Red Wizard]
+  * [Hamun Kost](npcs/hamun_kost.md), necromante [Red Wizard]
 
 ####
 
@@ -79,8 +79,10 @@
 
 #### Mencionados
 
-* [Tharden Rockseeker](npcs/tharden_rockseeker.md), irmão de [Gundren](npcs/gundren_rockseeker.md)
-* [Nundro Rockseeker](npcs/tharden_rockseeker.md), irmão de [Gundren](npcs/gundren_rockseeker.md)
+* [Tharden Rockseeker](npcs/tharden_rockseeker.md), irmão
+  de [Gundren](npcs/gundren_rockseeker.md)
+* [Nundro Rockseeker](npcs/tharden_rockseeker.md), irmão
+  de [Gundren](npcs/gundren_rockseeker.md)
 
 ####
 

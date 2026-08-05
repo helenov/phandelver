@@ -29,7 +29,7 @@ _próxima_ : [Sessão 7 Busca]
 ####
 
 * [Poço da Velha Coruja]
-  * [Hamun Kost], necromante [Red Wizard]
+  * [Hamun Kost](../casting/npcs/hamun_kost.md), necromante [Red Wizard]
   * zumbis
 
 ####
@@ -187,8 +187,9 @@ simples gesto de mão, os zumbis param o ataque e recuam.
 "O que que está havendo aqui?"
 
 O homem - alto, usando um manto vermelho, tem a cabeça raspada, com um símbolo
-arcano tatuado na testa - se apresenta como [Hamun Kost] e que aquelo lugar é
-conhecido como [Poço da Velha Coruja]. O Professor reconhece o símbolo com uma
+arcano tatuado na testa - se apresenta
+como [Hamun Kost](../casting/npcs/hamun_kost.md) e que aquelo lugar é conhecido
+como [Poço da Velha Coruja]. O Professor reconhece o símbolo com uma
 característica dos [Red Wizards], um grupo de magos malígnos, ambiciosos e
 poderosos. O símbolo na sua testa indica sua especialidade mágica:
 necromancia, no caso.
