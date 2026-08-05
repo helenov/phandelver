@@ -5,7 +5,7 @@
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
 [//]: # (<!-- @formatter:on -->)
-_[_Imagem_]_ :construction:
+_[_Imagem_]_
 _[_Texto_]_ :construction:
 <br clear="left"/>
 
@@ -41,3 +41,12 @@ _[_Texto_]_ :construction:
   * [Carp](../../casting/npcs/phandalin/alderleaf/carp_alderleaf.md) está
     esperando o grupo na **Hospedaria Stonehill**
     ([Cena 2](../../sessions/03_redbrands.md#cena-2-túnel-secreto))
+
+####
+
+* [Sessão 6 Wyvern Tor](../../sessions/06_wyvern_tor.md)
+  * grupo conhece Jeremias, primo do Sapão
+    ([Cena 1](../../sessions/06_wyvern_tor.md#cena-1-jeremias))
+  * [Sildar](../../casting/npcs/sildar_hallwinter.md) reforça pedido para
+    investigarem próximo a [Conyberry]
+    ([Cena 2](../../sessions/06_wyvern_tor.md#cena-2-despedidas))

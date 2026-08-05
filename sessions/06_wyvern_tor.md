@@ -47,7 +47,7 @@ _próxima_ : [Sessão 7 Busca]
 ### Cenários
 
 * [Phandalin](../locations/phandalin.md)
-  * [Hospedaria Stonehill]
+  * [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)
   * [Santuário da Fortuna]
 * [Estrada Triboar]
 * [Conyberry]
@@ -82,7 +82,8 @@ _[_Imagem_]_ :construction:
 
 "Sapão?!? É você?"
 
-"Alto lá, Frodo!", disse a silhueta na porta da [Hospedaria Stone], ao que o cão
+"Alto lá, Frodo!", disse a silhueta na porta
+da [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md), ao que o cão
 parou imediatamente, mantendo-se em estado de alerta. "Vocês falaram 'Sapão'?
 Vocês conhecem meu primo?", continuou o elfo alto de cabelos longos que entrava
 no salão.
@@ -109,10 +110,10 @@ _[_Imagem_]_ :construction:
 :construction:
 
 Pela manhã, encontram [Sildar](../casting/npcs/sildar_hallwinter.md) tomando
-café na [Hospedaria], que comenta que andou perguntando por toda a cidade, e não
-obteve nenhuma pista da localização do [Castelo Cragmaw] e reforça a
-recomendação de que o grupo vá investigar os bandoleiros que seguem atacando
-na [Estrada Triboar], a leste, próximo
+café na [Hospedaria](../locations/phandalin/stonehill_inn.md), que comenta que
+andou perguntando por toda a cidade, e não obteve nenhuma pista da localização
+do [Castelo Cragmaw] e reforça a recomendação de que o grupo vá investigar os
+bandoleiros que seguem atacando na [Estrada Triboar], a leste, próximo
 a [Conyberry]. [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) veio
 de lá e pode ter visto alguma coisa.
 
