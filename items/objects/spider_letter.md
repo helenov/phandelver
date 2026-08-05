@@ -21,6 +21,11 @@ aranha preta, e escrita em uma caligrafia refinada:
 > Conto contigo, Iarno. Não me desaponte.
 > <br clear="left"/>
 
+### Locais
+
+* [Esconderijo Redbrand](../../locations/phandalin/redbrand_hideout.md),
+  escritório
+
 ### Referências
 
 * [Sessão 5 Perda](../../sessions/05_perda.md)
