@@ -33,6 +33,10 @@ própria natureza o estivesse observando constantemente.
 
 * quem a empunha sente-se desconfortável ao viajar por florestas
 
+### Locais
+
+* [Thundertree], dragão
+
 ### Referências
 
 * [Sessão 8 Venomfang]
