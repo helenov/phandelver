@@ -25,7 +25,8 @@ _[_Texto_]_ :construction:
 ### Referências
 
 * [Sessão 6 Wyvern Tor](../../sessions/06_wyvern_tor.md)
-  * **Hamun** orienta como localizar os [Cragmaw Goblins]
+  * **Hamun** orienta como localizar
+    os [Cragmaw Goblins](../../organizations/cragmaw_goblins.md)
     em [Wyvern Tor](../../locations/wyvern_tor.md)
     ([Cena 4](../../sessions/06_wyvern_tor.md#cena-4-necromante))
   

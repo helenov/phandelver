@@ -222,7 +222,9 @@ O grupo se aproxima escondido pela vegetação do lado oposto da ravina, e com u
 feitiço o Professo coloca o guarda para dormir. Se aproximam cautelosamente, e
 levam o guarda dormindo para longe do local, para ser acordado e interrogado.
 
-Ele confessa que são um grupo dos [Cragmaw Goblins], mas que apenas seu líder,
+Ele confessa que são um grupo
+dos [Cragmaw Goblins](../organizations/cragmaw_goblins.md), mas que apenas seu
+líder,
 [Brughor](../casting/npcs/cragmaw/brughor.md), um orc, sabe a localização
 do [Castelo Cragmaw]. Deixando o prisioneiro amarrado e amordaçado, o grupo
 volta para a gruta do bando.

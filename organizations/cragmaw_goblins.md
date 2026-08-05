@@ -87,3 +87,9 @@ _[_Texto_]_ :construction:
   * [Droop](../casting/npcs/cragmaw/droop.md) diz foram enviados como reforço
     para os [Redbrands](redbrands.md)
     ([Cena 2](../sessions/05_perda.md#cena-2-perda))
+
+####
+
+* [Sessão 6 Wyvern Tor](../sessions/06_wyvern_tor.md)
+  * grupo desmantela o grupo de **Cragmaw Goblins** em [Wyvern Tor] 
+    ([Cena 5](../sessions/06_wyvern_tor.md#cena-5-wyvern-tor))

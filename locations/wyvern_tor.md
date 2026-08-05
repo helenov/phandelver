@@ -40,7 +40,8 @@
 
 * [Sessão 6 Wyvern Tor](../sessions/06_wyvern_tor.md)
   * [Hamun](../casting/npcs/hamun_kost.md) orienta como localizar
-    os [Cragmaw Goblins] em **Wyvern Tor**
+    os [Cragmaw Goblins](../organizations/cragmaw_goblins.md) em **Wyvern Tor**
     ([Cena 4](../sessions/06_wyvern_tor.md#cena-4-necromante))
-  * grupo desmantela o grupo de [Cragmaw Goblins] em **Wyvern Tor**
+  * grupo desmantela o grupo
+    de [Cragmaw Goblins](../organizations/cragmaw_goblins.md) em **Wyvern Tor**
     ([Cena 5](../sessions/06_wyvern_tor.md#cena-5-wyvern-tor))
