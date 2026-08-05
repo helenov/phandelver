@@ -104,4 +104,4 @@
 ####
 
 * [Agatha](npcs/agatha.md), banshee
-* [Bowgentle], mago lendário
+* [Bowgentle](npcs/bowgentle.md), mago lendário

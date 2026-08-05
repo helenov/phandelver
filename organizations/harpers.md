@@ -39,3 +39,11 @@ não conseguem manter seus assuntos em segredo.
   * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) se apresenta
     como uma agente dos **Harpers**
     ([Cena 4](../sessions/05_perda.md#cena-4-irmã-garaele))
+
+####
+
+* [Sessão 5 Wyvern Tor](../sessions/06_wyvern_tor.md)
+  * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) diz que os
+    **Harpers** querem saber do paradeiro do livro do
+    mago [Bowgentle](../casting/npcs/bowgentle.md)
+    ([Cena 2](../sessions/06_wyvern_tor.md#cena-2-despedidas))
