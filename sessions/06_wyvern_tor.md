@@ -125,9 +125,10 @@ onde, enquanto Colina vela seu primo
 Sapão, [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) conta que foi
 para Conyberry para procurar uma banshee
 chamada [Agatha](../casting/npcs/agatha.md), em uma missão passada por seus
-superiores nos [Harpers], para obter a informação sobre o paradeiro do grimório
-do lendário mago [Bowgentle](../casting/npcs/bowgentle.md). Agatha tem poderem
-divinatórios e pode responder a qualquer pergunta, desde que concorde com isso.
+superiores nos [Harpers](../organizations/harpers.md), para obter a informação
+sobre o paradeiro do grimório do lendário
+mago [Bowgentle](../casting/npcs/bowgentle.md). Agatha tem poderem divinatórios
+e pode responder a qualquer pergunta, desde que concorde com isso.
 
 Ela diz que subestimou a ganância da criatura e, ao não oferecer um presente em
 troca de uma resposta, foi atacada e se salvou por pouco. A banshee tem especial
