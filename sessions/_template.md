@@ -32,6 +32,16 @@ _próxima_ : _[Sessão _X-2_ _Título_]_
 
 * _[_Location_]_
 
+### Itens
+
+* _[_Local_]_, _[_detalhe_]_
+  * _[_item_]_
+
+#### Mencionados
+
+* _[_Local_]_, _[_detalhe_]_
+  * _[_item_]_
+
 ---
 
 ### _[Cena _X_ _Título_]_
