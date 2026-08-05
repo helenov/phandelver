@@ -65,6 +65,7 @@ _próxima_ : [Sessão 6 Wyvern Tor](06_wyvern_tor.md)
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
 * [Wyvern Tor](../locations/wyvern_tor.md)
 * [Floresta de Neverwinter](../locations/neverwinter_wood.md)
+  * [Covil da Agatha](../locations/agathas_lair.md)
 * [Estrada Triboar](../locations/triboar_trail.md)
   * [Conyberry](../locations/conyberry.md)
 
@@ -235,8 +236,8 @@ de [Conyberry](../locations/conyberry.md)"
 
 [//]: # (_[_Imagem_]_ :construction:)
 
-Chegando ao [Santuário da Fortuna](../locations/phandalin/luck_shrine.md),
-são recebidos por [Sildar](../casting/npcs/sildar_hallwinter.md), que lamenta a
+Chegando ao [Santuário da Fortuna](../locations/phandalin/luck_shrine.md), são
+recebidos por [Sildar](../casting/npcs/sildar_hallwinter.md), que lamenta a
 perda do grupo e os apresenta
 a [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), uma jovem elfa
 com um braço suspenso em uma tipóia, que emite um grunhido de dor ao se levantar
@@ -245,7 +246,8 @@ para cumprimentar a dupla de aventureiros.
 Irmã Garaele se apresenta como uma agente
 dos [Harpers](../organizations/harpers.md) e tinha recebido recentemente a
 missão de obter uma informação de uma banshee conhecida como
-[Agatha](../casting/npcs/agatha.md), que 'vive' a leste próximo
+[Agatha](../casting/npcs/agatha.md), que 'vive'
+na [Floresta de Neverwinter](../locations/neverwinter_wood.md), a leste próximo
 a [Conyberry](../locations/conyberry.md). Garaele diz ter subestimado a criatura
 e que deveria ter usado uma abordagem mais diplomática, ao invés de partir para
 um confronto direto. Sobreviveu por muito pouco.

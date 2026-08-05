@@ -46,6 +46,9 @@
   * [Droop](../casting/npcs/cragmaw/droop.md) diz que
     o [Castelo Cragmaw](cragmaw_castle.md) fica na **Floresta de Neverwinter**
     ([Cena 2](../sessions/05_perda.md#cena-2-perda))
+  * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) diz que
+    o [Covil da Agatha](agathas_lair.md) fica na **Floresta de Neverwinter**
+    ([Cena 4](../sessions/05_perda.md#cena-4-irmã-garaele))
 
 ####
 
