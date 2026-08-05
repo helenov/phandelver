@@ -24,10 +24,11 @@
 
 * [Cragmaw Goblins](../organizations/cragmaw_goblins.md), base
 
-[//]: # (### Locais)
-[//]: # ()
-[//]: # (* _[_Local_]_)
-[//]: # (  * _[_detalhe_]_)
+### Locais
+
+* [Montanhas da Espada](sword_montains.md)
+  * **Wyvern Tor** é um paredão de pedra proeminente no noroeste da cadeia de
+    montanhas
 
 ### Referências
 

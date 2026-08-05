@@ -53,7 +53,8 @@ _próxima_ : [Sessão 7 Busca]
 * [Estrada Triboar](../locations/triboar_trail.md)
   * [Conyberry](../locations/conyberry.md)
 * [Poço da Velha Coruja](../locations/old_owl_well.md)
-* [Wyvern Tor](../locations/wyvern_tor.md)
+* [Montanhas da Espada](../locations/sword_montains.md)
+  * [Wyvern Tor](../locations/wyvern_tor.md)
 
 #### Mencionados
 
@@ -215,7 +216,7 @@ zumbis que permanecem parados próximos a ele, alheios a conversa.
 Ao saber que o grupo está a procura deles, diz que ficaria muito satisfeito em
 se livrar definitivamente do problema, e indica que se escondem na base da
 [Wyvern Tor](../locations/wyvern_tor.md), uma montanha de pedra proeminente logo
-no início das [Montanhas da Espada]. Após fornecer mais detalhes sobre como
+no início das [Montanhas da Espada](../locations/sword_montains.md). Após fornecer mais detalhes sobre como
 localizar o esconderijo, pede apenas que o grupo _não_ acampe próximo de seu
 campo de estudos.
 
