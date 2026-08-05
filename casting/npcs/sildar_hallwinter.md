@@ -114,5 +114,6 @@ do que julga seu amigo otimista.
 ####
 
 * [Sessao 6 Wyvern Tor](../../sessions/06_wyvern_tor.md)
-  * **Sildar** reforça pedido para investigarem próximo a [Conyberry]
+  * **Sildar** reforça pedido para investigarem próximo
+    a [Conyberry](../../locations/conyberry.md)
     ([Cena 2](../../sessions/06_wyvern_tor.md#cena-2-despedidas))

@@ -58,8 +58,10 @@ _[_Texto_]_ :construction:
 
 * [Sessão 6 Wyvern Tor](../sessions/06_wyvern_tor.md)
   * Jeremias menciona viajantes atacados na **Estrada Triboar** próximo a
-    [Conyberry] ([Cena 1](../sessions/06_wyvern_tor.md#cena-1-jeremias))
-  * [Sildar](../casting/npcs/sildar_hallwinter.md) reforça pedido para investigarem os bandidos na **Estrada Triboar**
+    [Conyberry](conyberry.md)
+    ([Cena 1](../sessions/06_wyvern_tor.md#cena-1-jeremias))
+  * [Sildar](../casting/npcs/sildar_hallwinter.md) reforça pedido para
+    investigarem os bandidos na **Estrada Triboar**
     ([Cena 2](../sessions/06_wyvern_tor.md#cena-2-despedidas))
-  * grupo viaja 3 dias pela **Estrada Triboar** até [Conyberry]
+  * grupo viaja 3 dias pela **Estrada Triboar** até [Conyberry](conyberry.md)
     ([Cena 3](../sessions/06_wyvern_tor.md#cena-3-conyberry))

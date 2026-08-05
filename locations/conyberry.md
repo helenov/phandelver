@@ -40,3 +40,16 @@
   * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) diz que o covil
     de [Agatha](../casting/npcs/agatha.md) é próximo a **Conyberry**
     ([Cena 4](../sessions/05_perda.md#cena-4-irmã-garaele))
+
+####
+
+* [Sessão 6 Wyvern Tor](../sessions/06_wyvern_tor.md)
+  * Jeremias menciona viajantes atacados na [Estrada Triboar](triboar_trail.md)
+    próximo a **Conyberry**
+    ([Cena 1](../sessions/06_wyvern_tor.md#cena-1-jeremias))
+  * [Sildar] reforça pedido para investigarem os assaltos próximos a
+    **Conyberry**
+    ([Cena 2](../sessions/06_wyvern_tor.md#cena-2-despedidas))
+  * grupo viaja 3 dias pela [Estrada Triboar](triboar_trail.md) até
+    **Conyberry**
+    ([Cena 3](../sessions/06_wyvern_tor.md#cena-3-conyberry))

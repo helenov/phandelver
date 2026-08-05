@@ -98,12 +98,12 @@
 
 #### manhã
 
-* preparativos para viagem a [Conyberry]
+* preparativos para viagem a [Conyberry](locations/conyberry.md)
   * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 2](sessions/06_wyvern_tor.md#cena-2-despedidas)
 
 #### tarde
 
-* partida para [Conyberry]
+* partida para [Conyberry](locations/conyberry.md)
   * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 2](sessions/06_wyvern_tor.md#cena-2-despedidas)
 
 --- 
@@ -112,12 +112,12 @@
 
 #### início da tarde
 
-* bandidos em [Conyberry]
+* bandidos em [Conyberry](locations/conyberry.md)
   * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 3](sessions/06_wyvern_tor.md#cena-3-conyberry)
 
 #### fim da tarde
 
-* necromante no [Poço da Velha Coruja]
+* necromante no [Poço da Velha Coruja](locations/old_owl_well.md)
   * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 4](sessions/06_wyvern_tor.md#cena-4-necromante)
 
 ---

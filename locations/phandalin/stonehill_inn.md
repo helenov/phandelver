@@ -48,5 +48,5 @@ _[_Texto_]_ :construction:
   * grupo conhece Jeremias, primo do Sapão
     ([Cena 1](../../sessions/06_wyvern_tor.md#cena-1-jeremias))
   * [Sildar](../../casting/npcs/sildar_hallwinter.md) reforça pedido para
-    investigarem próximo a [Conyberry]
+    investigarem próximo a [Conyberry](../conyberry.md)
     ([Cena 2](../../sessions/06_wyvern_tor.md#cena-2-despedidas))
