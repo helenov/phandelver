@@ -68,6 +68,36 @@ _próxima_ : [Sessão 6 Wyvern Tor](06_wyvern_tor.md)
 * [Estrada Triboar](../locations/triboar_trail.md)
   * [Conyberry](../locations/conyberry.md)
 
+### Itens
+
+* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+
+  * escritório
+    * [equipamento de alquimia]
+    * [livro de poções]
+    * [livro "As Aventuras de Urmon"]
+    * [Carta do Spider](../items/objects/spider_letter.md)
+    * ~300 moedas
+      * 130 gp, 180 sp
+    * bolsa de seda com pedras preciosas
+      * 5 carnelians
+      * 2 peridots
+      * 1 pearl
+  * carteado
+    * 4 shortswords
+    * 4 capas vermelhas
+  * bugbears
+    * [tapa-olho cravejado de pedras]
+    * chaves
+      do [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+
+    * 33 sp
+
+[//]: # (#### Mencionados)
+[//]: # ()
+[//]: # (* _[_Local_]_, _[_detalhe_]_)
+[//]: # (  * _[_item_]_)
+
 ---
 
 ### Cena 1 Carta
