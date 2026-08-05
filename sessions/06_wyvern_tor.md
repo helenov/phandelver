@@ -18,7 +18,7 @@ _próxima_ : [Sessão 7 Busca]
 
 ### Elenco
 
-* [Sildar Hallwinter], aliado
+* [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), aliado
 * [Irmã Garaele], clériga
 
 ####
@@ -95,9 +95,10 @@ _[_Imagem_]_ :construction:
 
 :construction:
 
-Pela manhã encontram [Sildar] chega tomando café, e comenta que ainda não tem
-nenhuma pista da localização do [Castelo Cragmaw] e reforça a recomendação de
-que o grupo vá investigar os bandoleiros que seguem atacando
+Pela manhã, encontram [Sildar](../casting/npcs/sildar_hallwinter.md) tomando
+café na [Hospedaria], que comenta que andou perguntando por toda a cidade, e não
+obteve nenhuma pista da localização do [Castelo Cragmaw] e reforça a
+recomendação de que o grupo vá investigar os bandoleiros que seguem atacando
 na [Estrada Triboar], a leste, próximo a [Conyberry]. [Irmã Garaele] veio de lá
 e pode ter visto alguma coisa.
 
