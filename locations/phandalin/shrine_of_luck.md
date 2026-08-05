@@ -40,3 +40,11 @@ _[_Texto_]_ :construction:
     com [Irmã Garaele](../../casting/npcs/phandalin/sister_garaele.md)
     e [Sildar](../../casting/npcs/sildar_hallwinter.md) no **Santuário**
     ([Cena 3](../../sessions/05_perda.md#cena-4-irmã-garaele))
+
+####
+
+* [Sessão 6 Wyvern Tor](../../sessions/06_wyvern_tor.md)
+  * [Irmã Garaele](../../casting/npcs/phandalin/sister_garaele.md) dá detalhes
+    sobre [Agatha](../../casting/npcs/agatha.md), a banshee
+    ([Cena 2](../../sessions/06_wyvern_tor.md#cena-2-despedidas))
+
