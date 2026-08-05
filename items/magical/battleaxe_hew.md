@@ -9,7 +9,7 @@ _[_Imagem_]_ :construction:
 
 Sob a ferrugem causada pelo desuso, é visível uma bela cabeça de machado de aço,
 trabalhada com atenção e cuidado. Limpando um pouco a ferrugem é possível
-discernir uma palavra gravada em runas anãs: Hew.
+discernir uma palavra gravada em runas anãs: **Hew**.
 
 Quando o Professor lê este nome em voz alta, Jeremias se lembra de uma história
 antiga sobre um certo machado Hew que foi criado por um ferreiro anão que
@@ -32,3 +32,8 @@ própria natureza o estivesse observando constantemente.
 ####
 
 * quem a empunha sente-se desconfortável ao viajar por florestas
+
+### Referências
+
+* [Sessão 8 Venomfang]
+  * grupo encontra o **Machado Hew** na torre do dragão [Venomfang] ([Cena 4])
