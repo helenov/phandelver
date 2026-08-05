@@ -16,7 +16,7 @@ _[_Texto_]_ :construction:
 
 ### Organizações
 
-* [Red Wizards], membro
+* [Red Wizards](../../organizations/red_wizards.md), membro
 
 ### Locais
 
