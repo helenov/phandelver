@@ -38,7 +38,7 @@
     próximo a **Conyberry**
     ([Cena 3](../sessions/05_perda.md#cena-3-recompensa))
   * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) diz que
-    o [Covil da Agatha] é próximo a **Conyberry**
+    o [Covil da Agatha](agathas_lair.md) é próximo a **Conyberry**
     ([Cena 4](../sessions/05_perda.md#cena-4-irmã-garaele))
 
 ####

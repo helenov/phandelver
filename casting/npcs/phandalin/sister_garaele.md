@@ -49,5 +49,7 @@ _[_Texto_]_ :construction:
   * **Irmã Garaele** dá detalhes sobre sua missão
     envolvendo [Agatha](../agatha.md), a banshee
     ([Cena 2](../../../sessions/06_wyvern_tor.md#cena-2-despedidas))
-  * grupo encontra a trilha para o [Covil da Agatha] mencionada por **Irmã
-    Garaele** ([Cena 3](../../../sessions/06_wyvern_tor.md#cena-3-conyberry))
+  * grupo encontra a trilha para
+    o [Covil da Agatha](../../../locations/agathas_lair.md) mencionada por
+    **Irmã Garaele**
+    ([Cena 3](../../../sessions/06_wyvern_tor.md#cena-3-conyberry))

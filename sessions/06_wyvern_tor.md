@@ -59,7 +59,7 @@ _próxima_ : [Sessão 7 Busca]
 
 * [Neverwinter](../locations/neverwinter.md)
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
-* [Covil da Agatha]
+* [Covil da Agatha](../locations/agathas_lair.md)
 * [Floresta de Neverwinter]
 
 ### Itens
@@ -137,8 +137,9 @@ predileção por objetos belos, e antes de fugir percebeu que Agatha demonstrou
 especial interesse por seu [pente de prata].
 
 Ofereceu para o grupo três poções de cura para tentarem se concordarem em ir
-ao [Covil da Agatha] para negociar com a criatura. "E, claro! Levem o pente de
-prata, para usarem na barganha. E tomem muito cuidado!"
+ao [Covil da Agatha](../locations/agathas_lair.md) para negociar com a criatura.
+"E, claro! Levem o pente de prata, para usarem na barganha. E tomem muito
+cuidado!"
 
 Sobre os assaltantes, disse que realmente encontrou alguns goblins e bugbears,
 mas que pode evitá-los.
@@ -164,7 +165,7 @@ poucas construções.
 
 Uma trilha ao norte segue entrando na [Floresta de Neverwinter] e, que, segundo
 as orientações da [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md),
-leva ao [Covil da Agatha].
+leva ao [Covil da Agatha](../locations/agathas_lair.md).
 
 Ao se aproximarem do poço, rumando para a trilha, são atacados por dois
 bugbears, que acabam se revelando pouco perigosos, sendo derrotados com relativa
