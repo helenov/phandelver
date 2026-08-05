@@ -10,6 +10,10 @@ _[_Imagem_]_ :construction:
 _[_Texto_]_ :construction:
 <br clear="left"/>
 
+### Locais
+
+* _[_Local_]_, _[_detalhe_]_
+
 ### Referências
 
 * _[_Sessão_]_
