@@ -8,8 +8,6 @@ _próxima_ : [Sessão 7 Busca]
 
 ### Cenas
 
-:construction:
-
 * [Cena 1 Jeremias](#cena-1-jeremias)
 * [Cena 2 Despedidas](#cena-2-despedidas)
 * [Cena 3 Conyberry](#cena-3-conyberry)
@@ -78,15 +76,13 @@ _próxima_ : [Sessão 7 Busca]
 
 ### Cena 1 Jeremias
 
-_[_Imagem_]_ :construction:
-
-:construction:
+[//]: # (_[_Imagem_]_ :construction:)
 
 "Sapão?!? É você?"
 
 "Alto lá, Frodo!", disse a silhueta na porta
 da [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md), ao que o cão
-parou imediatamente, mantendo-se em estado de alerta. "Vocês falaram 'Sapão'?
+obedeceu imediatamente, mantendo-se em estado de alerta. "Vocês falaram 'Sapão'?
 Vocês conhecem meu primo?", continuou o elfo alto de cabelos longos que entrava
 no salão.
 
@@ -98,58 +94,57 @@ Vocês são amigos dele?"
 O grupo conta o que acabou de acontecer com o amigo, ao que o recém-chegado fica
 profundamente consternado. Ao relatarem mais detalhes dos últimos acontecimentos
 e dos objetivos do grupo, Jeremias de pronto se oferece para ajudar na caça aos
-responsáveis e vingar o primo.
+responsáveis e poder vingar o primo.
 
 Jeremias, por sua vez conta que cruzou
-na [Estrada Triboar](../locations/triboar_trail.md) com grupos vindos no sentido
-contrário, que relataram terem sido assaltados por bugbears, próximo
+na [Estrada Triboar](../locations/triboar_trail.md) com grupos que vinham em
+sentido contrário, que relataram terem sido assaltados por bugbears, próximo
 a [Conyberry](../locations/conyberry.md).
 
 ---
 
 ### Cena 2 Despedidas
 
-_[_Imagem_]_ :construction:
-
-:construction:
+[//]: # (_[_Imagem_]_ :construction:)
 
 Pela manhã, encontram [Sildar](../casting/npcs/sildar_hallwinter.md) tomando
 café na [Hospedaria](../locations/phandalin/stonehill_inn.md), que comenta que
 andou perguntando por toda a cidade, e não obteve nenhuma pista da localização
-do [Castelo Cragmaw](../locations/cragmaw_castle.md) e reforça a recomendação de
-que o grupo vá investigar os bandoleiros que seguem atacando
+do [Castelo Cragmaw](../locations/cragmaw_castle.md) e sugere que possam ter
+mais sucesso se forem investigar os bandidos que seguem atacando
 na [Estrada Triboar](../locations/triboar_trail.md), a leste, próximo
 a [Conyberry](../locations/conyberry.md). [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
-veio de lá e pode ter visto alguma coisa.
+chegou de lá e pode ter visto alguma coisa.
 
 O grupo vai até o [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
 onde, enquanto Colina vela seu primo
 Sapão, [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) conta que foi
 para Conyberry para procurar uma banshee
-chamada [Agatha](../casting/npcs/agatha.md), em uma missão passada por seus
-superiores nos [Harpers](../organizations/harpers.md), para obter a informação
-sobre o paradeiro do grimório do lendário
-mago [Bowgentle](../casting/npcs/bowgentle.md). Agatha tem poderem divinatórios
-e pode responder a qualquer pergunta, desde que concorde com isso.
+chamada [Agatha](../casting/npcs/agatha.md), em uma missão solicitada por seus
+superiores nos [Harpers](../organizations/harpers.md). Seu objetivo era obter
+alguma informação sobre o paradeiro do [Grimório Bowgentle], conhecido livro de
+magia do lendário mago [Bowgentle](../casting/npcs/bowgentle.md). Agatha tem
+poderem divinatórios e pode responder a qualquer pergunta, mas precisa ser
+convencida a isso.
 
 Ela diz que subestimou a ganância da criatura e, ao não oferecer um presente em
 troca de uma resposta, foi atacada e se salvou por pouco. A banshee tem especial
-predileção por objetos belos, e antes de fugir percebeu que Agatha demonstrou
-especial interesse por seu [pente de prata].
+predileção por belos objetos, e antes de fugir percebeu que Agatha demonstrou
+especial interesse pelo [pente de prata] que estava usando.
 
-Ofereceu para o grupo três poções de cura para tentarem se concordarem em ir
-ao [Covil da Agatha](../locations/agathas_lair.md) para negociar com a criatura.
-"E, claro! Levem o pente de prata, para usarem na barganha. E tomem muito
-cuidado!"
+Irmã Garaele pediu então que, caso estejam mesmo indo para aquela região, tentem
+obter a informação sobre o Grimório, com a banshee. Para ajudar na empreitada,
+ofereceu ao grupo três poções de cura que podem ser úteis na viagem. "E, claro!
+Levem também o pente de prata, para usarem na barganha. E tomem muito cuidado!"
 
 Sobre os assaltantes, disse que realmente encontrou alguns goblins e bugbears,
-mas que pode evitá-los.
+mas que pode evitá-los, por não estar em condições de se arriscar.
 
-Após alguns preparativos, no ínicio da tarde, o grupo parte para o leste, rumo
+Após alguns preparativos, no início da tarde, o grupo parte para o leste, rumo
 a [Conyberry](../locations/conyberry.md), descrita como as ruínas de um antigo
-posto de parada abandonado, e como as instruções de como encontrar o covil da
-banshee, por uma trilha a norte, já
-na [Floresta de Neverwinter](../locations/neverwinter_wood.md).
+posto de parada abandonado, e com as instruções de como encontrar
+o [Covil da Agatha](../locations/agathas_lair.md) através uma trilha a norte,
+que leva a [Floresta de Neverwinter](../locations/neverwinter_wood.md).
 
 ---
 
@@ -157,25 +152,25 @@ na [Floresta de Neverwinter](../locations/neverwinter_wood.md).
 
 ![A estrada passa por algumas construções em ruínas, com uma densa floresta ao fundo. Ao lado da estrada um poço.](../images/cenas/06_3_conyberry.png)
 
-:construction:
+Próximo ao meio-dia do quarto dia de viagem sem incidentes
+pela [Estrada Triboar](../locations/triboar_trail.md), o grupo chega às ruínas
+de [Conyberry](../locations/conyberry.md), uma pequena vila que um dia foi pouco
+mais que um posto de parada para viajantes, mas hoje é apenas um poço na beira
+da estrada, no que parece ter sido uma praça, cercado por ruínas de umas poucas
+construções.
 
-Após três dias de viagem pela [Estrada Triboar](../locations/triboar_trail.md),
-próximo ao meio-dia, chegam às ruínas de [Conyberry](../locations/conyberry.md),
-uma vila que um dia foi pouco mais que posto de parada para viajantes: hoje é
-apenas um poço no meio do que já foi uma praça, cercada por ruínas de umas
-poucas construções.
+Uma trilha é visivel ao norte segue entrando
+na [Floresta de Neverwinter](../locations/neverwinter_wood.md) logo adiante.
+Segundo as orientações
+de [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), este é o caminho
+que leva ao [Covil da Agatha](../locations/agathas_lair.md).
 
-Uma trilha ao norte segue entrando
-na [Floresta de Neverwinter](../locations/neverwinter_wood.md) e, que, segundo
-as orientações da [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md),
-leva ao [Covil da Agatha](../locations/agathas_lair.md).
-
-Ao se aproximarem do poço, rumando para a trilha, são atacados por dois
-bugbears, que acabam se revelando pouco perigosos, sendo derrotados com relativa
-facilidade.
+Ao se aproximarem do poço, rumando na direção da trilha, são atacados por dois
+bugbears, que estavam escondidos entre as ruínas. Os bandidos acabam se
+revelando pouco perigosos, sendo derrotados com relativa facilidade.
 
 Procurando por rastros, encontram sinais de uma trilha na direção sul e optam
-por segui-la.
+por segui-la, na esperança de localizar a base dos assaltantes.
 
 ---
 
@@ -183,42 +178,42 @@ por segui-la.
 
 ![No alto de uma pequena colina, estão as ruínas de uma antiga torre de vigia.](../images/cenas/06_4_necromante.png)
 
-:construction:
+Após algumas horas seguindo pela trilha, quando o sol já começa a baixar no
+horizonte, avistam uma torre no alto de uma colina. Se aproximam, pensando que
+pode ser um bom lugar para acampar. Tudo está quieto e, a princípio, não veem
+ninguém, mas há uma barraca colorida montada ao lado de um poço bem no centro
+das ruínas do que deve ter sido a guarnição de uma torre de observação.
 
-Após algumas horas seguindo pela trilha, próximo ao fim do dia, avistam uma
-torre no alto de uma colina. Ao se aproximarem, pensando que pode ser um bom
-lugar para acampar, tudo está quieto e não vêm ninguém, mas há uma barraca
-colorida montada ao lado de um poço bem no centro das ruínas da antiga guarnição
-da torre.
+Assim que entram na área das ruínas, sentem um forte cheiro de carne podre, e,
+quando se aproximam cautelosamente do poço e da barraca, uma horda de zumbis sai
+do que resta da torre, inícia um ataque.
 
-Ao se aproximarem das ruínas, sentem um forte cheiro de carne podre, e, em
-seguida quando chegam ao lado do poço, uma horda de zumbis sai do que resta da
-torre, iníciam um ataque.
-
-Mas a briga mal tinha começado quando um homem que sai da barraca e, com um
-simples gesto de mão, os zumbis param o ataque e recuam.
+Mas a briga mal havia começado quando um homem que sai da barraca e, com um
+simples gesto de mão, faz os zumbis pararem o ataque e recuarem para próximo
+dele.
 
 "O que que está havendo aqui?"
 
-O homem - alto, usando um manto vermelho, tem a cabeça raspada, com um símbolo
-arcano tatuado na testa - se apresenta
-como [Hamun Kost](../casting/npcs/hamun_kost.md) e que aquelo lugar é conhecido
-como [Poço da Velha Coruja](../locations/old_owl_well.md). O Professor reconhece
-o símbolo com uma característica
-dos [Red Wizards](../organizations/red_wizards.md), um grupo de magos malígnos,
-ambiciosos e poderosos. O símbolo na sua testa indica sua especialidade mágica:
-necromancia, no caso.
+O homem &mdash; alto, usando um manto vermelho, tem a cabeça raspada e o rosto
+todo tatuado, mas um símbolo arcano se destaca em sua testa &mdash; se apresenta
+como [Hamun Kost](../casting/npcs/hamun_kost.md) e que está ali
+no [Poço da Velha Coruja](../locations/old_owl_well.md) estudando "assuntos de
+seu interesse". O Professor reconhece sua aparência peculiar como uma
+característica marcante dos [Red Wizards](../organizations/red_wizards.md), um
+grupo de magos malígnos, ambiciosos e poderosos. O símbolo que carregam gravados
+em suas testas indicam sua especialidade mágica &mdash; neste caso, necromancia.
 
 Perguntado sobre os bandidos que estão na região, ele confirma que se escondem
-por perto, mas não o incomodam - diz isso fazendo um leve gesto na direção dos
-zumbis que permanecem parados próximos a ele, alheios a conversa.
+por perto, mas não o evitam &mdash; diz isso fazendo um leve gesto na direção
+dos zumbis, que permanecem imóveis próximos a ele, alheios a toda a conversa.
 
 Ao saber que o grupo está a procura deles, diz que ficaria muito satisfeito em
 se livrar definitivamente do problema, e indica que se escondem na base da
-[Wyvern Tor](../locations/wyvern_tor.md), uma montanha de pedra proeminente logo
-no início das [Montanhas da Espada](../locations/sword_montains.md). Após fornecer mais detalhes sobre como
-localizar o esconderijo, pede apenas que o grupo _não_ acampe próximo de seu
-campo de estudos.
+[Wyvern Tor](../locations/wyvern_tor.md), um enorme penhasco rochoso proeminente
+a nordeste nas [Montanhas da Espada](../locations/sword_montains.md), e que já
+visíveis no horizonte ao sul. Após fornecer mais detalhes sobre como localizar o
+esconderijo dos bandidos, pede apenas que o grupo _não_ acampe próximo de seu
+campo de estudos, "por gentileza."
 
 ---
 
@@ -226,35 +221,40 @@ campo de estudos.
 
 ![Uma ravina profunda acompanha um grande penhasco de pedra. Acima de um desnível é possível ver a entrada levemente iluminada de uma caverna de onde saí uma fumaça.](../images/cenas/06_5_wyvern_tor.jpg)
 
-:construction:
-
 No dia seguinte, após mais algumas horas de caminhada, chegam a base do penhasco
 da [Wyvern Tor](../locations/wyvern_tor.md) e, seguindo as indicações do
-necromante, encontram o esconderijo, no final de uma ravina. A entrada de gruta
-é vigiada por um bugbear, visivelmente entendiado.
+necromante, encontram o esconderijo, no fim de uma ravina profunda. A entrada de
+gruta está sendo vigiada por um bugbear, visivelmente entendiado.
 
-O grupo se aproxima escondido pela vegetação do lado oposto da ravina, e com um
-feitiço o Professo coloca o guarda para dormir. Se aproximam cautelosamente, e
-levam o guarda dormindo para longe do local, para ser acordado e interrogado.
+O grupo se aproxima, escondido pela vegetação do lado oposto da ravina. Com um
+feitiço, o Professor coloca o guarda para dormir, e, se aproximando com extrema
+cautela, levam o guarda dormindo para longe do local, para ser acordado e
+interrogado.
 
-Ele confessa que são um grupo
+Se vendo sem opções, o bugbear diz que são um grupo
 dos [Cragmaw Goblins](../organizations/cragmaw_goblins.md), mas que apenas seu
-líder,
-[Brughor](../casting/npcs/cragmaw/brughor.md), um orc, sabe a localização
-do [Castelo Cragmaw](../locations/cragmaw_castle.md). Deixando o prisioneiro
-amarrado e amordaçado, o grupo volta para a gruta do bando.
+líder, um orc chamado [Brughor](../casting/npcs/cragmaw/brughor.md), sabe a
+localização do [Castelo Cragmaw](../locations/cragmaw_castle.md). Deixando o
+prisioneiro amarrado e amordaçado, o grupo volta para a entrada do esconderijo
+do bando.
 
-Atraindo os bandidos para a entrada de seu esconderijo escuro, enfrentam mais
-alguns bugbears e um ogre. O líder, um orc, que empunha um grande machado fica
-atrás bradando insultos e ordens.
+Atraindo os bandidos para a entrada da caverna, enfrentam mais alguns bugbears e
+um ogre. O líder, que empunha um grande machado, fica atrás, bradando insultos e
+ordens.
 
 Com a providencial ajuda de uma teia conjurada pelo Professor, os inimigos são
 atrasados e acabam derrotados, deixando seu líder sozinho e encurralado, na
-pequena caverna que usavam para se esconder.
+pequena caverna que usavam para se abrigar.
 
-A ver seu bando desmantelado, o orc líder se rende, atirando seu machado ao chão
-e, uma vez ameaçado, revela o local do Castelo Cragmaw, com um desenho no chão
-de terra da caverna. Desconfiados da informação, o grupo pretende levá-lo como
-prisioneiro, mas Brughor não está nada satisfeito com este arranjo.
+Ao ver seu bando desmantelado, o orc líder se rende, atirando seu machado ao
+chão, e tenta negociar por sua vida. Apesar de relutar, a princípio, em revelar
+a localização do [Castelo Cragmaw](../locations/cragmaw_castle.md), uma vez
+ameaçado, desenha no chão de terra da caverna um mapa rústico desenho apontando
+a localização da sede
+dos [Cragmaw Goblins](../organizations/cragmaw_goblins.md).
+
+Desconfiados da informação, o grupo pretende levá-lo como prisioneiro, mas
+[Brughor](../casting/npcs/cragmaw/brughor.md) não está nada satisfeito com este
+arranjo.
 
 ---

@@ -27,8 +27,7 @@
 ### Locais
 
 * [Montanhas da Espada](sword_montains.md)
-  * **Wyvern Tor** é um paredão de pedra proeminente no noroeste da cadeia de
-    montanhas
+  * **Wyvern Tor** é um penhasco rochoso a nordeste da cadeia de montanhas
 
 ### Referências
 

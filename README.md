@@ -24,7 +24,7 @@
   * (2026-04-27) [Sessão 3 Redbrands](sessions/03_redbrands.md)
   * (2026-05-11) [Sessão 4 Glasstaff](sessions/04_glasstaff.md)
   * (2026-05-25) [Sessão 5 Perda](sessions/05_perda.md)
-  * (2026-06-08) [Sessão 6 Wyvern Tor](sessions/06_wyvern_tor.md) :construction:
+  * (2026-06-08) [Sessão 6 Wyvern Tor](sessions/06_wyvern_tor.md)
   * (2026-07-06) [Sessão 7 Busca]
   * (2026-08-04) [Sessão 8 Venomfang] 
   * (2026-08-17) [Sessão 9] próxima...

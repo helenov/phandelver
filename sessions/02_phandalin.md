@@ -395,7 +395,7 @@ limite noroeste da cidade.
 
 Chegando ao local, um pequeno chalé ao lado de um velho pomar de macieiras
 coberto de mato e hera, um velho está encurvado de costas para eles cortando e
-arrancando mato próximo da casa. Quando se aproximam, o homem se vira veem que
+arrancando mato próximo da casa. Quando se aproximam, o homem se vira e veem que
 se trata de um velho elfo negro, um drow, que deve ter mais de 500 anos.
 
 Daran é um aventureiro aposentado que, após uma juventude de aventuras no sul,

@@ -19,11 +19,12 @@ _[_Texto_]_ :construction:
 
 ### Locais
 
-* [Wyvern Tor](wyvern_tor.md), paredão de pedra no noroeste das **Montanhas da
+* [Wyvern Tor](wyvern_tor.md), penhasco rochoso a nordeste das **Montanhas da
   Espada**
 
 ### Referências
 
 * [Sessão 6 Wyvern Tor](../sessions/06_wyvern_tor.md)
-  * [Hamun](../casting/npcs/hamun_kost.md) aponta a [Wyvern Tor](wyvern_tor.md) nas **Montanhas da Espada**
+  * [Hamun](../casting/npcs/hamun_kost.md) aponta a [Wyvern Tor](wyvern_tor.md)
+    nas **Montanhas da Espada**
     ([Cena 4](../sessions/06_wyvern_tor.md#cena-4-necromante))
