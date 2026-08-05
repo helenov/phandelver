@@ -18,8 +18,9 @@ _próxima_ : [Sessão 7 Busca]
 
 ### Elenco
 
-* [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), aliado
-* [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), clériga
+* [Phandalin](../locations/phandalin.md)
+  * [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), aliado
+  * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), clériga
 
 ####
 
@@ -45,7 +46,7 @@ _próxima_ : [Sessão 7 Busca]
 
 ### Cenários
 
-* [Phandalin]
+* [Phandalin](../locations/phandalin.md)
   * [Hospedaria Stonehill]
   * [Santuário da Fortuna]
 * [Estrada Triboar]
