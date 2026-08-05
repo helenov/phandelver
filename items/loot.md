@@ -2,17 +2,25 @@
 
 ## Pagamentos
 
-* [Phandalin](../locations/phandalin.md)
-  * [Venda da Barthen](../locations/phandalin/barthens_provisions.md)
+* [Venda da Barthen](../locations/phandalin/barthens_provisions.md)
+  * [Elmina](../casting/npcs/phandalin/barthens/elmina_barthen.md)
     ([Sessão 2 Cena 6](../sessions/02_phandalin.md#cena-6-venda-da-barthen))
-    * 30 gp: pagamento pela carga &ndash; _com grupo_
+    * 30 gp (pagamento pela carga) &ndash; _com grupo_
+
+####
+
+* [Prefeitura](../locations/phandalin/townmasters_hall.md)
   * [Harbin](../casting/npcs/phandalin/harbin_wester.md)
     ([Sessão 5 Cena 3](../sessions/05_perda.md#cena-3-recompensa))
-    * 100 gp: recompensa pelos [Redbrands](../organizations/redbrands.md)
+    * 100 gp (recompensa pelos [Redbrands](../organizations/redbrands.md))
       &ndash; _com grupo_
+
+####
+
+* [Santuário da Fortuna](../locations/phandalin/shrine_of_luck.md)
   * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
-    ([Sessão 6 Cena X])
-    * 3 poções de healing &ndash; _com grupo_
+    ([Sessão 6 Cena 2](../sessions/06_wyvern_tor.md#cena-2-despedidas))
+    * 3 poções de healing (para ajudar na missão) &ndash; _com grupo_
 
 ## Pilhagens
 
@@ -85,7 +93,8 @@
 ####
 
 * [Wyvern Tor](../locations/wyvern_tor.md)
-  * [Brughor] ([Sessão 6 Cena X])
+  * [Brughor]
+    ([Sessão 6 Cena 5](../sessions/06_wyvern_tor.md#cena-5-wyvern-tor))
     * ~200 moedas
       * 180 sp, 15 ep &ndash; _com grupo_
     * 3 frascos de perfume &ndash; _com grupo_

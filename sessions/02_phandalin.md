@@ -134,9 +134,9 @@ _próxima_ : [Sessão 3 Redbrands](03_redbrands.md)
 
 ### Itens
 
-* [Phandalin](../locations/phandalin.md)
-  * [Venda da Barthen](../locations/phandalin/barthens_provisions.md)
-    * 30 gp: pagamento pela carga
+* [Venda da Barthen](../locations/phandalin/barthens_provisions.md)
+  * [Elmina](../casting/npcs/phandalin/barthens/elmina_barthen.md)
+    * 30 gp (pagamento pela carga)
 
 ####
 

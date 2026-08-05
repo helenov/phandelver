@@ -71,7 +71,6 @@ _próxima_ : [Sessão 6 Wyvern Tor](06_wyvern_tor.md)
 ### Itens
 
 * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-
   * escritório
     * [equipamento de alquimia]
     * [livro de poções]
@@ -90,8 +89,13 @@ _próxima_ : [Sessão 6 Wyvern Tor](06_wyvern_tor.md)
     * [tapa-olho cravejado de pedras]
     * chaves
       do [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-
     * 33 sp
+
+####
+
+* [Prefeitura](../locations/phandalin/townmasters_hall.md)
+  * [Harbin](../casting/npcs/phandalin/harbin_wester.md)
+    * 100 gp (recompensa pelos [Redbrands](../organizations/redbrands.md))
 
 [//]: # (#### Mencionados)
 [//]: # ()

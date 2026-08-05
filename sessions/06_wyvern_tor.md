@@ -45,8 +45,9 @@ _próxima_ : [Sessão 7 Busca]
 
 ### Cenários
 
-* [Hospedaria Stonehill]
-* [Santuário da Fortuna]
+* [Phandalin]
+  * [Hospedaria Stonehill]
+  * [Santuário da Fortuna]
 * [Estrada Triboar]
 * [Conyberry]
 * [Poço da Velha Coruja]
@@ -58,6 +59,17 @@ _próxima_ : [Sessão 7 Busca]
 * [Castelo Cragmaw]
 * [Floresta de Neverwinter]
 * [Castelo Cragmaw]
+
+### Itens
+
+* [Santuário da Fortuna]
+  * [Irmã Garaele]
+    * 3 poções de healing (para ajudar na missão)
+
+[//]: # (#### Mencionados)
+[//]: # ()
+[//]: # (* _[_Local_]_, _[_detalhe_]_)
+[//]: # (  * _[_item_]_)
 
 ---
 
