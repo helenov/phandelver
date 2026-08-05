@@ -27,3 +27,9 @@
   * [Irmã Garaele](phandalin/sister_garaele.md) conta sobre sua missão e
     **Agatha**, a banshee
     ([Cena 4](../../sessions/05_perda.md#cena-4-irmã-garaele))
+
+####
+
+* [Sessão 6 Wyvern Tor](../../sessions/06_wyvern_tor.md)
+  * [Irmã Garaele](phandalin/sister_garaele.md) dá detalhes sobre **Agatha**, a
+    banshee ([Cena 2](../../sessions/06_wyvern_tor.md#cena-2-despedidas))
