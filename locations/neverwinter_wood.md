@@ -23,6 +23,13 @@
   * sede dos [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
   * localização exata desconhecido
 
+####
+
+* [Covil da Agatha](agathas_lair.md)
+  * localização indicada
+    pela [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
+  * próximo a [Conyberry](conyberry.md)
+
 ### Referências
 
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)
@@ -39,3 +46,11 @@
   * [Droop](../casting/npcs/cragmaw/droop.md) diz que
     o [Castelo Cragmaw](cragmaw_castle.md) fica na **Floresta de Neverwinter**
     ([Cena 2](../sessions/05_perda.md#cena-2-perda))
+
+####
+
+* [Sessão 6 Wyvern Tor](../sessions/06_wyvern_tor.md)
+  * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) indica como
+    encontrar o [Covil da Agatha](agathas_lair.md) na **Floresta de
+    Neverwinter**
+    ([Cena 2](../sessions/06_wyvern_tor.md#cena-2-despedidas))

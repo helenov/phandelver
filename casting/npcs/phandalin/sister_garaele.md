@@ -20,8 +20,8 @@ _[_Texto_]_ :construction:
 ### Locais
 
 * [Phandalin](../../../locations/phandalin.md), moradora e clériga
-  * [Santuário da Fortuna](../../../locations/phandalin/luck_shrine.md),
-    clériga responsável
+  * [Santuário da Fortuna](../../../locations/phandalin/luck_shrine.md), clériga
+    responsável
 
 ### Referências
 
@@ -46,7 +46,8 @@ _[_Texto_]_ :construction:
 ####
 
 * [Sessão 6 Wyvern Tor](../../../sessions/06_wyvern_tor.md)
-  * **Irmã Garaele** dá detalhes sobre [Agatha](../agatha.md), a banshee
+  * **Irmã Garaele** dá detalhes sobre sua missão
+    envolvendo [Agatha](../agatha.md), a banshee
     ([Cena 2](../../../sessions/06_wyvern_tor.md#cena-2-despedidas))
   * grupo encontra a trilha para o [Covil da Agatha] mencionada por **Irmã
     Garaele** ([Cena 3](../../../sessions/06_wyvern_tor.md#cena-3-conyberry))
