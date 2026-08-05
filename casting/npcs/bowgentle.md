@@ -1,29 +1,29 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Bowgentle<!--, <small>_[_espécie_]_</small>-->
+## Bowgentle<!--, <small>{espécie}</small>-->
 
 [//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
+[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
 [//]: # (<!-- @formatter:on -->)
-[//]: # (_[_Imagem_]_ :construction:)
-
-Mago lendário.
+[//]: # (:construction: {Imagem})
 
 :construction:
+
+Mago lendário.
 
 [//]: # (<br clear="left"/>)
 
 [//]: # (### Relações)
 [//]: # ()
-[//]: # (* _[_Character_]_, _[_detalhe_]_)
+[//]: # (* {Personagem}, {detalhe})
 
 [//]: # (### Organizações)
 [//]: # ()
-[//]: # (* _[_Organização_]_, _[_detalhe_]_)
+[//]: # (* {Organização}, {detalhe})
 
 [//]: # (### Locais)
 [//]: # ()
-[//]: # (* _[_Local_]_, _[_detalhe_]_)
+[//]: # (* {Local}, {detalhe})
 
 ### Referências
 

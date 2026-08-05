@@ -18,7 +18,7 @@ sol.
 
 [//]: # (### Organizações)
 [//]: # ()
-[//]: # (* _[_Organização_]_, _[_detalhe_]_)
+[//]: # (* {Organização}, {detalhe})
 
 ### Locais
 

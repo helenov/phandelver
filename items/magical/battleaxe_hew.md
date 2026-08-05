@@ -1,11 +1,11 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Machado Hew, <small>uncommon</small>
+## Machado Hew, <small>_uncommon_</small>
 
 [//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
+[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
 [//]: # (<!-- @formatter:on -->)
-_[_Imagem_]_ :construction:
+:construction: {Imagem}
 
 Sob a ferrugem causada pelo desuso, é visível uma bela cabeça de machado de aço,
 trabalhada com atenção e cuidado. Limpando um pouco a ferrugem é possível

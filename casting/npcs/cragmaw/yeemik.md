@@ -6,7 +6,7 @@
 <img alt="Yeemik" src="../../../images/characters/cragmaw/yeemik.png" style="width:200px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
-_[_Texto_]_ :construction:
+:construction: {Texto}
 <br clear="left"/>
 
 ### Relações

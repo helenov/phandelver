@@ -75,8 +75,8 @@ _próxima_ : [Sessão 4 Glasstaff](04_glasstaff.md)
 
 [//]: # (#### Mencionados)
 [//]: # ()
-[//]: # (* _[_Local_]_, _[_detalhe_]_)
-[//]: # (  * _[_item_]_)
+[//]: # (* {Local}, {detalhe})
+[//]: # (  * {item})
 
 ---
 

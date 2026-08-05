@@ -4,7 +4,7 @@
 
 ![03_4_cisterna.png](../../images/cenas/03_4_cisterna.png)
 
-_[_Texto_]_ :construction:
+:construction: {Texto}
 <br clear="left"/>
 
 ### Personagens

@@ -6,7 +6,7 @@
 <img alt="Lionshield Coster" src="../images/organizations/lionshield_coster.png" style="width:200px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
-_[_Texto_]_ :construction:
+:construction: {Texto}
 <br clear="left"/>
 
 ### Membros
@@ -21,7 +21,7 @@ _[_Texto_]_ :construction:
 
 [//]: # (### Relações)
 [//]: # ()
-[//]: # (* _[_Organização_]_, _[_detalhe_]_)
+[//]: # (* {Organização}, {detalhe})
 
 ### Referências
 

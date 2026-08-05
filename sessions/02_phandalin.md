@@ -151,8 +151,8 @@ _próxima_ : [Sessão 3 Redbrands](03_redbrands.md)
 
 [//]: # (#### Mencionados)
 [//]: # ()
-[//]: # (* _[_Local_]_, _[_detalhe_]_)
-[//]: # (  * _[_item_]_)
+[//]: # (* {Local}, {detalhe})
+[//]: # (  * {item})
 
 ---
 
@@ -325,7 +325,7 @@ grupo se os irmãos Rockseeker aparecerem.
 
 ### Cena 7 Hospedaria Stonehill
 
-[//]: # (_[_Imagem_]_ :construction:)
+[//]: # (:construction: {Imagem})
 
 No centro da cidade, ergue-se a
 "[Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)", um prédio
@@ -364,7 +364,7 @@ alguma coisa. "Ele é 'antigo' e sabe de muita coisa".
 
 ### Cena 8 Pip
 
-[//]: # (_[_Imagem_]_ :construction:)
+[//]: # (:construction: {Imagem})
 
 A noite passa tranquila e no dia seguinte, enquanto tomam o café da manhã, e
 pensam sobre o que farão a seguir, um garoto de cerca de 10 anos entra correndo
@@ -383,7 +383,7 @@ vão arrumar confusão pra gente!"
 
 ### Cena 9 Pomar Edermath
 
-[//]: # (_[_Imagem_]_ :construction:)
+[//]: # (:construction: {Imagem})
 
 Após discutir um pouco sobre os próximos passos, o grupo decide procurar o tal
 [Daran Edermath](../casting/npcs/phandalin/daran_edermath.md) que poderia ter
@@ -433,7 +433,7 @@ o ranzinza Daran demonstra pela primeira vez algo parecido com satisfação:
 
 ### Cena 10 Lionshield Coster
 
-[//]: # (_[_Imagem_]_ :construction:)
+[//]: # (:construction: {Imagem})
 
 Voltando do pomar, o grupo, enquanto ruma para a prefeitura onde pretendem
 conversar com o prefeito, nota na praça central um modesto posto comercial onde,
@@ -462,7 +462,7 @@ combinar os detalhes mais tarde.
 
 ### Cena 11 Prefeitura
 
-[//]: # (_[_Imagem_]_ :construction:)
+[//]: # (:construction: {Imagem})
 
 Ao chegarem a porta do prédio
 da [Prefeitura](../locations/phandalin/townmasters_hall.md), que, na verdade, é
@@ -522,7 +522,7 @@ hospedagem e alimentação pagadas pela prefeitura.
 
 ### Cena 12 Ferraria e Carpintaria
 
-[//]: # (_[_Imagem_]_ :construction:)
+[//]: # (:construction: {Imagem})
 
 Saindo da prefeitura, o grupo decide procurar pelo ferreiro da cidade, um certo
 [Joe Smithe](../casting/npcs/phandalin/joe_smithe.md), que sendo novo na
@@ -544,7 +544,7 @@ levada do lugar, sem tempo para quaisquer preparativos.
 
 ### Cena 13 Carp
 
-[//]: # (_[_Imagem_]_ :construction:)
+[//]: # (:construction: {Imagem})
 
 De volta a [hospedaria](../locations/phandalin/stonehill_inn.md), para almoçar e
 discutir o que fazer, veem

@@ -63,8 +63,8 @@ _próxima_ : [Sessão 5 Perda](05_perda.md)
 
 [//]: # (#### Mencionados)
 [//]: # ()
-[//]: # (* _[_Local_]_, _[_detalhe_]_)
-[//]: # (  * _[_item_]_)
+[//]: # (* {Local}, {detalhe})
+[//]: # (  * {item})
 
 ---
 

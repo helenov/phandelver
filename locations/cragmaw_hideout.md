@@ -4,7 +4,7 @@
 
 ![01_2_caverna.png](../images/cenas/01_2_caverna.png)
 
-_[_Texto_]_ :construction:
+:construction: {Texto}
 
 ### Personagens
 

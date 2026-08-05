@@ -67,16 +67,17 @@ _próxima_ : [Sessão 7 Busca]
   * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
     * 3 poções de healing (para ajudar na missão)
 
-[//]: # (#### Mencionados)
-[//]: # ()
-[//]: # (* _[_Local_]_, _[_detalhe_]_)
-[//]: # (  * _[_item_]_)
+#### Mencionados
+
+* [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
+  * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
+    * [Grimório Bowgentle]
 
 ---
 
 ### Cena 1 Jeremias
 
-[//]: # (_[_Imagem_]_ :construction:)
+[//]: # (:construction: {Imagem})
 
 "Sapão?!? É você?"
 
@@ -105,7 +106,7 @@ a [Conyberry](../locations/conyberry.md).
 
 ### Cena 2 Despedidas
 
-[//]: # (_[_Imagem_]_ :construction:)
+[//]: # (:construction: {Imagem})
 
 Pela manhã, encontram [Sildar](../casting/npcs/sildar_hallwinter.md) tomando
 café na [Hospedaria](../locations/phandalin/stonehill_inn.md), que comenta que

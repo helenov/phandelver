@@ -106,7 +106,7 @@
 * partida para [Conyberry](locations/conyberry.md)
   * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 2](sessions/06_wyvern_tor.md#cena-2-despedidas)
 
---- 
+---
 
 ### Dia 11
 
@@ -128,7 +128,7 @@
 
 * invasão ao esconderijo em [Wyvern Tor](locations/wyvern_tor.md)
   * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 5](sessions/06_wyvern_tor.md#cena-5-wyvern-tor)
-  * [Sessão 7]: [Cena 1] 
+  * [Sessão 7]: [Cena 1]
 
 ---
 

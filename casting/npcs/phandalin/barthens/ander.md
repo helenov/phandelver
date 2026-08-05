@@ -17,7 +17,7 @@ na [Venda da Barthen](../../../../locations/phandalin/barthens_provisions.md).
 
 [//]: # (### Organizações)
 [//]: # ()
-[//]: # (* _[_Organização_]_, _[_detalhe_]_)
+[//]: # (* {Organização}, {detalhe})
 
 ### Locais
 

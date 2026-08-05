@@ -3,10 +3,11 @@
 ## Fazenda Alderleaf
 
 [//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
+[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
 [//]: # (<!-- @formatter:on -->)
-_[_Imagem_]_ :construction:
-_[_Texto_]_ :construction:
+:construction: {Imagem}
+
+:construction: {Texto}
 <br clear="left"/>
 
 ### Personagens
@@ -18,7 +19,7 @@ _[_Texto_]_ :construction:
 
 [//]: # (### Organizações)
 [//]: # ()
-[//]: # (* _[_Organização_]_, _[_detalhe_]_)
+[//]: # (* {Organização}, {detalhe})
 
 ### Locais
 

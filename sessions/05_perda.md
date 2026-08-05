@@ -100,8 +100,8 @@ _próxima_ : [Sessão 6 Wyvern Tor](06_wyvern_tor.md)
 
 [//]: # (#### Mencionados)
 [//]: # ()
-[//]: # (* _[_Local_]_, _[_detalhe_]_)
-[//]: # (  * _[_item_]_)
+[//]: # (* {Local}, {detalhe})
+[//]: # (  * {item})
 
 ---
 
@@ -141,7 +141,7 @@ preciosas.
 
 ### Cena 2 Perda
 
-[//]: # (_[_Imagem_]_ :construction:)
+[//]: # (:construction: {Imagem})
 
 Após ver que não há mais nada de interesse nos aposentos do líder
 dos [Redbrands](../organizations/redbrands.md), o grupo resolve dar cabo dos
@@ -207,7 +207,7 @@ cisterna) e o goblin Droop.
 
 ### Cena 3 Recompensa
 
-[//]: # (_[_Imagem_]_ :construction:)
+[//]: # (:construction: {Imagem})
 
 Ralf e Professor levam os bandidos para
 a [Prefeitura](../locations/phandalin/townmasters_hall.md), onde são recebidos
@@ -234,7 +234,7 @@ de [Conyberry](../locations/conyberry.md)"
 
 ### Cena 4 Irmã Garaele
 
-[//]: # (_[_Imagem_]_ :construction:)
+[//]: # (:construction: {Imagem})
 
 Chegando ao [Santuário da Fortuna](../locations/phandalin/luck_shrine.md), são
 recebidos por [Sildar](../casting/npcs/sildar_hallwinter.md), que lamenta a
@@ -284,7 +284,7 @@ missão, já que o covil da banshee fica para o mesmo lado".
 
 ### Cena 5 Frodo
 
-[//]: # (_[_Imagem_]_ :construction:)
+[//]: # (:construction: {Imagem})
 
 Já na [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md), Ralf e
 Professor recebem tanto congratulações pelo feito de livrar a cidade dos

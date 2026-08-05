@@ -21,12 +21,12 @@ civilização.
 
 [//]: # (### Locais)
 [//]: # ()
-[//]: # (* _[_Local_]_)
-[//]: # (  * _[_detalhe_]_)
+[//]: # (* {Local})
+[//]: # (  * {detalhe})
 
 [//]: # (### Relações)
 [//]: # ()
-[//]: # (* _[_Organização_]_, _[_detalhe_]_)
+[//]: # (* {Organização}, {detalhe})
 
 ### Referências
 

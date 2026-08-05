@@ -6,16 +6,16 @@
 <img alt="Harbin Wester" src="../../../images/characters/phandalin/harbin_wester.png" style="width:300px;margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
-_[_Texto_]_ :construction:
+:construction: {Texto}
 <br clear="left"/>
 
 [//]: # (### Relações)
 [//]: # ()
-[//]: # (* _[_Character_]_, _[_detalhe_]_)
+[//]: # (* {Personagem}, {detalhe})
 
 [//]: # (### Organizações)
 [//]: # ()
-[//]: # (* _[_Organização_]_, _[_detalhe_]_)
+[//]: # (* {Organização}, {detalhe})
 
 ### Locais
 

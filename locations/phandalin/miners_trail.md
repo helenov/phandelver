@@ -3,19 +3,20 @@
 ## Trilha dos Mineradores
 
 [//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="[Imagem]" src="[URL]" style="width:200px; margin-right: 15px; float: left" />)
+[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
 [//]: # (<!-- @formatter:on -->)
-[//]: # (_[_Imagem_]_ :construction:)
-[//]: # (_[_Texto_]_ :construction:)
+[//]: # (:construction: {Imagem})
+[//]: # ()
+[//]: # (:construction: {Texto})
 [//]: # (<br clear="left"/>)
 
 [//]: # (### Personagens)
 [//]: # ()
-[//]: # (* _[_Character_]_, _[_detalhe_]_)
+[//]: # (* {Personagem}, {detalhe})
 
 [//]: # (### Organizações)
 [//]: # ()
-[//]: # (* _[_Organização_]_, _[_detalhe_]_)
+[//]: # (* {Organização}, {detalhe})
 
 ### Locais
 
@@ -25,6 +26,6 @@
 
 [//]: # (### Referências)
 [//]: # ()
-[//]: # (* _[_Sessão_]_)
-[//]: # (  * _[_Cena_]_)
-[//]: # (    * _[_detalhe_]_)
+[//]: # (* [Sessão {X} {Título}])
+[//]: # (  * [Cena {X}])
+[//]: # (    * {detalhe})
