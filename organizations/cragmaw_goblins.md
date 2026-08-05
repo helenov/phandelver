@@ -91,5 +91,6 @@ _[_Texto_]_ :construction:
 ####
 
 * [Sessão 6 Wyvern Tor](../sessions/06_wyvern_tor.md)
-  * grupo desmantela o grupo de **Cragmaw Goblins** em [Wyvern Tor] 
+  * grupo desmantela o grupo de **Cragmaw Goblins**
+    em [Wyvern Tor](../locations/wyvern_tor.md)
     ([Cena 5](../sessions/06_wyvern_tor.md#cena-5-wyvern-tor))

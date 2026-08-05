@@ -69,7 +69,7 @@
 
 ####
 
-* [Poço da Velha Coruja]
+* [Poço da Velha Coruja](../locations/old_owl_well.md)
   * [Hamun Kost](npcs/hamun_kost.md), necromante [Red Wizard]
 
 ####

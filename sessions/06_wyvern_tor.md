@@ -29,7 +29,7 @@ _próxima_ : [Sessão 7 Busca]
 
 ####
 
-* [Poço da Velha Coruja]
+* [Poço da Velha Coruja](../locations/old_owl_well.md)
   * [Hamun Kost](../casting/npcs/hamun_kost.md), necromante [Red Wizard]
   * zumbis
 
@@ -51,7 +51,7 @@ _próxima_ : [Sessão 7 Busca]
   * [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
 * [Estrada Triboar](../locations/triboar_trail.md)
   * [Conyberry](../locations/conyberry.md)
-* [Poço da Velha Coruja]
+* [Poço da Velha Coruja](../locations/old_owl_well.md)
 * [Wyvern Tor](../locations/wyvern_tor.md)
 
 #### Mencionados
@@ -196,9 +196,9 @@ simples gesto de mão, os zumbis param o ataque e recuam.
 O homem - alto, usando um manto vermelho, tem a cabeça raspada, com um símbolo
 arcano tatuado na testa - se apresenta
 como [Hamun Kost](../casting/npcs/hamun_kost.md) e que aquelo lugar é conhecido
-como [Poço da Velha Coruja]. O Professor reconhece o símbolo com uma
-característica dos [Red Wizards], um grupo de magos malígnos, ambiciosos e
-poderosos. O símbolo na sua testa indica sua especialidade mágica:
+como [Poço da Velha Coruja](../locations/old_owl_well.md). O Professor reconhece
+o símbolo com uma característica dos [Red Wizards], um grupo de magos malígnos,
+ambiciosos e poderosos. O símbolo na sua testa indica sua especialidade mágica:
 necromancia, no caso.
 
 Perguntado sobre os bandidos que estão na região, ele confirma que se escondem

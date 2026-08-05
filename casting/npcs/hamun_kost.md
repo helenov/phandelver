@@ -20,7 +20,7 @@ _[_Texto_]_ :construction:
 
 ### Locais
 
-* [Poço da Velha Coruja], explorador
+* [Poço da Velha Coruja](../../locations/old_owl_well.md), explorador
 
 ### Referências
 

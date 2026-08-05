@@ -47,8 +47,8 @@
   * Jeremias menciona viajantes atacados na [Estrada Triboar](triboar_trail.md)
     próximo a **Conyberry**
     ([Cena 1](../sessions/06_wyvern_tor.md#cena-1-jeremias))
-  * [Sildar] reforça pedido para investigarem os assaltos próximos a
-    **Conyberry**
+  * [Sildar](../casting/npcs/sildar_hallwinter.md) reforça pedido para
+    investigarem os assaltos próximos a **Conyberry**
     ([Cena 2](../sessions/06_wyvern_tor.md#cena-2-despedidas))
   * grupo viaja 3 dias pela [Estrada Triboar](triboar_trail.md) até
     **Conyberry**
