@@ -30,7 +30,7 @@ _[_Texto_]_ :construction:
 
 ####
 
-* [Wyvern Tor]
+* [Wyvern Tor](../locations/wyvern_tor.md)
   * [Brughor](../casting/npcs/cragmaw/brughor.md), chefe local
 
 ### Locais
@@ -39,6 +39,12 @@ _[_Texto_]_ :construction:
   * base do grupo responsável por ataques
     na [Estrada Triboar](../locations/triboar_trail.md) a oeste
     de [Phandalin](../locations/phandalin.md)
+* [Wyvern Tor](../sessions/06_wyvern_tor.md)
+  * base do grupo responsável por ataques
+    na [Estrada Triboar](../locations/triboar_trail.md) a leste
+    de [Phandalin](../locations/phandalin.md), próximo
+    a [Conyberry](../locations/conyberry.md)
+
 * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
   * grupo de reforço para os [Redbrands](redbrands.md)
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)

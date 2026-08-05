@@ -74,7 +74,7 @@
 
 ####
 
-* [Wyvern Tor]
+* [Wyvern Tor](../locations/wyvern_tor.md)
   * [Brughor](npcs/cragmaw/brughor.md), líder local
 
 #### Mencionados

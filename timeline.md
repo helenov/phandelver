@@ -126,7 +126,7 @@
 
 #### início da tarde
 
-* invasão ao esconderijo em [Wyvern Tor]
+* invasão ao esconderijo em [Wyvern Tor](locations/wyvern_tor.md)
   * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 5](sessions/06_wyvern_tor.md#cena-5-wyvern-tor)
   * [Sessão 7]: [Cena 1] 
 

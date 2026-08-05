@@ -35,3 +35,12 @@
   * [Droop](../casting/npcs/cragmaw/droop.md) diz que ele e os bugbear
     são [Cragmaw Goblins](../organizations/cragmaw_goblins.md) vindos de
     **Wyvern Tor** ([Cena 2](../sessions/05_perda.md#cena-2-perda))
+
+####
+
+* [Sessão 6 Wyvern Tor](../sessions/06_wyvern_tor.md)
+  * [Hamun](../casting/npcs/hamun_kost.md) orienta como localizar
+    os [Cragmaw Goblins] em **Wyvern Tor**
+    ([Cena 4](../sessions/06_wyvern_tor.md#cena-4-necromante))
+  * grupo desmantela o grupo de [Cragmaw Goblins] em **Wyvern Tor**
+    ([Cena 5](../sessions/06_wyvern_tor.md#cena-5-wyvern-tor))

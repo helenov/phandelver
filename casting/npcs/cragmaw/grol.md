@@ -18,7 +18,7 @@
 
 ####
 
-* [Brughor](brughor.md), chefe em [Wyvern Tor]
+* [Brughor](brughor.md), chefe em [Wyvern Tor](../../../locations/wyvern_tor.md)
 
 ####
 

@@ -34,7 +34,7 @@ _próxima_ : [Sessão 7 Busca]
 
 ####
 
-* [Wyvern Tor]
+* [Wyvern Tor](../locations/wyvern_tor.md)
   * [Brughor](../casting/npcs/cragmaw/brughor.md), líder local
   * bugbears
 
@@ -51,7 +51,7 @@ _próxima_ : [Sessão 7 Busca]
 * [Estrada Triboar]
 * [Conyberry]
 * [Poço da Velha Coruja]
-* [Wyvern Tor]
+* [Wyvern Tor](../locations/wyvern_tor.md)
 
 #### Mencionados
 
@@ -200,10 +200,10 @@ zumbis que permanecem parados próximos a ele, alheios a conversa.
 
 Ao saber que o grupo está a procura deles, diz que ficaria muito satisfeito em
 se livrar definitivamente do problema, e indica que se escondem na base da
-[Wyvern Tor], uma montanha de pedra proeminente logo no início
-das [Montanhas da Espada]. Após fornecer mais detalhes sobre como localizar o
-esconderijo, pede apenas que o grupo _não_ acampe próximo de seu campo de
-estudos.
+[Wyvern Tor](../locations/wyvern_tor.md), uma montanha de pedra proeminente logo
+no início das [Montanhas da Espada]. Após fornecer mais detalhes sobre como
+localizar o esconderijo, pede apenas que o grupo _não_ acampe próximo de seu
+campo de estudos.
 
 ---
 
@@ -214,9 +214,9 @@ estudos.
 :construction:
 
 No dia seguinte, após mais algumas horas de caminhada, chegam a base do penhasco
-da [Wyvern Tor] e, seguindo as indicações do necromante, encontram o
-esconderijo, no final de uma ravina. A entrada de gruta é vigiada por um
-bugbear, visivelmente entendiado.
+da [Wyvern Tor](../locations/wyvern_tor.md) e, seguindo as indicações do
+necromante, encontram o esconderijo, no final de uma ravina. A entrada de gruta
+é vigiada por um bugbear, visivelmente entendiado.
 
 O grupo se aproxima escondido pela vegetação do lado oposto da ravina, e com um
 feitiço o Professo coloca o guarda para dormir. Se aproximam cautelosamente, e
