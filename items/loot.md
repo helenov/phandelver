@@ -107,7 +107,7 @@
     * 4 [cálices de prata] com moonstones &ndash; _com grupo_
     * scroll misty step &ndash; _com grupo_
     * scroll lighting bolt &ndash; _com grupo_
-    * ["Hew" battleaxe]  &ndash; _com grupo_
+    * [Machado Hew](magical/battleaxe_hew.md) &ndash; _com grupo_
 
 ## Resumo
 
@@ -136,7 +136,7 @@
 
 ####
 
-* [Hew], battleaxe
+* [Machado Hew](magical/battleaxe_hew.md), battleaxe mágico
 
 ####
 
