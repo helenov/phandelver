@@ -35,3 +35,9 @@ _[_Texto_]_ :construction:
   * grupo recebe oferta de trabalho
     de [Gundren](../casting/npcs/gundren_rockseeker.md)
     ([Cena 1](../sessions/00_prologo.md#cena-1-trabalho))
+
+####
+
+* [Sessão 6 Wyvern Tor](../sessions/06_wyvern_tor.md)
+  * Jeremias diz que soube em **Neverwinter** que Sapão estava em **Phandalin**
+    ([Cena 1](../sessions/06_wyvern_tor.md#cena-1-jeremias))

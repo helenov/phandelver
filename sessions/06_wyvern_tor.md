@@ -57,7 +57,7 @@ _próxima_ : [Sessão 7 Busca]
 
 #### Mencionados
 
-* [Neverwinter]
+* [Neverwinter](../locations/neverwinter.md)
 * [Castelo Cragmaw]
 * [Covil da Agatha]
 * [Floresta de Neverwinter]
@@ -90,8 +90,9 @@ Vocês conhecem meu primo?", continuou o elfo alto de cabelos longos que entrava
 no salão.
 
 "Eu sou Jeremias 'Colina' Raizforte e este é meu fiel companheiro, Frodo. Sou
-primo de Silas 'Sapão' Raizforte. Soube em [Neverwinter] que ele estaria nesta
-região. Vocês são amigos dele?"
+primo de Silas 'Sapão' Raizforte. Soube
+em [Neverwinter](../locations/neverwinter.md) que ele estaria nesta região.
+Vocês são amigos dele?"
 
 O grupo conta o que acabou de acontecer com o amigo, ao que o recém-chegado fica
 profundamente consternado. Ao relatarem mais detalhes dos últimos acontecimentos
