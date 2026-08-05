@@ -19,9 +19,11 @@
 * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
   * [Klarg](../casting/npcs/cragmaw/klarg.md)
     ([Sessão 2 Cena 1](../sessions/02_phandalin.md#cena-1-decisões))
-    * ~2000 moedas 
-      * ~50 moedas &ndash; _deixadas com [Yeemik](../casting/npcs/cragmaw/yeemik.md)_
-      * 1652 cp, 146 sp &ndash; _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
+    * ~2000 moedas
+      * ~50 moedas &ndash; _deixadas
+        com [Yeemik](../casting/npcs/cragmaw/yeemik.md)_
+      * 1652 cp, 146 sp &ndash;
+        _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
     * 2 poções de healing &ndash; _consumidas_
     * [sapinho de jade] &ndash; _com Ralf_
 
@@ -30,9 +32,10 @@
 * [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
   * [Redbrands](../organizations/redbrands.md)
     ([Sessão 3 Cena 1](../sessions/03_redbrands.md#cena-1-gigante-adormecido))
-    * 3 shortshorts &ndash; _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
-    * 3 capas vermelhas
-      &ndash; _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
+    * 3 shortshorts &ndash;
+      _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
+    * 3 capas vermelhas &ndash;
+      _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
 
 ####
 
@@ -40,7 +43,8 @@
   * cisterna ([Sessão 3 Cena 4](../sessions/03_redbrands.md#cena-4-cisterna))
     * 3 capas vermelhas &ndash; _com grupo_
   * celas ([Sessão 4 Cena 1](../sessions/04_glasstaff.md#cena-1-prisioneiros))
-    * 4 shortswords &ndash; _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
+    * 4 shortswords &ndash;
+      _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
     * 4 capas vermelhas
       * 3 com
         família [Dendrar](../casting/npcs/phandalin/dendrar/mirna_dendrar.md)
@@ -59,16 +63,18 @@
     * [livro "As Aventuras de Urmon"] &ndash; _com Professor_
     * [carta do [Spider](../casting/npcs/spider.md)] &ndash; _com grupo_
     * ~300 moedas
-      * 130 gp, 180 sp &ndash; _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
-    * bolsa de seda com pedras preciosas
-      &ndash; _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
+      * 130 gp, 180 sp &ndash;
+        _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
+    * bolsa de seda com pedras preciosas &ndash;
+      _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
       * 5 carnelians
       * 2 peridots
       * 1 pearl
   * carteado ([Sessão 5 Cena 2](../sessions/05_perda.md#cena-2-perda))
-    * 4 shortswords &ndash; _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
-    * 4 capas vermelhas
-      &ndash; _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
+    * 4 shortswords &ndash;
+      _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
+    * 4 capas vermelhas &ndash;
+      _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
   * bugbears ([Sessão 5 Cena 2](../sessions/05_perda.md#cena-2-perda))
     * [tapa-olho cravejado de pedras] &ndash; _com Ralf_
     * chaves
@@ -89,24 +95,48 @@
 ####
 
 * [Floresta de Neverwinter](../locations/neverwinter_wood.md)
-  * owlbear ([Sessão 7 Cena X])
+  * owlbear ([Sessão 7 Cena 3])
     * [ovo] &ndash; _com Ralf_
+
+####
+
+* [Thundertree]
+  * dragão ([Sessão 8 Cena 4])
+    * ~1000 moedas
+      * 800 sp, 150 gp &ndash; _com grupo_
+    * 4 [cálices de prata] com moonstones &ndash; _com grupo_
+    * scroll misty step &ndash; _com grupo_
+    * scroll lighting bolt &ndash; _com grupo_
+    * ["Hew" battleaxe]  &ndash; _com grupo_
 
 ## Resumo
 
 ### Com Grupo
 
-* 130 gp, 15 ep, 213 sp
+* 280 gp, 15 ep, 1013 sp
 
 ####
 
 * 3 poções de healing
+* scroll misty step
+* scroll lighting bolt
+
+####
+
 * 3 capas vermelhas
 * [carta do [Spider](../casting/npcs/spider.md)]
 * chaves do [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+
+####
+
 * 3 frascos de perfume
+* 4 [cálices de prata] com moonstones
 * hide armor
 * greataxe
+
+####
+
+* [Hew], battleaxe
 
 ####
 
