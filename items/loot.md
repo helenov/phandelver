@@ -61,7 +61,7 @@
     * [equipamento de alquimia] &ndash; _com Professor_
     * [livro de poções] &ndash; _com Professor_
     * [livro "As Aventuras de Urmon"] &ndash; _com Professor_
-    * [carta do [Spider](../casting/npcs/spider.md)] &ndash; _com grupo_
+    * [carta do Spider](objects/spider_letter.md) &ndash; _com grupo_
     * ~300 moedas
       * 130 gp, 180 sp &ndash;
         _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
@@ -124,7 +124,7 @@
 ####
 
 * 3 capas vermelhas
-* [carta do [Spider](../casting/npcs/spider.md)]
+* [carta do Spider](objects/spider_letter.md)
 * chaves do [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
 
 ####
