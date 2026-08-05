@@ -48,6 +48,24 @@ _próxima_ : [Sessão 5 Perda](05_perda.md)
 * [Mata Tresendar](../locations/phandalin/tresendar_wood.md)
 * [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md)
 
+### Itens
+
+* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+  * celas
+    * 4 shortswords
+    * 4 capas vermelhas
+  * arsenal
+    * 12 spears &ndash; _deixadas_
+    * 6 shortswords &ndash; _deixadas_
+    * 4 longswords &ndash; _deixadas_
+    * 6 light crossbows
+    * 8 quivers, 20 bolts cada &ndash; _deixadas_
+
+[//]: # (#### Mencionados)
+[//]: # ()
+[//]: # (* _[_Local_]_, _[_detalhe_]_)
+[//]: # (  * _[_item_]_)
+
 ---
 
 ### Cena 1 Prisioneiros
