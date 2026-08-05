@@ -60,6 +60,24 @@ _próxima_ : [Sessão 4 Glasstaff](04_glasstaff.md)
 
 * [Mansão Tresendar](../locations/phandalin/tresendar_manor.md)
 
+### Itens
+
+* [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
+  * [Redbrands](../organizations/redbrands.md)
+    * 3 shortshorts
+    * 3 capas vermelhas
+
+####
+
+* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+  * cisterna
+    * 3 capas vermelhas
+
+[//]: # (#### Mencionados)
+[//]: # ()
+[//]: # (* _[_Local_]_, _[_detalhe_]_)
+[//]: # (  * _[_item_]_)
+
 ---
 
 ### Cena 1 Gigante Adormecido
