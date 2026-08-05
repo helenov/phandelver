@@ -132,6 +132,28 @@ _próxima_ : [Sessão 3 Redbrands](03_redbrands.md)
 * [Estrada Triboar](../locations/triboar_trail.md)
   * [Conyberry](../locations/conyberry.md)
 
+### Itens
+
+* [Phandalin](../locations/phandalin.md)
+  * [Venda da Barthen](../locations/phandalin/barthens_provisions.md)
+    * 30 gp: pagamento pela carga
+
+####
+
+* [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
+  * [Klarg](../casting/npcs/cragmaw/klarg.md)
+    * ~2000 moedas
+      * ~50 moedas &ndash; _deixadas
+        com [Yeemik](../casting/npcs/cragmaw/yeemik.md)_
+      * 1652 cp, 146 sp
+    * 2 poções de healing &ndash; _consumidas_
+    * [sapinho de jade]
+
+[//]: # (#### Mencionados)
+[//]: # ()
+[//]: # (* _[_Local_]_, _[_detalhe_]_)
+[//]: # (  * _[_item_]_)
+
 ---
 
 ### Cena 1 Decisões
