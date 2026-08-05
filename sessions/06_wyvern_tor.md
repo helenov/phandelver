@@ -59,8 +59,8 @@ _próxima_ : [Sessão 7 Busca]
 
 * [Neverwinter](../locations/neverwinter.md)
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
-* [Covil da Agatha](../locations/agathas_lair.md)
-* [Floresta de Neverwinter]
+* [Floresta de Neverwinter](../locations/neverwinter_wood.md)
+  * [Covil da Agatha](../locations/agathas_lair.md)
 
 ### Itens
 
@@ -147,7 +147,8 @@ mas que pode evitá-los.
 Após alguns preparativos, no ínicio da tarde, o grupo parte para o leste, rumo
 a [Conyberry](../locations/conyberry.md), descrita como as ruínas de um antigo
 posto de parada abandonado, e como as instruções de como encontrar o covil da
-banshee, por uma trilha a norte, já na [Floresta de Neverwinter].
+banshee, por uma trilha a norte, já
+na [Floresta de Neverwinter](../locations/neverwinter_wood.md).
 
 ---
 
@@ -163,7 +164,8 @@ uma vila que um dia foi pouco mais que posto de parada para viajantes: hoje é
 apenas um poço no meio do que já foi uma praça, cercada por ruínas de umas
 poucas construções.
 
-Uma trilha ao norte segue entrando na [Floresta de Neverwinter] e, que, segundo
+Uma trilha ao norte segue entrando
+na [Floresta de Neverwinter](../locations/neverwinter_wood.md) e, que, segundo
 as orientações da [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md),
 leva ao [Covil da Agatha](../locations/agathas_lair.md).
 
