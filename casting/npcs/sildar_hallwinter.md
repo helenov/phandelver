@@ -110,3 +110,9 @@ do que julga seu amigo otimista.
   * **Sildar** sugere que no caminho
     ajudem [Irmã Garaele](phandalin/sister_garaele.md) com sua missão
     ([Cena 4](../../sessions/05_perda.md#cena-4-irmã-garaele))
+
+####
+
+* [Sessao 6 Wyvern Tor](../../sessions/06_wyvern_tor.md)
+  * **Sildar** reforça pedido para investigarem próximo a [Conyberry]
+    ([Cena 1](../../sessions/06_wyvern_tor.md#cena-1-jeremias))
