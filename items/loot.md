@@ -93,7 +93,7 @@
 ####
 
 * [Wyvern Tor](../locations/wyvern_tor.md)
-  * [Brughor]
+  * [Brughor](../casting/npcs/cragmaw/brughor.md)
     ([Sessão 6 Cena 5](../sessions/06_wyvern_tor.md#cena-5-wyvern-tor))
     * ~200 moedas
       * 180 sp, 15 ep &ndash; _com grupo_

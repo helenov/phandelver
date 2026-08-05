@@ -16,6 +16,10 @@
 * [Droop](../casting/npcs/cragmaw/droop.md), goblin enviado
   ao [Esconderijo Redbrand](phandalin/redbrand_hideout.md)
 
+####
+
+* [Brughor](../casting/npcs/cragmaw/brughor.md), chefe local
+
 ### Organizações
 
 * [Cragmaw Goblins](../organizations/cragmaw_goblins.md), base

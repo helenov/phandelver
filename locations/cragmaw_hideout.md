@@ -9,7 +9,7 @@ _[_Texto_]_ :construction:
 ### Personagens
 
 * [Klarg](../casting/npcs/cragmaw/klarg.md) (RIP), antigo chefe local
-* [Yeemik](../casting/npcs/cragmaw/yeemik.md), novo líder local
+* [Yeemik](../casting/npcs/cragmaw/yeemik.md), novo chefe local
 * goblins
 * lobos
 

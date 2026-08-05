@@ -35,7 +35,7 @@ _próxima_ : [Sessão 7 Busca]
 ####
 
 * [Wyvern Tor]
-  * [Brughor], líder local
+  * [Brughor](../casting/npcs/cragmaw/brughor.md), líder local
   * bugbears
 
 #### Mencionados
@@ -223,8 +223,9 @@ feitiço o Professo coloca o guarda para dormir. Se aproximam cautelosamente, e
 levam o guarda dormindo para longe do local, para ser acordado e interrogado.
 
 Ele confessa que são um grupo dos [Cragmaw Goblins], mas que apenas seu líder,
-[Brughor] sabe a localização do [Castelo Cragmaw]. Deixando o prisioneiro
-amarrado e amordaçado, o grupo volta para a gruta do bando.
+[Brughor](../casting/npcs/cragmaw/brughor.md), um orc, sabe a localização
+do [Castelo Cragmaw]. Deixando o prisioneiro amarrado e amordaçado, o grupo
+volta para a gruta do bando.
 
 Atraindo os bandidos para a entrada de seu esconderijo escuro, enfrentam mais
 alguns bugbears e um ogre. O líder, um orc, que empunha um grande machado fica

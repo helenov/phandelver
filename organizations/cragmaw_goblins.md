@@ -17,8 +17,8 @@ _[_Texto_]_ :construction:
 ####
 
 * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
-  * [Klarg](../casting/npcs/cragmaw/klarg.md) (RIP), antigo chefe
-  * [Yeemik](../casting/npcs/cragmaw/yeemik.md), novo chefe
+  * [Klarg](../casting/npcs/cragmaw/klarg.md) (RIP), antigo chefe local
+  * [Yeemik](../casting/npcs/cragmaw/yeemik.md), novo chefe local
 
 ####
 
@@ -27,6 +27,11 @@ _[_Texto_]_ :construction:
     de [Wyvern Tor](../locations/wyvern_tor.md)
   * [Droop](../casting/npcs/cragmaw/droop.md), goblin enviado
     de [Wyvern Tor](../locations/wyvern_tor.md)
+
+####
+
+* [Wyvern Tor]
+  * [Brughor](../casting/npcs/cragmaw/brughor.md), chefe local
 
 ### Locais
 

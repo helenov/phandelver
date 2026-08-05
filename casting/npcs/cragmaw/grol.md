@@ -15,6 +15,13 @@
   no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
 * [Yeemik](yeemik.md), novo chefe
   no [Esconderijo Cragmaw](../../../locations/cragmaw_hideout.md)
+
+####
+
+* [Brughor](brughor.md), chefe em [Wyvern Tor]
+
+####
+
 * [Spider](../spider.md), aliado
 
 ### Organizações
