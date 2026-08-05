@@ -58,7 +58,7 @@ _próxima_ : [Sessão 7 Busca]
 #### Mencionados
 
 * [Neverwinter](../locations/neverwinter.md)
-* [Castelo Cragmaw]
+* [Castelo Cragmaw](../locations/cragmaw_castle.md)
 * [Covil da Agatha]
 * [Floresta de Neverwinter]
 
@@ -115,8 +115,8 @@ _[_Imagem_]_ :construction:
 Pela manhã, encontram [Sildar](../casting/npcs/sildar_hallwinter.md) tomando
 café na [Hospedaria](../locations/phandalin/stonehill_inn.md), que comenta que
 andou perguntando por toda a cidade, e não obteve nenhuma pista da localização
-do [Castelo Cragmaw] e reforça a recomendação de que o grupo vá investigar os
-bandoleiros que seguem atacando
+do [Castelo Cragmaw](../locations/cragmaw_castle.md) e reforça a recomendação de
+que o grupo vá investigar os bandoleiros que seguem atacando
 na [Estrada Triboar](../locations/triboar_trail.md), a leste, próximo
 a [Conyberry](../locations/conyberry.md). [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
 veio de lá e pode ter visto alguma coisa.
@@ -237,8 +237,8 @@ Ele confessa que são um grupo
 dos [Cragmaw Goblins](../organizations/cragmaw_goblins.md), mas que apenas seu
 líder,
 [Brughor](../casting/npcs/cragmaw/brughor.md), um orc, sabe a localização
-do [Castelo Cragmaw]. Deixando o prisioneiro amarrado e amordaçado, o grupo
-volta para a gruta do bando.
+do [Castelo Cragmaw](../locations/cragmaw_castle.md). Deixando o prisioneiro
+amarrado e amordaçado, o grupo volta para a gruta do bando.
 
 Atraindo os bandidos para a entrada de seu esconderijo escuro, enfrentam mais
 alguns bugbears e um ogre. O líder, um orc, que empunha um grande machado fica

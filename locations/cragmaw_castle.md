@@ -56,3 +56,13 @@
   * [Sildar](../casting/npcs/sildar_hallwinter.md) reforça a importância de
     encontrar o **Castelo Cragmaw**
     ([Cena 4](../sessions/05_perda.md#cena-4-irmã-garaele))
+
+####
+
+* [Sessão 6 Wyvern Tor](../sessions/06_wyvern_tor.md)
+  * [Sildar](../casting/npcs/sildar_hallwinter.md) sugere investigarem com os
+    bandidos próximo a [Conyberry](../locations/conyberry.md)
+    ([Cena 2](../sessions/06_wyvern_tor.md#cena-2-despedidas))
+  * [Brughor](../casting/npcs/cragmaw/brughor.md) faz um mapa indicando a
+    localização do **Castelo Cragmaw**
+    ([Cena 5](../sessions/06_wyvern_tor.md#cena-5-wyvern-tor))
