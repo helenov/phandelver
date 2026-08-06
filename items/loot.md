@@ -94,7 +94,7 @@
 
 * [Wyvern Tor](../locations/wyvern_tor.md)
   * [Brughor](../casting/npcs/cragmaw/brughor.md)
-    ([Sessão 6 Cena 5](../sessions/06_wyvern_tor.md#cena-5-wyvern-tor))
+    ([Sessão 7 Cena 1](../sessions/07_floresta.md#cena-1-brughor))
     * ~200 moedas
       * 180 sp, 15 ep &ndash; _com grupo_
     * 3 frascos de perfume &ndash; _com grupo_
