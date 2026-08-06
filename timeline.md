@@ -128,9 +128,53 @@
 
 * invasão ao esconderijo em [Wyvern Tor](locations/wyvern_tor.md)
   * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 5](sessions/06_wyvern_tor.md#cena-5-wyvern-tor)
-  * [Sessão 7]: [Cena 1]
+  * [Sessão 7](sessions/07_floresta.md): [Cena 1](sessions/07_floresta.md#cena-1-brughor)
 
 ---
+
+### Dia 13
+
+#### tarde
+
+* negociação com [Agatha](casting/npcs/agatha.md)
+  * [Sessão 7](sessions/07_floresta.md): [Cena 2](sessions/07_floresta.md#cena-2-agatha)
+
+---
+
+### Dia 16
+
+#### fim da tarde
+
+* encontro com owlbear
+  * [Sessão 7](sessions/07_floresta.md): [Cena 3](sessions/07_floresta.md#cena-3-owlbear)
+
+---
+
+### Dia 18
+
+#### tarde
+
+* chegam ao [Rio Neverwinter]
+  * [Sessão 7](sessions/07_floresta.md): [Cena 4](sessions/07_floresta.md#cena-4-buscas)
+
+---
+
+### Dia 22
+
+#### tarde
+
+* avistamento de [Thundertree]
+  * [Sessão 7](sessions/07_floresta.md): [Cena 4](sessions/07_floresta.md#cena-4-buscas)
+
+---
+
+### Dia 23
+
+#### manhã
+
+* chegada a [Thundertree]
+* encontro com [Glasstaff](casting/npcs/redbrands/glasstaff.md)
+  * [Sessão 7](sessions/07_floresta.md): [Cena 5](sessions/07_floresta.md#cena-5-arrependido)
 
 :construction: continua...
 
