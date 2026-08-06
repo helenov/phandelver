@@ -51,15 +51,25 @@ _próxima_ : [Sessão 8 Venomfang]
 
 ### Itens
 
-* {Local}
-  * {detalhe}
-    * {item}
+* [Wyvern Tor]
+  * [Brughor]
+    * ~200 moedas
+      * 180 sp, 15 ep
+    * 3 frascos de perfume
+    * hide armor
+    * greataxe
+
+####
+
+* [Floresta de Neverwinter]
+  * owlbear
+    * [ovo] &ndash; _com Ralf_
 
 #### Mencionados
 
-* {Local}
-  * {detalhe}
-    * {item}
+* [Covil da Agatha]
+  * [Agatha]
+    * [Grimório Bowgentle]
 
 ---
 
@@ -76,6 +86,12 @@ _próxima_ : [Sessão 8 Venomfang]
     - grupo deixa ele ir
       - ameaçando voltar se não encontrarem o local
       - Brughor dá de ombro
+
+    - baú de tesouro destrancado  
+      - 180 sp, 15 ep
+      - 3 frascos de perfume
+    - levam também
+      - greataxe e hide armor de Brughor
   
     - partem, chegando a torre do necromancer ao final do dia
   
