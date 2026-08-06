@@ -320,7 +320,7 @@ grupo se os irmãos Rockseeker aparecerem.
 
 ### Cena 7 Hospedaria Stonehill
 
-[//]: # (:construction: {Imagem})
+![02_7_hospedaria_stonehill.png](../images/cenas/02_7_hospedaria_stonehill.png)
 
 No centro da cidade, ergue-se a
 "[Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)", um prédio
