@@ -75,7 +75,7 @@ _próxima_ : [Sessão 8 Venomfang]
 
 ### Cena 1 Brughor
 
-:construction: {Imagem}
+![07_1_brughor.png](../images/cenas/07_1_brughor.png)
 
 :construction:
 
