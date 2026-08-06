@@ -73,11 +73,6 @@ _próxima_ : [Sessão 4 Glasstaff](04_glasstaff.md)
   * cisterna
     * 3 capas vermelhas
 
-[//]: # (#### Mencionados)
-[//]: # ()
-[//]: # (* {Local}, {detalhe})
-[//]: # (  * {item})
-
 ---
 
 ### Cena 1 Gigante Adormecido

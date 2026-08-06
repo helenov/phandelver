@@ -149,11 +149,6 @@ _próxima_ : [Sessão 3 Redbrands](03_redbrands.md)
     * 2 poções de healing &ndash; _consumidas_
     * [sapinho de jade]
 
-[//]: # (#### Mencionados)
-[//]: # ()
-[//]: # (* {Local}, {detalhe})
-[//]: # (  * {item})
-
 ---
 
 ### Cena 1 Decisões

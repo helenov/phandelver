@@ -22,6 +22,12 @@
     ([Sessão 6 Cena 2](../sessions/06_wyvern_tor.md#cena-2-despedidas))
     * 3 poções de healing (para ajudar na missão) &ndash; _com grupo_
 
+[//]: # (####)
+[//]: # ()
+[//]: # (* {Local})
+[//]: # (  * {detalhe})
+[//]: # (    * {item} &ndash; _{destinação}_)
+
 ## Pilhagens
 
 * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
@@ -117,6 +123,12 @@
     * scroll misty step &ndash; _com grupo_
     * scroll lighting bolt &ndash; _com grupo_
     * [Machado Hew](magical/battleaxe_hew.md) &ndash; _com grupo_
+
+[//]: # (####)
+[//]: # ()
+[//]: # (* {Local})
+[//]: # (  * {detalhe})
+[//]: # (    * {item} &ndash; _{destinação}_)
 
 ## Resumo
 

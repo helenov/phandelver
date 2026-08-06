@@ -98,11 +98,6 @@ _próxima_ : [Sessão 6 Wyvern Tor](06_wyvern_tor.md)
   * [Harbin](../casting/npcs/phandalin/harbin_wester.md)
     * 100 gp (recompensa pelos [Redbrands](../organizations/redbrands.md))
 
-[//]: # (#### Mencionados)
-[//]: # ()
-[//]: # (* {Local}, {detalhe})
-[//]: # (  * {item})
-
 ---
 
 ### Cena 1 Carta

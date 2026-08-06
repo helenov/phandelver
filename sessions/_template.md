@@ -36,7 +36,7 @@ _próxima_ : [Sessão {X+1} {Título}]
 
 * {Local}
   * {detalhe}
-    * {item}
+    * {item} &ndash; _{destinação}_
 
 #### Mencionados
 

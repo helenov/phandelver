@@ -61,11 +61,6 @@ _próxima_ : [Sessão 5 Perda](05_perda.md)
     * 6 light crossbows
     * 8 quivers, 20 bolts cada &ndash; _deixadas_
 
-[//]: # (#### Mencionados)
-[//]: # ()
-[//]: # (* {Local}, {detalhe})
-[//]: # (  * {item})
-
 ---
 
 ### Cena 1 Prisioneiros
