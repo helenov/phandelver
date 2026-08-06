@@ -8,9 +8,11 @@ _próxima_ : [Sessão 8 Venomfang]
 
 ### Cenas
 
-:construction:
-
-* [Cena {X} {Título}]
+* [Cena 1 Brughor](#cena-1-brughor)
+* [Cena 2 Agatha](#cena-2-agatha)
+* [Cena 3 Owlbear](#cena-3-owlbear)
+* [Cena 4 Buscas](#cena-4-buscas)
+* [Cena 5 Arrependido](#cena-5-arrependido)
 
 ### Elenco
 
@@ -46,10 +48,43 @@ _próxima_ : [Sessão 8 Venomfang]
 
 ---
 
-### Cena {X} {Título}
+### Cena 1 Brughor
 
 :construction: {Imagem}
 
 :construction: {Texto}
 
 ---
+
+### Cena 2 Agatha
+
+:construction: {Imagem}
+
+:construction: {Texto}
+
+---
+
+### Cena 3 Owlbear
+
+:construction: {Imagem}
+
+:construction: {Texto}
+
+---
+
+### Cena 4 Buscas
+
+:construction: {Imagem}
+
+:construction: {Texto}
+
+---
+
+### Cena 5 Arrependido
+
+:construction: {Imagem}
+
+:construction: {Texto}
+
+---
+
