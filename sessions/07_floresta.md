@@ -37,13 +37,17 @@ _próxima_ : [Sessão 8 Venomfang]
 
 ### Cenários
 
-:construction:
-
-* {Local}
+* [Wyvern Tor]
+* [Poço da Velha Coruja]
+* [Conyberry]
+* [Floresta de Neverwinter]
+  * [Covil da Agatha]
+* [Thundertree]
 
 #### Mencionados
 
-* {Local}
+* [Castelo Cragmaw]
+* [Iriaebor]
 
 ### Itens
 
