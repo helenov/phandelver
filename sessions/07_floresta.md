@@ -35,6 +35,12 @@ _próxima_ : [Sessão 8 Venomfang]
 * [Tsernoth], necromante
 * [Sildar Hallwinter], aliado
 
+####
+
+* [Thundertree]
+  * cultistas
+  * [druída]
+
 ### Cenários
 
 * [Wyvern Tor]
@@ -77,30 +83,44 @@ _próxima_ : [Sessão 8 Venomfang]
 
 ![07_1_brughor.png](../images/cenas/07_1_brughor.png)
 
-:construction:
+[Brughor], sob ameaças, fez um desenho no chão da caverna indicando onde estão
+agora, em [Wyvern Tor], e onde fica o [Castelo Cragmaw]
+na [Floresta de Neverwinter] &mdash; logo ao sul do [Rio Neverwinter], próximo
+do limite ocidental da floresta.
 
-    - Brughor
-      - desenho do mapa para o Castelo
-      - não quer ir junto
-    
-    - grupo deixa ele ir
-      - ameaçando voltar se não encontrarem o local
-      - Brughor dá de ombro
+O grupo desconfia que a informação possa ser mentirosa, e discuti a
+possibilidade de levar Brughor por garantia. "Vocês não precisar de Brughor.
+Mapa mostrar lugar de Castelo."
 
-    - baú de tesouro destrancado  
-      - 180 sp, 15 ep
-      - 3 frascos de perfume
-    - levam também
-      - greataxe e hide armor de Brughor
-  
-    - partem, chegando a torre do necromancer ao final do dia
-  
-    - chamam, mas ninguém responde
-    - acampam nas proximidades
-  
-    - no dia seguinte
-    - chamam novamente, mas ainda ninguém responde
-    - mesmo tentados, optam por não entrar e seguem viagem
+"Como podemos ter certeza de que não está mentindo?"
+
+"Vocês ter palavra de Brughor!"
+
+"Então podemos voltar aqui e te matar se descobrirmos o Castelo não estiver onde
+você está falando?"
+
+O orc apenas dá de ombros, mantendo uma expressão desafiadora, como quem diz
+"podem tentar".
+
+Sem muitas opções e entendendo que seria muito trabalhoso levar o orc
+prisioneiro por tanto tempo, decidem libertá-lo, mas desarmado e sem sua
+armadura.
+
+Investigando um pouco mais a gruta, veem que, numa das paredes, há um desenho
+tosco de um grupo de goblins venerando um outro, mas este bem maior, com a
+cabeça mais alongada e com o que parecem ser cristais saindo do seu crânio. Seus
+olhos estão representados como se estivessem emitindo algum tipo de brilho.
+
+Além disso, no fundo da gruta, encontram um baú destrancado contendo cerca de
+200 moedas &mdash; a maioria sp, mas podem ver que há também algumas ep &mdash;,
+e três frascos que parecem conter perfume.
+
+Partem e chegam novamente no [Poço da Velha Coruja] perto do fim do dia, onde
+não encontram ninguém, apenas a barraca do necromante continua no local.
+Preferindo não correr riscos, acampam nas proximidades, e continuam a viagem no
+dia seguinte, após verificar novamente que as ruínas da guarnição continuam
+aparentemente desertas &mdash; chegam a pensar em investigar mais, porém decidem
+por não se envolver em encrenca.
 
 ---
 
@@ -108,47 +128,62 @@ _próxima_ : [Sessão 8 Venomfang]
 
 ![07_2_agatha.jpg](../images/cenas/07_2_agatha.png)
 
-:construction:
+Viajam de volta, pelo mesmo caminho percorrido há dois dias, e passam por
+Conyberry por volta do meio-dia.
 
-    - passam por Conyberry por volta do meio-dia
-    - seguem as orientações da Irmã Garaele
-      - 2h floresta a dentro
-      - escuro, frio e silencioso
-    
-    - após uma curva chegam a uma clareira
-      - abrigo no tronco de uma arvore muito grande
-      - uma porta baixa dá acesso ao interior
-  
-    - não ouvem nada
-    - abrem a porta
-      - baús, prateleiras, uma mesa e uma cama
-      - tudo antigo e élfico
-  
-    - Professor entra
-      - ar fica mais frio
-      - sensação de pavor
-      - luz pálida cintila no ar, tomando a forma de uma elfa
-        - cabelos e vestes ondulando ao vento espectral
-        - expressão de ódio distorce suas feições.
-        - "Tolos mortais! O que vocês querem aqui? Não sabem que me procurar é a morte?"
-  
-    - dizem que estão em busca de informações
-    - ela diz que pode dar informações, mas que não é de graça
-      - oferecem o pente de prata da Garaele
-      - ela fica encantada
-        - "Muito bem... Sei que buscam muitas coisas. Façam-me uma pergunta e eu lhe darei uma resposta. No entanto, responderei apenas a uma pergunta, portanto, escolham com sabedoria."
-  
-    - perguntam sobre o livro de Bowgentle
-      - ela diz que o livro foi negociado com um necromante chamado Tsernoth, de Iriaebor
-      - há mais de cem anos
-      - não sabe o que aconteceu depois
-  
-    - tentam saber mais detalhes sobre como encontrar este necromante
-      - ela começa a se irritar com a insistência
-      - "Vocês já fizeram sua pergunta e eu já dei a sua resposta! Vão embora e nunca mais voltem se valorizam suas vidas... E digam para a sua amiga para também não tornar a vir até aqui!"
-  
-    - o grupo deixa o local
-      - se afastam bastante antes de parar para descansar
+Seguindo as orientações dadas pela [Irmã Garaele], entram na Floresta de
+Neverwinter. Conforme avançam a floresta vai ficando cada vez mais escura; vapor
+se forma quando expiram e o silêncio é opressor.
+
+Após duas horas de caminhada, viram uma curva da trilha e deparam com uma árvore
+muito velha e grande no centro de uma clareira. O tronco da árvore é muito largo
+e podem ver claramente que ele têm uma porta baixa. Chegaram
+ao [Covil da Agatha].
+
+Aproximando-se cautelosamente, o silêncio segue absoluto. Abrem a porta com
+cuidado e revelando o interior do abrigo: uma cama a um canto, uma pequena mesa
+ao fundo, baús e prateleiras, tudo em estilo élfico, mas bem antigo com talvez
+séculos de poeira acumulada. Nenhum sinal de que alguém habita o lugar há muito
+tempo.
+
+Professor é o primeiro a entrar e nota que o ar ali é ainda mais frio, e
+imediatamente sente uma sensação de pavor.
+
+Uma luz pálida cintila no ar, bem no meio do espaço, e circulando toma a forma
+de uma elfa etérea, com cabelos e vestes ondulando em resposta a um vento
+espectral. Uma expressão de ódio distorce suas feições.
+
+"Tolos mortais! O que vocês querem aqui? Não sabem que me procurar é o mesmo que
+procurar a morte?"
+
+"Viemos em busca de informações que, nos disseram, a senhora poderia nos dar."
+
+"Sim... posso dar informações, mas nada é de graça."
+
+Professor tira de sua mochila o [pente de prata] da Irmã Garaele e o mostra para
+a banshee, que fica claramente encantada, com o olhar cobiçoso fixo no objeto.
+
+"Ah! Que belo presente! Muito bem... Vejo que buscam muitas coisas. Façam uma
+pergunta e eu lhes darei uma resposta. No entanto, responderei apenas a _uma_
+pergunta, não mais que isso. Portanto, escolham com sabedoria."
+
+Professor pergunta então o que ela sabe sobre o paradeiro
+do [Grimório de Bowgentle]. "[Bowgentle]! Há quanto tempo não ouço o nome de meu
+velho amigo... Eu mesma fiquei com seu livro após sua morte, mas o negociei com
+um necromante chamado [Tsernoth], de [Iriaebor], há mais de 100 anos, quando
+ainda vivia entre vocês mortais. Depois disso, não sei mais."
+
+O grupo insiste em querem saber mais detalhes deste tal necromante, mas ela
+claramente começa a se irritar.
+
+"Vocês fizeram sua pergunta e eu já lhes dei sua resposta! Vão embora e nunca
+mais voltem, se é que valorizam suas miseráveis vidas!"
+
+Quando já estão se virando para sair, ela ainda acrescenta: "E mandem lembranças
+minhas para sua amiga e digam ela que também _não_ é bem-vinda ao meu lar."
+
+Ainda tensos com a conversa pouco amistosa, deixam o local e se afastam bastante
+antes procurar um bom local para descansar.
 
 ---
 
@@ -156,29 +191,39 @@ _próxima_ : [Sessão 8 Venomfang]
 
 ![07_3_owlbear.png](../images/cenas/07_3_owlbear.png)
 
-:construction:
+No dia seguinte o plano é seguir viajando pela [Floresta de Neverwinter] para
+noroeste até encontrarem o [Rio Neverwinter] e de lá seguir para oeste
+procurando pelo [Castelo Cragmaw] como indicado pelo mapa de [Brughor].
 
-    - ao final do 3o dia viajando pela floresta (DDA 3)
-      - enquanto procuravam um lugar para acampar
-      - encontram ninho gigante com 2 ovos
-  
-    - Ralf e Jeremias se aproximam
-      - ao chegar perto do ninho
-      - farfalhar na vegetação
-      - grito estridente
-  
-    - owlbear aparece atacando
-  
-    - combate começa
-    - Ralf tenta acalmar a criatura (Animal Handling), se sucesso
-    - Jeremias tenta falar com o bicho (Speak with Animals)
-      - também sem sucesso (não é beast)
-  
-    - owlbear é irredutível e segue atacando
-    - acaba derrotada, mas evitam que ela morra
-  
-    - Ralf resolve levar um dos ovos
-      - quer tentar chocar, e criar o filhote
+Com Jeremias guiando o caminho, ao final do terceiro dia, enquanto já procuram
+um lugar para acampar, encontram um ninho gigante, contendo dois ovos igualmente
+grandes.
+
+Ralf e Jeremias, curiosos, e sob alguns protestos do Professor, se aproximam.
+Mas assim que chegam mais perto, ouvem um farfalhar na vegetação próxima,
+seguido de um grito estridente.
+
+Nem bem têm tempo de se colocar em alerta, surge uma criatura meio urso, meio
+coruja, que sai da vegetação já atacando.
+
+Ralf tenta acalmar a criatura, sem sucesso. Jeremias usa um feitiço para tentar
+se comunicar, igualmente sem sucesso. A criatura, sentindo seu ninho ameaçado, é
+irredutível e segue atacando impetuosamente. O grupo não tem opção senão lutar
+por suas vidas.
+
+Não sem bastante perigo conseguem derrotar a criatura, mas tomando cuidado para
+que ela não fosse morta.
+
+Professor, que, embora tenha ajudado no combate, havia se mantido a uma
+distância segura, se aproxima e reconhece a estranha besta como sendo um
+owlbear, um tipo de criatura criada por magia há muito tempo.
+
+Ralf então resolve levar [um dos ovos] consigo, com a intenção de tentar chocar
+o ovo, e criar o filhote. "Não seria legal ter um destes?!?"
+
+"Mas ele pode ser perigoso! Você garante que ele não vai fazer mal para a Bia?"
+
+"Gente! Vocês já têm seus animais de estimação, por que só eu não posso ter um?"
 
 ---
 
@@ -186,19 +231,19 @@ _próxima_ : [Sessão 8 Venomfang]
 
 ![07_4_buscas.png](../images/cenas/07_4_buscas.png)
 
-:construction:
+Após mais dois dias viajando pela floresta, finalmente chegam
+ao [Rio Neverwinter]. Neste ponto, Professor pede que Bia passe o dia
+sobrevoando a região em busca de algum sinal do [Castelo Cragmaw].
 
-    - após mais 2 dias de viagem pela floresta
-      - encontram o rio
-  
-    - Bia passa um dia sobrevoando a região em busca do castelo
-  
-    - viajam mais um 1 dia em direção ao sul
-    - mais 1 dia de sobrevoo da Bia ao sull
-      - nada
-    - 2o dia de sobrevoo, agora para NO
-      - final da floresta
-      - sinais de uma vila mais adiante
+Seguem esta mesma estratégia de sobrevoos diários, enquanto seguem primeiro para
+oeste, depois para sul, se afastando do rio.
+
+Após alguns dias frustrantes sem nenhuma novidade, quando decidem desviar seu
+rumo para noroeste, Bia reporta que chegou ao limite
+da [Floresta de Neverwinter], e que, mais além, há sinais de uma vila.
+
+Usam o restante do dia para seguir na direção da tal vila, mas ainda mantendo
+uma boa distância de segurança, decidem se aproximar apenas na manhã seguinte.
 
 ---
 
@@ -206,54 +251,86 @@ _próxima_ : [Sessão 8 Venomfang]
 
 ![07_5_arrependido.png](../images/cenas/07_5_arrependido.png)
 
-:construction:
+Ao se aproximam na vila, veem que ela aparenta estar abandonada, com suas ruas e
+casas tomadas pela vegetação, sufocadas por trepadeiras e arbustos. Algumas
+poucas construções preservam telhados precários, mas maioria já desabou há muito
+tempo com seus interiores expostos às intempéries.
 
-Se aproximam na vila e veem que as ruas e as casas estão em tomadas pela
-vegetação, sufocadas por trepadeiras e arbustos. À sua frente, no meio do
-povoado, ergue-se uma colina íngreme, sobre a qual se encontra uma torre de
-pedra com o telhado parcialmente desabado e uma casa anexa.
+Mais a frente, no meio do povoado, ergue-se uma colina íngreme, sobre a qual se
+destaca uma torre de pedra com o telhado parcialmente desabado e uma casa anexa.
 
-As ruas de terra acompanham a base da colina e serpenteia entre antigas casas de
-pedra, muitas delas ruínas sem telhado e com interiores expostos às intempéries.
-Outras construções parecem mais ou menos intactas. O lugar todo é estranhamente
-silencioso.
+A construção mais próxima, parece ter sido uma oficina de ferreiro, como
+denuncia uma chaminé larga e, ao lado da porta, uma pilha de lenha apodrecida e
+algumas ferramentas velhas. O prédio pequeno, relativamente bem conservado, tem
+uma porta de madeira e janelas tapadas com tábuas.
 
-As aproximam da vila pelo sul, e chegam a até a casa mais próxima
+Explorando o lugar, Ralf ao olhar por uma das frestas da porta, vê um vulto que
+afasta rapidamente, no interior. Ralf verifica que a porta está trancada e bate.
 
-    - oficina de ferreiro abandonada
-  
-    - chaminé larga
-    - pilha de lenha apodrecida
-    - ferramentas velhas
-  
-    - janelas tapadas com tábuas
-      - frestas da largura de seteiras
-      - ao olhar por uma destas frestas
-        - um vulto lá dentro se afasta rapidamente
-  
-    - batem a porta
-      - "Por favor, não me matem!" - voz fraca lá de dentro
-  
-    - porta está trancada
-      - Ralf derruma a porta com certa facilidade
-  
-    - homem machucado e faminto
-      - diz que foi capturado pelos cultistas
-      - pretendem oferecê-lo em sacrifício ao dragão
-      - que fugiu de Phandalin
-        - "Então foram vocês quem derrotaram os Redbrands"
-      - Professor e Ralf desconfiam que ele possa ser Glasstaff
-        - perguntam seu nome, "Iarno"
-      - se diz arrempendido de ter traido a Lord's Alliance
-      - que foi tentado pelo Spider
-      - após a derrota dos Redbrands e sua fuga
-        - foi traido pelo Spider
-        - mandado para Thundertree para se esconder
-        - sem saber estava sendo entregue aos cultistas
-          - Spider tem interesse no dragão
-      - quer se entregar
-        - "Meu amigo Sildar vai me entender... vai me punir... mas vai entender..."
-      - perguntado se há mais alguém na vila
-        - os cultistas estavam preocupados de um tal "velhote atrapalhar seus planos"
+Lá de dentro ouvem uma voz fraca e lamurienta, "P-por favor, não me matem!"
+
+"Abra a porta! Vamos conversar!"
+
+"Não posso! Foi trancada por fora!"
+
+Com sua madeira já envelhecida, Ralf derruba a porta com relativa facilidade. Lá
+dentro, encolhido a um canto, encontram um homem baixo de cabelo e barba pretos,
+bastante machucado que aparenta estar faminto.
+
+"Quem são vocês! Não me matem, por favor! Vocês não se parecem com os
+cultistas..."
+
+"Que cultistas? Não somos cultistas!"
+
+"Fui capturado pelos cultistas assim que cheguei a [Thundertree]. Eles querem me
+sacrificar ao dragão que vive na torre."
+
+"Mas afinal quem é você?"
+
+"Eu fugi de [Phandalin] devido aos [Redbrands], só estava procurando um lugar
+para me abrigar."
+
+"Ah! De Phandalin? Nós também somos de Phandalin! Somos a nova força de
+segurança da cidade. Os Redbrands não são mais um problema, nós mesmos os
+debandamos."
+
+"Ah! Então foram _vocês_ que derrotaram os Redbrands?!?", disse arregalando os
+olhos e se encolhendo um pouco mais.
+
+"Como assim 'foram _vocês_'!? Você já nos conhece?", Professor e Ralf desconfiam
+da identidade do sujeito, "Quem é você? Qual o seu nome?"
+
+"Bom... eu sou [Iarno]!"
+
+"Então você é Glasstaff! O líder dos Redbrands!"
+
+O homem se mostra assustado, mas não tem forças para negar. "Sim, sou eu... ou
+era... mas estou arrependido de minhas ações."
+
+E conta foi para Phandalin para representar a [Lords' Alliance] na região, mas
+que foi tentando pelo [Spider] que apelou para sua ambição, prometendo grandes
+poderes. Tudo ia indo muito bem, mas com a derrocada do [Redbrands] &mdash;
+"graças a vocês!" &mdash; teve de fugir e Spider sugeriu que viesse
+para [Thundertree] com o intúito de me esconder por um tempo.
+
+Mas, ao que parece, Spider tinha um acordo com os cultistas que o capturaram
+assim que chegou. Ele acha que Spider tem algum interesse de aliança com o tal
+dragão, e fez um acordo com os cultistas para intermediar esta aliança. "E os
+cultistas pretendem me oferecer em sacrifício para ganhar as boas graças da
+criatura."
+
+"Mas onde estão estes cultistas?"
+
+"Não sei exatamente, mas acho que eles se escondem em alguma das casas a leste
+daqui."
+
+"Mas, p-por favor, não me deixem aqui. Podem me levar, eu confesso todos os meus
+crimes e me arrependo deles. Sildar era meu amigo... ele vai entender... ou pelo
+menos será justo comigo. Prefiro a justiça da Lords' Alliance a uma morte
+horrível e dolorosa..."
+
+Perguntado se há mais alguém na vila, diz que ouviu os cultistas mencionarem de
+um "druida velhote que poderia atrapalhar seus planos". Entendeu que o tal
+druída também mora na vila.
 
 ---
