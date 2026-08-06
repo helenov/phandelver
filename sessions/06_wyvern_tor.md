@@ -4,7 +4,7 @@
 
 _data_ : 2026-06-08 \
 _anterior_ : [Sessão 5 Perda](05_perda.md) \
-_próxima_ : [Sessão 7 Busca]
+_próxima_ : [Sessão 7 Floresta](07_floresta.md)
 
 ### Cenas
 
