@@ -106,7 +106,7 @@ _próxima_ : [Sessão 8 Venomfang]
 
 ### Cena 2 Agatha
 
-:construction: {Imagem}
+![07_2_agatha.jpg](../images/cenas/07_2_agatha.png)
 
 :construction:
 
@@ -154,7 +154,7 @@ _próxima_ : [Sessão 8 Venomfang]
 
 ### Cena 3 Owlbear
 
-:construction: {Imagem}
+![07_3_owlbear.png](../images/cenas/07_3_owlbear.png)
 
 :construction:
 
@@ -184,7 +184,7 @@ _próxima_ : [Sessão 8 Venomfang]
 
 ### Cena 4 Buscas
 
-:construction: {Imagem}
+![07_4_buscas.png](../images/cenas/07_4_buscas.png)
 
 :construction:
 
@@ -204,7 +204,7 @@ _próxima_ : [Sessão 8 Venomfang]
 
 ### Cena 5 Arrependido
 
-:construction: {Imagem}
+![07_5_arrependido.png](../images/cenas/07_5_arrependido.png)
 
 :construction:
 
