@@ -16,13 +16,24 @@ _próxima_ : [Sessão 8 Venomfang]
 
 ### Elenco
 
-:construction:
+* [Wyvern Tor]
+  * [Brughor], líder local
 
-* {Personagem}, {detalhe}
+####
+
+* [Floresta de Neverwinter]
+  * [Agatha], banshee
+
+####
+
+* [Thundertree]
+  * [Iarno 'Glasstaff' Albrek], mago fugitivo
 
 #### Mencionados
 
-* {Personagem}, {detalhe}
+* [Irmã Garaele], clériga
+* [Tsernoth], necromante
+* [Sildar Hallwinter], aliado
 
 ### Cenários
 
