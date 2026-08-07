@@ -3,7 +3,7 @@
 ## Irmã Garaele, <small>_elfa_</small>
 
 <!-- @formatter:off -->
-<img alt="Irmã Garaele" src="../../../images/characters/phandalin/sister_garaele.png" style="width:200px; margin-right: 15px; float: left" />
+<img alt="Irmã Garaele" src="../../../images/characters/phandalin/sister_garaele.png" style="width:300px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
 :construction: {Texto}
@@ -53,3 +53,9 @@
     o [Covil da Agatha](../../../locations/agathas_lair.md) mencionada por
     **Irmã Garaele**
     ([Cena 3](../../../sessions/06_wyvern_tor.md#cena-3-conyberry))
+
+####
+
+* [Sessão 7 Floresta](../../../sessions/07_floresta.md)
+  * grupo encontra o [Covil da Agatha] seguindo as orientações da **Irmã
+    Garaele** ([Cena 2](../../../sessions/07_floresta.md#cena-2-agatha))

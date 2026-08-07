@@ -77,9 +77,10 @@ por não se envolver em encrenca.
 Viajam de volta, pelo mesmo caminho percorrido há dois dias, e passam por
 Conyberry por volta do meio-dia.
 
-Seguindo as orientações dadas pela [Irmã Garaele], entram na Floresta
-Neverwinter. Conforme avançam a floresta vai ficando cada vez mais escura; vapor
-se forma quando expiram e o silêncio é opressor.
+Seguindo as orientações dadas
+pela [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), entram na
+[Floresta Neverwinter]. Conforme avançam a floresta vai ficando cada vez mais
+escura; vapor se forma quando expiram e o silêncio é opressor.
 
 Após duas horas de caminhada, viram uma curva da trilha e deparam com uma árvore
 muito velha e grande no centro de uma clareira. O tronco da árvore é muito largo
@@ -304,7 +305,7 @@ druída também mora na vila.
 
 #### Mencionados
 
-* [Irmã Garaele], clériga
+* [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), clériga
 * [Tsernoth], necromante
 * [Sildar Hallwinter], aliado
 * [Spider], vilão
