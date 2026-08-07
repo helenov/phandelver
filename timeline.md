@@ -154,7 +154,7 @@
 
 #### tarde
 
-* chegam ao [Rio Neverwinter]
+* chegam ao [Rio Neverwinter](locations/neverwinter_river.md)
   * [Sessão 7](sessions/07_floresta.md): [Cena 4](sessions/07_floresta.md#cena-4-buscas)
 
 ---
