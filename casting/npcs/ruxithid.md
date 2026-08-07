@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Ruxithid<!--, <small>{espécie}</small>-->
+## Ruxithid<!--, <small>_{espécie}_</small>-->
 
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)

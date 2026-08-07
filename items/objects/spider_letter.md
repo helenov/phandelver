@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Carta do Spider</small>
+## Carta do Spider
 
 ![05_1_carta.jpeg](../../images/cenas/05_1_carta.jpeg)
 
