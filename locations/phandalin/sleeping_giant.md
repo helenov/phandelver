@@ -5,7 +5,6 @@
 ![03_1_gigante_adormecido.jpeg](../../images/cenas/03_1_gigante_adormecido.jpeg)
 
 :construction: {Texto}
-<br clear="left"/>
 
 ### Personagens
 

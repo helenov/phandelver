@@ -5,7 +5,6 @@
 ![02_7_hospedaria_stonehill.png](../../images/cenas/02_7_hospedaria_stonehill.png)
 
 :construction: {Texto}
-<br clear="left"/>
 
 ### Personagens
 

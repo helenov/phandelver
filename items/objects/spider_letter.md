@@ -19,7 +19,6 @@ aranha preta, e escrita em uma caligrafia refinada:
 > em posse deles, me envie o mais rápido possível.
 >
 > Conto contigo, Iarno. Não me desaponte.
-> <br clear="left"/>
 
 ### Locais
 

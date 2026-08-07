@@ -2,13 +2,9 @@
 
 ## Covil da Agatha
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
 ![07_2_agatha.png](../images/cenas/07_2_agatha.png)
 
 :construction: {Texto}
-<br clear="left"/>
 
 ### Personagens
 
