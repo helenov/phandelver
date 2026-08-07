@@ -75,7 +75,7 @@ de [Grol](../casting/npcs/cragmaw/grol.md), o rei, para
 capturar [Gundren](../casting/npcs/gundren_rockseeker.md) e enviá-lo
 ao [Castelo Cragmaw](../locations/cragmaw_castle.md). E ainda acrescenta que o
 rei estaria atendendo a um pedido de um tal
-de [Spider](../casting/npcs/spider.md), que ele não conhece.
+de [Spider](../casting/npcs/mentions/spider.md), que ele não conhece.
 
 Após alguma discussão sobre o valor do resgate pedido, Ralf volta a câmara de
 Klarg de onde traz um tanto de moedas que enganam Yeemik e seu grupo. Ao jogar o
@@ -99,12 +99,12 @@ alongados e que tinham armas e olhos com um brilho esverdeado.
 
 Após terem sido capturados, um destes goblins estranhos teria se dirigido a
 Sildar e dito algo como "você não ser
-quem [Ruxithid](../casting/npcs/ruxithid.md) procurar", e foram embora.
+quem [Ruxithid](../casting/npcs/mentions/ruxithid.md) procurar", e foram embora.
 
 Após serem arrastados para o esconderijo, Gundren foi separado dele e, pelo que
 pode entender, ele seria levado para
 o [Castelo Cragmaw](../locations/cragmaw_castle.md) a pedido de um
-certo [Spider](../casting/npcs/spider.md).
+certo [Spider](../casting/npcs/mentions/spider.md).
 
 Sobre Gundren, o que sabe é que o ele e seus irmãos estavam há tempos procurando
 por uma mina lendária na região, e parece que Gundren teria encontrado um mapa
@@ -127,7 +127,7 @@ o [Castelo Cragmaw](../locations/cragmaw_castle.md) fica na floresta a nordeste
 dali, mas não sabe exatamente onde -
 "Só [Klarg](../casting/npcs/cragmaw/klarg.md) sabia". Também menciona os
 "goblins estranhos" e diz ter medo deles. Também não sabe quem é Spider, mas já
-ouviu falar dele "Tenho medo dele... [Spider](../casting/npcs/spider.md)
+ouviu falar dele "Tenho medo dele... [Spider](../casting/npcs/mentions/spider.md)
 mandar em [Grol](../casting/npcs/cragmaw/grol.md)"
 
 Após ser ameaçado é liberado e corre para o mato, sem olhar para trás, por onde
@@ -177,8 +177,8 @@ descobertas recentes. Ela não tem ideia do que seriam, mas que devem ter relaç
 com as minas.
 
 Elmina conta que os irmãos de
-Gundren, [Tharden](../casting/npcs/tharden_rockseeker.md)
-e [Nundro](../casting/npcs/nundro_rockseeker.md), também devem estar ansiosos e
+Gundren, [Tharden](../casting/npcs/mentions/tharden_rockseeker.md)
+e [Nundro](../casting/npcs/mentions/nundro_rockseeker.md), também devem estar ansiosos e
 ficarão muito abalados ao saber do sequestro do irmão. Eles vivem acampados fora
 da cidade, sempre em lugares diferentes, explorando, mas vêm a cidade
 frequentemente para se reabastecer. "A última vez foi há uns dez dias,
@@ -488,8 +488,8 @@ na manhã seguinte para que ela os leve até o local.
 
 * [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md), mercador
   sequestrado
-* [Tharden Rockseeker](../casting/npcs/tharden_rockseeker.md), irmão de Gundren
-* [Nundro Rockseeker](../casting/npcs/nundro_rockseeker.md), irmão de Gundren
+* [Tharden Rockseeker](../casting/npcs/mentions/tharden_rockseeker.md), irmão de Gundren
+* [Nundro Rockseeker](../casting/npcs/mentions/nundro_rockseeker.md), irmão de Gundren
 
 ####
 
@@ -499,8 +499,8 @@ na manhã seguinte para que ela os leve até o local.
 
 ####
 
-* [Spider](../casting/npcs/spider.md), possível vilão
-* [Ruxithid](../casting/npcs/ruxithid.md), desconhecido
+* [Spider](../casting/npcs/mentions/spider.md), possível vilão
+* [Ruxithid](../casting/npcs/mentions/ruxithid.md), desconhecido
 
 ####
 

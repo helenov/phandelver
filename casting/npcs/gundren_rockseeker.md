@@ -12,8 +12,8 @@ Gundren seguiu à frente com o guerreiro e seu
 amigo, [Sildar Hallwinter](sildar_hallwinter.md), para tratar de assuntos na
 cidade, enquanto o grupo segue com os suprimentos.
 
-Gundren e seus irmãos, [Tharden](tharden_rockseeker.md)
-e [Nundro](nundro_rockseeker.md), estão empenhados em descobrir a localização de
+Gundren e seus irmãos, [Tharden](mentions/tharden_rockseeker.md)
+e [Nundro](mentions/nundro_rockseeker.md), estão empenhados em descobrir a localização de
 certas minas lendárias da região de Phandalin. Seu objetivo é recuperá-las para
 seu clã e restabelecer a mina.
 <br clear="left"/>
@@ -23,8 +23,8 @@ seu clã e restabelecer a mina.
 * [Sildar Hallwinter](sildar_hallwinter.md), amigo
 * [Elmina Barthen](phandalin/barthens/elmina_barthen.md), amiga e parceira de
   negócios
-* [Tharden Rockseeker](tharden_rockseeker.md), irmão
-* [Nundro Rockseeker](nundro_rockseeker.md), irmão
+* [Tharden Rockseeker](mentions/tharden_rockseeker.md), irmão
+* [Nundro Rockseeker](mentions/nundro_rockseeker.md), irmão
 
 [//]: # (### Organizações)
 [//]: # ()
@@ -66,7 +66,7 @@ seu clã e restabelecer a mina.
     de [Grol](cragmaw/grol.md)
     ([Cena 2](../../sessions/02_phandalin.md#cena-2-troca))
   * [Yeemik](cragmaw/yeemik.md) diz que a ordem teria sido um pedido
-    de [Spider](spider.md)
+    de [Spider](mentions/spider.md)
     ([Cena 2](../../sessions/02_phandalin.md#cena-2-troca))
   * [Yeemik](cragmaw/yeemik.md) diz que **Gundren** foi enviado para
     o [Castelo Cragmaw](../../locations/cragmaw_castle.md)
@@ -75,7 +75,7 @@ seu clã e restabelecer a mina.
     para o [Castelo Cragmaw](../../locations/cragmaw_castle.md)
     ([Cena 3](../../sessions/02_phandalin.md#cena-3-sildar))
   * [Sildar](sildar_hallwinter.md) confirma que foi um pedido de um
-    certo [Spider](spider.md)
+    certo [Spider](mentions/spider.md)
     ([Cena 3](../../sessions/02_phandalin.md#cena-3-sildar))
   * [Elmina](phandalin/barthens/elmina_barthen.md) fica desolada ao saber de seu
     sequestro do amigo

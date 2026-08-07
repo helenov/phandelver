@@ -29,8 +29,8 @@ aqui já tem uns dez dias, provavelmente devem aparecer em um dia ou dois"
 ####
 
 * [Gundren Rockseeker](../../gundren_rockseeker.md), amigo e fornecedor
-* [Tharden Rockseeker](../../tharden_rockseeker.md), amigo e cliente
-* [Nundro Rockseeker](../../nundro_rockseeker.md), amigo e cliente
+* [Tharden Rockseeker](../../mentions/tharden_rockseeker.md), amigo e cliente
+* [Nundro Rockseeker](../../mentions/nundro_rockseeker.md), amigo e cliente
 
 [//]: # (### Organizações)
 [//]: # ()

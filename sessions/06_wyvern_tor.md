@@ -71,7 +71,7 @@ chamada [Agatha](../casting/npcs/agatha.md), em uma missão solicitada por seus
 superiores nos [Harpers](../organizations/harpers.md). Seu objetivo era obter
 alguma informação sobre o paradeiro
 do [Grimório Bowgentle](../items/books/bowgentle_spellbook.md), conhecido livro
-de magia do lendário mago [Bowgentle](../casting/npcs/bowgentle.md). Agatha tem
+de magia do lendário mago [Bowgentle](../casting/npcs/mentions/bowgentle.md). Agatha tem
 poderem divinatórios e pode responder a qualquer pergunta, mas precisa ser
 convencida a isso.
 
@@ -234,7 +234,7 @@ arranjo.
 #### Mencionados
 
 * [Agatha](../casting/npcs/agatha.md), banshee
-* [Bowgentle](../casting/npcs/bowgentle.md), mago lendário
+* [Bowgentle](../casting/npcs/mentions/bowgentle.md), mago lendário
 
 ### Cenários
 

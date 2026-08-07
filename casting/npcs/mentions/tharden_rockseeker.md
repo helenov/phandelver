@@ -12,9 +12,9 @@
 
 ### Relações
 
-* [Gundren Rockseeker](gundren_rockseeker.md), irmão
+* [Gundren Rockseeker](../gundren_rockseeker.md), irmão
 * [Nundro Rockseeker](nundro_rockseeker.md), irmão
-* [Elmina Barthen](phandalin/barthens/elmina_barthen.md), amiga
+* [Elmina Barthen](../phandalin/barthens/elmina_barthen.md), amiga
 
 [//]: # (### Organizações)
 [//]: # ()
@@ -22,10 +22,10 @@
 
 ### Locais
 
-* [Phandalin](../../locations/phandalin.md), minerador
+* [Phandalin](../../../locations/phandalin.md), minerador
 
 ### Referências
 
-* [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
-  * [Elmina](phandalin/barthens/elmina_barthen.md) menciona os irmãos Rockseeker
-    ([Cena 6](../../sessions/02_phandalin.md#cena-6-venda-da-barthen))
+* [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
+  * [Elmina](../phandalin/barthens/elmina_barthen.md) menciona os irmãos Rockseeker
+    ([Cena 6](../../../sessions/02_phandalin.md#cena-6-venda-da-barthen))

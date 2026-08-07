@@ -47,7 +47,7 @@
 ####
 
 * [Sessão 5 Perda](../../../sessions/05_perda.md)
-  * carta de [Spider](../spider.md) revela que **Glasstaff**
+  * carta de [Spider](../mentions/spider.md) revela que **Glasstaff**
     é [Iarno Albrek](../iarno_albrek.md)
     ([Cena 1](../../../sessions/05_perda.md#cena-1-carta))
   * grupo conta para [Sildar](../sildar_hallwinter.md) a verdade sobre

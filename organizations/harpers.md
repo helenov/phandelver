@@ -45,5 +45,5 @@ não conseguem manter seus assuntos em segredo.
 * [Sessão 5 Wyvern Tor](../sessions/06_wyvern_tor.md)
   * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) diz que os
     **Harpers** querem saber do paradeiro do livro do
-    mago [Bowgentle](../casting/npcs/bowgentle.md)
+    mago [Bowgentle](../casting/npcs/mentions/bowgentle.md)
     ([Cena 2](../sessions/06_wyvern_tor.md#cena-2-despedidas))

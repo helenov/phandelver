@@ -80,9 +80,9 @@
 
 #### Mencionados
 
-* [Tharden Rockseeker](npcs/tharden_rockseeker.md), irmão
+* [Tharden Rockseeker](npcs/mentions/tharden_rockseeker.md), irmão
   de [Gundren](npcs/gundren_rockseeker.md)
-* [Nundro Rockseeker](npcs/tharden_rockseeker.md), irmão
+* [Nundro Rockseeker](npcs/mentions/tharden_rockseeker.md), irmão
   de [Gundren](npcs/gundren_rockseeker.md)
 
 ####
@@ -99,10 +99,10 @@
 
 ####
 
-* [Spider](npcs/spider.md), inimigo
-* [Ruxithid](npcs/ruxithid.md)
+* [Spider](npcs/mentions/spider.md), inimigo
+* [Ruxithid](npcs/mentions/ruxithid.md)
 
 ####
 
 * [Agatha](npcs/agatha.md), banshee
-* [Bowgentle](npcs/bowgentle.md), mago lendário
+* [Bowgentle](npcs/mentions/bowgentle.md), mago lendário

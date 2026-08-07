@@ -243,7 +243,7 @@ olhar alerta. "Alto lá, Frodo!"
 
 * [Iarno Albrek](../casting/npcs/iarno_albrek.md),
   aka [Glasstaff](../casting/npcs/redbrands/glasstaff.md)
-* [Spider](../casting/npcs/spider.md), inimigo
+* [Spider](../casting/npcs/mentions/spider.md), inimigo
 
 ####
 

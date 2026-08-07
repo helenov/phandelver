@@ -23,7 +23,7 @@
 
 ####
 
-* [Spider](../spider.md), aliado
+* [Spider](../mentions/spider.md), aliado
 
 ### Organizações
 
@@ -35,5 +35,5 @@
   * [Yeemik](yeemik.md) diz que a ordem de
     capturar [Gundren](../gundren_rockseeker.md) veio de **Grol**
     ([Cena 2](../../../sessions/02_phandalin.md#cena-2-troca))
-  * [Flip](flip.md)    diz que [Spider](../spider.md) "manda" em **Grol**
+  * [Flip](flip.md)    diz que [Spider](../mentions/spider.md) "manda" em **Grol**
     ([Cena 4](../../../sessions/02_phandalin.md#cena-4-interrogatório))

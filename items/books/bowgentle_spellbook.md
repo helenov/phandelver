@@ -12,11 +12,11 @@
 
 ### Autor
 
-* [Bowgentle](../../casting/npcs/bowgentle.md)
+* [Bowgentle](../../casting/npcs/mentions/bowgentle.md)
 
 ### Proprietários
 
-* [Bowgentle](../../casting/npcs/bowgentle.md), autor
+* [Bowgentle](../../casting/npcs/mentions/bowgentle.md), autor
 
 [//]: # (### Personagens)
 [//]: # ()

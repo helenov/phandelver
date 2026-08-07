@@ -67,7 +67,7 @@ do que julga seu amigo otimista.
     capturados ([Cena 3](../../sessions/02_phandalin.md#cena-3-sildar))
   * **Sildar** diz como [Gundren](gundren_rockseeker.md) foi levado para
     o [Castelo Cragmaw](../../locations/cragmaw_castle.md) a pedido
-    de [Spider](spider.md)
+    de [Spider](mentions/spider.md)
     ([Cena 3](../../sessions/02_phandalin.md#cena-3-sildar))
   * **Sildar** hospeda-se
     na [Hospedaria Stonehill](../../locations/phandalin/stonehill_inn.md)

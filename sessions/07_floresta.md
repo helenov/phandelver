@@ -118,7 +118,7 @@ pergunta, não mais que isso. Portanto, escolham com sabedoria."
 
 Professor pergunta então o que ela sabe sobre o paradeiro
 do [Grimório Bowgentle](../items/books/bowgentle_spellbook.md).
-"[Bowgentle](../casting/npcs/bowgentle.md)! Há quanto tempo não ouço o nome de
+"[Bowgentle](../casting/npcs/mentions/bowgentle.md)! Há quanto tempo não ouço o nome de
 meu velho amigo... Eu mesma fiquei com seu livro após sua morte, mas o negociei
 com um necromante chamado [Tsernoth], de [Iriaebor], há mais de 100 anos, quando
 ainda vivia entre vocês mortais. Depois disso, não sei mais."
@@ -309,7 +309,7 @@ druída também mora na vila.
 #### Mencionados
 
 * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), clériga
-* [Bowgentle](../casting/npcs/bowgentle.md), mago lendário
+* [Bowgentle](../casting/npcs/mentions/bowgentle.md), mago lendário
 * [Tsernoth], necromante
 * [Sildar Hallwinter], aliado
 * [Spider], vilão

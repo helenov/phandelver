@@ -94,7 +94,7 @@
 ####
 
 * [Sessão 5 Perda](../sessions/05_perda.md)
-  * carta de [Spider](../casting/npcs/spider.md) revela
+  * carta de [Spider](../casting/npcs/mentions/spider.md) revela
     que [Glasstaff](../casting/npcs/redbrands/glasstaff.md)
     é [Iarno Albrek](../casting/npcs/iarno_albrek.md)
     ([Cena 1](../sessions/05_perda.md#cena-1-carta))

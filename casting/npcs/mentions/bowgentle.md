@@ -15,7 +15,7 @@ Mago lendário.
 
 ### Relações
 
-* [Agatha](agatha.md), amiga
+* [Agatha](../agatha.md), amiga
 
 [//]: # (### Organizações)
 [//]: # ()
@@ -27,14 +27,14 @@ Mago lendário.
 
 ### Referências
 
-* [Sessão 5 Wyvern Tor](../../sessions/06_wyvern_tor.md)
-  * [Irmã Garaele](phandalin/sister_garaele.md) diz que
-    os [Harpers](../../organizations/harpers.md) querem saber do paradeiro do
+* [Sessão 5 Wyvern Tor](../../../sessions/06_wyvern_tor.md)
+  * [Irmã Garaele](../phandalin/sister_garaele.md) diz que
+    os [Harpers](../../../organizations/harpers.md) querem saber do paradeiro do
     livro do mago **Bowgentle**
-    ([Cena 2](../../sessions/06_wyvern_tor.md#cena-2-despedidas))
+    ([Cena 2](../../../sessions/06_wyvern_tor.md#cena-2-despedidas))
 
 ####
 
-* [Sessão 7 Floresta](../../sessions/07_floresta.md)
-  * [Agatha](agatha.md) menciona que era amiga de **Bowgentle**
-    ([Cena 2](../../sessions/07_floresta.md#cena-2-agatha))
+* [Sessão 7 Floresta](../../../sessions/07_floresta.md)
+  * [Agatha](../agatha.md) menciona que era amiga de **Bowgentle**
+    ([Cena 2](../../../sessions/07_floresta.md#cena-2-agatha))
