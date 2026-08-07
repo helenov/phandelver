@@ -60,8 +60,9 @@ Além disso, no fundo da gruta, encontram um baú destrancado contendo cerca de
 200 moedas &mdash; a maioria sp, mas podem ver que há também algumas ep &mdash;,
 e três frascos que parecem conter perfume.
 
-Partem e chegam novamente no [Poço da Velha Coruja] perto do fim do dia, onde
-não encontram ninguém, apenas a barraca do necromante continua no local.
+Partem e chegam novamente
+no [Poço da Velha Coruja](../locations/old_owl_well.md) perto do fim do dia,
+onde não encontram ninguém, apenas a barraca do necromante continua no local.
 Preferindo não correr riscos, acampam nas proximidades, e continuam a viagem no
 dia seguinte, após verificar novamente que as ruínas da guarnição continuam
 aparentemente desertas &mdash; chegam a pensar em investigar mais, porém decidem
@@ -317,7 +318,7 @@ druída também mora na vila.
 ### Cenários
 
 * [Wyvern Tor](../locations/wyvern_tor.md)
-* [Poço da Velha Coruja]
+* [Poço da Velha Coruja](../locations/old_owl_well.md)
 * [Conyberry]
 * [Floresta Neverwinter](../locations/neverwinter_wood.md)
   * [Covil da Agatha]

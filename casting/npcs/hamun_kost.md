@@ -29,3 +29,10 @@
     os [Cragmaw Goblins](../../organizations/cragmaw_goblins.md)
     em [Wyvern Tor](../../locations/wyvern_tor.md)
     ([Cena 4](../../sessions/06_wyvern_tor.md#cena-4-necromante))
+
+####
+
+* [Sessão 7 Floresta](../../sessions/07_floresta.md)
+  * grupo não encontra **Hamun** ao passar novamente
+    pelo [Poço da Velha Coruja](../../locations/old_owl_well.md)
+    ([Cena 1](../../sessions/07_floresta.md#cena-1-brughor))
