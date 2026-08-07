@@ -106,3 +106,5 @@
 
 * [Agatha](npcs/agatha.md), banshee
 * [Bowgentle](npcs/mentions/bowgentle.md), mago lendário
+* [Tsernoth](npcs/mentions/tsernoth.md), necromante
+  de [Iriaebor](../locations/iriaebor.md)
