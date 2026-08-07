@@ -111,7 +111,7 @@
 
 * [Floresta Neverwinter](../locations/neverwinter_wood.md)
   * owlbear ([Sessão 7 Cena 3])
-    * [ovo] &ndash; _com Ralf_
+    * [ovo](objects/owlbear_egg.md) &ndash; _com Ralf_
 
 ####
 

@@ -173,8 +173,9 @@ Professor, que, embora tenha ajudado no combate, havia se mantido a uma
 distância segura, se aproxima e reconhece a estranha besta como sendo um
 owlbear, um tipo de criatura criada por magia há muito tempo.
 
-Ralf então resolve levar [um dos ovos] consigo, com a intenção de tentar chocar
-o ovo, e criar o filhote. "Não seria legal ter um destes?!?"
+Ralf então resolve levar [um dos ovos](../items/objects/owlbear_egg.md) consigo,
+com a intenção de tentar chocar o ovo, e criar o filhote. "Não seria legal ter
+um destes?!?"
 
 "Mas ele pode ser perigoso! Você garante que ele não vai fazer mal para a Bia?"
 
@@ -352,7 +353,7 @@ druída também mora na vila.
 
 * [Floresta Neverwinter](../locations/neverwinter_wood.md)
   * owlbear
-    * [ovo] &ndash; _com Ralf_
+    * [ovo](../items/objects/owlbear_egg.md) &ndash; _com Ralf_
 
 #### Mencionados
 
