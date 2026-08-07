@@ -28,7 +28,7 @@ _próxima_ : [Sessão 8 Venomfang]
 [Brughor](../casting/npcs/cragmaw/brughor.md), sob ameaças, fez um desenho no
 chão da caverna indicando onde estão agora, em [Wyvern Tor], e onde fica
 o [Castelo Cragmaw](../locations/cragmaw_castle.md)
-na [Floresta de Neverwinter](../locations/neverwinter_wood.md)
+na [Floresta Neverwinter](../locations/neverwinter_wood.md)
 &mdash; logo ao sul do [Rio Neverwinter], próximo do limite ocidental da
 floresta.
 
@@ -75,7 +75,7 @@ por não se envolver em encrenca.
 Viajam de volta, pelo mesmo caminho percorrido há dois dias, e passam por
 Conyberry por volta do meio-dia.
 
-Seguindo as orientações dadas pela [Irmã Garaele], entram na Floresta de
+Seguindo as orientações dadas pela [Irmã Garaele], entram na Floresta
 Neverwinter. Conforme avançam a floresta vai ficando cada vez mais escura; vapor
 se forma quando expiram e o silêncio é opressor.
 
@@ -136,8 +136,8 @@ antes procurar um bom local para descansar.
 ![07_3_owlbear.png](../images/cenas/07_3_owlbear.png)
 
 No dia seguinte o plano é seguir viajando
-pela [Floresta de Neverwinter](../locations/neverwinter_wood.md) para noroeste
-até encontrarem o [Rio Neverwinter] e de lá seguir para oeste procurando
+pela [Floresta Neverwinter](../locations/neverwinter_wood.md) para noroeste até
+encontrarem o [Rio Neverwinter] e de lá seguir para oeste procurando
 pelo [Castelo Cragmaw](../locations/cragmaw_castle.md) como indicado pelo mapa
 de [Brughor](../casting/npcs/cragmaw/brughor.md).
 
@@ -187,8 +187,8 @@ oeste, depois para sul, se afastando do rio.
 
 Após alguns dias frustrantes sem nenhuma novidade, quando decidem desviar seu
 rumo para noroeste, Bia reporta que chegou ao limite
-da [Floresta de Neverwinter](../locations/neverwinter_wood.md), e que, mais
-além, há sinais de uma vila.
+da [Floresta Neverwinter](../locations/neverwinter_wood.md), e que, mais além,
+há sinais de uma vila.
 
 Usam o restante do dia para seguir na direção da tal vila, mas ainda mantendo
 uma boa distância de segurança, decidem se aproximar apenas na manhã seguinte.
@@ -290,7 +290,7 @@ druída também mora na vila.
 
 ####
 
-* [Floresta de Neverwinter](../locations/neverwinter_wood.md)
+* [Floresta Neverwinter](../locations/neverwinter_wood.md)
   * [Agatha], banshee
   * owlbear
 
@@ -317,7 +317,7 @@ druída também mora na vila.
 * [Wyvern Tor]
 * [Poço da Velha Coruja]
 * [Conyberry]
-* [Floresta de Neverwinter](../locations/neverwinter_wood.md)
+* [Floresta Neverwinter](../locations/neverwinter_wood.md)
   * [Covil da Agatha]
 * [Thundertree]
 
@@ -339,7 +339,7 @@ druída também mora na vila.
 
 ####
 
-* [Floresta de Neverwinter](../locations/neverwinter_wood.md)
+* [Floresta Neverwinter](../locations/neverwinter_wood.md)
   * owlbear
     * [ovo] &ndash; _com Ralf_
 

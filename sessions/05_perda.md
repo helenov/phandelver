@@ -105,8 +105,8 @@ para lá com os bugbears para "ajudar humanos de capa vermelha". Perguntado sobr
 a localização do [Castelo Cragmaw](../locations/cragmaw_castle.md), diz que veio
 de [Wyvern Tor](../locations/wyvern_tor.md) e que nunca esteve no castelo, só
 sabe que "fica escondido na floresta ao norte", claramente
-a [Floresta de Neverwinter](../locations/neverwinter_wood.md), e apontando para
-o líder morto, "Droop acha que [Nosk](../casting/npcs/cragmaw/nosk.md) sabia..."
+a [Floresta Neverwinter](../locations/neverwinter_wood.md), e apontando para o
+líder morto, "Droop acha que [Nosk](../casting/npcs/cragmaw/nosk.md) sabia..."
 
 O líder era um bugbear corpulento que usava um tapa-olho de couro preto
 cravejado de pequenas pedras preciosas. Retirado o tapa-olho, percebem que Nosk,
@@ -163,7 +163,7 @@ Irmã Garaele se apresenta como uma agente
 dos [Harpers](../organizations/harpers.md) e tinha recebido recentemente a
 missão de obter uma informação de uma banshee conhecida como
 [Agatha](../casting/npcs/agatha.md), que 'vive'
-na [Floresta de Neverwinter](../locations/neverwinter_wood.md), a leste próximo
+na [Floresta Neverwinter](../locations/neverwinter_wood.md), a leste próximo
 a [Conyberry](../locations/conyberry.md). Garaele diz ter subestimado a criatura
 e que deveria ter usado uma abordagem mais diplomática, ao invés de partir para
 um confronto direto. Sobreviveu por muito pouco.
@@ -270,7 +270,7 @@ olhar alerta. "Alto lá, Frodo!"
 * [Neverwinter](../locations/neverwinter.md)
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
 * [Wyvern Tor](../locations/wyvern_tor.md)
-* [Floresta de Neverwinter](../locations/neverwinter_wood.md)
+* [Floresta Neverwinter](../locations/neverwinter_wood.md)
   * [Covil da Agatha](../locations/agathas_lair.md)
 * [Estrada Triboar](../locations/triboar_trail.md)
   * [Conyberry](../locations/conyberry.md)

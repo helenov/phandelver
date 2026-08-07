@@ -109,7 +109,7 @@
 
 ####
 
-* [Floresta de Neverwinter](../locations/neverwinter_wood.md)
+* [Floresta Neverwinter](../locations/neverwinter_wood.md)
   * owlbear ([Sessão 7 Cena 3])
     * [ovo] &ndash; _com Ralf_
 

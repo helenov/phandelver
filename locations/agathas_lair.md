@@ -20,7 +20,7 @@
 
 ### Locais
 
-* [Floresta de Neverwinter](neverwinter_wood.md)
+* [Floresta Neverwinter](neverwinter_wood.md)
   * o **Covil da Agatha** fica na floresta, próximo a [Conyberry](conyberry.md)
 
 ### Referências

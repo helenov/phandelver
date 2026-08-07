@@ -29,7 +29,7 @@
     o **Castelo Cragmaw**
     ([Cena 3](../sessions/02_phandalin.md#cena-3-sildar))
   * [Flip](../casting/npcs/cragmaw/flip.md) diz que o **Castelo Cragmaw**
-    fica na [Floresta de Neverwinter](neverwinter_wood.md)
+    fica na [Floresta Neverwinter](neverwinter_wood.md)
     ([Cena 4](../sessions/02_phandalin.md#cena-4-interrogatório))
   * [Flip](../casting/npcs/cragmaw/flip.md) diz que
     apenas [Klarg](../casting/npcs/cragmaw/klarg.md) sabia a localização exata
@@ -39,8 +39,8 @@
     sobre o **Castelo Cragmaw**
     ([Cena 7](../sessions/02_phandalin.md#cena-7-hospedaria-stonehill))
   * [Daran](../casting/npcs/phandalin/daran_edermath.md) diz que o **Castelo
-    Cragmaw** fica na [Floresta de Neverwinter](neverwinter_wood.md), mas não
-    sabe onde ([Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath))
+    Cragmaw** fica na [Floresta Neverwinter](neverwinter_wood.md), mas não sabe
+    onde ([Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath))
   * [Joe Smithe](../casting/npcs/phandalin/joe_smithe.md) diz que não sabe nada
     sobre o **Castelo Cragmaw**
     ([Cena 12](../sessions/02_phandalin.md#cena-12-ferraria-e-carpintaria))
@@ -49,7 +49,7 @@
 
 * [Sessão 5 Perda](../sessions/05_perda.md)
   * [Droop](../casting/npcs/cragmaw/droop.md) diz que o **Castelo Cragmaw**
-    fica na [Floresta de Neverwinter](neverwinter_wood.md)
+    fica na [Floresta Neverwinter](neverwinter_wood.md)
     ([Cena 2](../sessions/05_perda.md#cena-2-perda))
   * [Droop](../casting/npcs/cragmaw/droop.md) acha
     que [Nosk](../casting/npcs/cragmaw/nosk.md) sabia a localização exata
@@ -74,5 +74,5 @@
   * [Brughor](../casting/npcs/cragmaw/brughor.md) indica a localização do
     **Castelo Cragmaw** ([Cena 1](../sessions/07_floresta.md#cena-1-brughor))
   * grupo procura pelo Castelo Cragmaw
-    na [Floresta de Neverwinter](neverwinter_wood.md)
+    na [Floresta Neverwinter](neverwinter_wood.md)
     ([Cena 3 a 4](../sessions/07_floresta.md#cena-3-owlbear))

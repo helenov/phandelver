@@ -33,8 +33,8 @@ _próxima_ : [Sessão 3 Redbrands](03_redbrands.md)
 
 ![Uma caverna com uma fogueira ao centro, esta cheia de caixas e sacos de suprimentos roubados.](../images/cenas/02_1_decisoes.jpeg)
 
-Após derrotarem [Klarg](../casting/npcs/cragmaw/klarg.md), o grupo investiga
-a sala onde estão guardados os carregamentos roubados
+Após derrotarem [Klarg](../casting/npcs/cragmaw/klarg.md), o grupo investiga a
+sala onde estão guardados os carregamentos roubados
 pelos [Cragmaw](../organizations/cragmaw_goblins.md):
 muitas caixas e sacos de suprimentos, com o símbolo
 da [Lionshield Coster](../organizations/lionshield_coster.md).
@@ -65,10 +65,9 @@ Ao se aproximarem da câmara a oeste da caverna, ouvem que os goblins parecem j�
 estar comemorando por antecipação.
 
 Chegando na entrada, são saldados
-por [Yeemik](../casting/npcs/cragmaw/yeemik.md) e seus companheiros, que
-urram de alegria ao ver o corpo de [Klarg](../casting/npcs/cragmaw/klarg.md).
-Há um impasse quando o grupo pede
-que [Sildar](../casting/npcs/sildar_hallwinter.md)
+por [Yeemik](../casting/npcs/cragmaw/yeemik.md) e seus companheiros, que urram
+de alegria ao ver o corpo de [Klarg](../casting/npcs/cragmaw/klarg.md). Há um
+impasse quando o grupo pede que [Sildar](../casting/npcs/sildar_hallwinter.md)
 seja liberto: Yeemik quer um pagamento de 50 gp, ou "humano morre!".
 
 Perguntado sobre o anão, Yeemik informa que Klarg tinha ordens
@@ -94,9 +93,9 @@ Após curar Sildar, o grupo sai às pressas da caverna.
 
 Já fora da caverna, [Sildar](../casting/npcs/sildar_hallwinter.md), salvo do
 perigo de morte, mas ainda ferido e desarmado, conta que ele
-e [Gundren](../casting/npcs/gundren_rockseeker.md) foram capturados por um
-grupo de cerca de uma dúzia de goblins, incluindo uns "goblins estranhos" com
-crânios alongados e que tinham armas e olhos com um brilho esverdeado.
+e [Gundren](../casting/npcs/gundren_rockseeker.md) foram capturados por um grupo
+de cerca de uma dúzia de goblins, incluindo uns "goblins estranhos" com crânios
+alongados e que tinham armas e olhos com um brilho esverdeado.
 
 Após terem sido capturados, um destes goblins estranhos teria se dirigido a
 Sildar e dito algo como "você não ser
@@ -169,8 +168,8 @@ a dona da loja e seus dois
 empregados, [Ander](../casting/npcs/phandalin/barthens/ander.md)
 e [Thistle](../casting/npcs/phandalin/barthens/thistle.md). Dizem que estão
 trazendo as provisões enviadas
-por [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md), ao que
-Elmina demonstra ansiedade por ter notícias do amigo.
+por [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md), ao que Elmina
+demonstra ansiedade por ter notícias do amigo.
 
 Ao ser informada de que ele foi capturado por goblins na estrada, a jovem fica
 desolada, e diz que estava ansiosa para reencontrá-lo e saber mais sobre suas
@@ -179,9 +178,9 @@ com as minas.
 
 Elmina conta que os irmãos de
 Gundren, [Tharden](../casting/npcs/tharden_rockseeker.md)
-e [Nundro](../casting/npcs/nundro_rockseeker.md), também devem estar ansiosos
-e ficarão muito abalados ao saber do sequestro do irmão. Eles vivem acampados
-fora da cidade, sempre em lugares diferentes, explorando, mas vêm a cidade
+e [Nundro](../casting/npcs/nundro_rockseeker.md), também devem estar ansiosos e
+ficarão muito abalados ao saber do sequestro do irmão. Eles vivem acampados fora
+da cidade, sempre em lugares diferentes, explorando, mas vêm a cidade
 frequentemente para se reabastecer. "A última vez foi há uns dez dias,
 provavelmente devem aparecer em um dia ou dois"
 
@@ -209,17 +208,16 @@ voltam curiosos para o grupo de forasteiros que entram.
 Logo são recebidos
 por [Toblen Stonehill](../casting/npcs/phandalin/stonehill/toblen_stonehill.md),
 o proprietário, que amigável e jovial logo oferece seus serviços. Após acertarem
-os detalhes da hospedagem
-&mdash; [Sildar](../casting/npcs/sildar_hallwinter.md)
+os detalhes da hospedagem &mdash; [Sildar](../casting/npcs/sildar_hallwinter.md)
 tem um quarto reservado para si, e o grupo combina de dividir outro &mdash;
 Toblen puxa conversa, perguntando o que traz os forasteiros a cidade, "Estão
 aqui pela mineração?"
 
 Falam da carga e do sequestro do anão e todos, inclusive um grupo de moradores
 sentados a uma mesa próxima, ficam chocados. Uma gnoma, que se apresenta
-como [Freda](../casting/npcs/phandalin/stonehill/freda.md), a tecelã, fala
-que isso "tem cheiro de coisa dos [Redbrands](../organizations/redbrands.md).
-Eles tão incomodando todos da cidade já tem uns dois meses". "Só não mexem com
+como [Freda](../casting/npcs/phandalin/stonehill/freda.md), a tecelã, fala que
+isso "tem cheiro de coisa dos [Redbrands](../organizations/redbrands.md). Eles
+tão incomodando todos da cidade já tem uns dois meses". "Só não mexem com
 a [Halia](../casting/npcs/phandalin/halia_thornton.md),
 do [Entreposto dos Mineradores](../locations/phandalin/miners_exchange.md)",
 completou o homem baixo do lado oposto da
@@ -227,9 +225,8 @@ mesa, [Lanar](../casting/npcs/phandalin/stonehill/lanar.md), o minerador,
 "Ela, sim, é uma mulher durona!"
 
 Perguntados sobre o [Castelo Cragmaw](../locations/cragmaw_castle.md), ninguém
-sabe dar informações,
-mas [Elsa](../casting/npcs/phandalin/stonehill/elsa.md), a anã bartender,
-sugere que
+sabe dar informações, mas [Elsa](../casting/npcs/phandalin/stonehill/elsa.md), a
+anã bartender, sugere que
 talvez [Daran Edermath](../casting/npcs/phandalin/daran_edermath.md) saiba de
 alguma coisa. "Ele é 'antigo' e sabe de muita coisa".
 
@@ -242,15 +239,15 @@ alguma coisa. "Ele é 'antigo' e sabe de muita coisa".
 A noite passa tranquila e no dia seguinte, enquanto tomam o café da manhã, e
 pensam sobre o que farão a seguir, um garoto de cerca de 10 anos entra correndo
 no salão, chamando: "Papai! Papai!
-A [Carp](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md) disse que
-quase foi pega por uns bandidos. Ela encontrou alguma coisa na floresta! Posso
-ir lá explorar com ela?"
+A [Carp](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md) disse que quase
+foi pega por uns bandidos. Ela encontrou alguma coisa na floresta! Posso ir lá
+explorar com ela?"
 
 \"Já disse para vocês ficarem longe destes
 bandidos, [Pip](../casting/npcs/phandalin/stonehill/pip_stonehill.md)!
 Você viu o que houve com a família do
-carpinteiro [Thel](../casting/npcs/phandalin/dendrar/thel_dendrar.md)? Vocês ainda
-vão arrumar confusão pra gente!"
+carpinteiro [Thel](../casting/npcs/phandalin/dendrar/thel_dendrar.md)? Vocês
+ainda vão arrumar confusão pra gente!"
 
 ---
 
@@ -275,16 +272,16 @@ Daran é um aventureiro aposentado que, após uma juventude de aventuras no sul,
 voltou a região onde nasceu para ter uma vida calma.
 
 Perguntado pelo Castelo Cragmaw, diz que já ouviu falar. "Parece que fica em
-algum lugar na [Floresta de Neverwinter](../locations/neverwinter_wood.md)", mas
+algum lugar na [Floresta Neverwinter](../locations/neverwinter_wood.md)", mas
 não sabe precisar onde fica, apenas que é meio escondido. Além disso, tem havido
 muitos ataques de bandidos na [Estrada Triboar](../locations/triboar_trail.md),
 tanto a leste quando a oeste.
 
 A propósito, soube que
-o [Harbin Wester](../casting/npcs/phandalin/harbin_wester.md), o prefeito,
-está procurando voluntários para lidar com estes ataques na estrada, mas que
-deveria estar mais preocupado com os arruaceiros que estão mais perto, na
-cidade. "O prefeito é popular e tal, mas é um 'bundão' e tem medo
+o [Harbin Wester](../casting/npcs/phandalin/harbin_wester.md), o prefeito, está
+procurando voluntários para lidar com estes ataques na estrada, mas que deveria
+estar mais preocupado com os arruaceiros que estão mais perto, na cidade. "O
+prefeito é popular e tal, mas é um 'bundão' e tem medo
 dos [Redbrands](../organizations/redbrands.md), então prefere lidar com o
 problema que está mais longe."
 
@@ -298,8 +295,8 @@ elege um "prefeito" anualmente, que atua como juiz em disputas pequenas e manté
 os registros mais importantes.
 "A [Lords' Alliance](../organizations/lords_alliance.md) já deveria ter enviado
 alguém para a cidade faz tempo!". Quando o grupo
-menciona [Sildar](../casting/npcs/sildar_hallwinter.md) que chegou com eles,
-o ranzinza Daran demonstra pela primeira vez algo parecido com satisfação:
+menciona [Sildar](../casting/npcs/sildar_hallwinter.md) que chegou com eles, o
+ranzinza Daran demonstra pela primeira vez algo parecido com satisfação:
 "Antes tarde do que nunca!"
 
 ---
@@ -340,8 +337,8 @@ combinar os detalhes mais tarde.
 Ao chegarem a porta do prédio
 da [Prefeitura](../locations/phandalin/townmasters_hall.md), que, na verdade, é
 a residência do
-prefeito [Harbin Weber](../casting/npcs/phandalin/harbin_wester.md), a
-primeira coisa que veem é o cartaz pregado a uma tábua ao lado da porta.
+prefeito [Harbin Weber](../casting/npcs/phandalin/harbin_wester.md), a primeira
+coisa que veem é o cartaz pregado a uma tábua ao lado da porta.
 
 > A prefeitura de [Phandalin](../locations/phandalin.md) procura por bravos
 > voluntários que capturem os
@@ -362,8 +359,8 @@ pança fartos. Mencionando o cartaz, falam sobre o ataque que sofreram vindo de
 Neverwinter, a oeste, e de como limparam um esconderijo deles.
 
 Harbin reconhece então o grupo como os heróis que salvaram o
-nobre [Sildar](../casting/npcs/sildar_hallwinter.md), que por acaso está ali
-com ele.
+nobre [Sildar](../casting/npcs/sildar_hallwinter.md), que por acaso está ali com
+ele.
 
 Levados para dentro, encontram Sildar sentado à mesa do prefeito, estudando uma
 papelada. Ele explica que sua missão era buscar notícias de seu colega, um certo
@@ -380,9 +377,9 @@ O grupo questiona sobre a atuação dos Redbrands, que, pelo que tinham entendid
 seriam apenas arruaceiros sem grande periculosidade. Mas Sildar conta que soube
 por [Toblen](../casting/npcs/phandalin/stonehill/toblen_stonehill.md), da
 hospedaria, que o
-carpinteiro [Thel Dendrar](../casting/npcs/phandalin/dendrar/thel_dendrar.md), após
-enfrentar um grupo dos bandidos que importunava sua esposa, foi assassinado e
-que sua família desapareceu naquela mesma noite. "Eles não estão me parecendo
+carpinteiro [Thel Dendrar](../casting/npcs/phandalin/dendrar/thel_dendrar.md),
+após enfrentar um grupo dos bandidos que importunava sua esposa, foi assassinado
+e que sua família desapareceu naquela mesma noite. "Eles não estão me parecendo
 assim tão inofensivos".
 
 O grupo então se oferece para servir como uma força de segurança provisória na
@@ -398,8 +395,8 @@ hospedagem e alimentação pagadas pela prefeitura.
 [//]: # (:construction: {Imagem})
 
 Saindo da prefeitura, o grupo decide procurar pelo ferreiro da cidade, um certo
-[Joe Smithe](../casting/npcs/phandalin/joe_smithe.md), que sendo novo na
-região, não faz ideia de onde fica o tal
+[Joe Smithe](../casting/npcs/phandalin/joe_smithe.md), que sendo novo na região,
+não faz ideia de onde fica o tal
 [Castelo Cragmaw](../locations/cragmaw_castle.md), mas que não gosta
 dos [Redbrands](../organizations/redbrands.md): "um bando de encrenqueiros".
 
@@ -421,9 +418,9 @@ levada do lugar, sem tempo para quaisquer preparativos.
 
 De volta a [hospedaria](../locations/phandalin/stonehill_inn.md), para almoçar e
 discutir o que fazer, veem
-entrar [Pip](../casting/npcs/phandalin/stonehill/pip_stonehill.md), o filho
-do estalajadeiro, com uma menina halfling, que está tagarelando, contando de
-como escapou "por muito pouco dos bandidos malvados".
+entrar [Pip](../casting/npcs/phandalin/stonehill/pip_stonehill.md), o filho do
+estalajadeiro, com uma menina halfling, que está tagarelando, contando de como
+escapou "por muito pouco dos bandidos malvados".
 
 Sapão chama as crianças e pergunta sobre o que foi que ela
 viu. [Carp](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md), a garota,
@@ -436,8 +433,8 @@ Trazendo a menina de volta a realidade, pedem para ela contar de sua aventura na
 floresta. Ele então conta com empolgação sobre como estava brincando de aventura
 na [Mata Tresendar](../locations/phandalin/tresendar_wood.md) que fica atrás
 da [fazenda](../locations/phandalin/alderleaf_farm.md) onde mora com sua
-mãe, [Qelline](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md), e
-ao sul da [Mansão Tresendar](../locations/phandalin/tresendar_manor.md), e como
+mãe, [Qelline](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md), e ao
+sul da [Mansão Tresendar](../locations/phandalin/tresendar_manor.md), e como
 encontrou um "túnel secreto, que fica escondido atrás de uns arbustos e pedras".
 Mas bem na hora que estava começando a entrar para explorar, viu que alguns
 bandidos de capa vermelha, os [Redbrands](../organizations/redbrands.md),
@@ -467,35 +464,31 @@ na manhã seguinte para que ela os leve até o local.
 
 #### Em [Phandalin](../locations/phandalin.md)
 
-* [Elmina Barthen](../casting/npcs/phandalin/barthens/elmina_barthen.md),
-  dona da venda
-  * [Ander](../casting/npcs/phandalin/barthens/ander.md), funcionário da
-    venda
+* [Elmina Barthen](../casting/npcs/phandalin/barthens/elmina_barthen.md), dona
+  da venda
+  * [Ander](../casting/npcs/phandalin/barthens/ander.md), funcionário da venda
   * [Thistle](../casting/npcs/phandalin/barthens/thistle.md), funcionário da
     venda
 * [Toblen Stonehill](../casting/npcs/phandalin/stonehill/toblen_stonehill.md),
   dono da hospedaria
   * [Freda](../casting/npcs/phandalin/stonehill/freda.md), tecelã
   * [Lanar](../casting/npcs/phandalin/stonehill/lanar.md), minerador
-  * [Elsa](../casting/npcs/phandalin/stonehill/elsa.md), bartender da
-    hospedaria
-  * [Pip Stonehill](../casting/npcs/phandalin/stonehill/pip_stonehill.md),
-    filho de Toblen
-* [Daran Edermath](../casting/npcs/phandalin/daran_edermath.md), velho do
-  pomar
-* [Linene Graywind](../casting/npcs/phandalin/linene_graywind.md),
-  representante da [Lionshield Coster](../organizations/lionshield_coster.md)
+  * [Elsa](../casting/npcs/phandalin/stonehill/elsa.md), bartender da hospedaria
+  * [Pip Stonehill](../casting/npcs/phandalin/stonehill/pip_stonehill.md), filho
+    de Toblen
+* [Daran Edermath](../casting/npcs/phandalin/daran_edermath.md), velho do pomar
+* [Linene Graywind](../casting/npcs/phandalin/linene_graywind.md), representante
+  da [Lionshield Coster](../organizations/lionshield_coster.md)
 * [Harbin Wester](../casting/npcs/phandalin/harbin_wester.md), prefeito
 * [Joe Smithe](../casting/npcs/phandalin/joe_smithe.md), ferreiro
-* [Carp Alderleaf](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md),
-  amiga de Pip
+* [Carp Alderleaf](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md), amiga
+  de Pip
 
 #### Mencionados
 
 * [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md), mercador
   sequestrado
-* [Tharden Rockseeker](../casting/npcs/tharden_rockseeker.md), irmão de
-  Gundren
+* [Tharden Rockseeker](../casting/npcs/tharden_rockseeker.md), irmão de Gundren
 * [Nundro Rockseeker](../casting/npcs/nundro_rockseeker.md), irmão de Gundren
 
 ####
