@@ -56,6 +56,7 @@ _próxima_ : [Sessão 8 Venomfang]
 
 * [Castelo Cragmaw]
 * [Iriaebor]
+* [Phandalin]
 
 ### Itens
 
