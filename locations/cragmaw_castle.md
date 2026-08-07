@@ -73,5 +73,6 @@
 * [Sessão 7 Floresta](../sessions/07_floresta.md)
   * [Brughor](../casting/npcs/cragmaw/brughor.md) indica a localização do
     **Castelo Cragmaw** ([Cena 1](../sessions/07_floresta.md#cena-1-brughor))
-  * grupo procura pelo Castelo Cragmaw na [Floresta de Neverwinter]
+  * grupo procura pelo Castelo Cragmaw
+    na [Floresta de Neverwinter](neverwinter_wood.md)
     ([Cena 3 a 4](../sessions/07_floresta.md#cena-3-owlbear))
