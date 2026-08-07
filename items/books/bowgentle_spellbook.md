@@ -33,6 +33,13 @@
     sua missão de descobrir o paradeiro do **Grimório Bowgentle**
     ([Cena 2](../../sessions/06_wyvern_tor.md#cena-2-despedidas))
 
+####
+
+* [Sessão 7 Floresta](../../sessions/07_floresta.md)
+  * [Agatha](../../casting/npcs/agatha.md) diz que negociou o **Grimório
+    Bowgentle** com [Tsernoth]
+    ([Cena 2](../../sessions/07_floresta.md#cena-2-agatha))
+
 [//]: # (####)
 [//]: # ()
 [//]: # (* [Sessão {X} {Título}])

@@ -40,5 +40,7 @@
 * [Sessão 6 Floresta](../../sessions/07_floresta.md)
   * **Agatha** menciona que era amiga de [Bowgentle](bowgentle.md)
     ([Cena 2](../../sessions/07_floresta.md#cena-2-agatha))
-  * **Agatha** diz que negociou o [Grimório Bowgentle] com [Tsernoth]
+  * **Agatha** diz que negociou
+    o [Grimório Bowgentle](../../items/books/bowgentle_spellbook.md)
+    com [Tsernoth]
     ([Cena 2](../../sessions/07_floresta.md#cena-2-agatha))
