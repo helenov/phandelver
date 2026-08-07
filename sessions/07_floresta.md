@@ -259,7 +259,7 @@ olhos e se encolhendo um pouco mais.
 "Como assim 'foram _vocês_'!? Você já nos conhece?", Professor e Ralf desconfiam
 da identidade do sujeito, "Quem é você? Qual o seu nome?"
 
-"Bom... eu sou [Iarno]!"
+"Bom... eu sou [Iarno](../casting/npcs/iarno_albrek.md)!"
 
 "Então você é Glasstaff! O líder dos Redbrands!"
 
@@ -309,7 +309,7 @@ druída também mora na vila.
 ####
 
 * [Thundertree](../locations/thundertree.md)
-  * [Iarno 'Glasstaff' Albrek], mago fugitivo
+  * [Iarno 'Glasstaff' Albrek](../casting/npcs/iarno_albrek.md), mago fugitivo
 
 #### Mencionados
 

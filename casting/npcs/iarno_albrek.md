@@ -29,8 +29,8 @@ segurança, que seria seu objetivo original, reuniu um grupo de foras da lei e
 rufiões locais para criar sua própria força de opressão e coerção,
 os [Redbrands](../../organizations/redbrands.md).
 
-Perseguido pelo grupo, **Iarno "Glasstaff"** consegue fugir com a ajuda de uma poção
-de invisibilidade.
+Perseguido pelo grupo, **Iarno 'Glasstaff'** consegue fugir com a ajuda de uma
+poção de invisibilidade.
 <br clear="left"/>
 
 ### Relações
@@ -71,9 +71,19 @@ de invisibilidade.
 ####
 
 * [Sessão 5 Perda](../../sessions/05_perda.md)
-  * carta de [Spider](mentions/spider.md) revela que [Glasstaff](redbrands/glasstaff.md)
-    é **Iarno Albrek**
+  * carta de [Spider](mentions/spider.md) revela
+    que [Glasstaff](redbrands/glasstaff.md) é **Iarno**
     ([Cena 1](../../sessions/05_perda.md#cena-1-carta))
-  * grupo conta para [Sildar](sildar_hallwinter.md) a verdade sobre **Iarno
-    Albrek**
+  * grupo conta para [Sildar](sildar_hallwinter.md) a verdade sobre **Iarno**
     ([Cena 4](../../sessions/05_perda.md#cena-4-irmã-garaele))
+
+####
+
+* [Sessão 7 Floresta](../../sessions/07_floresta.md)
+  * grupo encontra **Iarno** em [Thundertree](../../locations/thundertree.md)
+    ([Cena 5](../../sessions/07_floresta.md#cena-5-arrependido))
+
+[//]: # (####)
+[//]: # ()
+[//]: # (* [Sessão {X} {Título}])
+[//]: # (  * {detalhe} &#40;[Cena {X}]&#41;)
