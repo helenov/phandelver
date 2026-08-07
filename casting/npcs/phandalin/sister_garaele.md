@@ -57,5 +57,6 @@
 ####
 
 * [Sessão 7 Floresta](../../../sessions/07_floresta.md)
-  * grupo encontra o [Covil da Agatha] seguindo as orientações da **Irmã
-    Garaele** ([Cena 2](../../../sessions/07_floresta.md#cena-2-agatha))
+  * grupo encontra o [Covil da Agatha](../../../locations/agathas_lair.md)
+    seguindo as orientações da **Irmã Garaele**
+    ([Cena 2](../../../sessions/07_floresta.md#cena-2-agatha))

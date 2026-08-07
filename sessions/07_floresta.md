@@ -85,7 +85,7 @@ escura; vapor se forma quando expiram e o silêncio é opressor.
 Após duas horas de caminhada, viram uma curva da trilha e deparam com uma árvore
 muito velha e grande no centro de uma clareira. O tronco da árvore é muito largo
 e podem ver claramente que ele têm uma porta baixa. Chegaram
-ao [Covil da Agatha].
+ao [Covil da Agatha](../locations/agathas_lair.md).
 
 Aproximando-se cautelosamente, o silêncio segue absoluto. Abrem a porta com
 cuidado e revelando o interior do abrigo: uma cama a um canto, uma pequena mesa
@@ -322,7 +322,7 @@ druída também mora na vila.
 * [Poço da Velha Coruja](../locations/old_owl_well.md)
 * [Conyberry]
 * [Floresta Neverwinter](../locations/neverwinter_wood.md)
-  * [Covil da Agatha]
+  * [Covil da Agatha](../locations/agathas_lair.md)
   * [Rio Neverwinter](../locations/neverwinter_river.md)
 * [Thundertree]
 
@@ -350,7 +350,7 @@ druída também mora na vila.
 
 #### Mencionados
 
-* [Covil da Agatha]
+* [Covil da Agatha](../locations/agathas_lair.md)
   * [Agatha]
     * [Grimório Bowgentle]
 
