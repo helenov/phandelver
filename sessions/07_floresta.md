@@ -241,7 +241,7 @@ cultistas..."
 "Que cultistas? Não somos cultistas!"
 
 "Fui capturado pelos cultistas assim que cheguei a [Thundertree]. Eles querem me
-sacrificar ao dragão que vive na torre."
+sacrificar ao [dragão] que vive na torre."
 
 "Mas afinal quem é você?"
 
@@ -273,7 +273,7 @@ para [Thundertree] com o intúito de me esconder por um tempo.
 
 Mas, ao que parece, Spider tinha um acordo com os cultistas que o capturaram
 assim que chegou. Ele acha que Spider tem algum interesse de aliança com o tal
-dragão, e fez um acordo com os cultistas para intermediar esta aliança. "E os
+[dragão], e fez um acordo com os cultistas para intermediar esta aliança. "E os
 cultistas pretendem me oferecer em sacrifício para ganhar as boas graças da
 criatura."
 
@@ -320,8 +320,9 @@ druída também mora na vila.
 ####
 
 * [Thundertree]
-  * cultistas
+  * [dragão]
   * [druída]
+  * cultistas
 
 ### Cenários
 

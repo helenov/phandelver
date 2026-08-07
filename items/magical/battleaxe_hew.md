@@ -35,7 +35,7 @@ própria natureza o estivesse observando constantemente.
 
 ### Locais
 
-* [Thundertree], dragão
+* [Thundertree], [dragão]
 
 ### Referências
 

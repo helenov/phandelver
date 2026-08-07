@@ -116,7 +116,7 @@
 ####
 
 * [Thundertree]
-  * dragão ([Sessão 8 Cena 4])
+  * [dragão] ([Sessão 8 Cena 4])
     * ~1000 moedas
       * 800 sp, 150 gp &ndash; _com grupo_
     * 4 [cálices de prata] com moonstones &ndash; _com grupo_
