@@ -23,6 +23,7 @@ _próxima_ : [Sessão 8 Venomfang]
 
 * [Floresta de Neverwinter]
   * [Agatha], banshee
+  * owlbear
 
 ####
 
@@ -34,6 +35,7 @@ _próxima_ : [Sessão 8 Venomfang]
 * [Irmã Garaele], clériga
 * [Tsernoth], necromante
 * [Sildar Hallwinter], aliado
+* [Spider], vilão
 
 ####
 
