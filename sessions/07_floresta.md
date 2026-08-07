@@ -99,7 +99,8 @@ imediatamente sente uma sensação de pavor.
 
 Uma luz pálida cintila no ar, bem no meio do espaço, e circulando toma a forma
 de uma elfa etérea, com cabelos e vestes ondulando em resposta a um vento
-espectral. Uma expressão de ódio distorce as feições de [Agatha], a banshee.
+espectral. Uma expressão de ódio distorce as feições
+de [Agatha](../casting/npcs/agatha.md), a banshee.
 
 "Tolos mortais! O que vocês querem aqui? Não sabem que me procurar é o mesmo que
 procurar a morte?"
@@ -297,7 +298,7 @@ druída também mora na vila.
 ####
 
 * [Floresta Neverwinter](../locations/neverwinter_wood.md)
-  * [Agatha], banshee
+  * [Agatha](../casting/npcs/agatha.md), banshee
   * owlbear
 
 ####
@@ -354,6 +355,6 @@ druída também mora na vila.
 #### Mencionados
 
 * [Covil da Agatha](../locations/agathas_lair.md)
-  * [Agatha]
+  * [Agatha](../casting/npcs/agatha.md)
     * [Grimório Bowgentle]
 

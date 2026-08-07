@@ -34,3 +34,11 @@
 * [Sessão 6 Wyvern Tor](../../sessions/06_wyvern_tor.md)
   * [Irmã Garaele](phandalin/sister_garaele.md) dá detalhes sobre **Agatha**, a
     banshee ([Cena 2](../../sessions/06_wyvern_tor.md#cena-2-despedidas))
+
+####
+
+* [Sessão 6 Floresta](../../sessions/07_floresta.md)
+  * **Agatha** menciona que era amiga de [Bowgentle](bowgentle.md)
+    ([Cena 2](../../sessions/07_floresta.md#cena-2-agatha))
+  * **Agatha** diz que negociou o [Grimório Bowgentle] com [Tsernoth]
+    ([Cena 2](../../sessions/07_floresta.md#cena-2-agatha))
