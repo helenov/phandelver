@@ -26,7 +26,8 @@ _próxima_ : [Sessão 8 Venomfang]
 ![07_1_brughor.png](../images/cenas/07_1_brughor.png)
 
 [Brughor](../casting/npcs/cragmaw/brughor.md), sob ameaças, fez um desenho no
-chão da caverna indicando onde estão agora, em [Wyvern Tor], e onde fica
+chão da caverna indicando onde estão agora,
+em [Wyvern Tor](../locations/wyvern_tor.md), e onde fica
 o [Castelo Cragmaw](../locations/cragmaw_castle.md)
 na [Floresta Neverwinter](../locations/neverwinter_wood.md)
 &mdash; logo ao sul do [Rio Neverwinter], próximo do limite ocidental da
@@ -285,7 +286,7 @@ druída também mora na vila.
 
 ### Elenco
 
-* [Wyvern Tor]
+* [Wyvern Tor](../locations/wyvern_tor.md)
   * [Brughor](../casting/npcs/cragmaw/brughor.md), líder local
 
 ####
@@ -314,7 +315,7 @@ druída também mora na vila.
 
 ### Cenários
 
-* [Wyvern Tor]
+* [Wyvern Tor](../locations/wyvern_tor.md)
 * [Poço da Velha Coruja]
 * [Conyberry]
 * [Floresta Neverwinter](../locations/neverwinter_wood.md)
@@ -329,7 +330,7 @@ druída também mora na vila.
 
 ### Itens
 
-* [Wyvern Tor]
+* [Wyvern Tor](../locations/wyvern_tor.md)
   * [Brughor](../casting/npcs/cragmaw/brughor.md)
     * ~200 moedas
       * 180 sp, 15 ep

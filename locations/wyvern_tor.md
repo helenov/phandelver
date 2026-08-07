@@ -46,3 +46,10 @@
   * grupo desmantela o grupo
     de [Cragmaw Goblins](../organizations/cragmaw_goblins.md) em **Wyvern Tor**
     ([Cena 5](../sessions/06_wyvern_tor.md#cena-5-wyvern-tor))
+
+####
+
+* [Sessão 7 Floresta](../sessions/07_floresta.md)
+  * [Brughor](../casting/npcs/cragmaw/brughor.md) indica a localização
+    do [Castelo Cragmaw](cragmaw_castle.md) partindo de **Wyvern Tor**
+    ([Cena 1](../sessions/07_floresta.md#cena-1-brughor))
