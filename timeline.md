@@ -163,7 +163,7 @@
 
 #### tarde
 
-* avistamento de [Thundertree]
+* avistamento de [Thundertree](locations/thundertree.md)
   * [Sessão 7](sessions/07_floresta.md): [Cena 4](sessions/07_floresta.md#cena-4-buscas)
 
 ---
@@ -172,7 +172,7 @@
 
 #### manhã
 
-* chegada a [Thundertree]
+* chegada a [Thundertree](locations/thundertree.md)
 * encontro com [Glasstaff](casting/npcs/redbrands/glasstaff.md)
   * [Sessão 7](sessions/07_floresta.md): [Cena 5](sessions/07_floresta.md#cena-5-arrependido)
 

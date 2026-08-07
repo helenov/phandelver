@@ -115,7 +115,7 @@
 
 ####
 
-* [Thundertree]
+* [Thundertree](../locations/thundertree.md)
   * [dragão] ([Sessão 8 Cena 4])
     * ~1000 moedas
       * 800 sp, 150 gp &ndash; _com grupo_

@@ -209,7 +209,7 @@ uma boa distância de segurança, decidem se aproximar apenas na manhã seguinte
 
 ![07_5_arrependido.png](../images/cenas/07_5_arrependido.png)
 
-Ao se aproximam na vila, veem que ela aparenta estar abandonada, com suas ruas e
+Ao se aproximam da vila, veem que ela aparenta estar abandonada, com suas ruas e
 casas tomadas pela vegetação, sufocadas por trepadeiras e arbustos. Algumas
 poucas construções preservam telhados precários, mas maioria já desabou há muito
 tempo com seus interiores expostos às intempéries.
@@ -240,8 +240,9 @@ cultistas..."
 
 "Que cultistas? Não somos cultistas!"
 
-"Fui capturado pelos cultistas assim que cheguei a [Thundertree]. Eles querem me
-sacrificar ao [dragão] que vive na torre."
+"Fui capturado pelos cultistas assim que cheguei
+a [Thundertree](../locations/thundertree.md). Eles querem me sacrificar
+ao [dragão] que vive na torre."
 
 "Mas afinal quem é você?"
 
@@ -269,7 +270,8 @@ E conta foi para Phandalin para representar a [Lords' Alliance] na região, mas
 que foi tentando pelo [Spider] que apelou para sua ambição, prometendo grandes
 poderes. Tudo ia indo muito bem, mas com a derrocada do [Redbrands] &mdash;
 "graças a vocês!" &mdash; teve de fugir e Spider sugeriu que viesse
-para [Thundertree] com o intúito de me esconder por um tempo.
+para [Thundertree](../locations/thundertree.md) com o intúito de me esconder por
+um tempo.
 
 Mas, ao que parece, Spider tinha um acordo com os cultistas que o capturaram
 assim que chegou. Ele acha que Spider tem algum interesse de aliança com o tal
@@ -306,7 +308,7 @@ druída também mora na vila.
 
 ####
 
-* [Thundertree]
+* [Thundertree](../locations/thundertree.md)
   * [Iarno 'Glasstaff' Albrek], mago fugitivo
 
 #### Mencionados
@@ -319,7 +321,7 @@ druída também mora na vila.
 
 ####
 
-* [Thundertree]
+* [Thundertree](../locations/thundertree.md)
   * [dragão]
   * [druída]
   * cultistas
@@ -332,7 +334,7 @@ druída também mora na vila.
 * [Floresta Neverwinter](../locations/neverwinter_wood.md)
   * [Covil da Agatha](../locations/agathas_lair.md)
   * [Rio Neverwinter](../locations/neverwinter_river.md)
-* [Thundertree]
+* [Thundertree](../locations/thundertree.md)
 
 #### Mencionados
 
