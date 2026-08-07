@@ -6,97 +6,18 @@ _data_ : 2026-05-25 \
 _anterior_ : [Sessão 4 Glasstaff](04_glasstaff.md) \
 _próxima_ : [Sessão 6 Wyvern Tor](06_wyvern_tor.md)
 
-### Cenas
-
-* [Cena 1 Carta](#cena-1-carta)
-* [Cena 2 Perda](#cena-2-perda)
-* [Cena 3 Recompensa](#cena-3-recompensa)
-* [Cena 4 Irmã Garaele](#cena-4-irmã-garaele)
-* [Cena 5 Frodo](#cena-5-frodo)
-
-### Elenco
-
-* [Redbrands](../organizations/redbrands.md)
-  * bandidos
+* Cenas
+  * [Cena 1 Carta](#cena-1-carta)
+  * [Cena 2 Perda](#cena-2-perda)
+  * [Cena 3 Recompensa](#cena-3-recompensa)
+  * [Cena 4 Irmã Garaele](#cena-4-irmã-garaele)
+  * [Cena 5 Frodo](#cena-5-frodo)
 
 ####
 
-* [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
-  * [Nosk](../casting/npcs/cragmaw/nosk.md) (RIP), líder bugbear
-  * [Droop](../casting/npcs/cragmaw/droop.md), goblin medroso
-  * bugbears
-
-####
-
-* [Phandalin](../locations/phandalin.md)
-  * [Harbin Weber](../casting/npcs/phandalin/harbin_wester.md), prefeito
-  * [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), aliado
-  * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), clériga
-
-#### Mencionados
-
-* [Iarno Albrek](../casting/npcs/iarno_albrek.md),
-  aka [Glasstaff](../casting/npcs/redbrands/glasstaff.md)
-* [Spider](../casting/npcs/spider.md), inimigo
-
-####
-
-* [Agatha](../casting/npcs/agatha.md), banshee
-
-####
-
-* [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md), mercador
-  sequestrado
-
-### Cenários
-
-* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-
-####
-
-* [Phandalin](../locations/phandalin.md)
-  * [Prefeitura](../locations/phandalin/townmasters_hall.md)
-  * [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
-  * [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)
-
-#### Mencionados
-
-* [Neverwinter](../locations/neverwinter.md)
-* [Castelo Cragmaw](../locations/cragmaw_castle.md)
-* [Wyvern Tor](../locations/wyvern_tor.md)
-* [Floresta de Neverwinter](../locations/neverwinter_wood.md)
-  * [Covil da Agatha](../locations/agathas_lair.md)
-* [Estrada Triboar](../locations/triboar_trail.md)
-  * [Conyberry](../locations/conyberry.md)
-
-### Itens
-
-* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-  * escritório
-    * [equipamento de alquimia]
-    * [livro de poções]
-    * [livro "As Aventuras de Urmon"]
-    * [Carta do Spider](../items/objects/spider_letter.md)
-    * ~300 moedas
-      * 130 gp, 180 sp
-    * bolsa de seda com pedras preciosas
-      * 5 carnelians
-      * 2 peridots
-      * 1 pearl
-  * carteado
-    * 4 shortswords
-    * 4 capas vermelhas
-  * bugbears
-    * [tapa-olho cravejado de pedras]
-    * chaves
-      do [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-    * 33 sp
-
-####
-
-* [Prefeitura](../locations/phandalin/townmasters_hall.md)
-  * [Harbin](../casting/npcs/phandalin/harbin_wester.md)
-    * 100 gp (recompensa pelos [Redbrands](../organizations/redbrands.md))
+* [Elenco](#elenco)
+* [Cenários](#cenários)
+* [Itens](#itens)
 
 ---
 
@@ -298,3 +219,87 @@ Nisso, um cachorro enorme passa pelo recém-chegado entrando no salão com um
 olhar alerta. "Alto lá, Frodo!"
 
 ---
+
+### Elenco
+
+* [Redbrands](../organizations/redbrands.md)
+  * bandidos
+
+####
+
+* [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
+  * [Nosk](../casting/npcs/cragmaw/nosk.md) (RIP), líder bugbear
+  * [Droop](../casting/npcs/cragmaw/droop.md), goblin medroso
+  * bugbears
+
+####
+
+* [Phandalin](../locations/phandalin.md)
+  * [Harbin Weber](../casting/npcs/phandalin/harbin_wester.md), prefeito
+  * [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), aliado
+  * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), clériga
+
+#### Mencionados
+
+* [Iarno Albrek](../casting/npcs/iarno_albrek.md),
+  aka [Glasstaff](../casting/npcs/redbrands/glasstaff.md)
+* [Spider](../casting/npcs/spider.md), inimigo
+
+####
+
+* [Agatha](../casting/npcs/agatha.md), banshee
+
+####
+
+* [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md), mercador
+  sequestrado
+
+### Cenários
+
+* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+
+####
+
+* [Phandalin](../locations/phandalin.md)
+  * [Prefeitura](../locations/phandalin/townmasters_hall.md)
+  * [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
+  * [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)
+
+#### Mencionados
+
+* [Neverwinter](../locations/neverwinter.md)
+* [Castelo Cragmaw](../locations/cragmaw_castle.md)
+* [Wyvern Tor](../locations/wyvern_tor.md)
+* [Floresta de Neverwinter](../locations/neverwinter_wood.md)
+  * [Covil da Agatha](../locations/agathas_lair.md)
+* [Estrada Triboar](../locations/triboar_trail.md)
+  * [Conyberry](../locations/conyberry.md)
+
+### Itens
+
+* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+  * escritório
+    * [equipamento de alquimia]
+    * [livro de poções]
+    * [livro "As Aventuras de Urmon"]
+    * [Carta do Spider](../items/objects/spider_letter.md)
+    * ~300 moedas
+      * 130 gp, 180 sp
+    * bolsa de seda com pedras preciosas
+      * 5 carnelians
+      * 2 peridots
+      * 1 pearl
+  * carteado
+    * 4 shortswords
+    * 4 capas vermelhas
+  * bugbears
+    * [tapa-olho cravejado de pedras]
+    * chaves
+      do [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+    * 33 sp
+
+####
+
+* [Prefeitura](../locations/phandalin/townmasters_hall.md)
+  * [Harbin](../casting/npcs/phandalin/harbin_wester.md)
+    * 100 gp (recompensa pelos [Redbrands](../organizations/redbrands.md))

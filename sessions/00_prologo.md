@@ -5,31 +5,15 @@
 _data_ : 2026-03-16 \
 _próxima_ : [Sessão 1 Goblins](01_goblins.md)
 
-### Cenas
+* Cenas
+  * [Cena 1 Trabalho](#cena-1-trabalho)
+  * [Cena 2 Partida](#cena-2-partida)
+  * [Cena 3 Corpos](#cena-3-corpos)
 
-* [Cena 1 Trabalho](#cena-1-trabalho)
-* [Cena 2 Partida](#cena-2-partida)
-* [Cena 3 Corpos](#cena-3-corpos)
+####
 
-### Elenco
-
-* [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md), mercador e
-  contratante
-* [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), membro
-  da [Lords' Alliance](../organizations/lords_alliance.md)
-
-### Cenários
-
-* [Neverwinter](../locations/neverwinter.md)
-  * uma taverna
-  * um depósito de mercadorias
-* [Estrada Triboar](../locations/triboar_trail.md)
-  * viagem
-
-#### Mencionados
-
-* [Phandalin](../locations/phandalin.md)
-  * destino da carga escoltada
+* [Elenco](#elenco)
+* [Cenários](#cenários)
 
 ---
 
@@ -128,3 +112,23 @@ investigar a cena, uma flecha passa zunindo próxima a Ralf, revelando um goblin
 escondido na vegetação.
 
 ---
+
+### Elenco
+
+* [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md), mercador e
+  contratante
+* [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), membro
+  da [Lords' Alliance](../organizations/lords_alliance.md)
+
+### Cenários
+
+* [Neverwinter](../locations/neverwinter.md)
+  * uma taverna
+  * um depósito de mercadorias
+* [Estrada Triboar](../locations/triboar_trail.md)
+  * viagem
+
+#### Mencionados
+
+* [Phandalin](../locations/phandalin.md)
+  * destino da carga escoltada

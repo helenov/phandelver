@@ -6,60 +6,17 @@ _data_ : 2026-05-11 \
 _anterior_ : [Sessão 3 Redbrands](03_redbrands.md) \
 _próxima_ : [Sessão 5 Perda](05_perda.md)
 
-### Cenas
-
-* [Cena 1 Prisioneiros](#cena-1-prisioneiros)
-* [Cena 2 Ssnark](#cena-2-ssnark)
-* [Cena 3 Mago](#cena-3-mago)
-* [Cena 4 Pé-de-Cabra](#cena-4-pé-de-cabra)
-
-### Elenco
-
-* [Mirna Dendrar](../casting/npcs/phandalin/dendrar/mirna_dendrar.md), viúva
-  do
-  carpinteiro [Thel Dendrar](../casting/npcs/phandalin/dendrar/thel_dendrar.md)
-  (RIP)
-  * [Nilsa Dendrar](../casting/npcs/phandalin/dendrar/nilsa_dendrar.md),
-    filha de Mirna
-  * [Nars Dendrar](../casting/npcs/phandalin/dendrar/nars_dendrar.md), filho
-    de Mirna
+* Cenas
+  * [Cena 1 Prisioneiros](#cena-1-prisioneiros)
+  * [Cena 2 Ssnark](#cena-2-ssnark)
+  * [Cena 3 Mago](#cena-3-mago)
+  * [Cena 4 Pé-de-Cabra](#cena-4-pé-de-cabra)
 
 ####
 
-* [Redbrands](../organizations/redbrands.md)
-  * [Glasstaff](../casting/npcs/redbrands/glasstaff.md), líder
-    * seu mascote
-  * [Ssnark](../casting/npcs/redbrands/ssnark.md), criatura que guarda
-    o [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-  * bandidos
-
-#### Mencionados
-
-* [Thel Dendrar](../casting/npcs/phandalin/dendrar/thel_dendrar.md) (RIP),
-  carpinteiro
-
-### Cenários
-
-* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-* [Mansão Tresendar](../locations/phandalin/tresendar_manor.md)
-
-#### Mencionados
-
-* [Mata Tresendar](../locations/phandalin/tresendar_wood.md)
-* [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md)
-
-### Itens
-
-* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-  * celas
-    * 4 shortswords
-    * 4 capas vermelhas
-  * arsenal
-    * 12 spears &ndash; _deixadas_
-    * 6 shortswords &ndash; _deixadas_
-    * 4 longswords &ndash; _deixadas_
-    * 6 light crossbows
-    * 8 quivers, 20 bolts cada &ndash; _deixadas_
+* [Elenco](#elenco)
+* [Cenários](#cenários)
+* [Itens](#itens)
 
 ---
 
@@ -218,3 +175,51 @@ tarde para buscar o restante. Antes, precisam decidir como fazer para terminar
 de livrar o lugar dos bandidos que ainda restam.
 
 ---
+
+### Elenco
+
+* [Mirna Dendrar](../casting/npcs/phandalin/dendrar/mirna_dendrar.md), viúva
+  do
+  carpinteiro [Thel Dendrar](../casting/npcs/phandalin/dendrar/thel_dendrar.md)
+  (RIP)
+  * [Nilsa Dendrar](../casting/npcs/phandalin/dendrar/nilsa_dendrar.md),
+    filha de Mirna
+  * [Nars Dendrar](../casting/npcs/phandalin/dendrar/nars_dendrar.md), filho
+    de Mirna
+
+####
+
+* [Redbrands](../organizations/redbrands.md)
+  * [Glasstaff](../casting/npcs/redbrands/glasstaff.md), líder
+    * seu mascote
+  * [Ssnark](../casting/npcs/redbrands/ssnark.md), criatura que guarda
+    o [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+  * bandidos
+
+#### Mencionados
+
+* [Thel Dendrar](../casting/npcs/phandalin/dendrar/thel_dendrar.md) (RIP),
+  carpinteiro
+
+### Cenários
+
+* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+* [Mansão Tresendar](../locations/phandalin/tresendar_manor.md)
+
+#### Mencionados
+
+* [Mata Tresendar](../locations/phandalin/tresendar_wood.md)
+* [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md)
+
+### Itens
+
+* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+  * celas
+    * 4 shortswords
+    * 4 capas vermelhas
+  * arsenal
+    * 12 spears &ndash; _deixadas_
+    * 6 shortswords &ndash; _deixadas_
+    * 4 longswords &ndash; _deixadas_
+    * 6 light crossbows
+    * 8 quivers, 20 bolts cada &ndash; _deixadas_

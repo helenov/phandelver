@@ -6,79 +6,18 @@ _data_ : 2026-07-06 \
 _anterior_ : [Sessão 6 Wyvern Tor](06_wyvern_tor.md) \
 _próxima_ : [Sessão 8 Venomfang]
 
-### Cenas
-
-* [Cena 1 Brughor](#cena-1-brughor)
-* [Cena 2 Agatha](#cena-2-agatha)
-* [Cena 3 Owlbear](#cena-3-owlbear)
-* [Cena 4 Buscas](#cena-4-buscas)
-* [Cena 5 Arrependido](#cena-5-arrependido)
-
-### Elenco
-
-* [Wyvern Tor]
-  * [Brughor], líder local
+* Cenas
+  * [Cena 1 Brughor](#cena-1-brughor)
+  * [Cena 2 Agatha](#cena-2-agatha)
+  * [Cena 3 Owlbear](#cena-3-owlbear)
+  * [Cena 4 Buscas](#cena-4-buscas)
+  * [Cena 5 Arrependido](#cena-5-arrependido)
 
 ####
 
-* [Floresta de Neverwinter]
-  * [Agatha], banshee
-  * owlbear
-
-####
-
-* [Thundertree]
-  * [Iarno 'Glasstaff' Albrek], mago fugitivo
-
-#### Mencionados
-
-* [Irmã Garaele], clériga
-* [Tsernoth], necromante
-* [Sildar Hallwinter], aliado
-* [Spider], vilão
-
-####
-
-* [Thundertree]
-  * cultistas
-  * [druída]
-
-### Cenários
-
-* [Wyvern Tor]
-* [Poço da Velha Coruja]
-* [Conyberry]
-* [Floresta de Neverwinter]
-  * [Covil da Agatha]
-* [Thundertree]
-
-#### Mencionados
-
-* [Castelo Cragmaw]
-* [Iriaebor]
-* [Phandalin]
-
-### Itens
-
-* [Wyvern Tor]
-  * [Brughor]
-    * ~200 moedas
-      * 180 sp, 15 ep
-    * 3 frascos de perfume
-    * hide armor
-    * greataxe
-
-####
-
-* [Floresta de Neverwinter]
-  * owlbear
-    * [ovo] &ndash; _com Ralf_
-
-#### Mencionados
-
-* [Covil da Agatha]
-  * [Agatha]
-    * [Grimório Bowgentle]
+* [Elenco](#elenco)
+* [Cenários](#cenários)
+* [Itens](#itens)
 
 ---
 
@@ -337,3 +276,70 @@ um "druida velhote que poderia atrapalhar seus planos". Entendeu que o tal
 druída também mora na vila.
 
 ---
+
+### Elenco
+
+* [Wyvern Tor]
+  * [Brughor], líder local
+
+####
+
+* [Floresta de Neverwinter]
+  * [Agatha], banshee
+  * owlbear
+
+####
+
+* [Thundertree]
+  * [Iarno 'Glasstaff' Albrek], mago fugitivo
+
+#### Mencionados
+
+* [Irmã Garaele], clériga
+* [Tsernoth], necromante
+* [Sildar Hallwinter], aliado
+* [Spider], vilão
+
+####
+
+* [Thundertree]
+  * cultistas
+  * [druída]
+
+### Cenários
+
+* [Wyvern Tor]
+* [Poço da Velha Coruja]
+* [Conyberry]
+* [Floresta de Neverwinter]
+  * [Covil da Agatha]
+* [Thundertree]
+
+#### Mencionados
+
+* [Castelo Cragmaw]
+* [Iriaebor]
+* [Phandalin]
+
+### Itens
+
+* [Wyvern Tor]
+  * [Brughor]
+    * ~200 moedas
+      * 180 sp, 15 ep
+    * 3 frascos de perfume
+    * hide armor
+    * greataxe
+
+####
+
+* [Floresta de Neverwinter]
+  * owlbear
+    * [ovo] &ndash; _com Ralf_
+
+#### Mencionados
+
+* [Covil da Agatha]
+  * [Agatha]
+    * [Grimório Bowgentle]
+

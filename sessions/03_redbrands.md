@@ -6,72 +6,18 @@ _data_ : 2026-04-27 \
 _anterior_ : [Sessão 2 Phandalin](02_phandalin.md) \
 _próxima_ : [Sessão 4 Glasstaff](04_glasstaff.md)
 
-### Cenas
-
-* [Cena 1 Gigante Adormecido](#cena-1-gigante-adormecido)
-* [Cena 2 Túnel Secreto](#cena-2-túnel-secreto)
-* [Cena 3 Uma Voz](#cena-3-uma-voz)
-* [Cena 4 Cisterna](#cena-4-cisterna)
-* [Cena 5 Cripta](#cena-5-cripta)
-
-### Elenco
-
-#### No [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
-
-* [Redbrands](../organizations/redbrands.md)
-  * bandidos
-* [Greska](../casting/npcs/phandalin/greska.md), ogre taverneiro
-
-#### Em [Phandalin](../locations/phandalin.md)
-
-* [Harbin Wester](../casting/npcs/phandalin/harbin_wester.md), prefeito
-* [Carp Alderleaf](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md),
-  garota halfling
-* [Pip Stonehill](../casting/npcs/phandalin/stonehill/pip_stonehill.md),
-  garoto humano
-* [Qelline Alderleaf](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md),
-  mãe de Carp
-
-#### No [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-
-* [Redbrands](../organizations/redbrands.md)
-  * [Ssnark](../casting/npcs/redbrands/ssnark.md), voz na cabeça
-  * bandidos
-  * esqueletos
-* prisioneiros
-  * duas mulheres e um rapaz
-
-#### Mencionados
-
-* [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), responsável
-  pelo [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
-
-### Cenários
-
-* [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
-* [Prefeitura](../locations/phandalin/townmasters_hall.md)
-* [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
-* [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)
-* [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md)
-* [Mata Tresendar](../locations/phandalin/tresendar_wood.md)
-* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-
-#### Mencionados
-
-* [Mansão Tresendar](../locations/phandalin/tresendar_manor.md)
-
-### Itens
-
-* [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
-  * [Redbrands](../organizations/redbrands.md)
-    * 3 shortshorts
-    * 3 capas vermelhas
+* Cenas
+  * [Cena 1 Gigante Adormecido](#cena-1-gigante-adormecido)
+  * [Cena 2 Túnel Secreto](#cena-2-túnel-secreto)
+  * [Cena 3 Uma Voz](#cena-3-uma-voz)
+  * [Cena 4 Cisterna](#cena-4-cisterna)
+  * [Cena 5 Cripta](#cena-5-cripta)
 
 ####
 
-* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-  * cisterna
-    * 3 capas vermelhas
+* [Elenco](#elenco)
+* [Cenários](#cenários)
+* [Itens](#itens)
 
 ---
 
@@ -288,3 +234,62 @@ um rapaz adolescente está sentado abraçando os próprios joelhos.
 A tensão aumenta e parece que um combate é inevitável.
 
 ---
+
+### Elenco
+
+#### No [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
+
+* [Redbrands](../organizations/redbrands.md)
+  * bandidos
+* [Greska](../casting/npcs/phandalin/greska.md), ogre taverneiro
+
+#### Em [Phandalin](../locations/phandalin.md)
+
+* [Harbin Wester](../casting/npcs/phandalin/harbin_wester.md), prefeito
+* [Carp Alderleaf](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md),
+  garota halfling
+* [Pip Stonehill](../casting/npcs/phandalin/stonehill/pip_stonehill.md),
+  garoto humano
+* [Qelline Alderleaf](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md),
+  mãe de Carp
+
+#### No [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+
+* [Redbrands](../organizations/redbrands.md)
+  * [Ssnark](../casting/npcs/redbrands/ssnark.md), voz na cabeça
+  * bandidos
+  * esqueletos
+* prisioneiros
+  * duas mulheres e um rapaz
+
+#### Mencionados
+
+* [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), responsável
+  pelo [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
+
+### Cenários
+
+* [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
+* [Prefeitura](../locations/phandalin/townmasters_hall.md)
+* [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
+* [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)
+* [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md)
+* [Mata Tresendar](../locations/phandalin/tresendar_wood.md)
+* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+
+#### Mencionados
+
+* [Mansão Tresendar](../locations/phandalin/tresendar_manor.md)
+
+### Itens
+
+* [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
+  * [Redbrands](../organizations/redbrands.md)
+    * 3 shortshorts
+    * 3 capas vermelhas
+
+####
+
+* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+  * cisterna
+    * 3 capas vermelhas

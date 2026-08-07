@@ -6,32 +6,17 @@ _data_ : 2026-03-31 \
 _anterior_ : [Sessão 0 Prólogo](00_prologo.md) \
 _próxima_ : [Sessão 2 Phandalin](02_phandalin.md)
 
-### Cenas
+* Cenas
+  * [Cena 1 Emboscada](#cena-1-emboscada)
+  * [Cena 2 Caverna](#cena-2-caverna)
+  * [Cena 3 Água!](#cena-3-água)
+  * [Cena 4 Negociação](#cena-4-negociação)
+  * [Cena 5 Klarg!](#cena-5-klarg)
 
-* [Cena 1 Emboscada](#cena-1-emboscada)
-* [Cena 2 Caverna](#cena-2-caverna)
-* [Cena 3 Água!](#cena-3-água)
-* [Cena 4 Negociação](#cena-4-negociação)
-* [Cena 5 Klarg!](#cena-5-klarg)
+####
 
-### Elenco
-
-* [Yeemik](../casting/npcs/cragmaw/yeemik.md), rival do chefe
-* [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), prisioneiro
-* [Klarg](../casting/npcs/cragmaw/klarg.md), chefe
-* goblins
-* lobos
-
-#### Mencionados
-
-* [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md), mercador
-  sequestrado
-
-### Cenários
-
-* [Estrada Triboar](../locations/triboar_trail.md)
-  * emboscada
-* [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
+* [Elenco](#elenco)
+* [Cenários](#cenários)
 
 ---
 
@@ -199,3 +184,22 @@ resgate de [Sildar](../casting/npcs/sildar_hallwinter.md)? Ou recuar para se
 recuperar?
 
 ---
+
+### Elenco
+
+* [Yeemik](../casting/npcs/cragmaw/yeemik.md), rival do chefe
+* [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), prisioneiro
+* [Klarg](../casting/npcs/cragmaw/klarg.md), chefe
+* goblins
+* lobos
+
+#### Mencionados
+
+* [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md), mercador
+  sequestrado
+
+### Cenários
+
+* [Estrada Triboar](../locations/triboar_trail.md)
+  * emboscada
+* [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)

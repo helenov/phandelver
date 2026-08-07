@@ -6,72 +6,18 @@ _data_ : 2026-06-08 \
 _anterior_ : [Sessão 5 Perda](05_perda.md) \
 _próxima_ : [Sessão 7 Floresta](07_floresta.md)
 
-### Cenas
-
-* [Cena 1 Jeremias](#cena-1-jeremias)
-* [Cena 2 Despedidas](#cena-2-despedidas)
-* [Cena 3 Conyberry](#cena-3-conyberry)
-* [Cena 4 Necromante](#cena-4-necromante)
-* [Cena 5 Wyvern Tor](#cena-5-wyvern-tor)
-
-### Elenco
-
-* [Phandalin](../locations/phandalin.md)
-  * [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), aliado
-  * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), clériga
+* Cenas
+  * [Cena 1 Jeremias](#cena-1-jeremias)
+  * [Cena 2 Despedidas](#cena-2-despedidas)
+  * [Cena 3 Conyberry](#cena-3-conyberry)
+  * [Cena 4 Necromante](#cena-4-necromante)
+  * [Cena 5 Wyvern Tor](#cena-5-wyvern-tor)
 
 ####
 
-* [Conyberry](../locations/conyberry.md)
-  * bugbears
-
-####
-
-* [Poço da Velha Coruja](../locations/old_owl_well.md)
-  * [Hamun Kost](../casting/npcs/hamun_kost.md),
-    necromante [Red Wizard](../organizations/red_wizards.md)
-  * zumbis
-
-####
-
-* [Wyvern Tor](../locations/wyvern_tor.md)
-  * [Brughor](../casting/npcs/cragmaw/brughor.md), líder local
-  * bugbears
-
-#### Mencionados
-
-* [Agatha](../casting/npcs/agatha.md), banshee
-* [Bowgentle](../casting/npcs/bowgentle.md), mago lendário
-
-### Cenários
-
-* [Phandalin](../locations/phandalin.md)
-  * [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)
-  * [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
-* [Estrada Triboar](../locations/triboar_trail.md)
-  * [Conyberry](../locations/conyberry.md)
-* [Poço da Velha Coruja](../locations/old_owl_well.md)
-* [Montanhas da Espada](../locations/sword_montains.md)
-  * [Wyvern Tor](../locations/wyvern_tor.md)
-
-#### Mencionados
-
-* [Neverwinter](../locations/neverwinter.md)
-* [Castelo Cragmaw](../locations/cragmaw_castle.md)
-* [Floresta de Neverwinter](../locations/neverwinter_wood.md)
-  * [Covil da Agatha](../locations/agathas_lair.md)
-
-### Itens
-
-* [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
-  * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
-    * 3 poções de healing (para ajudar na missão)
-
-#### Mencionados
-
-* [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
-  * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
-    * [Grimório Bowgentle]
+* [Elenco](#elenco)
+* [Cenários](#cenários)
+* [Itens](#itens)
 
 ---
 
@@ -259,3 +205,62 @@ Desconfiados da informação, o grupo pretende levá-lo como prisioneiro, mas
 arranjo.
 
 ---
+
+### Elenco
+
+* [Phandalin](../locations/phandalin.md)
+  * [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), aliado
+  * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), clériga
+
+####
+
+* [Conyberry](../locations/conyberry.md)
+  * bugbears
+
+####
+
+* [Poço da Velha Coruja](../locations/old_owl_well.md)
+  * [Hamun Kost](../casting/npcs/hamun_kost.md),
+    necromante [Red Wizard](../organizations/red_wizards.md)
+  * zumbis
+
+####
+
+* [Wyvern Tor](../locations/wyvern_tor.md)
+  * [Brughor](../casting/npcs/cragmaw/brughor.md), líder local
+  * bugbears
+
+#### Mencionados
+
+* [Agatha](../casting/npcs/agatha.md), banshee
+* [Bowgentle](../casting/npcs/bowgentle.md), mago lendário
+
+### Cenários
+
+* [Phandalin](../locations/phandalin.md)
+  * [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)
+  * [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
+* [Estrada Triboar](../locations/triboar_trail.md)
+  * [Conyberry](../locations/conyberry.md)
+* [Poço da Velha Coruja](../locations/old_owl_well.md)
+* [Montanhas da Espada](../locations/sword_montains.md)
+  * [Wyvern Tor](../locations/wyvern_tor.md)
+
+#### Mencionados
+
+* [Neverwinter](../locations/neverwinter.md)
+* [Castelo Cragmaw](../locations/cragmaw_castle.md)
+* [Floresta de Neverwinter](../locations/neverwinter_wood.md)
+  * [Covil da Agatha](../locations/agathas_lair.md)
+
+### Itens
+
+* [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
+  * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
+    * 3 poções de healing (para ajudar na missão)
+
+#### Mencionados
+
+* [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
+  * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
+    * [Grimório Bowgentle]

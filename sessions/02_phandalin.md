@@ -6,148 +6,26 @@ _data_ : 2026-04-13 \
 _anterior_ : [Sessão 1 Goblins](01_goblins.md) \
 _próxima_ : [Sessão 3 Redbrands](03_redbrands.md)
 
-### Cenas
-
-* [Cena 1 Decisões](#cena-1-decisões)
-* [Cena 2 Troca](#cena-2-troca)
-* [Cena 3 Sildar](#cena-3-sildar)
-* [Cena 4 Interrogatório](#cena-4-interrogatório)
-* [Cena 5 Phandalin](#cena-5-phandalin)
-* [Cena 6 Venda da Barthen](#cena-6-venda-da-barthen)
-* [Cena 7 Hospedaria Stonehill](#cena-7-hospedaria-stonehill)
-* [Cena 8 Pip](#cena-8-pip)
-* [Cena 9 Pomar Edermath](#cena-9-pomar-edermath)
-* [Cena 10 Lionshield Coster](#cena-10-lionshield-coster)
-* [Cena 11 Prefeitura](#cena-11-prefeitura)
-* [Cena 12 Ferraria e Carpintaria](#cena-12-ferraria-e-carpintaria)
-* [Cena 13 Carp](#cena-13-carp)
-
-### Elenco
-
-* [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), representante
-  da [Lords' Alliance](../organizations/lords_alliance.md)
-
-#### No [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
-
-* [Yeemik](../casting/npcs/cragmaw/yeemik.md), novo chefe
-* [Flip](../casting/npcs/cragmaw/flip.md), goblin interrogado
-* goblins
-* lobos
-
-#### Em [Phandalin](../locations/phandalin.md)
-
-* [Elmina Barthen](../casting/npcs/phandalin/barthens/elmina_barthen.md),
-  dona da venda
-  * [Ander](../casting/npcs/phandalin/barthens/ander.md), funcionário da
-    venda
-  * [Thistle](../casting/npcs/phandalin/barthens/thistle.md), funcionário da
-    venda
-* [Toblen Stonehill](../casting/npcs/phandalin/stonehill/toblen_stonehill.md),
-  dono da hospedaria
-  * [Freda](../casting/npcs/phandalin/stonehill/freda.md), tecelã
-  * [Lanar](../casting/npcs/phandalin/stonehill/lanar.md), minerador
-  * [Elsa](../casting/npcs/phandalin/stonehill/elsa.md), bartender da
-    hospedaria
-  * [Pip Stonehill](../casting/npcs/phandalin/stonehill/pip_stonehill.md),
-    filho de Toblen
-* [Daran Edermath](../casting/npcs/phandalin/daran_edermath.md), velho do
-  pomar
-* [Linene Graywind](../casting/npcs/phandalin/linene_graywind.md),
-  representante da [Lionshield Coster](../organizations/lionshield_coster.md)
-* [Harbin Wester](../casting/npcs/phandalin/harbin_wester.md), prefeito
-* [Joe Smithe](../casting/npcs/phandalin/joe_smithe.md), ferreiro
-* [Carp Alderleaf](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md),
-  amiga de Pip
-
-#### Mencionados
-
-* [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md), mercador
-  sequestrado
-* [Tharden Rockseeker](../casting/npcs/tharden_rockseeker.md), irmão de
-  Gundren
-* [Nundro Rockseeker](../casting/npcs/nundro_rockseeker.md), irmão de Gundren
+* Cenas
+  * [Cena 1 Decisões](#cena-1-decisões)
+  * [Cena 2 Troca](#cena-2-troca)
+  * [Cena 3 Sildar](#cena-3-sildar)
+  * [Cena 4 Interrogatório](#cena-4-interrogatório)
+  * [Cena 5 Phandalin](#cena-5-phandalin)
+  * [Cena 6 Venda da Barthen](#cena-6-venda-da-barthen)
+  * [Cena 7 Hospedaria Stonehill](#cena-7-hospedaria-stonehill)
+  * [Cena 8 Pip](#cena-8-pip)
+  * [Cena 9 Pomar Edermath](#cena-9-pomar-edermath)
+  * [Cena 10 Lionshield Coster](#cena-10-lionshield-coster)
+  * [Cena 11 Prefeitura](#cena-11-prefeitura)
+  * [Cena 12 Ferraria e Carpintaria](#cena-12-ferraria-e-carpintaria)
+  * [Cena 13 Carp](#cena-13-carp)
 
 ####
 
-* [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
-  * [Klarg](../casting/npcs/cragmaw/klarg.md) (RIP), antigo chefe
-  * [Grol](../casting/npcs/cragmaw/grol.md), rei
-
-####
-
-* [Spider](../casting/npcs/spider.md), possível vilão
-* [Ruxithid](../casting/npcs/ruxithid.md), desconhecido
-
-####
-
-* [Phandalin](../locations/phandalin.md)
-  * [Halia Thornton](../casting/npcs/phandalin/halia_thornton.md), mestre da
-    guilda dos mineiradores
-  * [Qelline Alderleaf](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md),
-    fazendeira
-  * [Thel Dendrar](../casting/npcs/phandalin/dendrar/thel_dendrar.md) (RIP),
-    carpinteiro
-
-####
-
-* [Iarno Albrek](../casting/npcs/iarno_albrek.md), representante
-  da [Lords' Alliance](../organizations/lords_alliance.md) desaparecido
-
-####
-
-* [Redbrands](../organizations/redbrands.md)
-  * [Glasstaff](../casting/npcs/redbrands/glasstaff.md), líder criminoso
-
-### Cenários
-
-* [Estrada Triboar](../locations/triboar_trail.md)
-  * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
-
-####
-
-* [Phandalin](../locations/phandalin.md)
-  * [Venda da Barthen](../locations/phandalin/barthens_provisions.md)
-  * [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)
-  * [Pomar Edermath](../locations/phandalin/edermath_orchard.md)
-  * [Posto da Lionshield Coster](../locations/phandalin/lionshield_coster_post.md)
-  * [Prefeitura](../locations/phandalin/townmasters_hall.md)
-  * [Ferraria](../locations/phandalin/blacksmith_shop.md)
-  * [Carpintaria](../locations/phandalin/woodworker_shop.md)
-
-#### Mencionados
-
-* [Castelo Cragmaw](../locations/cragmaw_castle.md)
-
-####
-
-* [Phandalin](../locations/phandalin.md)
-  * [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
-  * [Entreposto dos Mineradores](../locations/phandalin/miners_exchange.md)
-  * [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md)
-  * [Mansão Tresendar](../locations/phandalin/tresendar_manor.md)
-  * [Mata Tresendar](../locations/phandalin/tresendar_wood.md)
-
-####
-
-* [Estrada Triboar](../locations/triboar_trail.md)
-  * [Conyberry](../locations/conyberry.md)
-
-### Itens
-
-* [Venda da Barthen](../locations/phandalin/barthens_provisions.md)
-  * [Elmina](../casting/npcs/phandalin/barthens/elmina_barthen.md)
-    * 30 gp (pagamento pela carga)
-
-####
-
-* [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
-  * [Klarg](../casting/npcs/cragmaw/klarg.md)
-    * ~2000 moedas
-      * ~50 moedas &ndash; _deixadas
-        com [Yeemik](../casting/npcs/cragmaw/yeemik.md)_
-      * 1652 cp, 146 sp
-    * 2 poções de healing &ndash; _consumidas_
-    * [sapinho de jade]
+* [Elenco](#elenco)
+* [Cenários](#cenários)
+* [Itens](#itens)
 
 ---
 
@@ -574,3 +452,130 @@ Após fazerem ela prometer que não voltará lá sozinha, combinam de se encontr
 na manhã seguinte para que ela os leve até o local.
 
 ---
+
+### Elenco
+
+* [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), representante
+  da [Lords' Alliance](../organizations/lords_alliance.md)
+
+#### No [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
+
+* [Yeemik](../casting/npcs/cragmaw/yeemik.md), novo chefe
+* [Flip](../casting/npcs/cragmaw/flip.md), goblin interrogado
+* goblins
+* lobos
+
+#### Em [Phandalin](../locations/phandalin.md)
+
+* [Elmina Barthen](../casting/npcs/phandalin/barthens/elmina_barthen.md),
+  dona da venda
+  * [Ander](../casting/npcs/phandalin/barthens/ander.md), funcionário da
+    venda
+  * [Thistle](../casting/npcs/phandalin/barthens/thistle.md), funcionário da
+    venda
+* [Toblen Stonehill](../casting/npcs/phandalin/stonehill/toblen_stonehill.md),
+  dono da hospedaria
+  * [Freda](../casting/npcs/phandalin/stonehill/freda.md), tecelã
+  * [Lanar](../casting/npcs/phandalin/stonehill/lanar.md), minerador
+  * [Elsa](../casting/npcs/phandalin/stonehill/elsa.md), bartender da
+    hospedaria
+  * [Pip Stonehill](../casting/npcs/phandalin/stonehill/pip_stonehill.md),
+    filho de Toblen
+* [Daran Edermath](../casting/npcs/phandalin/daran_edermath.md), velho do
+  pomar
+* [Linene Graywind](../casting/npcs/phandalin/linene_graywind.md),
+  representante da [Lionshield Coster](../organizations/lionshield_coster.md)
+* [Harbin Wester](../casting/npcs/phandalin/harbin_wester.md), prefeito
+* [Joe Smithe](../casting/npcs/phandalin/joe_smithe.md), ferreiro
+* [Carp Alderleaf](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md),
+  amiga de Pip
+
+#### Mencionados
+
+* [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md), mercador
+  sequestrado
+* [Tharden Rockseeker](../casting/npcs/tharden_rockseeker.md), irmão de
+  Gundren
+* [Nundro Rockseeker](../casting/npcs/nundro_rockseeker.md), irmão de Gundren
+
+####
+
+* [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
+  * [Klarg](../casting/npcs/cragmaw/klarg.md) (RIP), antigo chefe
+  * [Grol](../casting/npcs/cragmaw/grol.md), rei
+
+####
+
+* [Spider](../casting/npcs/spider.md), possível vilão
+* [Ruxithid](../casting/npcs/ruxithid.md), desconhecido
+
+####
+
+* [Phandalin](../locations/phandalin.md)
+  * [Halia Thornton](../casting/npcs/phandalin/halia_thornton.md), mestre da
+    guilda dos mineiradores
+  * [Qelline Alderleaf](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md),
+    fazendeira
+  * [Thel Dendrar](../casting/npcs/phandalin/dendrar/thel_dendrar.md) (RIP),
+    carpinteiro
+
+####
+
+* [Iarno Albrek](../casting/npcs/iarno_albrek.md), representante
+  da [Lords' Alliance](../organizations/lords_alliance.md) desaparecido
+
+####
+
+* [Redbrands](../organizations/redbrands.md)
+  * [Glasstaff](../casting/npcs/redbrands/glasstaff.md), líder criminoso
+
+### Cenários
+
+* [Estrada Triboar](../locations/triboar_trail.md)
+  * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
+
+####
+
+* [Phandalin](../locations/phandalin.md)
+  * [Venda da Barthen](../locations/phandalin/barthens_provisions.md)
+  * [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)
+  * [Pomar Edermath](../locations/phandalin/edermath_orchard.md)
+  * [Posto da Lionshield Coster](../locations/phandalin/lionshield_coster_post.md)
+  * [Prefeitura](../locations/phandalin/townmasters_hall.md)
+  * [Ferraria](../locations/phandalin/blacksmith_shop.md)
+  * [Carpintaria](../locations/phandalin/woodworker_shop.md)
+
+#### Mencionados
+
+* [Castelo Cragmaw](../locations/cragmaw_castle.md)
+
+####
+
+* [Phandalin](../locations/phandalin.md)
+  * [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
+  * [Entreposto dos Mineradores](../locations/phandalin/miners_exchange.md)
+  * [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md)
+  * [Mansão Tresendar](../locations/phandalin/tresendar_manor.md)
+  * [Mata Tresendar](../locations/phandalin/tresendar_wood.md)
+
+####
+
+* [Estrada Triboar](../locations/triboar_trail.md)
+  * [Conyberry](../locations/conyberry.md)
+
+### Itens
+
+* [Venda da Barthen](../locations/phandalin/barthens_provisions.md)
+  * [Elmina](../casting/npcs/phandalin/barthens/elmina_barthen.md)
+    * 30 gp (pagamento pela carga)
+
+####
+
+* [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
+  * [Klarg](../casting/npcs/cragmaw/klarg.md)
+    * ~2000 moedas
+      * ~50 moedas &ndash; _deixadas
+        com [Yeemik](../casting/npcs/cragmaw/yeemik.md)_
+      * 1652 cp, 146 sp
+    * 2 poções de healing &ndash; _consumidas_
+    * [sapinho de jade]

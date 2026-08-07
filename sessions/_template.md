@@ -6,11 +6,26 @@ _data_ : {YYYY-MM-DD} \
 _anterior_ : [Sessão {X-1} {Título}] \
 _próxima_ : [Sessão {X+1} {Título}]
 
-### Cenas
-
 :construction:
 
-* [Cena {X} {Título}]
+* Cenas
+  * [Cena {X} {Título}]
+
+####
+
+* [Elenco](#elenco)
+* [Cenários](#cenários)
+* [Itens](#itens)
+
+---
+
+### Cena {X} {Título}
+
+:construction: {Imagem}
+
+:construction: {Texto}
+
+---
 
 ### Elenco
 
@@ -44,12 +59,3 @@ _próxima_ : [Sessão {X+1} {Título}]
   * {detalhe}
     * {item}
 
----
-
-### Cena {X} {Título}
-
-:construction: {Imagem}
-
-:construction: {Texto}
-
----
