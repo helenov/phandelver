@@ -99,7 +99,7 @@ imediatamente sente uma sensação de pavor.
 
 Uma luz pálida cintila no ar, bem no meio do espaço, e circulando toma a forma
 de uma elfa etérea, com cabelos e vestes ondulando em resposta a um vento
-espectral. Uma expressão de ódio distorce suas feições.
+espectral. Uma expressão de ódio distorce as feições de [Agatha], a banshee.
 
 "Tolos mortais! O que vocês querem aqui? Não sabem que me procurar é o mesmo que
 procurar a morte?"
@@ -116,10 +116,11 @@ pergunta e eu lhes darei uma resposta. No entanto, responderei apenas a _uma_
 pergunta, não mais que isso. Portanto, escolham com sabedoria."
 
 Professor pergunta então o que ela sabe sobre o paradeiro
-do [Grimório de Bowgentle]. "[Bowgentle]! Há quanto tempo não ouço o nome de meu
-velho amigo... Eu mesma fiquei com seu livro após sua morte, mas o negociei com
-um necromante chamado [Tsernoth], de [Iriaebor], há mais de 100 anos, quando
-ainda vivia entre vocês mortais. Depois disso, não sei mais."
+do [Grimório de Bowgentle]. "[Bowgentle](../casting/npcs/bowgentle.md)! Há
+quanto tempo não ouço o nome de meu velho amigo... Eu mesma fiquei com seu livro
+após sua morte, mas o negociei com um necromante chamado [Tsernoth],
+de [Iriaebor], há mais de 100 anos, quando ainda vivia entre vocês mortais.
+Depois disso, não sei mais."
 
 O grupo insiste em querem saber mais detalhes deste tal necromante, mas ela
 claramente começa a se irritar.
@@ -307,6 +308,7 @@ druída também mora na vila.
 #### Mencionados
 
 * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), clériga
+* [Bowgentle](../casting/npcs/bowgentle.md), mago lendário
 * [Tsernoth], necromante
 * [Sildar Hallwinter], aliado
 * [Spider], vilão

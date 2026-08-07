@@ -13,9 +13,9 @@ Mago lendário.
 
 [//]: # (<br clear="left"/>)
 
-[//]: # (### Relações)
-[//]: # ()
-[//]: # (* {Personagem}, {detalhe})
+### Relações
+
+* [Agatha](agatha.md), amiga
 
 [//]: # (### Organizações)
 [//]: # ()
@@ -32,3 +32,9 @@ Mago lendário.
     os [Harpers](../../organizations/harpers.md) querem saber do paradeiro do
     livro do mago **Bowgentle**
     ([Cena 2](../../sessions/06_wyvern_tor.md#cena-2-despedidas))
+
+####
+
+* [Sessão 7 Floresta](../../sessions/07_floresta.md)
+  * [Agatha](agatha.md) menciona que era amiga de **Bowgentle**
+    ([Cena 2](../../sessions/07_floresta.md#cena-2-agatha))
