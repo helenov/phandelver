@@ -32,5 +32,6 @@
 ####
 
 * [Sessão 7 Floresta](../../../sessions/07_floresta.md)
-  * **Brughor** indica a localização do [Castelo Cragmaw]
+  * **Brughor** indica a localização
+    do [Castelo Cragmaw](../../../locations/cragmaw_castle.md)
     ([Cena 1](../../../sessions/07_floresta.md#cena-1-brughor))

@@ -27,8 +27,9 @@ _próxima_ : [Sessão 8 Venomfang]
 
 [Brughor](../casting/npcs/cragmaw/brughor.md), sob ameaças, fez um desenho no
 chão da caverna indicando onde estão agora, em [Wyvern Tor], e onde fica
-o [Castelo Cragmaw] na [Floresta de Neverwinter] &mdash; logo ao sul
-do [Rio Neverwinter], próximo do limite ocidental da floresta.
+o [Castelo Cragmaw](../locations/cragmaw_castle.md) na [Floresta de Neverwinter]
+&mdash; logo ao sul do [Rio Neverwinter], próximo do limite ocidental da
+floresta.
 
 O grupo desconfia que a informação possa ser mentirosa, e discuti a
 possibilidade de levar Brughor por garantia. "Vocês não precisar de Brughor.
@@ -135,8 +136,8 @@ antes procurar um bom local para descansar.
 
 No dia seguinte o plano é seguir viajando pela [Floresta de Neverwinter] para
 noroeste até encontrarem o [Rio Neverwinter] e de lá seguir para oeste
-procurando pelo [Castelo Cragmaw] como indicado pelo mapa
-de [Brughor](../casting/npcs/cragmaw/brughor.md).
+procurando pelo [Castelo Cragmaw](../locations/cragmaw_castle.md) como indicado
+pelo mapa de [Brughor](../casting/npcs/cragmaw/brughor.md).
 
 Com Jeremias guiando o caminho, ao final do terceiro dia, enquanto já procuram
 um lugar para acampar, encontram um ninho gigante, contendo dois ovos igualmente
@@ -176,7 +177,8 @@ o ovo, e criar o filhote. "Não seria legal ter um destes?!?"
 
 Após mais dois dias viajando pela floresta, finalmente chegam
 ao [Rio Neverwinter]. Neste ponto, Professor pede que Bia passe o dia
-sobrevoando a região em busca de algum sinal do [Castelo Cragmaw].
+sobrevoando a região em busca de algum sinal
+do [Castelo Cragmaw](../locations/cragmaw_castle.md).
 
 Seguem esta mesma estratégia de sobrevoos diários, enquanto seguem primeiro para
 oeste, depois para sul, se afastando do rio.
@@ -318,7 +320,7 @@ druída também mora na vila.
 
 #### Mencionados
 
-* [Castelo Cragmaw]
+* [Castelo Cragmaw](../locations/cragmaw_castle.md)
 * [Iriaebor]
 * [Phandalin]
 
