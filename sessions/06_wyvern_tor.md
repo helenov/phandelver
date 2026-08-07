@@ -69,8 +69,9 @@ Sapão, [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) conta que f
 para Conyberry para procurar uma banshee
 chamada [Agatha](../casting/npcs/agatha.md), em uma missão solicitada por seus
 superiores nos [Harpers](../organizations/harpers.md). Seu objetivo era obter
-alguma informação sobre o paradeiro do [Grimório Bowgentle], conhecido livro de
-magia do lendário mago [Bowgentle](../casting/npcs/bowgentle.md). Agatha tem
+alguma informação sobre o paradeiro
+do [Grimório Bowgentle](../items/books/bowgentle_spellbook.md), conhecido livro
+de magia do lendário mago [Bowgentle](../casting/npcs/bowgentle.md). Agatha tem
 poderem divinatórios e pode responder a qualquer pergunta, mas precisa ser
 convencida a isso.
 
@@ -263,4 +264,4 @@ arranjo.
 
 * [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
   * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
-    * [Grimório Bowgentle]
+    * [Grimório Bowgentle](../items/books/bowgentle_spellbook.md)

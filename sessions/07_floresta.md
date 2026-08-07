@@ -117,11 +117,11 @@ pergunta e eu lhes darei uma resposta. No entanto, responderei apenas a _uma_
 pergunta, não mais que isso. Portanto, escolham com sabedoria."
 
 Professor pergunta então o que ela sabe sobre o paradeiro
-do [Grimório de Bowgentle]. "[Bowgentle](../casting/npcs/bowgentle.md)! Há
-quanto tempo não ouço o nome de meu velho amigo... Eu mesma fiquei com seu livro
-após sua morte, mas o negociei com um necromante chamado [Tsernoth],
-de [Iriaebor], há mais de 100 anos, quando ainda vivia entre vocês mortais.
-Depois disso, não sei mais."
+do [Grimório Bowgentle]. "[Bowgentle](../casting/npcs/bowgentle.md)! Há quanto
+tempo não ouço o nome de meu velho amigo... Eu mesma fiquei com seu livro após
+sua morte, mas o negociei com um necromante chamado [Tsernoth], de [Iriaebor],
+há mais de 100 anos, quando ainda vivia entre vocês mortais. Depois disso, não
+sei mais."
 
 O grupo insiste em querem saber mais detalhes deste tal necromante, mas ela
 claramente começa a se irritar.
