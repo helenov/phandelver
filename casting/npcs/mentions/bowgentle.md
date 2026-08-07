@@ -10,8 +10,7 @@
 :construction:
 
 Mago lendário.
-
-[//]: # (<br clear="left"/>)
+<br clear="left"/>
 
 ### Relações
 

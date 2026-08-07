@@ -37,7 +37,7 @@
 
 * [Sessão 7 Floresta](../../sessions/07_floresta.md)
   * [Agatha](../../casting/npcs/agatha.md) diz que negociou o **Grimório
-    Bowgentle** com [Tsernoth]
+    Bowgentle** com [Tsernoth](../../casting/npcs/mentions/tsernoth.md)
     ([Cena 2](../../sessions/07_floresta.md#cena-2-agatha))
 
 [//]: # (####)
