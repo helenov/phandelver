@@ -25,10 +25,10 @@ _próxima_ : [Sessão 8 Venomfang]
 
 ![07_1_brughor.png](../images/cenas/07_1_brughor.png)
 
-[Brughor], sob ameaças, fez um desenho no chão da caverna indicando onde estão
-agora, em [Wyvern Tor], e onde fica o [Castelo Cragmaw]
-na [Floresta de Neverwinter] &mdash; logo ao sul do [Rio Neverwinter], próximo
-do limite ocidental da floresta.
+[Brughor](../casting/npcs/cragmaw/brughor.md), sob ameaças, fez um desenho no
+chão da caverna indicando onde estão agora, em [Wyvern Tor], e onde fica
+o [Castelo Cragmaw] na [Floresta de Neverwinter] &mdash; logo ao sul
+do [Rio Neverwinter], próximo do limite ocidental da floresta.
 
 O grupo desconfia que a informação possa ser mentirosa, e discuti a
 possibilidade de levar Brughor por garantia. "Vocês não precisar de Brughor.
@@ -135,7 +135,8 @@ antes procurar um bom local para descansar.
 
 No dia seguinte o plano é seguir viajando pela [Floresta de Neverwinter] para
 noroeste até encontrarem o [Rio Neverwinter] e de lá seguir para oeste
-procurando pelo [Castelo Cragmaw] como indicado pelo mapa de [Brughor].
+procurando pelo [Castelo Cragmaw] como indicado pelo mapa
+de [Brughor](../casting/npcs/cragmaw/brughor.md).
 
 Com Jeremias guiando o caminho, ao final do terceiro dia, enquanto já procuram
 um lugar para acampar, encontram um ninho gigante, contendo dois ovos igualmente
@@ -280,7 +281,7 @@ druída também mora na vila.
 ### Elenco
 
 * [Wyvern Tor]
-  * [Brughor], líder local
+  * [Brughor](../casting/npcs/cragmaw/brughor.md), líder local
 
 ####
 
@@ -324,7 +325,7 @@ druída também mora na vila.
 ### Itens
 
 * [Wyvern Tor]
-  * [Brughor]
+  * [Brughor](../casting/npcs/cragmaw/brughor.md)
     * ~200 moedas
       * 180 sp, 15 ep
     * 3 frascos de perfume

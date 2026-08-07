@@ -28,3 +28,9 @@
 * [Sessão 6 Wyvern Tor](../../../sessions/06_wyvern_tor.md)
   * grupo rende e interroga **Brughor**
     ([Cena 5](../../../sessions/06_wyvern_tor.md#cena-5-wyvern-tor))
+
+####
+
+* [Sessão 7 Floresta](../../../sessions/07_floresta.md)
+  * **Brughor** indica a localização do [Castelo Cragmaw]
+    ([Cena 1](../../../sessions/07_floresta.md#cena-1-brughor))
