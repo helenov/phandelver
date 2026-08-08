@@ -499,7 +499,7 @@ na manhã seguinte para que ela os leve até o local.
 
 ####
 
-* [Spider](../casting/npcs/mentions/spider.md), possível vilão
+* [Spider](../casting/npcs/mentions/spider.md), vilão
 * [Ruxithid](../casting/npcs/mentions/ruxithid.md), desconhecido
 
 ####

@@ -40,4 +40,16 @@
 
 * [Sessão 5 Perda](../../../sessions/05_perda.md)
   * carta de **Spider** revela que [Glasstaff](../redbrands/glasstaff.md)
-    é [Iarno Albrek](../iarno_albrek.md) ([Cena 1](../../../sessions/05_perda.md#cena-1-carta))
+    é [Iarno Albrek](../iarno_albrek.md)
+    ([Cena 1](../../../sessions/05_perda.md#cena-1-carta))
+
+####
+
+* [Sessão 7 Floresta](../../../sessions/07_floresta.md)
+  * [Iarno](../iarno_albrek.md) diz que foi traído por **Spider**
+    ([Cena 5](../../../sessions/07_floresta.md#cena-5-arrependido))
+
+[//]: # (####)
+[//]: # ()
+[//]: # (* [Sessão {X} {Título}])
+[//]: # (  * {detalhe} &#40;[Cena {X}]&#41;)

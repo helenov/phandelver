@@ -268,8 +268,9 @@ era... mas estou arrependido de minhas ações."
 
 E conta foi para Phandalin para representar
 a [Lords' Alliance](../organizations/lords_alliance.md) na região, mas foi
-tentado por [Spider] que apelou para sua ambição, prometendo grandes poderes.
-Tudo ia indo muito bem, mas com a derrocada do Redbrands &mdash;
+tentado por [Spider](../casting/npcs/mentions/spider.md) que apelou para sua
+ambição, prometendo grandes poderes. Tudo ia indo muito bem, mas com a derrocada
+do Redbrands &mdash;
 "graças a vocês!" &mdash; teve de fugir e Spider sugeriu que viesse
 para [Thundertree](../locations/thundertree.md) para se esconder por um tempo.
 
@@ -316,8 +317,8 @@ druída também mora na vila.
 * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), clériga
 * [Bowgentle](../casting/npcs/mentions/bowgentle.md), mago lendário
 * [Tsernoth](../casting/npcs/mentions/tsernoth.md), necromante
+* [Spider](../casting/npcs/mentions/spider.md), vilão
 * [Sildar Hallwinter], aliado
-* [Spider], vilão
 
 ####
 

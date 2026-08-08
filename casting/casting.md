@@ -99,7 +99,7 @@
 
 ####
 
-* [Spider](npcs/mentions/spider.md), inimigo
+* [Spider](npcs/mentions/spider.md), vilão
 * [Ruxithid](npcs/mentions/ruxithid.md)
 
 ####
