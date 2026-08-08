@@ -75,7 +75,7 @@ por não se envolver em encrenca.
 ![07_2_agatha.jpg](../images/cenas/07_2_agatha.png)
 
 Viajam de volta, pelo mesmo caminho percorrido há dois dias, e passam por
-[Conyberry] por volta do meio-dia.
+[Conyberry](../locations/conyberry.md) por volta do meio-dia.
 
 Seguindo as orientações dadas
 pela [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), entram
@@ -328,7 +328,7 @@ druída também mora na vila.
 
 * [Wyvern Tor](../locations/wyvern_tor.md)
 * [Poço da Velha Coruja](../locations/old_owl_well.md)
-* [Conyberry]
+* [Conyberry](../locations/conyberry.md)
 * [Floresta Neverwinter](../locations/neverwinter_wood.md)
   * [Covil da Agatha](../locations/agathas_lair.md)
   * [Rio Neverwinter](../locations/neverwinter_river.md)

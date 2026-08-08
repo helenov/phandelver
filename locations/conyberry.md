@@ -54,3 +54,15 @@
   * grupo viaja 3 dias pela [Estrada Triboar](triboar_trail.md) até
     **Conyberry**
     ([Cena 3](../sessions/06_wyvern_tor.md#cena-3-conyberry))
+
+####
+
+* [Sessão 7 Floresta](../sessions/07_floresta.md)
+  * grupo passa por **Conyberry** a caminho
+    do [Covil da Agatha](agathas_lair.md)
+    ([Cena 2](../sessions/07_floresta.md#cena-2-agatha))
+
+[//]: # (####)
+[//]: # ()
+[//]: # (* [Sessão {X} {Título}])
+[//]: # (  * {detalhe} &#40;[Cena {X}]&#41;)
