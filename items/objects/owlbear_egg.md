@@ -3,7 +3,7 @@
 ## Ovo de Owlbear
 
 <!-- @formatter:off -->
-<img alt="{Descrição}" src="../../images/items/owlbear_egg.png" style="width:200px; margin-right: 15px; float: left" />
+<img alt="Ovo de Owlbear" src="../../images/items/owlbear_egg.png" style="width:200px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
 :construction: {Texto}
