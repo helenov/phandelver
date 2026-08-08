@@ -2,7 +2,7 @@
 
 ## Floresta Neverwinter
 
-![Floresta Neverwinter](../images/cenas/07_4_buscas.png)
+![Floresta Neverwinter](../images/locations/neverwinter_wood.png)
 
 :construction: {Texto}
 <br clear="left"/>
