@@ -75,7 +75,7 @@ por não se envolver em encrenca.
 ![07_2_agatha.jpg](../images/cenas/07_2_agatha.png)
 
 Viajam de volta, pelo mesmo caminho percorrido há dois dias, e passam por
-Conyberry por volta do meio-dia.
+[Conyberry] por volta do meio-dia.
 
 Seguindo as orientações dadas
 pela [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), entram
@@ -267,17 +267,15 @@ O homem se mostra assustado, mas não tem forças para negar. "Sim, sou eu... ou
 era... mas estou arrependido de minhas ações."
 
 E conta foi para Phandalin para representar a [Lords' Alliance] na região, mas
-que foi tentando pelo [Spider] que apelou para sua ambição, prometendo grandes
+foi tentado por [Spider] que apelou para sua ambição, prometendo grandes
 poderes. Tudo ia indo muito bem, mas com a derrocada do [Redbrands] &mdash;
 "graças a vocês!" &mdash; teve de fugir e Spider sugeriu que viesse
-para [Thundertree](../locations/thundertree.md) com o intúito de me esconder por
-um tempo.
+para [Thundertree](../locations/thundertree.md) para se esconder por um tempo.
 
 Mas, ao que parece, Spider tinha um acordo com os cultistas que o capturaram
-assim que chegou. Ele acha que Spider tem algum interesse de aliança com o tal
-[dragão], e fez um acordo com os cultistas para intermediar esta aliança. "E os
-cultistas pretendem me oferecer em sacrifício para ganhar as boas graças da
-criatura."
+assim que chegou. Ele acha que Spider tem um interesse de se aliar ao [dragão],
+e fez um acordo com os cultistas para intermediar esta aliança. "E os cultistas
+pretendem me oferecer em sacrifício para ganhar as boas graças da criatura."
 
 "Mas onde estão estes cultistas?"
 
@@ -285,12 +283,12 @@ criatura."
 daqui."
 
 "Mas, p-por favor, não me deixem aqui. Podem me levar, eu confesso todos os meus
-crimes e me arrependo deles. Sildar era meu amigo... ele vai entender... ou pelo
-menos será justo comigo. Prefiro a justiça da Lords' Alliance a uma morte
+crimes e me arrependo deles. [Sildar] era meu amigo... ele vai entender... ou
+pelo menos será justo comigo. Prefiro a justiça da Lords' Alliance a uma morte
 horrível e dolorosa..."
 
 Perguntado se há mais alguém na vila, diz que ouviu os cultistas mencionarem de
-um "druida velhote que poderia atrapalhar seus planos". Entendeu que o tal
+um "[druida] velhote que poderia atrapalhar seus planos". Entendeu que o tal
 druída também mora na vila.
 
 ---
