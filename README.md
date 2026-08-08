@@ -26,5 +26,5 @@
   * (2026-05-25) [Sessão 5 Perda](sessions/05_perda.md)
   * (2026-06-08) [Sessão 6 Wyvern Tor](sessions/06_wyvern_tor.md)
   * (2026-07-06) [Sessão 7 Floresta](sessions/07_floresta.md)
-  * (2026-08-04) [Sessão 8 Venomfang]
+  * (2026-08-04) [Sessão 8 Venomfang](sessions/08_venomfang.md) :construction:
   * (2026-08-17) [Sessão 9] próxima...

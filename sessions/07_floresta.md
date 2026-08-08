@@ -4,7 +4,7 @@
 
 _data_ : 2026-07-06 \
 _anterior_ : [Sessão 6 Wyvern Tor](06_wyvern_tor.md) \
-_próxima_ : [Sessão 8 Venomfang]
+_próxima_ : [Sessão 8 Venomfang](08_venomfang.md)
 
 * Cenas
   * [Cena 1 Brughor](#cena-1-brughor)
