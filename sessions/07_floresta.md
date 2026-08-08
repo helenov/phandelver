@@ -286,9 +286,9 @@ em sacrifício para ganhar as boas graças da criatura."
 daqui."
 
 "Mas, p-por favor, não me deixem aqui. Podem me levar, eu confesso todos os meus
-crimes e me arrependo deles. [Sildar] era meu amigo... ele vai entender... ou
-pelo menos será justo comigo. Prefiro a justiça da Lords' Alliance a uma morte
-horrível e dolorosa..."
+crimes e me arrependo deles. [Sildar](../casting/npcs/sildar_hallwinter.md) era
+meu amigo... ele vai entender... ou pelo menos será justo comigo. Prefiro a
+justiça da Lords' Alliance a uma morte horrível e dolorosa..."
 
 Perguntado se há mais alguém na vila, diz que ouviu os cultistas mencionarem de
 um "[druida] velhote que poderia atrapalhar seus planos". Entendeu que o tal
@@ -318,7 +318,7 @@ druída também mora na vila.
 * [Bowgentle](../casting/npcs/mentions/bowgentle.md), mago lendário
 * [Tsernoth](../casting/npcs/mentions/tsernoth.md), necromante
 * [Spider](../casting/npcs/mentions/spider.md), vilão
-* [Sildar Hallwinter], aliado
+* [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), aliado
 
 ####
 

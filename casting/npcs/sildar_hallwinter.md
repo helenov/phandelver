@@ -117,3 +117,14 @@ do que julga seu amigo otimista.
   * **Sildar** reforça pedido para investigarem próximo
     a [Conyberry](../../locations/conyberry.md)
     ([Cena 2](../../sessions/06_wyvern_tor.md#cena-2-despedidas))
+
+####
+
+* [Sessão 7 Floresta](../../sessions/07_floresta.md)
+  * [Iarno](iarno_albrek.md) diz que era amigo de **Sildar**
+    ([Cena 5](../../sessions/07_floresta.md#cena-5-arrependido))
+
+[//]: # (####)
+[//]: # ()
+[//]: # (* [Sessão {X} {Título}])
+[//]: # (  * {detalhe} &#40;[Cena {X}]&#41;)
