@@ -9,7 +9,10 @@ _próxima_ : [Sessão 9] próxima...
 :construction:
 
 * Cenas
-  * [Cena {X} {Título}]
+  * [Cena 1 Galhos](#cena-1-galhos)
+  * [Cena 2 Druida](#cena-2-druida)
+  * [Cena 3 Aranhas](#cena-3-aranhas)
+  * [Cena 4 Dragão](#cena-4-dragão)
 
 ####
 
@@ -19,7 +22,31 @@ _próxima_ : [Sessão 9] próxima...
 
 ---
 
-### Cena {X} {Título}
+### Cena 1 Galhos
+
+:construction: {Imagem}
+
+:construction: {Texto}
+
+---
+
+### Cena 2 Druida
+
+:construction: {Imagem}
+
+:construction: {Texto}
+
+---
+
+### Cena 3 Aranhas
+
+:construction: {Imagem}
+
+:construction: {Texto}
+
+---
+
+### Cena 4 Dragão
 
 :construction: {Imagem}
 
