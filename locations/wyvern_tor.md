@@ -2,7 +2,7 @@
 
 ## Wyvern Tor
 
-![06_5_wyvern_tor.jpg](../images/cenas/06_5_wyvern_tor.jpg)
+![06_5_wyvern_tor.png](../images/cenas/06_5_wyvern_tor.png)
 
 :construction: {Texto}
 <br clear="left"/>

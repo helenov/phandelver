@@ -167,7 +167,7 @@ campo de estudos, "por gentileza."
 
 ### Cena 5 Wyvern Tor
 
-![Uma ravina profunda acompanha um grande penhasco de pedra. Acima de um desnível é possível ver a entrada levemente iluminada de uma caverna de onde saí uma fumaça.](../images/cenas/06_5_wyvern_tor.jpg)
+![Uma ravina profunda acompanha um grande penhasco de pedra. Acima de um desnível é possível ver a entrada levemente iluminada de uma caverna de onde saí uma fumaça.](../images/cenas/06_5_wyvern_tor.png)
 
 No dia seguinte, após mais algumas horas de caminhada, chegam a base do penhasco
 da [Wyvern Tor](../locations/wyvern_tor.md) e, seguindo as indicações do
