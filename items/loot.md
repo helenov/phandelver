@@ -110,7 +110,7 @@
 ####
 
 * [Floresta Neverwinter](../locations/neverwinter_wood.md)
-  * owlbear ([Sessão 7 Cena 3])
+  * owlbear ([Sessão 7 Cena 3](../sessions/07_floresta.md#cena-3-owlbear))
     * [ovo](objects/owlbear_egg.md) &ndash; _com Ralf_
 
 ####
@@ -164,7 +164,7 @@
 * Ralf
   * [sapinho de jade]
   * [tapa-olho cravejado de pedras]
-  * [ovo de owlbear]
+  * [ovo de owlbear](objects/owlbear_egg.md)
 
 ####
 
