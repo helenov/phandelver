@@ -173,7 +173,7 @@
 #### manhã
 
 * chegada a [Thundertree](locations/thundertree.md)
-* encontro com [Glasstaff](casting/npcs/redbrands/glasstaff.md)
+* encontro com [Iarno](casting/npcs/iarno_albrek.md)
   * [Sessão 7](sessions/07_floresta.md): [Cena 5](sessions/07_floresta.md#cena-5-arrependido)
 
 :construction: continua...

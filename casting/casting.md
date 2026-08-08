@@ -65,7 +65,7 @@
 * [Redbrands](../organizations/redbrands.md)
   * [Iarno Albrek](npcs/iarno_albrek.md),
     aka [Glasstaff](npcs/redbrands/glasstaff.md), líder criminoso
-    * seu mascote
+    * mascote
 
 ####
 

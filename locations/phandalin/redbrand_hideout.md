@@ -10,7 +10,7 @@
 
 * [Glasstaff](../../casting/npcs/redbrands/glasstaff.md), líder
   dos [Redbrands](../../organizations/redbrands.md)
-  * seu mascote
+  * mascote
 * [Ssnark](../../casting/npcs/redbrands/ssnark.md) (RIP), criatura que guarda o
   **Esconderijo Redbrand**
 * bandidos

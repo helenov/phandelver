@@ -16,7 +16,7 @@
 ####
 
 * [Ssnark](ssnark.md) (RIP), aliado e subordinado
-* seu mascote
+* mascote
 
 ### Organizações
 

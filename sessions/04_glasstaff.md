@@ -41,13 +41,13 @@ encurralar justamente nesta passagem, derrotando enfim o último adversário.
 
 Agora, com tudo mais calmo novamente, o grupo conversa com os prisioneiros. A
 mulher mais velha se apresenta
-como [Mirna Dendrar](../casting/npcs/phandalin/dendrar/mirna_dendrar.md),
-esposa do carpinteiro
+como [Mirna Dendrar](../casting/npcs/phandalin/dendrar/mirna_dendrar.md), esposa
+do carpinteiro
 [Thel Dendrar](../casting/npcs/phandalin/dendrar/thel_dendrar.md), e "nossos
-filhos [Nilsa](../casting/npcs/phandalin/dendrar/nilsa_dendrar.md)", uma
-jovem de pouco mais de 18 anos,
-"e [Nars](../casting/npcs/phandalin/dendrar/nars_dendrar.md)", um garoto de
-12 anos.
+filhos [Nilsa](../casting/npcs/phandalin/dendrar/nilsa_dendrar.md)", uma jovem
+de pouco mais de 18 anos,
+"e [Nars](../casting/npcs/phandalin/dendrar/nars_dendrar.md)", um garoto de 12
+anos.
 
 Mirna conta como os [Redbrands](../organizations/redbrands.md) mataram seu
 marido e levaram seu corpo, depois voltaram e levaram a família. "Acho que eles
@@ -178,20 +178,19 @@ de livrar o lugar dos bandidos que ainda restam.
 
 ### Elenco
 
-* [Mirna Dendrar](../casting/npcs/phandalin/dendrar/mirna_dendrar.md), viúva
-  do
+* [Mirna Dendrar](../casting/npcs/phandalin/dendrar/mirna_dendrar.md), viúva do
   carpinteiro [Thel Dendrar](../casting/npcs/phandalin/dendrar/thel_dendrar.md)
   (RIP)
-  * [Nilsa Dendrar](../casting/npcs/phandalin/dendrar/nilsa_dendrar.md),
-    filha de Mirna
-  * [Nars Dendrar](../casting/npcs/phandalin/dendrar/nars_dendrar.md), filho
+  * [Nilsa Dendrar](../casting/npcs/phandalin/dendrar/nilsa_dendrar.md), filha
     de Mirna
+  * [Nars Dendrar](../casting/npcs/phandalin/dendrar/nars_dendrar.md), filho de
+    Mirna
 
 ####
 
 * [Redbrands](../organizations/redbrands.md)
   * [Glasstaff](../casting/npcs/redbrands/glasstaff.md), líder
-    * seu mascote
+    * mascote
   * [Ssnark](../casting/npcs/redbrands/ssnark.md), criatura que guarda
     o [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
   * bandidos
