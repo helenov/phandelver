@@ -116,7 +116,8 @@
 ####
 
 * [Thundertree](../locations/thundertree.md)
-  * [dragão](../casting/npcs/thundertree/dragao.md) ([Sessão 8 Cena 4])
+  * [dragão](../casting/npcs/thundertree/dragao.md)
+    ([Sessão 8 Cena 4](../sessions/08_venomfang.md#cena-4-dragão))
     * ~1000 moedas
       * 800 sp, 150 gp &ndash; _com grupo_
     * 4 [cálices de prata] com moonstones &ndash; _com grupo_
