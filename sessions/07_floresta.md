@@ -291,8 +291,8 @@ meu amigo... ele vai entender... ou pelo menos será justo comigo. Prefiro a
 justiça da Lords' Alliance a uma morte horrível e dolorosa..."
 
 Perguntado se há mais alguém na vila, diz que ouviu os cultistas mencionarem de
-um "[druida] velhote que poderia atrapalhar seus planos". Entendeu que o tal
-druída também mora na vila.
+um "[druida](../casting/npcs/thundertree/druida.md) velhote que poderia
+atrapalhar seus planos". Entendeu que o tal druida mora na vila.
 
 ---
 
@@ -324,7 +324,7 @@ druída também mora na vila.
 
 * [Thundertree](../locations/thundertree.md)
   * [dragão](../casting/npcs/thundertree/dragao.md), ocupante da torre
-  * [druída]
+  * [druida](../casting/npcs/thundertree/druida.md), morador
   * cultistas, ocupantes
 
 ### Cenários

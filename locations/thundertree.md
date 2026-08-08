@@ -18,7 +18,7 @@ destaca uma torre de pedra com o telhado parcialmente desabado e uma casa anexa.
 
 * [Iarno 'Glasstaff' Albrek](../casting/npcs/iarno_albrek.md), prisioneiro
 * [dragão](../casting/npcs/thundertree/dragao.md), ocupante da torre
-* [druida]
+* [druida](../casting/npcs/thundertree/druida.md), morador
 * cultistas, ocupantes
 
 [//]: # (### Organizações)
