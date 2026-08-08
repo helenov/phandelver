@@ -49,6 +49,8 @@ _próxima_ : [Sessão {X+1} {Título}]
 
 ### Itens
 
+:construction:
+
 * {Local}
   * {detalhe}
     * {item} &ndash; _{destinação}_
