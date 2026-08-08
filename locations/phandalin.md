@@ -47,8 +47,8 @@
   de [Thel Dendrar](../casting/npcs/phandalin/dendrar/thel_dendrar.md)
   * [Nilsa Dendrar](../casting/npcs/phandalin/dendrar/nilsa_dendrar.md), filha
     de Thel e Mirna
-  * [Nars Dendrar](../casting/npcs/phandalin/dendrar/nars_dendrar.md), filho
-    de Thel e Mirna
+  * [Nars Dendrar](../casting/npcs/phandalin/dendrar/nars_dendrar.md), filho de
+    Thel e Mirna
 
 #### Mencionados
 
@@ -105,3 +105,14 @@
   * [Harbin](../casting/npcs/phandalin/harbin_wester.md) nomeia o grupo como
     força de segurança provisória de **Phandalin**
     ([Cena 11](../sessions/02_phandalin.md#cena-11-prefeitura))
+
+####
+
+* [Sessão 6 Wyvern Tor](../sessions/06_wyvern_tor.md)
+  * grupo deixa Phandalin rumo a [Conyberry](conyberry.md)
+    ([Cena 2](../sessions/06_wyvern_tor.md#cena-2-despedidas))
+
+[//]: # (####)
+[//]: # ()
+[//]: # (* [Sessão {X} {Título}])
+[//]: # (  * {detalhe} &#40;[Cena {X}]&#41;)

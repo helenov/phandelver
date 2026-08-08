@@ -229,7 +229,7 @@ Lá de dentro ouvem uma voz fraca e lamurienta, "P-por favor, não me matem!"
 
 "Abra a porta! Vamos conversar!"
 
-"Não posso! Foi trancada por fora!"
+"Não posso! Estou trancado aqui!"
 
 Com sua madeira já envelhecida, Ralf derruba a porta com relativa facilidade. Lá
 dentro, encolhido a um canto, encontram um homem baixo de cabelo e barba pretos,
@@ -246,8 +246,8 @@ ao [dragão](../casting/npcs/thundertree/dragao.md) que vive na torre."
 
 "Mas afinal quem é você?"
 
-"Eu fugi de [Phandalin] devido aos [Redbrands], só estava procurando um lugar
-para me abrigar."
+"Eu fugi de [Phandalin](../locations/phandalin.md) devido aos [Redbrands], só
+estava procurando um lugar para me abrigar."
 
 "Ah! De Phandalin? Nós também somos de Phandalin! Somos a nova força de
 segurança da cidade. Os Redbrands não são mais um problema, nós mesmos os
@@ -339,7 +339,7 @@ druída também mora na vila.
 
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
 * [Iriaebor](../locations/iriaebor.md)
-* [Phandalin]
+* [Phandalin](../locations/phandalin.md)
 
 ### Itens
 
