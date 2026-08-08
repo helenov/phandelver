@@ -2,7 +2,7 @@
 
 ## Covil da Agatha
 
-![07_2_agatha.png](../images/cenas/07_2_agatha.png)
+![No centro de uma clareira lúgubre e enevoada, uma grande árvore de galhos retorcidos tem uma porta de maneira instalada em seu largo tronco.](../images/cenas/07_2_agatha.png)
 
 :construction: {Texto}
 

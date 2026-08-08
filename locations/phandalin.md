@@ -2,7 +2,7 @@
 
 ## Phandalin
 
-![02_5_phandalin.jpg](../images/cenas/02_5_phandalin.jpg)
+![A vila de Phandalin é vista da estrada. Construções simples de madeira e pedra erguidas sobre antigas funções de pedra. Do lado esquerdo, sobre uma colina é possível ver as ruínas do que um dia foi uma suntuosa mansão. Ao fundo montanhas se destacam no horizonte.](../images/cenas/02_5_phandalin.jpg)
 
 :construction: {Texto}
 

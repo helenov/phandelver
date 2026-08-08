@@ -2,7 +2,7 @@
 
 ## Esconderijo Cragmaw
 
-![01_2_caverna.png](../images/cenas/01_2_caverna.png)
+![A trilha cercada de vegetação, leva a entrada de uma caverna escura, de onde sai um riacho.](../images/cenas/01_2_caverna.png)
 
 :construction: {Texto}
 

@@ -2,7 +2,7 @@
 
 ## Gigante Adormecido
 
-![03_1_gigante_adormecido.jpeg](../../images/cenas/03_1_gigante_adormecido.jpeg)
+![Um grupo de vilões usando capas vermelhas está reunido em frente a um bar em ruinas, eles seguram canecos de cerveja enquanto encaram vocês.](../../images/cenas/03_1_gigante_adormecido.jpeg)
 
 :construction: {Texto}
 

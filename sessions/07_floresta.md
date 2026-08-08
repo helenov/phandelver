@@ -72,7 +72,7 @@ por não se envolver em encrenca.
 
 ### Cena 2 Agatha
 
-![07_2_agatha.jpg](../images/cenas/07_2_agatha.png)
+![No centro de uma clareira lúgubre e enevoada, uma grande árvore de galhos retorcidos tem uma porta de maneira instalada em seu largo tronco.](../images/cenas/07_2_agatha.png)
 
 Viajam de volta, pelo mesmo caminho percorrido há dois dias, e passam por
 [Conyberry](../locations/conyberry.md) por volta do meio-dia.

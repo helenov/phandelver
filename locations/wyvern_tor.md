@@ -2,7 +2,7 @@
 
 ## Wyvern Tor
 
-![06_5_wyvern_tor.png](../images/cenas/06_5_wyvern_tor.png)
+![Uma ravina profunda acompanha um grande penhasco de pedra. Na base do penhasco, acima de um desnível é possível ver a entrada de uma caverna. Uma silhueta humanóide está sentada em frente a entrada.](../images/cenas/06_5_wyvern_tor.png)
 
 :construction: {Texto}
 <br clear="left"/>

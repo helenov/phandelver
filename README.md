@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-![cover.png](images/cover.png)
+![Um grupo de goblins estão carregando pedras no alto de uma colina, com uma vila abaixo.](images/cover.png)
 
 ## Elenco
 

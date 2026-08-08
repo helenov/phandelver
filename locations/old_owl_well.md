@@ -2,7 +2,7 @@
 
 ## Poço da Velha Coruja
 
-![06_4_necromante.png](../images/cenas/06_4_necromante.png)
+![No alto de uma pequena colina, estão as ruínas de uma antiga torre de vigia.](../images/cenas/06_4_necromante.png)
 
 :construction: {Texto}
 <br clear="left"/>

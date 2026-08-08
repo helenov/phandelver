@@ -2,7 +2,7 @@
 
 ## Esconderijo Redbrand
 
-![03_4_cisterna.png](../../images/cenas/03_4_cisterna.png)
+![Um grande salão contendo uma cisterna cheia de água limpa que jorra de um cano em forma de cabeça de leão na parede. Ao redor da sala estão muitas caixas e sacos de suprimentos.](../../images/cenas/03_4_cisterna.png)
 
 :construction: {Texto}
 

@@ -71,9 +71,9 @@ chamada [Agatha](../casting/npcs/agatha.md), em uma missão solicitada por seus
 superiores nos [Harpers](../organizations/harpers.md). Seu objetivo era obter
 alguma informação sobre o paradeiro
 do [Grimório Bowgentle](../items/books/bowgentle_spellbook.md), conhecido livro
-de magia do lendário mago [Bowgentle](../casting/npcs/mentions/bowgentle.md). Agatha tem
-poderem divinatórios e pode responder a qualquer pergunta, mas precisa ser
-convencida a isso.
+de magia do lendário mago [Bowgentle](../casting/npcs/mentions/bowgentle.md).
+Agatha tem poderem divinatórios e pode responder a qualquer pergunta, mas
+precisa ser convencida a isso.
 
 Ela diz que subestimou a ganância da criatura e, ao não oferecer um presente em
 troca de uma resposta, foi atacada e se salvou por pouco. A banshee tem especial
@@ -167,7 +167,7 @@ campo de estudos, "por gentileza."
 
 ### Cena 5 Wyvern Tor
 
-![Uma ravina profunda acompanha um grande penhasco de pedra. Acima de um desnível é possível ver a entrada levemente iluminada de uma caverna de onde saí uma fumaça.](../images/cenas/06_5_wyvern_tor.png)
+![Uma ravina profunda acompanha um grande penhasco de pedra. Na base do penhasco, acima de um desnível é possível ver a entrada de uma caverna. Uma silhueta humanóide está sentada em frente a entrada.](../images/cenas/06_5_wyvern_tor.png)
 
 No dia seguinte, após mais algumas horas de caminhada, chegam a base do penhasco
 da [Wyvern Tor](../locations/wyvern_tor.md) e, seguindo as indicações do
