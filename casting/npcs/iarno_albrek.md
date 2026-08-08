@@ -82,6 +82,8 @@ poção de invisibilidade.
 * [Sessão 7 Floresta](../../sessions/07_floresta.md)
   * grupo encontra **Iarno** em [Thundertree](../../locations/thundertree.md)
     ([Cena 5](../../sessions/07_floresta.md#cena-5-arrependido))
+  * **Iarno** menciona a existência do [dragão](thundertree/dragao.md)
+    ([Cena 5](../../sessions/07_floresta.md#cena-5-arrependido))
 
 [//]: # (####)
 [//]: # ()

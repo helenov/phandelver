@@ -242,7 +242,7 @@ cultistas..."
 
 "Fui capturado pelos cultistas assim que cheguei
 a [Thundertree](../locations/thundertree.md). Eles querem me sacrificar
-ao [dragão] que vive na torre."
+ao [dragão](../casting/npcs/thundertree/dragao.md) que vive na torre."
 
 "Mas afinal quem é você?"
 
@@ -273,9 +273,10 @@ poderes. Tudo ia indo muito bem, mas com a derrocada do [Redbrands] &mdash;
 para [Thundertree](../locations/thundertree.md) para se esconder por um tempo.
 
 Mas, ao que parece, Spider tinha um acordo com os cultistas que o capturaram
-assim que chegou. Ele acha que Spider tem um interesse de se aliar ao [dragão],
-e fez um acordo com os cultistas para intermediar esta aliança. "E os cultistas
-pretendem me oferecer em sacrifício para ganhar as boas graças da criatura."
+assim que chegou. Ele acha que Spider tem um interesse de se aliar
+ao [dragão](../casting/npcs/thundertree/dragao.md), e fez um acordo com os
+cultistas para intermediar esta aliança. "E os cultistas pretendem me oferecer
+em sacrifício para ganhar as boas graças da criatura."
 
 "Mas onde estão estes cultistas?"
 
@@ -320,9 +321,9 @@ druída também mora na vila.
 ####
 
 * [Thundertree](../locations/thundertree.md)
-  * [dragão]
+  * [dragão](../casting/npcs/thundertree/dragao.md), ocupante da torre
   * [druída]
-  * cultistas
+  * cultistas, ocupantes
 
 ### Cenários
 
