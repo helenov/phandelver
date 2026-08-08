@@ -2,10 +2,9 @@
 
 ## Brughor, <small>_orc_</small>
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-:construction: {Imagem}
+<!-- @formatter:off -->
+<img alt="Brughor" src="../../../images/characters/cragmaw/brughor.png" style="width:200px; margin-right: 15px; float: left" />
+<!-- @formatter:on -->
 
 :construction: {Texto}
 <br clear="left"/>
