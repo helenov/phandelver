@@ -246,12 +246,12 @@ ao [dragão](../casting/npcs/thundertree/dragao.md) que vive na torre."
 
 "Mas afinal quem é você?"
 
-"Eu fugi de [Phandalin](../locations/phandalin.md) devido aos [Redbrands], só
-estava procurando um lugar para me abrigar."
+"Eu fugi de [Phandalin](../locations/phandalin.md) por causa dos bandidos que
+estão vandalizando por lá, só estava procurando um lugar para me abrigar."
 
 "Ah! De Phandalin? Nós também somos de Phandalin! Somos a nova força de
-segurança da cidade. Os Redbrands não são mais um problema, nós mesmos os
-debandamos."
+segurança da cidade. Os [Redbrands](../organizations/redbrands.md) não são mais
+um problema, nós mesmos os debelamos."
 
 "Ah! Então foram _vocês_ que derrotaram os Redbrands?!?", disse arregalando os
 olhos e se encolhendo um pouco mais.
@@ -259,7 +259,7 @@ olhos e se encolhendo um pouco mais.
 "Como assim 'foram _vocês_'!? Você já nos conhece?", Professor e Ralf desconfiam
 da identidade do sujeito, "Quem é você? Qual o seu nome?"
 
-"Bom... eu sou [Iarno](../casting/npcs/iarno_albrek.md)!"
+"Bom... eu sou [Iarno Albrek](../casting/npcs/iarno_albrek.md)!"
 
 "Então você é Glasstaff! O líder dos Redbrands!"
 
@@ -268,7 +268,7 @@ era... mas estou arrependido de minhas ações."
 
 E conta foi para Phandalin para representar a [Lords' Alliance] na região, mas
 foi tentado por [Spider] que apelou para sua ambição, prometendo grandes
-poderes. Tudo ia indo muito bem, mas com a derrocada do [Redbrands] &mdash;
+poderes. Tudo ia indo muito bem, mas com a derrocada do Redbrands &mdash;
 "graças a vocês!" &mdash; teve de fugir e Spider sugeriu que viesse
 para [Thundertree](../locations/thundertree.md) para se esconder por um tempo.
 
