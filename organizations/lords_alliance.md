@@ -16,8 +16,7 @@ civilização.
 
 * [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), representante
   em [Phandalin](../locations/phandalin.md)
-* [Iarno Albrek](../casting/npcs/iarno_albrek.md), representante
-  em [Phandalin](../locations/phandalin.md) desaparecido
+* [Iarno Albrek](../casting/npcs/iarno_albrek.md), membro desertor
 
 [//]: # (### Locais)
 [//]: # ()
@@ -40,3 +39,10 @@ civilização.
   * [Daran](../casting/npcs/phandalin/daran_edermath.md) fica satisfeito que
     tenham mandado [Sildar](../casting/npcs/sildar_hallwinter.md)
     ([Cena 9](../sessions/02_phandalin.md#cena-9-pomar-edermath))
+
+####
+
+* [Sessão 7 Floresta](../sessions/07_floresta.md)
+  * [Iarno](../casting/npcs/iarno_albrek.md) conta como foi enviado
+    para [Phandalin](../locations/phandalin.md)
+    ([Cena 5](../sessions/07_floresta.md#cena-5-arrependido))

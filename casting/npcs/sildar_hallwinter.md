@@ -10,9 +10,9 @@
 cidade de [Neverwinter](../../locations/phandalin.md).
 
 Sendo é um membro leal
-da [Lords' Alliance](../../organizations/lords_alliance.md), está sendo enviando
+da [Lords' Alliance](../../organizations/lords_alliance.md), enviando
 a [Phandalin](../../locations/phandalin.md) com a missão de encontrar um
-companheiro. Sabendo que seu velho
+companheiro desaparecido. Sabendo que seu velho
 amigo [Gundren Rockseeker](gundren_rockseeker.md) está de partida com o mesmo
 destino, resolve acompanhá-lo, pois suspeita que a viagem possa ter mais perigos
 do que julga seu amigo otimista.
