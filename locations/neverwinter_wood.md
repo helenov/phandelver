@@ -2,10 +2,7 @@
 
 ## Floresta Neverwinter
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-:construction: {Imagem}
+![Floresta Neverwinter](../images/cenas/07_4_buscas.png)
 
 :construction: {Texto}
 <br clear="left"/>
