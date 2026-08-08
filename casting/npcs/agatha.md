@@ -2,10 +2,9 @@
 
 ## Agatha, <small>_banshee_</small>
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-:construction: {Imagem}
+<!-- @formatter:off -->
+<img alt="Agatha" src="../../images/characters/agatha.png" style="width:300px; margin-right: 15px; float: left" />
+<!-- @formatter:on -->
 
 :construction: {Texto}
 <br clear="left"/>
