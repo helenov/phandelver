@@ -2,13 +2,10 @@
 
 ## Wyvern Tor
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-[//]: # (:construction: {Imagem})
-[//]: # ()
-[//]: # (:construction: {Texto})
-[//]: # (<br clear="left"/>)
+![06_5_wyvern_tor.jpg](../images/cenas/06_5_wyvern_tor.jpg)
+
+:construction: {Texto}
+<br clear="left"/>
 
 ### Personagens
 
