@@ -2,10 +2,7 @@
 
 ## Poço da Velha Coruja
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-:construction: {Imagem}
+![06_4_necromante.png](../images/cenas/06_4_necromante.png)
 
 :construction: {Texto}
 <br clear="left"/>
