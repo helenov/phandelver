@@ -2,13 +2,10 @@
 
 ## Conyberry
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-[//]: # (:construction: {Imagem})
-[//]: # ()
-[//]: # (:construction: {Texto})
-[//]: # (<br clear="left"/>)
+![06_3_conyberry.png](../images/cenas/06_3_conyberry.png)
+
+:construction: {Texto}
+<br clear="left"/>
 
 [//]: # (### Personagens)
 [//]: # ()
