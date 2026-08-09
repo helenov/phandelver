@@ -284,7 +284,7 @@ própria natureza o estivesse observando constantemente.
   * [dragão]
     * ~1000 moedas
       * 800 sp, 150 gp
-    * 4 [cálices de prata] com moonstones
+    * 4 [cálices de prata]
     * scroll misty step
     * scroll lighting bolt
     * [Machado Hew]

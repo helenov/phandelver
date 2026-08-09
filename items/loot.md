@@ -120,7 +120,7 @@
     ([Sessão 8 Cena 4](../sessions/08_venomfang.md#cena-4-dragão))
     * ~1000 moedas
       * 800 sp, 150 gp &ndash; _com grupo_
-    * 4 [cálices de prata] com moonstones &ndash; _com grupo_
+    * 4 [cálices de prata] &ndash; _com grupo_
     * scroll misty step &ndash; _com grupo_
     * scroll lighting bolt &ndash; _com grupo_
     * [Machado Hew](magical/battleaxe_hew.md) &ndash; _com grupo_
@@ -152,7 +152,7 @@
 ####
 
 * 3 frascos de perfume
-* 4 [cálices de prata] com moonstones
+* 4 [cálices de prata]
 * hide armor
 * greataxe
 
