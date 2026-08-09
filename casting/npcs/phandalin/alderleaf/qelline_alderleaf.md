@@ -13,6 +13,7 @@
 ### Relações
 
 * [Carp Alderleaf](carp_alderleaf.md), filha
+* [Reidoth](../../thundertree/reidoth.md), amigo
 
 [//]: # (### Organizações)
 [//]: # ()

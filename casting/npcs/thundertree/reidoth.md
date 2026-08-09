@@ -14,7 +14,7 @@ Druida.
 
 ### Relações
 
-* [Qelline Alderleaf], amiga
+* [Qelline Alderleaf](../phandalin/alderleaf/qelline_alderleaf.md), amiga
 
 [//]: # (### Organizações)
 [//]: # ()

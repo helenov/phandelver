@@ -272,8 +272,9 @@ própria natureza o estivesse observando constantemente.
 
 #### Mencionados
 
-* [Qelline Alderleaf], fazendeira
-  * [Carp], filha
+* [Qelline Alderleaf](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md),
+  fazendeira
+  * [Carp](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md), filha
 
 ####
 
