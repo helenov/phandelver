@@ -166,6 +166,76 @@ Ralf parece um pouco mais confiante e animado do que seria razoável.
 
 :construction: {Texto}
 
+    - topo da colina
+      - torre redonda com uma casa anexa
+      - estado razoável de conservação
+        - falta metade do telhado da torre
+      - silêncio sepulcral
+        - cheiro acido/picante no ar
+
+    - na trilha
+      - duas aranhas gigantes mortas
+      - corpos enrugados e com bolhas
+      - dilacerados por um animal bem grande
+
+    - Bia sobrevoa, o buraco do telhado
+      - vê a lage o segundo andar
+      - escada espiral que desce
+      - embaixo escuro e silêncio
+
+    - Ralf abre a porta da casa
+      - moveis empoeirados, muita teia de aranha
+      - verificam que a porta dos fundos dá para os fundos
+      - resta uma porta a direita
+
+    - abre a porta e surpreendem o dragão no térreo da torre
+      - "Quem se atreve a entrar nos domínio de Venomfang?"
+      - "Só queremos conversar... ver, quem sabe, se o senhor não vai procurar 
+        outro lugar para morar..."
+      - "Estes são os domínios de Venomfang! Vão embora, ou vão sentir a minha
+        ira"
+      - começa a tomar fogo
+
+    - Ralf corre para dentro e ataca, seguido de Jeremias, Frodo e Reidoth
+    - bafo venenoso
+      - Ralf: consegue evitar inalar o gás venenoso 
+      - Reidoth: é atingido em cheio e quase sufoca
+        - se afasta para a outra sala para tomar ar
+
+    - ataques bem sucedidos, ferem bastante o dragão, cercado
+    - desengaja, sobe as escadas, prestes a fugir
+    - raio de fogo do Professor, derruba a criatura, que iniciava o vôo
+
+    - baú de madeira quebrado
+      - ~1000 moedas
+        - 800 sp, 150 gp
+      - 4 [cálices de prata] com moonstones
+      - scroll misty step
+      - scroll lighting bolt
+      - por baixo de tudo
+        - velho battleaxe, meio enferrujado
+        - runas em lingua anã: "Hew"
+          - Jeremias se lembra de estória 
+          - +1 battleaxe
+          - full dmg contra plant creature ou madeira
+          - quem leva o machado fica desconfortável sempre que em uma floresta
+
+Sob a ferrugem causada pelo desuso, é visível uma bela cabeça de machado de aço,
+trabalhada com atenção e cuidado. Limpando um pouco a ferrugem é possível
+discernir uma palavra gravada em runas anãs: H-E-W.
+
+Quando o Professor lê este nome em voz alta, Jeremias se lembra de uma história
+antiga sobre um certo [Machado Hew] que foi criado por um ferreiro anão que
+travava uma disputa pessoal contra as dríades de uma floresta, pois elas o
+atacavam sempre que ele tentava cortar lenha.
+
+Movido por esta rivalidade, criou um machado mágico especialmente bom para
+cortar madeira e contra seres vegetais.
+
+A história conta que, por conta desse rancor impregnado no metal, quem o empunha
+sente um profundo desconforto sempre que anda por uma floresta, como se a
+própria natureza o estivesse observando constantemente.
+
 ---
 
 ### Elenco
