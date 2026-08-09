@@ -78,6 +78,17 @@
 * [Wyvern Tor](../locations/wyvern_tor.md)
   * [Brughor](npcs/cragmaw/brughor.md), líder local
 
+####
+
+* [Floresta Neverwinter](../locations/neverwinter_wood.md)
+  * [Agatha](npcs/agatha.md), banshee
+
+####
+
+* [Thundertree](../locations/thundertree.md)
+  * [Reidoth](npcs/thundertree/druida.md), druida
+  * [Venomfang](npcs/thundertree/dragao.md) (RIP), dragão
+
 #### Mencionados
 
 * [Tharden Rockseeker](npcs/mentions/tharden_rockseeker.md), irmão
@@ -104,7 +115,6 @@
 
 ####
 
-* [Agatha](npcs/agatha.md), banshee
 * [Bowgentle](npcs/mentions/bowgentle.md), mago lendário
 * [Tsernoth](npcs/mentions/tsernoth.md), necromante
   de [Iriaebor](../locations/iriaebor.md)
