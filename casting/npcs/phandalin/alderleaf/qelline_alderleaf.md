@@ -2,10 +2,9 @@
 
 ## Qelline Alderleaf, <small>_halfling_</small>
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-:construction: {Imagem}
+<!-- @formatter:off -->
+<img alt="Qelline Alderleaf" src="../../../../images/characters/phandalin/qelline_alderleaf.png" style="width:200px; margin-right: 15px; float: left" />
+<!-- @formatter:on -->
 
 :construction: {Texto}
 <br clear="left"/>
