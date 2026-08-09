@@ -1,18 +1,20 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## "Druida"<!--, <small>_{espécie}_</small>-->
+## Reidoth, <small>_humano_</small>
 
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
 [//]: # (<!-- @formatter:on -->)
-[//]: # (:construction: {Imagem})
-[//]: # ()
-[//]: # (:construction: {Texto})
-[//]: # (<br clear="left"/>)
+:construction: {Imagem}
 
-[//]: # (### Relações)
-[//]: # ()
-[//]: # (* {Personagem}, {detalhe})
+:construction: 
+
+Druida.
+<br clear="left"/>
+
+### Relações
+
+* [Qelline Alderleaf], amiga
 
 [//]: # (### Organizações)
 [//]: # ()
@@ -20,7 +22,7 @@
 
 ### Locais
 
-* [Thundertree](../../../locations/thundertree.md), morador
+* [Thundertree](../../../locations/thundertree.md), druida
 
 ### Referências
 
@@ -28,7 +30,10 @@
   * [Iarno](../iarno_albrek.md) diz que ouviu os cultistas falarem de um
     **druida** ([Cena 5](../../../sessions/07_floresta.md))
 
-[//]: # (####)
-[//]: # ()
-[//]: # (* [Sessão {X} {Título}])
-[//]: # (  * {detalhe} &#40;[Cena {X}]&#41;)
+####
+
+* [Sessão 8 Venomfang]
+  * grupo conhece o druida **Reidoth** ([Cena 2])
+  * **Reidoth** dá dicas para a crição de um owlbear ([Cena 2]) 
+  * **Reidoth** participa do combate contra as aranhas gigantes ([Cena 3])
+  * **Reidoth** participa do combate com [Venomfang] ([Cena 4])

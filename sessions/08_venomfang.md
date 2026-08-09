@@ -94,6 +94,20 @@ vontade... bom...", disse olhando ao redor do pequeno cômodo que é sua casa
 "não tenho muito conforto por aqui... não estou acostumado a receber visitas...
 Aceitam um chá?"
 
+    - Reidoth vê o ovo de owlbear
+    - dá dicas sobre a criação
+      - cuidados para chocar o ovo
+        - bastante valioso no mercado negro
+        - necessário manter o calor
+          - "o ideal seria você ser um owlbear"
+        - evitar choques físicos
+        - falta pouco para eclodir
+      - dificuldades para criar e treinar
+        - no inicio: uma galinha ou um coelho por dia
+        - depois: uma ovelha ou um boi por dia
+        - goodberries pode ser um paleativo
+          - sustenta mas não enche a barriga => stress
+
 "Somos de [Phandalin] e estamos..."
 
 "Phandalin?", interrompeu, "Tenho uma amiga que mora em Phandalin. Ela tem uma
