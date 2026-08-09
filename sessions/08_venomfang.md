@@ -26,9 +26,9 @@ _próxima_ : [Sessão 9] próxima...
 
 :construction: {Imagem}
 
-Sem saber muito bem o que fazer com [Iarno], o grupo decide deixá-lo preso com
-algemas a uma pesada bigorna da oficina em que estão, enquanto vão procurar pelo
-tal druida.
+Sem saber muito bem o que fazer com [Iarno](../casting/npcs/iarno_albrek.md), o
+grupo decide deixá-lo preso com algemas a uma pesada bigorna da oficina em que
+estão, enquanto vão procurar pelo tal druida.
 
 Como Iarno falou que os cultistas se escondem a leste, optam por começar a busca
 pela casa, a oeste, que parece ainda estar em bom estado de conservação.
@@ -256,7 +256,7 @@ própria natureza o estivesse observando constantemente.
 
 :construction:
 
-* [Iarno 'Glasstaff' Albrek], mago prisioneiro
+* [Iarno 'Glasstaff' Albrek](../casting/npcs/iarno_albrek.md), mago prisioneiro
 * [Reidoth], druida
 * [Venomfang], dragão
 

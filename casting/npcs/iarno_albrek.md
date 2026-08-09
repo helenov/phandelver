@@ -85,6 +85,12 @@ poção de invisibilidade.
   * **Iarno** menciona a existência do [dragão](thundertree/venomfang.md)
     ([Cena 5](../../sessions/07_floresta.md#cena-5-arrependido))
 
+####
+
+* [Sessão 8 Venomfang](../../sessions/08_venomfang.md)
+  * **Iarno** é mantido algemado a uma bigorna
+    ([Cena 1](../../sessions/08_venomfang.md#cena-1-galhos))
+
 [//]: # (####)
 [//]: # ()
 [//]: # (* [Sessão {X} {Título}])
