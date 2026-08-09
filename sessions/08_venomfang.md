@@ -88,7 +88,8 @@ numa das casas aqui perto..."
 
 "Sei, mas o que vocês querem com aquele lugar? Só tem um bando do goblin
 fedorento por lá... Mas... onde está minha hospitalidade?... já que estão aqui,
-entrem, por favor! A propósito, eu me chamo [Reidoth], muito prazer! Fiquem a
+entrem, por favor! A propósito, eu me
+chamo [Reidoth](../casting/npcs/thundertree/reidoth.md), muito prazer! Fiquem a
 vontade... bom...", disse olhando ao redor do pequeno cômodo que é sua casa
 &mdash; uma cama, ao lado de um pequeno fogão, uma mesa e uma cadeira &mdash;,
 "não tenho muito conforto por aqui... não estou acostumado a receber visitas...
@@ -142,9 +143,11 @@ Ralf parece um pouco mais confiante e animado do que seria razoável.
 
 :construction: {Imagem}
 
-:construction: {Texto}
+:construction:
 
-    - Reidoth orienta o caminho
+Seguindo a orientação de [Reidoth](../casting/npcs/thundertree/reidoth.md), o
+grupo segue pelo que deve ter sido a rua principal da vila, hoje cerca por mato
+alto e ruínas.
 
     - passando por uma ruínas no caminho
     - Reidoth alerta para teias sutis que atravessam o caminho
@@ -210,11 +213,13 @@ Ralf parece um pouco mais confiante e animado do que seria razoável.
         ira"
       - começa a tomar fogo
 
-    - Ralf corre para dentro e ataca, seguido de Jeremias, Frodo e Reidoth
-    - bafo venenoso
-      - Ralf: consegue evitar inalar o gás venenoso 
-      - Reidoth: é atingido em cheio e quase sufoca
-        - se afasta para a outra sala para tomar ar
+Vendo que o dragão não está convencido a deixar o lugar, Ralf corre para dentro
+e ataca, logo seguido por Jeremias, Frodo e [Reidoth](../casting/npcs/thundertree/reidoth.md)
+
+      - bafo venenoso 
+        - Ralf: consegue evitar inalar o gás venenoso
+        - Reidoth: é atingido em cheio e quase sufoca
+          - se afasta para a outra sala para tomar ar
 
     - ataques bem sucedidos, ferem bastante o dragão, cercado
     - desengaja, sobe as escadas, prestes a fugir
@@ -257,7 +262,7 @@ própria natureza o estivesse observando constantemente.
 :construction:
 
 * [Iarno 'Glasstaff' Albrek](../casting/npcs/iarno_albrek.md), mago prisioneiro
-* [Reidoth], druida
+* [Reidoth](../casting/npcs/thundertree/reidoth.md), druida
 * [Venomfang], dragão
 
 ####
@@ -281,7 +286,7 @@ própria natureza o estivesse observando constantemente.
 
 * [Thundertree]
   * oficina de ferreiro
-  * casa de [Reidoth]
+  * casa de [Reidoth](../casting/npcs/thundertree/reidoth.md)
   * ruínas com aranhas
   * torre de [Venomfang]
 

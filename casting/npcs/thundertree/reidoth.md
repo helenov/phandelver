@@ -7,7 +7,7 @@
 [//]: # (<!-- @formatter:on -->)
 :construction: {Imagem}
 
-:construction: 
+:construction:
 
 Druida.
 <br clear="left"/>
@@ -32,8 +32,17 @@ Druida.
 
 ####
 
-* [Sessão 8 Venomfang]
-  * grupo conhece o druida **Reidoth** ([Cena 2])
-  * **Reidoth** dá dicas para a crição de um owlbear ([Cena 2]) 
-  * **Reidoth** participa do combate contra as aranhas gigantes ([Cena 3])
-  * **Reidoth** participa do combate com [Venomfang] ([Cena 4])
+* [Sessão 8 Venomfang](../../../sessions/08_venomfang.md)
+  * grupo conhece o druida **Reidoth**
+    ([Cena 2](../../../sessions/08_venomfang.md#cena-2-druida))
+  * **Reidoth** dá dicas para a criação de um owlbear
+    ([Cena 2](../../../sessions/08_venomfang.md#cena-2-druida))
+  * **Reidoth** participa do combate contra as aranhas gigantes
+    ([Cena 3](../../../sessions/08_venomfang.md#cena-3-aranhas))
+  * **Reidoth** participa do combate com [Venomfang](venomfang.md)
+    ([Cena 4](../../../sessions/08_venomfang.md#cena-4-dragão))
+
+[//]: # (####)
+[//]: # ()
+[//]: # (* [Sessão {X} {Título}])
+[//]: # (  * {detalhe} &#40;[Cena {X}]&#41;)
