@@ -87,7 +87,7 @@
 
 * [Thundertree](../locations/thundertree.md)
   * [Reidoth](npcs/thundertree/druida.md), druida
-  * [Venomfang](npcs/thundertree/dragao.md) (RIP), dragão
+  * [Venomfang](npcs/thundertree/venomfang.md) (RIP), dragão
 
 #### Mencionados
 

@@ -1,14 +1,14 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## "Dragão", <small>_<!--{color}--> dragon_</small>
+## Venomfang, <small>_green dragon (jovem)_</small>
 
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
 [//]: # (<!-- @formatter:on -->)
-[//]: # (:construction: {Imagem})
-[//]: # ()
-[//]: # (:construction: {Texto})
-[//]: # (<br clear="left"/>)
+:construction: {Imagem}
+
+:construction: {Texto}
+<br clear="left"/>
 
 [//]: # (### Relações)
 [//]: # ()
@@ -27,6 +27,12 @@
 * [Sessão 7 Floresta](../../../sessions/07_floresta.md)
   * [Iarno](../iarno_albrek.md) menciona a existência do **dragão**
     ([Cena 5](../../../sessions/07_floresta.md#cena-5-arrependido))
+
+####
+
+* [Sessão 8 Venomfang]
+  * [Reidoth] conta o que sabe sobre o **dragão** ([Cena 2])
+  * grupo enfrenta e derrota **Venomfang** ([Cena 4])
 
 [//]: # (####)
 [//]: # ()
