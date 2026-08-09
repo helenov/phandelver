@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Nilsa Dendrar, <small>_humana_</small>
+## Nilsa Dendrar, <small>_humana_ (adolescente)</small>
 
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)

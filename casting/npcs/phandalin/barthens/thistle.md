@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Thistle, <small>_humano_</small>
+## Thistle, <small>_humano_ (adolescente)</small>
 
 <!-- @formatter:off -->
 <img alt="Thistle" src="../../../../images/characters/phandalin/thistle.png" style="width:200px; margin-right: 15px; float: left" />

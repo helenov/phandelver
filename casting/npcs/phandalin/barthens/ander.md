@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Ander, <small>_humano_</small>
+## Ander, <small>_humano (adolescente)_</small>
 
 <!-- @formatter:off -->
 <img alt="Ander" src="../../../../images/characters/phandalin/ander.png" style="width:200px; margin-right: 15px; float: left" />

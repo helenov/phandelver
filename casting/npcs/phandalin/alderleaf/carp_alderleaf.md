@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Carp Alderleaf, <small>_halfling_</small>
+## Carp Alderleaf, <small>_halfling (criança)_</small>
 
 <!-- @formatter:off -->
 <img alt="Carp Alderleaf" src="../../../../images/characters/phandalin/carp_alderleaf.png" style="width:200px; margin-right: 15px; float: left" />

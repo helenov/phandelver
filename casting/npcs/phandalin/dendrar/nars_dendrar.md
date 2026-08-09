@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Nars Dendrar, <small>_humano_</small>
+## Nars Dendrar, <small>_humano_ (adolescente)</small>
 
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
