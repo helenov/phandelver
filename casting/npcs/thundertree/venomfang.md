@@ -30,9 +30,11 @@
 
 ####
 
-* [Sessão 8 Venomfang]
-  * [Reidoth] conta o que sabe sobre o **dragão** ([Cena 2])
-  * grupo enfrenta e derrota **Venomfang** ([Cena 4])
+* [Sessão 8 Venomfang](../../../sessions/08_venomfang.md)
+  * [Reidoth](reidoth.md) conta o que sabe sobre o **dragão**
+    ([Cena 2](../../../sessions/08_venomfang.md#cena-2-druida))
+  * grupo enfrenta e derrota **Venomfang**
+    ([Cena 4](../../../sessions/08_venomfang.md#cena-4-dragão))
 
 [//]: # (####)
 [//]: # ()

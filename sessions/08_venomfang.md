@@ -124,7 +124,7 @@ na [Estrada Triboar]. O senhor pode nos indicar como chegar lá?"
 
 "Putz! É complicado... é um lugar muito bem escondido na [Floresta Neverwinter].
 Eu até poderia levá-los até lá, mas estou aqui com este problema dos cultistas e
-do [dragão]..."
+do [dragão](../casting/npcs/thundertree/venomfang.md)..."
 
 Então explicou que, não tem muito tempo, um jovem dragão verde se instalou na
 torre que fica na colina no centro da vila. Pouco depois, chegaram os cultistas
@@ -206,7 +206,10 @@ alto e ruínas.
       - resta uma porta a direita
 
     - abre a porta e surpreendem o dragão no térreo da torre
-      - "Quem se atreve a entrar nos domínio de Venomfang?"
+
+"Quem se atreve a perturbar o descanso
+de [Venomfang](../casting/npcs/thundertree/venomfang.md)?"
+
       - "Só queremos conversar... ver, quem sabe, se o senhor não vai procurar 
         outro lugar para morar..."
       - "Estes são os domínios de Venomfang! Vão embora, ou vão sentir a minha
@@ -214,7 +217,8 @@ alto e ruínas.
       - começa a tomar fogo
 
 Vendo que o dragão não está convencido a deixar o lugar, Ralf corre para dentro
-e ataca, logo seguido por Jeremias, Frodo e [Reidoth](../casting/npcs/thundertree/reidoth.md)
+e ataca, logo seguido por Jeremias, Frodo
+e [Reidoth](../casting/npcs/thundertree/reidoth.md)
 
       - bafo venenoso 
         - Ralf: consegue evitar inalar o gás venenoso
@@ -263,7 +267,7 @@ própria natureza o estivesse observando constantemente.
 
 * [Iarno 'Glasstaff' Albrek](../casting/npcs/iarno_albrek.md), mago prisioneiro
 * [Reidoth](../casting/npcs/thundertree/reidoth.md), druida
-* [Venomfang], dragão
+* [Venomfang](../casting/npcs/thundertree/venomfang.md), dragão
 
 ####
 
@@ -288,7 +292,7 @@ própria natureza o estivesse observando constantemente.
   * oficina de ferreiro
   * casa de [Reidoth](../casting/npcs/thundertree/reidoth.md)
   * ruínas com aranhas
-  * torre de [Venomfang]
+  * torre de [Venomfang](../casting/npcs/thundertree/venomfang.md)
 
 #### Mencionados
 
@@ -300,7 +304,7 @@ própria natureza o estivesse observando constantemente.
 :construction:
 
 * [Thundertree]
-  * [dragão]
+  * [dragão](../casting/npcs/thundertree/venomfang.md)
     * ~1000 moedas
       * 800 sp, 150 gp
     * 4 [cálices de prata]

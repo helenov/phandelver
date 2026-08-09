@@ -40,5 +40,6 @@ própria natureza o estivesse observando constantemente.
 ### Referências
 
 * [Sessão 8 Venomfang](../../sessions/08_venomfang.md)
-  * grupo encontra o **Machado Hew** na torre do dragão [Venomfang]
+  * grupo encontra o **Machado Hew** na torre do
+    dragão [Venomfang](../../casting/npcs/thundertree/venomfang.md)
     ([Cena 4](../../sessions/08_venomfang.md#cena-4-dragão))
