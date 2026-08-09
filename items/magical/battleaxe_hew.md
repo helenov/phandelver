@@ -9,12 +9,12 @@
 
 Sob a ferrugem causada pelo desuso, é visível uma bela cabeça de machado de aço,
 trabalhada com atenção e cuidado. Limpando um pouco a ferrugem é possível
-discernir uma palavra gravada em runas anãs: **Hew**.
+discernir uma palavra gravada em runas anãs: H-E-W.
 
-Quando o Professor lê este nome em voz alta, Jeremias se lembra de uma história
-antiga sobre um certo machado Hew que foi criado por um ferreiro anão que
-travava uma disputa pessoal contra as dríades de uma floresta, pois elas o
-atacavam sempre que ele tentava cortar lenha.
+Quando o Professor lê este nome em voz alta, "Hew", Jeremias se lembra de uma
+história antiga sobre um certo **Machado Hew** que foi criado por um ferreiro
+anão que travava uma disputa pessoal contra as dríades de uma floresta, pois
+elas o atacavam sempre que ele tentava cortar lenha.
 
 Movido por esta rivalidade, criou um machado mágico especialmente bom para
 cortar madeira e contra seres vegetais.

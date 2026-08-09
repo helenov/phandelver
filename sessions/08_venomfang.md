@@ -235,22 +235,18 @@ e [Reidoth](../casting/npcs/thundertree/reidoth.md)
       - 4 [cálices de prata] com moonstones
       - scroll misty step
       - scroll lighting bolt
-      - por baixo de tudo
+      - meio enterrado pelas moedas
         - velho battleaxe, meio enferrujado
-        - runas em lingua anã: "Hew"
-          - Jeremias se lembra de estória 
-          - +1 battleaxe
-          - full dmg contra plant creature ou madeira
-          - quem leva o machado fica desconfortável sempre que em uma floresta
 
 Sob a ferrugem causada pelo desuso, é visível uma bela cabeça de machado de aço,
 trabalhada com atenção e cuidado. Limpando um pouco a ferrugem é possível
 discernir uma palavra gravada em runas anãs: H-E-W.
 
-Quando o Professor lê este nome em voz alta, Jeremias se lembra de uma história
-antiga sobre um certo [Machado Hew] que foi criado por um ferreiro anão que
-travava uma disputa pessoal contra as dríades de uma floresta, pois elas o
-atacavam sempre que ele tentava cortar lenha.
+Quando o Professor lê este nome em voz alta, "Hew", Jeremias se lembra de uma
+história antiga sobre um certo [Machado Hew](../items/magical/battleaxe_hew.md)
+que foi criado por um ferreiro anão que travava uma disputa pessoal contra as
+dríades de uma floresta, pois elas o atacavam sempre que ele tentava cortar
+lenha.
 
 Movido por esta rivalidade, criou um machado mágico especialmente bom para
 cortar madeira e contra seres vegetais.
@@ -310,4 +306,4 @@ própria natureza o estivesse observando constantemente.
     * 4 [cálices de prata]
     * scroll misty step
     * scroll lighting bolt
-    * [Machado Hew]
+    * [Machado Hew](../items/magical/battleaxe_hew.md)
