@@ -114,9 +114,12 @@ Aceitam um chá?"
 "Phandalin?", interrompeu, "Tenho uma amiga que mora em Phandalin. Ela tem uma
 fazenda por lá... Qual é mesmo o nome dela? É Qe-alguma coisa... Como é mesmo?",
 força um pouco a memória franzindo a testa e olhando para o vazio,
-"Qelline... [Qelline Alderleaf]! É isso!"
+"Qelline... [Qelline Alderleaf](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md)!
+É isso!"
 
-"Ah! Sim! É a mãe da menina [Carp]!", reconheceu Professor.
+"Ah! Sim! É a mãe da
+menina [Carp](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md)!",
+reconheceu Professor.
 
 "Mas, como íamos dizendo... somos responsáveis pela segurança de Phandalin e
 estamos procurando pelo Castelo Cragmaw e o goblins que têm atacado os viajantes
