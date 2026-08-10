@@ -2,10 +2,9 @@
 
 ## Reidoth, <small>_humano_</small>
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-:construction: {Imagem}
+<!-- @formatter:off -->
+<img alt="Reidoth" src="../../../images/characters/thundertree/reidoth.png" style="width:300px; margin-right: 15px; float: left" />
+<!-- @formatter:on -->
 
 :construction:
 Druida.
