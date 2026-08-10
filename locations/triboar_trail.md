@@ -66,3 +66,14 @@
     ([Cena 2](../sessions/06_wyvern_tor.md#cena-2-despedidas))
   * grupo viaja 3 dias pela **Estrada Triboar** até [Conyberry](conyberry.md)
     ([Cena 3](../sessions/06_wyvern_tor.md#cena-3-conyberry))
+
+####
+
+* [Sessão 8 Venomfang](../sessions/08_venomfang.md)
+  * grupo menciona os ataques na **Estrada Triboar**
+    ([Cena 2](../sessions/08_venomfang.md#cena-2-druida))
+
+[//]: # (####)
+[//]: # ()
+[//]: # (* [Sessão {X} {Título}])
+[//]: # (  * {detalhe} &#40;[Cena {X}]&#41;)

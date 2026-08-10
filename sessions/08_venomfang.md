@@ -124,7 +124,8 @@ reconheceu Professor.
 
 "Mas, como íamos dizendo... somos responsáveis pela segurança de Phandalin e
 estamos procurando pelo Castelo Cragmaw e o goblins que têm atacado os viajantes
-na [Estrada Triboar]. O senhor pode nos indicar como chegar lá?"
+na [Estrada Triboar](../locations/triboar_trail.md). O senhor pode nos indicar
+como chegar lá?"
 
 "Putz! É complicado... é um lugar muito bem escondido na [Floresta Neverwinter].
 Eu até poderia levá-los até lá, mas estou aqui com este problema dos cultistas e
@@ -299,6 +300,8 @@ própria natureza o estivesse observando constantemente.
 
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
 * [Phandalin](../locations/phandalin.md)
+* [Estrada Triboar](../locations/triboar_trail.md)
+* [Floresta Neverwinter]
 
 ### Itens
 
