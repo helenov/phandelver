@@ -17,8 +17,8 @@ destaca uma torre de pedra com o telhado parcialmente desabado e uma casa anexa.
 ### Personagens
 
 * [Iarno 'Glasstaff' Albrek](../casting/npcs/iarno_albrek.md), prisioneiro
-* [dragão](../casting/npcs/thundertree/venomfang.md), ocupante da torre
-* [druida](../casting/npcs/thundertree/reidoth.md), morador
+* [Venomfang](../casting/npcs/thundertree/venomfang.md), ocupante da torre
+* [Reidoth](../casting/npcs/thundertree/reidoth.md), morador
 * cultistas, ocupantes
 
 [//]: # (### Organizações)
@@ -35,8 +35,17 @@ destaca uma torre de pedra com o telhado parcialmente desabado e uma casa anexa.
 * [Sessão 7 Floresta](../sessions/07_floresta.md)
   * Bia avista a vila de **Thundertree** a distância
     ([Cena 4](../sessions/07_floresta.md#cena-4-buscas))
-  * grupo chega a vila de **Thundertree**
+  * grupo encontra [Iarno](../casting/npcs/iarno_albrek.md) em **Thundertree**
     ([Cena 5](../sessions/07_floresta.md#cena-5-arrependido))
+
+####
+
+* [Sessão 8 Venonfang](../sessions/08_venomfang.md)
+  * grupo conhece o druida [Reidoth](../casting/npcs/thundertree/reidoth.md) em
+    **Thundertree** ([Cena 2](../sessions/08_venomfang.md#cena-2-druida))
+  * rupo enfrenta e
+    derrota [Venomfang](../casting/npcs/thundertree/venomfang.md) em
+    **Thundertree** ([Cena 4](../sessions/08_venomfang.md#cena-4-dragão))
 
 [//]: # (####)
 [//]: # ()

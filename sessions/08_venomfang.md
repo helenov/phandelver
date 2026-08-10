@@ -71,8 +71,8 @@ raios de fogo conjurados pelo Professor, e são facilmente eliminadas.
 Ralf sai do seu esconderijo, se apresentando e enfatizando que o grupo não é de
 cultistas. Que estão, na verdade, procurando pelo [Castelo Cragmaw].
 
-"Aqui é [Thundertree]! Estão bem longe do Castelo Cragmaw! O que estão fazendo
-aqui? Não viram as minhas placas de advertência?"
+"Aqui é [Thundertree](../locations/thundertree.md)! Estão bem longe do Castelo
+Cragmaw! O que estão fazendo aqui? Não viram as minhas placas de advertência?"
 
 "Placas? Quê placas?"
 
@@ -288,7 +288,7 @@ própria natureza o estivesse observando constantemente.
 
 :construction:
 
-* [Thundertree]
+* [Thundertree](../locations/thundertree.md)
   * oficina de ferreiro
   * casa de [Reidoth](../casting/npcs/thundertree/reidoth.md)
   * ruínas com aranhas
@@ -303,7 +303,7 @@ própria natureza o estivesse observando constantemente.
 
 :construction:
 
-* [Thundertree]
+* [Thundertree](../locations/thundertree.md)
   * [dragão](../casting/npcs/thundertree/venomfang.md)
     * ~1000 moedas
       * 800 sp, 150 gp
