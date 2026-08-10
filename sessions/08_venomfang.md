@@ -266,7 +266,7 @@ própria natureza o estivesse observando constantemente.
 
 * [Iarno 'Glasstaff' Albrek](../casting/npcs/iarno_albrek.md), mago prisioneiro
 * [Reidoth](../casting/npcs/thundertree/reidoth.md), druida
-* [Venomfang](../casting/npcs/thundertree/venomfang.md), dragão
+* [Venomfang](../casting/npcs/thundertree/venomfang.md) (RIP), dragão
 
 ####
 

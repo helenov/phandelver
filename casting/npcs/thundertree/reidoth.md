@@ -39,7 +39,7 @@ Druida.
     ([Cena 2](../../../sessions/08_venomfang.md#cena-2-druida))
   * **Reidoth** participa do combate contra as aranhas gigantes
     ([Cena 3](../../../sessions/08_venomfang.md#cena-3-aranhas))
-  * **Reidoth** participa do combate com [Venomfang](venomfang.md)
+  * **Reidoth** participa do combate contra [Venomfang](venomfang.md)
     ([Cena 4](../../../sessions/08_venomfang.md#cena-4-dragão))
 
 [//]: # (####)

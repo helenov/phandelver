@@ -17,8 +17,8 @@ destaca uma torre de pedra com o telhado parcialmente desabado e uma casa anexa.
 ### Personagens
 
 * [Iarno 'Glasstaff' Albrek](../casting/npcs/iarno_albrek.md), prisioneiro
-* [Venomfang](../casting/npcs/thundertree/venomfang.md), ocupante da torre
 * [Reidoth](../casting/npcs/thundertree/reidoth.md), morador
+* [Venomfang](../casting/npcs/thundertree/venomfang.md) (RIP), ocupante da torre
 * cultistas, ocupantes
 
 [//]: # (### Organizações)
