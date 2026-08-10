@@ -175,7 +175,11 @@
 * chegada a [Thundertree](locations/thundertree.md)
 * encontro com [Iarno](casting/npcs/iarno_albrek.md)
   * [Sessão 7](sessions/07_floresta.md): [Cena 5](sessions/07_floresta.md#cena-5-arrependido)
+* conhecem [Reidoth](casting/npcs/thundertree/reidoth.md)
+  * [Sessão 8](sessions/08_venomfang.md): [Cena 2](sessions/08_venomfang.md#cena-2-druida)
+* derrotam o dragão [Venomfang](casting/npcs/thundertree/venomfang.md)
+  * [Sessão 8](sessions/08_venomfang.md): [Cena 4](sessions/08_venomfang.md#cena-4-dragão)
 
-:construction: continua...
+continua...
 
 ---
