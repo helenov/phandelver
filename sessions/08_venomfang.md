@@ -127,8 +127,9 @@ estamos procurando pelo Castelo Cragmaw e o goblins que têm atacado os viajante
 na [Estrada Triboar](../locations/triboar_trail.md). O senhor pode nos indicar
 como chegar lá?"
 
-"Putz! É complicado... é um lugar muito bem escondido na [Floresta Neverwinter].
-Eu até poderia levá-los até lá, mas estou aqui com este problema dos cultistas e
+"Putz! É complicado... é um lugar muito bem escondido
+na [Floresta Neverwinter](../locations/neverwinter_wood.md). Eu até poderia
+levá-los até lá, mas estou aqui com este problema dos cultistas e
 do [dragão](../casting/npcs/thundertree/venomfang.md)..."
 
 Então explicou que, não tem muito tempo, um jovem dragão verde se instalou na
@@ -301,7 +302,7 @@ própria natureza o estivesse observando constantemente.
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
 * [Phandalin](../locations/phandalin.md)
 * [Estrada Triboar](../locations/triboar_trail.md)
-* [Floresta Neverwinter]
+* [Floresta Neverwinter](../locations/neverwinter_wood.md)
 
 ### Itens
 

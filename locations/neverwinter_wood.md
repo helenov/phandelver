@@ -67,3 +67,16 @@
   * grupo procura pelo [Castelo Cragmaw](cragmaw_castle.md) na **Floresta
     Neverwinter**
     ([Cena 3 a 4](../sessions/07_floresta.md#cena-3-owlbear))
+
+####
+
+* [Sessão 8 Venomfang](../sessions/08_venomfang.md)
+  * [Reidoth](../casting/npcs/thundertree/reidoth.md) diz que
+    o [Castelo Cragmaw](cragmaw_castle.md) fica escondido na **Floresta
+    Neverwinter**  
+    ([Cena 2](../sessions/08_venomfang.md#cena-2-druida))
+
+[//]: # (####)
+[//]: # ()
+[//]: # (* [Sessão {X} {Título}])
+[//]: # (  * {detalhe} &#40;[Cena {X}]&#41;)
