@@ -12,7 +12,7 @@ muito tempo com seus interiores expostos às intempéries.
 Mais a frente, no meio do povoado, ergue-se uma colina íngreme, sobre a qual se
 destaca uma torre de pedra com o telhado parcialmente desabado e uma casa anexa.
 
-:construction:
+:construction: História
 
 ### Personagens
 

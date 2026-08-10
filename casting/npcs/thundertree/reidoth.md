@@ -8,7 +8,6 @@
 :construction: {Imagem}
 
 :construction:
-
 Druida.
 <br clear="left"/>
 

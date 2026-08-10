@@ -49,7 +49,7 @@ raios de fogo conjurados pelo Professor, e são facilmente eliminadas.
 
 :construction: {Imagem}
 
-:construction: {Texto}
+:construction:
 
     - casa especialmente bem conservada
     - portas reforçadas com faixas de ferro
@@ -187,7 +187,7 @@ alto e ruínas.
 
 :construction: {Imagem}
 
-:construction: {Texto}
+:construction:
 
     - topo da colina
       - torre redonda com uma casa anexa
@@ -265,8 +265,6 @@ própria natureza o estivesse observando constantemente.
 
 ### Elenco
 
-:construction:
-
 * [Iarno 'Glasstaff' Albrek](../casting/npcs/iarno_albrek.md), mago prisioneiro
 * [Reidoth](../casting/npcs/thundertree/reidoth.md), druida
 * [Venomfang](../casting/npcs/thundertree/venomfang.md) (RIP), dragão
@@ -289,8 +287,6 @@ própria natureza o estivesse observando constantemente.
 
 ### Cenários
 
-:construction:
-
 * [Thundertree](../locations/thundertree.md)
   * oficina de ferreiro
   * casa de [Reidoth](../casting/npcs/thundertree/reidoth.md)
@@ -305,8 +301,6 @@ própria natureza o estivesse observando constantemente.
 * [Floresta Neverwinter](../locations/neverwinter_wood.md)
 
 ### Itens
-
-:construction:
 
 * [Thundertree](../locations/thundertree.md)
   * [dragão](../casting/npcs/thundertree/venomfang.md)
