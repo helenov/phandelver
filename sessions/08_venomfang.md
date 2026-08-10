@@ -69,7 +69,8 @@ raios de fogo conjurados pelo Professor, e são facilmente eliminadas.
 "Malditos cultistas vão embora daqui. Não me encham o saco!"
 
 Ralf sai do seu esconderijo, se apresentando e enfatizando que o grupo não é de
-cultistas. Que estão, na verdade, procurando pelo [Castelo Cragmaw].
+cultistas. Que estão, na verdade, procurando
+pelo [Castelo Cragmaw](../locations/cragmaw_castle.md).
 
 "Aqui é [Thundertree](../locations/thundertree.md)! Estão bem longe do Castelo
 Cragmaw! O que estão fazendo aqui? Não viram as minhas placas de advertência?"
@@ -296,7 +297,7 @@ própria natureza o estivesse observando constantemente.
 
 #### Mencionados
 
-* [Castelo Cragmaw]
+* [Castelo Cragmaw](../locations/cragmaw_castle.md)
 * [Phandalin]
 
 ### Itens
