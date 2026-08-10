@@ -49,27 +49,20 @@ raios de fogo conjurados pelo Professor, e são facilmente eliminadas.
 
 :construction: {Imagem}
 
-:construction:
+Seguindo pelas ruínas o grupo se aproxima cautelosamente de uma casa que está
+especialmente bem conservada, com telhados praticamente novos, porta de madeira
+sólida reforçada com faixas de ferro, e janelas com persianas grossas e
+resistentes.
 
-    - casa especialmente bem conservada
-    - portas reforçadas com faixas de ferro
-    - janelas com persianas grossas
-    
-    - Ralf
-    - mantendo distância, abrigado nas ruínas próximas
-    - joga pedras
-    
-    - após a terceira pedra
-    - porta se abre
-    - humano velho
-    - calvo, barba e cabelos brancos e longos
-    - vestes longas, sandálias
-    - cajado enfeitado com penas, pedras, ossos e chifres
+Ralf, mantendo distância e abrigado nas ruínas próximas, joga uma pedra contra a
+porta. Nada. Mais alguns segundos, outra pedra. Agora a porta se abre e dela sai
+um homem velho, calvo, com barba e cabelos brancos e muito longos, vestes longas
+e sandálias portando um cajado penas, pedras, ossos e chifres.
 
-"Malditos cultistas vão embora daqui. Não me encham o saco!"
+"Malditos cultistas! Vão embora daqui! Não me encham o saco!"
 
 Ralf sai do seu esconderijo, se apresentando e enfatizando que o grupo não é de
-cultistas. Que estão, na verdade, procurando
+cultistas, e que estão, na verdade, procurando
 pelo [Castelo Cragmaw](../locations/cragmaw_castle.md).
 
 "Aqui é [Thundertree](../locations/thundertree.md)! Estão bem longe do Castelo
@@ -77,44 +70,65 @@ Cragmaw! O que estão fazendo aqui? Não viram as minhas placas de advertência?
 
 "Placas? Quê placas?"
 
-"Droga! Acho que precisarei fazer mais placas... Vocês precisam tomar cuidado
+"Droga! Acho que preciso fazer mais placas... Vocês precisam tomar cuidado
 andando por estas ruínas. Desde que a erupção destruiu a vila há mais de 30
-anos, as ruínas ficaram infestadas desta praga de plantas mutantes... E ainda
-tem os zumbis, que eu acho que são alguns dos antigos moradores contaminados
-pelas cinzas do vulcão... mas faz já um tempo que não tenho cruzado com
-nenhum... o que será que aconteceu com eles? Ah! Tem também umas aranhas grandes
-numa das casas aqui perto..."
+anos, a vila se tornou infestada desta praga de plantas mutantes... E ainda tem
+os zumbis... eu acho eles que são antigos moradores contaminados pelas cinzas do
+vulcão... mas faz já um tempo que não tenho cruzado com nenhum... o que será que
+aconteceu com eles? Ah! Tem também umas aranhas grandes numa das casas aqui
+perto..."
 
 "Senhor!", Ralf interrompeu, "O senhor sabe onde fica o Castelo Cragmaw?"
 
-"Sei, mas o que vocês querem com aquele lugar? Só tem um bando do goblin
-fedorento por lá... Mas... onde está minha hospitalidade?... já que estão aqui,
-entrem, por favor! A propósito, eu me
-chamo [Reidoth](../casting/npcs/thundertree/reidoth.md), muito prazer! Fiquem a
-vontade... bom...", disse olhando ao redor do pequeno cômodo que é sua casa
-&mdash; uma cama, ao lado de um pequeno fogão, uma mesa e uma cadeira &mdash;,
-"não tenho muito conforto por aqui... não estou acostumado a receber visitas...
-Aceitam um chá?"
+"Sei, mas o que vocês querem com aquele lugar? Só tem um bando do goblins
+fedorentos por lá... Mas... onde está minha hospitalidade?... já que estão aqui,
+entrem, por favor!".
 
-    - Reidoth vê o ovo de owlbear
-    - dá dicas sobre a criação
-      - cuidados para chocar o ovo
-        - bastante valioso no mercado negro
-        - necessário manter o calor
-          - "o ideal seria você ser um owlbear"
-        - evitar choques físicos
-        - falta pouco para eclodir
-      - dificuldades para criar e treinar
-        - no inicio: uma galinha ou um coelho por dia
-        - depois: uma ovelha ou um boi por dia
-        - goodberries pode ser um paleativo
-          - sustenta mas não enche a barriga => stress
+Após entrarem, o velhote fecha a porta, mas não sem antes de dar uma boa olhada
+para se certificar de que não tem ninguém mais por ali.
+
+"A propósito, eu me chamo [Reidoth](../casting/npcs/thundertree/reidoth.md),
+muito prazer! Fiquem a vontade... bom...", disse olhando ao redor de seu pequeno
+cômodo que é sua casa &mdash; uma cama ao lado de um pequeno fogão, uma mesa e
+uma cadeira, e só &mdash; "não tenho muito conforto por aqui... não estou
+acostumado a receber visitas... Aceitam um chá?"
+
+Nisso Reidoth, nota a grande trouxa que o halfling carrega presa a uma vara.
+"Mas o que é isso meu rapaz?"
+
+Ralf, animado, mostra o ovo.
+
+"Nossa! Um ovo de owlbear! Não vejo um destes a muito tempo! Onde você o
+conseguiu? Estes ovos podem ser bastante valorizados no mercado negro."
+
+"Não pretendo vendê-lo! Quero, na verdade, criá-lo!"
+
+O druída passou então a dissertar sobre as dificuldades &mdash; e perigos
+&mdash; de uma empreitada destas.
+
+"Você precisa mantê-lo aquecido... Ah! Você tem usado bolsas de água quente?
+Muito esperto! O ideal mesmo seria que você _fosse_ um owlbear.", e, após dar
+leves soquinhos na casca, coloca os ouvidos no ovo, "E parece que está próximo
+do tempo de eclodir."
+
+"Criaturas como estas podem ser bem difíceis e caras de se manter. No início,
+vai depender muito de vocês para se alimentar. Uma galinha ou um coelho por dia
+deve ser suficiente, pra começar, mas vai crescer rápido e logo vai precisar de
+algo maior && uma ovelha ou, quem sabe, até um boi inteiro. Estas frutinhas
+mágicas, que são bastante comuns, podem ser um paliativo, já que sustentam por
+um dia, mas não enchem a barriga, o que pode deixá-los estressados &mdash; e não
+queremos vê-los estressados, não é mesmo?"
+
+"E, se pretende tentar domesticá-lo, também demandarão treinamento diário, desde
+o início. Boa sorte nisso, pequeno rapaz! Você vai precisar..."
+
+"Bom, senhor, obrigado pelas dicas, mas estamos aqui por outro motivo."
 
 "Somos de [Phandalin](../locations/phandalin.md) e estamos..."
 
-"Phandalin?", interrompeu, "Tenho uma amiga que mora em Phandalin. Ela tem uma
-fazenda por lá... Qual é mesmo o nome dela? É Qe-alguma coisa... Como é mesmo?",
-força um pouco a memória franzindo a testa e olhando para o vazio,
+"Phandalin?", interrompeu, "Tenho uma velha amiga que mora em Phandalin. Ela tem
+uma fazenda por lá... Qual é mesmo o nome dela? É Qe-alguma coisa... Como é
+mesmo?", força um pouco a memória franzindo a testa e olhando para o vazio,
 "Qelline... [Qelline Alderleaf](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md)!
 É isso!"
 
@@ -128,20 +142,20 @@ na [Estrada Triboar](../locations/triboar_trail.md). O senhor pode nos indicar
 como chegar lá?"
 
 "Putz! É complicado... é um lugar muito bem escondido
-na [Floresta Neverwinter](../locations/neverwinter_wood.md). Eu até poderia
-levá-los até lá, mas estou aqui com este problema dos cultistas e
-do [dragão](../casting/npcs/thundertree/venomfang.md)..."
+na [Floresta Neverwinter](../locations/neverwinter_wood.md)...", e após pensar
+um pouco, "Eu até poderia levá-los até lá, mas estou aqui com este problema dos
+cultistas e do [dragão](../casting/npcs/thundertree/venomfang.md)."
 
 Então explicou que, não tem muito tempo, um jovem dragão verde se instalou na
-torre que fica na colina no centro da vila. Pouco depois, chegaram os cultistas
-que, parece, estão tentando cair nas graças da criatura.
+torre que fica na colina no centro da vila. Pouco depois dele, vieram os
+cultistas que, parece, estão tentando cair nas graças da criatura.
 
-"Não posso sair daqui sem resolver esta situação... sabe-se lá o que iria
-encontrar quando voltasse..."
+"Não posso sair daqui sem resolver esta situação antes... sabe-se lá o que
+poderia encontrar quando voltasse..."
 
 O grupo discute brevemente e, embora pareça uma tarefa bem perigosa, concordam
 que pode ser uma forma de obter a ajuda do druida. Jeremias está confiante e
-Ralf parece um pouco mais confiante e animado do que seria razoável.
+Ralf parece um pouco mais animado do que seria razoável.
 
 ---
 
