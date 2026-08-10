@@ -112,6 +112,13 @@
   * grupo deixa Phandalin rumo a [Conyberry](conyberry.md)
     ([Cena 2](../sessions/06_wyvern_tor.md#cena-2-despedidas))
 
+####
+
+* [Sessão 8 Venomfang](../sessions/08_venomfang.md)
+  * [Reidoth](../casting/npcs/thundertree/reidoth.md) diz que é amigo
+    de [Qelline](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md) em
+    **Phandalin** ([Cena 2](../sessions/08_venomfang.md#cena-2-druida))
+
 [//]: # (####)
 [//]: # ()
 [//]: # (* [Sessão {X} {Título}])

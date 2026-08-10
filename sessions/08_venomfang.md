@@ -110,7 +110,7 @@ Aceitam um chá?"
         - goodberries pode ser um paleativo
           - sustenta mas não enche a barriga => stress
 
-"Somos de [Phandalin] e estamos..."
+"Somos de [Phandalin](../locations/phandalin.md) e estamos..."
 
 "Phandalin?", interrompeu, "Tenho uma amiga que mora em Phandalin. Ela tem uma
 fazenda por lá... Qual é mesmo o nome dela? É Qe-alguma coisa... Como é mesmo?",
@@ -298,7 +298,7 @@ própria natureza o estivesse observando constantemente.
 #### Mencionados
 
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
-* [Phandalin]
+* [Phandalin](../locations/phandalin.md)
 
 ### Itens
 

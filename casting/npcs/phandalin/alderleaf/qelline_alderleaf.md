@@ -37,3 +37,9 @@
     com **Qelline**
     na [Fazenda Alderleaf](../../../../locations/phandalin/alderleaf_farm.md)
     ([Cena 3](../../../../sessions/03_redbrands.md#cena-3-uma-voz))
+
+####
+
+* [Sessão 8 Venomfang](../../../../sessions/08_venomfang.md)
+  * [Reidoth](../../thundertree/reidoth.md) diz que é amigo de **Qelline**
+    ([Cena 2](../../../../sessions/08_venomfang.md#cena-2-druida))
