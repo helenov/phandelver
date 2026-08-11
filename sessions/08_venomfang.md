@@ -209,7 +209,7 @@ equipe."
 
 ### Cena 4 Dragão
 
-:construction: {Imagem}
+![A velha torre em ruínas, com seu telhado aberto, são vistos de baixo, próximo à porta entreaberta da casa anexa.](../images/cenas/08_4_dragao.png)
 
 Após um breve descanso, o grupo sobre o caminho sinuoso que leva ao topo da
 colina. A primeira que veem ao se aproximar da torre, são duas aranhas gigantes
