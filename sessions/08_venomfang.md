@@ -22,7 +22,7 @@ _próxima_ : [Sessão 9] próxima...
 
 ### Cena 1 Galhos
 
-:construction: {Imagem}
+![Mato alto e arbustos espinhoso estão cercados por paredes de pedra em ruínas.](../images/cenas/08_1_galhos.png)
 
 Sem saber muito bem o que fazer com [Iarno](../casting/npcs/iarno_albrek.md), o
 grupo decide deixá-lo preso com algemas a uma pesada bigorna da oficina em que
