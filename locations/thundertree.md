@@ -2,7 +2,7 @@
 
 ## Thundertree
 
-![thundertree.png](../images/locations/thundertree.png)
+![Vista de ThunderTree, uma vila em ruínas e coberta por mato alto. No topo de uma colina destaca-se uma torre em relativamente bom estado, apenas com metade de seu telhado aberto ao tempo.](../images/locations/thundertree.png)
 
 Ao se aproximam da vila, percebem que aparenta estar abandonada, com suas ruas e
 casas tomadas pela vegetação, sufocadas por trepadeiras e arbustos. Algumas
@@ -12,7 +12,18 @@ muito tempo com seus interiores expostos às intempéries.
 Mais a frente, no meio do povoado, ergue-se uma colina íngreme, sobre a qual se
 destaca uma torre de pedra com o telhado parcialmente desabado e uma casa anexa.
 
-:construction: História
+[Reidoth](../casting/npcs/thundertree/reidoth.md) conta que há mais de 30 anos,
+uma erupção vulcânica destruiu a vila e matou quase todos seus habitantes. Desde
+então, as cinzas que encobriram o lugar forem responsáveis por criar uma praga
+de plantas mutantes que infesta as ruínas. Além disso, alguns dos moradores
+mortos no cataclismo acabaram por se tornar zumbis que ainda assombram os
+escombros de seu antigo lar.
+
+Recentemente, um jovem dragão
+verde, [Venomfang](../casting/npcs/thundertree/venomfang.md), se estabeleceu na
+antiga torre abandonada do mago local, e clama toda a região para si. Pouco
+depois do dragão vieram os cultistas que pretendem cair nas graças da criatura e
+colocarem-se a seu serviço.
 
 ### Personagens
 
