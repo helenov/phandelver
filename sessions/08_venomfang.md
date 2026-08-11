@@ -45,7 +45,7 @@ raios de fogo conjurados pelo Professor, e são facilmente eliminadas.
 
 ### Cena 2 Druida
 
-:construction: {Imagem}
+![O interior da cabana de um velho druída: uma cama simples a um canto, ao lado de um pequeno fogão de ferro, com uma velha chaleira em cima. No centro apenas uma mesa e uma cadeira de madeira e palha rústicos. Apenas alguns poucos utensilios se espalham pelas paredes e sobre mesa,](../images/cenas/08_2_druida.png)
 
 Seguindo pelas ruínas o grupo se aproxima cautelosamente de uma casa que está
 especialmente bem conservada, com telhados praticamente novos, porta de madeira
@@ -159,7 +159,7 @@ Ralf parece um pouco mais animado do que seria razoável.
 
 ### Cena 3 Aranhas
 
-:construction: {Imagem}
+![Duas aranhas gigantes avançam sobre paredes em ruínas, cercadas por mato alto e teias de aranha.](../images/cenas/08_3_aranhas.png)
 
 Seguindo [Reidoth](../casting/npcs/thundertree/reidoth.md), o grupo segue pelo
 que deve ter sido a rua principal da vila, hoje cercada por mato alto e ruínas.
