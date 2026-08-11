@@ -2,10 +2,9 @@
 
 ## Machado Hew, <small>_uncommon_</small>
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-:construction: {Imagem}
+<!-- @formatter:off -->
+<img alt="Um machado de guerra enferrujado está caido no chão em meio a moedas de prata. Sob a ferrugem é possível ver runas inscritas no metal." src="../../images/items/battleaxe_hew.png" style="width:400px; margin-right: 15px; float: left" />
+<!-- @formatter:on -->
 
 Sob a ferrugem causada pelo desuso, é visível uma bela cabeça de machado de aço,
 trabalhada com atenção e cuidado. Limpando um pouco a ferrugem é possível
