@@ -2,13 +2,11 @@
 
 ## Venomfang (RIP), <small>_green dragon (jovem)_</small>
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-:construction: {Imagem}
+![venomfang.png](../../../images/characters/thundertree/venomfang.png)
 
-:construction: {Texto}
-<br clear="left"/>
+**Venomfang** é um jovem dragão verde que se estabeleceu na antiga torre
+abandonada, em [Thundertree](../../../locations/thundertree.md), e clama toda a
+região como seus domínios.
 
 [//]: # (### Relações)
 [//]: # ()
