@@ -163,37 +163,49 @@ Ralf parece um pouco mais animado do que seria razoável.
 
 :construction: {Imagem}
 
-:construction:
+Seguindo [Reidoth](../casting/npcs/thundertree/reidoth.md), o grupo segue pelo
+que deve ter sido a rua principal da vila, hoje cercada por mato alto e ruínas.
+Em dado momento, quando passavam pelo que parecia uma antiga loja, o druída
+alerta, "Cuidado, rapazes! Tem uma teia atravessando o caminho. Aqui é que as
+aranhas se escondem." No lugar apontado, agora que sabem o que procurar, é
+possível ver a sombra sutil de um emaranhado de teia que liga a entrada da
+antiga construção e o mato alto do outro lado do caminho.
 
-Seguindo a orientação de [Reidoth](../casting/npcs/thundertree/reidoth.md), o
-grupo segue pelo que deve ter sido a rua principal da vila, hoje cerca por mato
-alto e ruínas.
+"Será que não podemos dar a volta pelo outro lado?"
 
-    - passando por uma ruínas no caminho
-    - Reidoth alerta para teias sutis que atravessam o caminho
-      - "Aqui é onde as aranhas estão escondidas. Precisamos tomar cuidado"
-      - "Será que não seria possível dar a volta pelo outro lado?"
-      - "Não lá está cheio daquelas plantas mutantes"
-    - antes de alguém sugerir alguma outra opção
-      - Reidoth acende uma chama no seu cajado e começa a queimar a teia
-      - com isso as aranhas saem das ruínas atacando
+"Não! Por lá está cheio daquelas plantas mutantes."
 
-    - Ralf e Professor atacam a primeira
-    - Reidoth bate seu cajado no chão, trovão que abala as aranhas
-    - Jeremias e Frodo correm para eliminar a segunda aranha
-      - acabam presos na teia, que segue queimando
-    - Ralf após derrubar a primeira
-      - corre pra segunda e também acaba preso a teia
+E antes que alguém pudesse sugerir um outra opção, Reidoth toca seu cajado na
+teia, que começa imediatamente a pegar fogo.
 
-    - o fogo machuca Jeremias, Frodo e Ralf
-      - também ajuda a matar a segunda aranha
+Quase que instantaneamente, como se tivessem esperando pelo chamado, duas
+aranhas gigantes surgem por cima das paredes quebradas do lugar, já descendo na
+direção do grupo.
 
-    - Reidoth: "Por que vocês entraram na teia?!? Não sabiam que podiam ficar 
-      presos?"
-    - "Realmente não foi uma boa ideia. Mas o senhor poderia ter avisado 
-      que ia colocar fogo na teia!"
-    - "Hum... realmente poderia ter mencionado... mas não estou muito acostumado
-      a trabalhar em equipe..."
+Professor, a distância, e Ralf atacam imediatamente a aranha mais próxima,
+enquanto Jeremias e Frodo correm para a segunda, mas acabam pisando na teia e
+ficam presos, entre a aranha e o fogo que segue queimando em suas direções.
+
+Reidoth bate forte seu cajado no chão, que estremecer ao som de um trovão que
+chacoalha as paredes e por pouco não faz as aranhas serem atiradas ao chão.
+
+Após derrubar a primeira aranha, Ralf corre para a segunda, também ficando preso
+na teia.
+
+"Por que você fez isso, meu rapaz! Não viu que ia ficar preso?"
+
+O fogo que segue avançando chega a ferir Jeremias, Frodo e Ralf, mas também os
+livra da teia. A aranha também se vê obrigada a recuar, o que dá abertura para
+Jeremias eliminá-la.
+
+"Por que vocês entraram na teia!? Não viram que poderiam ficar presos?",
+protestou o druída.
+
+"Realmente não foi uma boa ideia, mas o senhor também poderia ter avisado que ia
+colocar fogo na teia", retorquiu Ralf.
+
+"Hum... é... poderia ter mencionado... não estou muito acostumado a trabalhar em
+equipe."
 
 ---
 
