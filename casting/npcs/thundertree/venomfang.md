@@ -2,7 +2,7 @@
 
 ## Venomfang (RIP), <small>_green dragon (jovem)_</small>
 
-![venomfang.png](../../../images/characters/thundertree/venomfang.png)
+![Um jovem dragão verde está deixado dentro de sua torre de pedra, cercado por ossos de suas presas, enquanto encara ferozmente quem está invadindo seu covil.](../../../images/characters/thundertree/venomfang.png)
 
 **Venomfang** é um jovem dragão verde que se estabeleceu na antiga torre
 abandonada, em [Thundertree](../../../locations/thundertree.md), e clama toda a
