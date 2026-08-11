@@ -6,8 +6,11 @@
 <img alt="Reidoth" src="../../../images/characters/thundertree/reidoth.png" style="width:300px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
-:construction:
-Druida.
+**Reidoth** é um velho druida que vive e procura restaurar o equilíbrio da
+natureza nas ruínas da antiga vila
+de [Thundertree](../../../locations/thundertree.md), destruída por uma erupção
+vulcânica e infestada por uma praga de plantas mutantes, zumbis de cinzas,
+aranhas gigantes, e mais recentemente, um dragão.  
 <br clear="left"/>
 
 ### Relações
