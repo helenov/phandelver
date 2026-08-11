@@ -6,8 +6,6 @@ _data_ : 2026-08-04 \
 _anterior_ : [Sessão 7 Floresta](07_floresta.md) \
 _próxima_ : [Sessão 9] próxima...
 
-:construction:
-
 * Cenas
   * [Cena 1 Galhos](#cena-1-galhos)
   * [Cena 2 Druida](#cena-2-druida)
@@ -213,66 +211,69 @@ equipe."
 
 :construction: {Imagem}
 
-:construction:
+Após um breve descanso, o grupo sobre o caminho sinuoso que leva ao topo da
+colina. A primeira que veem ao se aproximar da torre, são duas aranhas gigantes
+inertes. Os corpos estão enrugados e cheios de bolhas; algumas partes estão
+faltando, como se dilaceradas por algum animal bem grande.
 
-    - topo da colina
-      - torre redonda com uma casa anexa
-      - estado razoável de conservação
-        - falta metade do telhado da torre
-      - silêncio sepulcral
-        - cheiro acido/picante no ar
+O silêncio é sepulcral &mdash; nenhuma criatura ousa se aproximar &mdash, e o ar
+tem um cheiro meio acido, meio picante.
 
-    - na trilha
-      - duas aranhas gigantes mortas
-      - corpos enrugados e com bolhas
-      - dilacerados por um animal bem grande
+A torre e a casa anexa estão em razoável de conservação, exceto por metade do
+telhado da torre que desabou a muito tempo.
 
-    - Bia sobrevoa, o buraco do telhado
-      - vê a lage o segundo andar
-      - escada espiral que desce
-      - embaixo escuro e silêncio
+A pedido do Professor, Bia sobrevoa a torre, tentando ver seu interior, mas só
+vê o que resta do segundo piso, e uma escada em espiral que desce para o térreo
+escuro.
 
-    - Ralf abre a porta da casa
-      - moveis empoeirados, muita teia de aranha
-      - verificam que a porta dos fundos dá para os fundos
-      - resta uma porta a direita
+Ralf abre a porta da casa, onde encontram móveis empoeirados, e muita teia de
+aranha. Há uma porta que lava aos fundos, cheio de mato, e outra que leva para a
+torre.
 
-    - abre a porta e surpreendem o dragão no térreo da torre
+Após uma breve deliberação sobre o que fazer, Ralf abre a segunda porta e
+surpreendem o dragão que acorda com a intromissão.
 
 "Quem se atreve a perturbar o descanso
-de [Venomfang](../casting/npcs/thundertree/venomfang.md)?"
+de [Venomfang](../casting/npcs/thundertree/venomfang.md)?", a criatura, um jovem
+dragão verde, é talvez um pouco menor do que o grupo temia, mas está claramente
+incomodado com a presença indesejada.
 
-      - "Só queremos conversar... ver, quem sabe, se o senhor não vai procurar 
-        outro lugar para morar..."
-      - "Estes são os domínios de Venomfang! Vão embora, ou vão sentir a minha
-        ira"
-      - começa a tomar fogo
+"Só queremos conversar... ver, quem sabe, se o senhor não poderia procurar um
+outro lugar para morar..."
+
+"Estes são os domínios de Venomfang! Vão embora agora, ou vão sentir a minha
+ira", começa a tomar folego para atacar.
 
 Vendo que o dragão não está convencido a deixar o lugar, Ralf corre para dentro
-e ataca, logo seguido por Jeremias, Frodo
-e [Reidoth](../casting/npcs/thundertree/reidoth.md)
+e ataca o dragão que definitivamente não espera por tanta impetuosidade. Logo
+Jeremias, Frodo e [Reidoth](../casting/npcs/thundertree/reidoth.md) o seguem,
+atacando a fera antes que ele pudesse reagir.
 
-      - bafo venenoso 
-        - Ralf: consegue evitar inalar o gás venenoso
-        - Reidoth: é atingido em cheio e quase sufoca
-          - se afasta para a outra sala para tomar ar
+Quando finalmente, consegue se recompor, Venomfang assopra seu bafo fedorento de
+venenoso. Ralf consegue se esquivar, mas o druida atingido em cheio e com o
+rosto queimado e sem folego precisar correr para fora para recuperar o ar.
 
-    - ataques bem sucedidos, ferem bastante o dragão, cercado
-    - desengaja, sobe as escadas, prestes a fugir
-    - raio de fogo do Professor, derruba a criatura, que iniciava o vôo
+Oa ataques bem sucedidos ferem bastante o dragão que se vendo cercado, desengaja
+do combate e corre para as escadas, se espremendo para o segundo andar.
 
-    - baú de madeira quebrado
-      - ~1000 moedas
-        - 800 sp, 150 gp
-      - 4 [cálices de prata] com moonstones
-      - scroll misty step
-      - scroll lighting bolt
-      - meio enterrado pelas moedas
-        - velho battleaxe, meio enferrujado
+Quando já está prestes a sair voando pelo buraco do telhado, é atingido pelas
+costas, por um raio de fogo do Professor, e cai já sem vida para o chão lá fora.
 
-Sob a ferrugem causada pelo desuso, é visível uma bela cabeça de machado de aço,
-trabalhada com atenção e cuidado. Limpando um pouco a ferrugem é possível
-discernir uma palavra gravada em runas anãs: H-E-W.
+Após recuperarem o folego e acudir o druida que ficou bastante machucado pelo
+bafo venenoso, o grupo não deixa de comemorar sua primeira vitória contra um
+dragão. "[Carp](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md) ficará
+orgulhosa!"
+
+Olhando o lugar que abrigava o jovem dragão, encontram um baú de madeira, que
+deve ter quebrado ao ser transportado pela criatura. Dentro encontram cerca de
+1000 moedas entre prata e ouro, 4 cálices de prata encrustados com pedras da
+lua, dois scrolls &mdash; que o Professor identifica como sendo de _misty step_
+e _lighting bolt_.
+
+Por baixo de tudo isso, meio enterrado as moedas, um machado de guerra rústico,
+que, apesar de parecer enferrujado, revela uma cabeça de aço muito bem
+trabalhada com cuidado e atenção. Limpando um pouco a ferrugem, conseguem ler
+uma palavra gravada em três runas anãs: H-E-W.
 
 Quando o Professor lê este nome em voz alta, "Hew", Jeremias se lembra de uma
 história antiga sobre um certo [Machado Hew](../items/magical/battleaxe_hew.md)
@@ -283,9 +284,9 @@ lenha.
 Movido por esta rivalidade, criou um machado mágico especialmente bom para
 cortar madeira e contra seres vegetais.
 
-A história conta que, por conta desse rancor impregnado no metal, quem o empunha
-sente um profundo desconforto sempre que anda por uma floresta, como se a
-própria natureza o estivesse observando constantemente.
+Por outro lado, a história conta que, por conta desse rancor impregnado no
+metal, quem o empunha sente um profundo desconforto sempre que anda por uma
+floresta, como se a própria natureza o estivesse observando constantemente.
 
 ---
 
