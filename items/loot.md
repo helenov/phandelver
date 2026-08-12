@@ -71,6 +71,7 @@
       * 5 na [Prefeitura](../locations/phandalin/townmasters_hall.md)
       * 1 com Professor
     * 8 quivers, 20 bolts cada &ndash; _deixadas_
+    * 12 capas vermelhas &ndash; [Prefeitura](../locations/phandalin/townmasters_hall.md) 
   * escritório ([Sessão 5 Cena 1](../sessions/05_perda.md#cena-1-carta))
     * [equipamento de alquimia] &ndash; _com Professor_
     * [livro de poções] &ndash; _com Professor_
@@ -193,7 +194,7 @@
 
 ####
 
-* 8 capas vermelhas
+* 20 capas vermelhas
 
 ### Com Outros
 
