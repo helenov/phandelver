@@ -19,7 +19,7 @@
 
 ### Locais
 
-* [Phandalin](../../../locations/phandalin.md), morador, mercador e prefeito
+* [Phandalin](../../../locations/phandalin.md), morador, banqueiro e prefeito
   * [Prefeitura](../../../locations/phandalin/townmasters_hall.md), prefeito e
     residente
 
