@@ -73,7 +73,7 @@
 * [Sessão 8 Venomfang](../sessions/08_venomfang.md)
   * [Reidoth](../casting/npcs/thundertree/reidoth.md) diz que
     o [Castelo Cragmaw](cragmaw_castle.md) fica escondido na **Floresta
-    Neverwinter**  
+    Neverwinter**
     ([Cena 2](../sessions/08_venomfang.md#cena-2-druida))
 
 [//]: # (####)

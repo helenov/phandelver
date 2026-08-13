@@ -10,7 +10,7 @@
 natureza nas ruínas da antiga vila
 de [Thundertree](../../../locations/thundertree.md), destruída por uma erupção
 vulcânica e infestada por uma praga de plantas mutantes, zumbis de cinzas,
-aranhas gigantes, e mais recentemente, um dragão.  
+aranhas gigantes, e mais recentemente, um dragão.
 <br clear="left"/>
 
 ### Relações

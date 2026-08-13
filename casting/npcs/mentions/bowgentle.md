@@ -7,7 +7,7 @@
 [//]: # (<!-- @formatter:on -->)
 [//]: # (:construction: {Imagem})
 
-:construction: 
+:construction:
 Mago lendário.
 <br clear="left"/>
 
