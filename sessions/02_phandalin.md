@@ -197,7 +197,7 @@ grupo se os irmãos Rockseeker aparecerem.
 
 ### Cena 7 Hospedaria Stonehill
 
-![02_7_hospedaria_stonehill.png](../images/sessions/02_phandalin/02_7_hospedaria_stonehill.png)
+![A Hospedaria Stonehill é um prédio de pedra e madeira de dois andares, bem no centro da vila. Pessoas se encontram a frente da entrada. Ao fundo é possível ver as ruínas de uma mansão no topo de uma colina.](../images/sessions/02_phandalin/02_7_hospedaria_stonehill.png)
 
 No centro da cidade, ergue-se a
 "[Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)", um prédio

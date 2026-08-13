@@ -23,7 +23,7 @@ _próxima_ : [Sessão 8 Venomfang](08_venomfang.md)
 
 ### Cena 1 Brughor
 
-![07_1_brughor.png](../images/sessions/07_floresta/07_1_brughor.png)
+![Um mapa desenhado rusticamente no chão de uma caverna, iluminado por tochas, mostrando a Floresta e o Rio Neverwinter indicando a localização do Castelo Cragmaw.](../images/sessions/07_floresta/07_1_brughor.png)
 
 [Brughor](../casting/npcs/cragmaw/brughor.md), sob ameaças, fez um desenho no
 chão da caverna indicando onde estão agora,
@@ -141,7 +141,7 @@ antes procurar um bom local para descansar.
 
 ### Cena 3 Owlbear
 
-![07_3_owlbear.png](../images/sessions/07_floresta/07_3_owlbear.png)
+![Em meio a uma densa floresta, um owlbear grita mostrandos suas presas e garras enquanto defende seu ninho com dois ovos.](../images/sessions/07_floresta/07_3_owlbear.png)
 
 No dia seguinte o plano é seguir viajando
 pela [Floresta Neverwinter](../locations/neverwinter_wood.md) para noroeste até
@@ -185,7 +185,7 @@ um destes?!?"
 
 ### Cena 4 Buscas
 
-![07_4_buscas.png](../images/sessions/07_floresta/07_4_buscas.png)
+![Uma floresta densa com raios de luz atravessando as copas das grandes árvores.](../images/sessions/07_floresta/07_4_buscas.png)
 
 Após mais dois dias viajando pela floresta, finalmente chegam
 ao [Rio Neverwinter](../locations/neverwinter_river.md). Neste ponto, Professor
@@ -207,7 +207,7 @@ uma boa distância de segurança, decidem se aproximar apenas na manhã seguinte
 
 ### Cena 5 Arrependido
 
-![07_5_arrependido.png](../images/sessions/07_floresta/07_5_arrependido.png)
+![As ruínas de uma antiga oficina de ferreiro. As paredes ainda estão inteiras, mas partes do telhado estao faltando. A porta e janela de madeira estão fechados. Na frente, em meio a lenha apodrecida, algumas ferramentas enferrujadas podem ser vistas.](../images/sessions/07_floresta/07_5_arrependido.png)
 
 Ao se aproximam da vila, veem que ela aparenta estar abandonada, com suas ruas e
 casas tomadas pela vegetação, sufocadas por trepadeiras e arbustos. Algumas
