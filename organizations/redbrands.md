@@ -2,10 +2,9 @@
 
 ## Redbrands
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-:construction: {Imagem}
+<!-- @formatter:off -->
+<img alt="Redbrands" src="../images/organizations/redbrands.png" style="width:200px; margin-right: 15px; float: left" />
+<!-- @formatter:on -->
 
 :construction: {Texto}
 <br clear="left"/>
