@@ -23,7 +23,7 @@ _próxima_ : [Sessão 8 Venomfang](08_venomfang.md)
 
 ### Cena 1 Brughor
 
-![07_1_brughor.png](../images/cenas/07_1_brughor.png)
+![07_1_brughor.png](../images/sessions/07_floresta/07_1_brughor.png)
 
 [Brughor](../casting/npcs/cragmaw/brughor.md), sob ameaças, fez um desenho no
 chão da caverna indicando onde estão agora,
@@ -72,7 +72,7 @@ por não se envolver em encrenca.
 
 ### Cena 2 Agatha
 
-![No centro de uma clareira lúgubre e enevoada, uma grande árvore de galhos retorcidos tem uma porta de maneira instalada em seu largo tronco.](../images/cenas/07_2_agatha.png)
+![No centro de uma clareira lúgubre e enevoada, uma grande árvore de galhos retorcidos tem uma porta de maneira instalada em seu largo tronco.](../images/sessions/07_floresta/07_2_agatha.png)
 
 Viajam de volta, pelo mesmo caminho percorrido há dois dias, e passam por
 [Conyberry](../locations/conyberry.md) por volta do meio-dia.
@@ -141,7 +141,7 @@ antes procurar um bom local para descansar.
 
 ### Cena 3 Owlbear
 
-![07_3_owlbear.png](../images/cenas/07_3_owlbear.png)
+![07_3_owlbear.png](../images/sessions/07_floresta/07_3_owlbear.png)
 
 No dia seguinte o plano é seguir viajando
 pela [Floresta Neverwinter](../locations/neverwinter_wood.md) para noroeste até
@@ -185,7 +185,7 @@ um destes?!?"
 
 ### Cena 4 Buscas
 
-![07_4_buscas.png](../images/cenas/07_4_buscas.png)
+![07_4_buscas.png](../images/sessions/07_floresta/07_4_buscas.png)
 
 Após mais dois dias viajando pela floresta, finalmente chegam
 ao [Rio Neverwinter](../locations/neverwinter_river.md). Neste ponto, Professor
@@ -207,7 +207,7 @@ uma boa distância de segurança, decidem se aproximar apenas na manhã seguinte
 
 ### Cena 5 Arrependido
 
-![07_5_arrependido.png](../images/cenas/07_5_arrependido.png)
+![07_5_arrependido.png](../images/sessions/07_floresta/07_5_arrependido.png)
 
 Ao se aproximam da vila, veem que ela aparenta estar abandonada, com suas ruas e
 casas tomadas pela vegetação, sufocadas por trepadeiras e arbustos. Algumas

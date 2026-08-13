@@ -31,7 +31,7 @@ _próxima_ : [Sessão 3 Redbrands](03_redbrands.md)
 
 ### Cena 1 Decisões
 
-![Uma caverna com uma fogueira ao centro, esta cheia de caixas e sacos de suprimentos roubados.](../images/cenas/02_1_decisoes.jpeg)
+![Uma caverna com uma fogueira ao centro, esta cheia de caixas e sacos de suprimentos roubados.](../images/sessions/02_phandalin/02_1_decisoes.jpeg)
 
 Após derrotarem [Klarg](../casting/npcs/cragmaw/klarg.md), o grupo investiga a
 sala onde estão guardados os carregamentos roubados
@@ -59,7 +59,7 @@ o outro lado da caverna.
 
 ### Cena 2 Troca
 
-![Yeemik, o goblin, segura Sildar ferido e amarrado, a beira de um barranco. O goblin inclina o soldado para o vazio, enquando o ameaça com uma adaga.](../images/cenas/02_2_troca.png)
+![Yeemik, o goblin, segura Sildar ferido e amarrado, a beira de um barranco. O goblin inclina o soldado para o vazio, enquando o ameaça com uma adaga.](../images/sessions/02_phandalin/02_2_troca.png)
 
 Ao se aproximarem da câmara a oeste da caverna, ouvem que os goblins parecem já
 estar comemorando por antecipação.
@@ -89,7 +89,7 @@ Após curar Sildar, o grupo sai às pressas da caverna.
 
 ### Cena 3 Sildar
 
-![Sildar, sujo e ferido, descansa recostado a uma árvore.](../images/cenas/02_3_sildar.jpeg)
+![Sildar, sujo e ferido, descansa recostado a uma árvore.](../images/sessions/02_phandalin/02_3_sildar.jpeg)
 
 Já fora da caverna, [Sildar](../casting/npcs/sildar_hallwinter.md), salvo do
 perigo de morte, mas ainda ferido e desarmado, conta que ele
@@ -115,7 +115,7 @@ ou algo do tipo. Ele teme que agora esta informação esteja com os
 
 ### Cena 4 Interrogatório
 
-![Ao lado de uma carroça de suprimento atrelada a dois bois, um goblin está ajoelhado na estrada, implorando por sua vida.](../images/cenas/02_4_interrogatorio.jpeg)
+![Ao lado de uma carroça de suprimento atrelada a dois bois, um goblin está ajoelhado na estrada, implorando por sua vida.](../images/sessions/02_phandalin/02_4_interrogatorio.jpeg)
 
 De volta a estrada, o grupo surpreende três goblins fugitivos que estão mexendo
 na carroça. Os três fogem ao serem surpreendidos, mas um deles é ferido e,
@@ -137,7 +137,7 @@ seus companheiros haviam fugido.
 
 ### Cena 5 Phandalin
 
-![A vila de Phandalin é vista da estrada. Construções simples de madeira e pedra erguidas sobre antigas funções de pedra. Do lado esquerdo, sobre uma colina é possível ver as ruínas do que um dia foi uma suntuosa mansão. Ao fundo montanhas se destacam no horizonte.](../images/cenas/02_5_phandalin.jpg)
+![A vila de Phandalin é vista da estrada. Construções simples de madeira e pedra erguidas sobre antigas funções de pedra. Do lado esquerdo, sobre uma colina é possível ver as ruínas do que um dia foi uma suntuosa mansão. Ao fundo montanhas se destacam no horizonte.](../images/sessions/02_phandalin/02_5_phandalin.jpg)
 
 A estrada emerge de uma encosta arborizada, e o grupo
 avista [Phandalin](../locations/phandalin.md) pela primeira vez. A cidade
@@ -154,7 +154,7 @@ que sobe em direção a uma mansão em ruínas na encosta leste da cidade.
 
 ### Cena 6 Venda da Barthen
 
-![À luz do final da tarde, uma mulher jovem de longos cabelos ruivos orienta dois adolecentes que carregam caixas para dentro de um estabelecimento comercial. Sobre a porta do lugar uma placa onde se lê "Venda da Barthen".](../images/cenas/02_6_venda_da_barthen.png)
+![À luz do final da tarde, uma mulher jovem de longos cabelos ruivos orienta dois adolecentes que carregam caixas para dentro de um estabelecimento comercial. Sobre a porta do lugar uma placa onde se lê "Venda da Barthen".](../images/sessions/02_phandalin/02_6_venda_da_barthen.png)
 
 É fim da tarde e a cidade parece se preparar para a noite. Logo na entrada na
 cidade o grupo vê uma casa comercial, com uma placa onde se lê
@@ -197,7 +197,7 @@ grupo se os irmãos Rockseeker aparecerem.
 
 ### Cena 7 Hospedaria Stonehill
 
-![02_7_hospedaria_stonehill.png](../images/cenas/02_7_hospedaria_stonehill.png)
+![02_7_hospedaria_stonehill.png](../images/sessions/02_phandalin/02_7_hospedaria_stonehill.png)
 
 No centro da cidade, ergue-se a
 "[Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md)", um prédio

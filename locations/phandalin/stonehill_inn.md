@@ -2,7 +2,7 @@
 
 ## Hospedaria Stonehill
 
-![02_7_hospedaria_stonehill.png](../../images/cenas/02_7_hospedaria_stonehill.png)
+![02_7_hospedaria_stonehill.png](../../images/sessions/02_phandalin/02_7_hospedaria_stonehill.png)
 
 :construction: {Texto}
 

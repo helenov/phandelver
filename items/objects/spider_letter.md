@@ -2,7 +2,7 @@
 
 ## Carta do Spider
 
-![Uma carta, escrita com uma letra elegante e assinada com um carimbo representando uma aranha preta, está sobre uma mesa de madeira contendo outros papeis e cadernos de anotação.](../../images/cenas/05_1_carta.jpeg)
+![Uma carta, escrita com uma letra elegante e assinada com um carimbo representando uma aranha preta, está sobre uma mesa de madeira contendo outros papeis e cadernos de anotação.](../../images/sessions/05_perda/05_1_carta.jpeg)
 
 Investigando os aposentos do
 mago [Glasstaff](../../casting/npcs/redbrands/glasstaff.md)

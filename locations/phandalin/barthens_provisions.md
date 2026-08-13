@@ -2,7 +2,7 @@
 
 ## Venda da Barthen
 
-![À luz do final da tarde, uma mulher jovem de longos cabelos ruivos orienta dois adolecentes que carregam caixas para dentro de um estabelecimento comercial. Sobre a porta do lugar uma placa onde se lê "Venda da Barthen".](../../images/cenas/02_6_venda_da_barthen.png)
+![À luz do final da tarde, uma mulher jovem de longos cabelos ruivos orienta dois adolecentes que carregam caixas para dentro de um estabelecimento comercial. Sobre a porta do lugar uma placa onde se lê "Venda da Barthen".](../../images/sessions/02_phandalin/02_6_venda_da_barthen.png)
 
 A Venda de Barthen é o maior posto comercial de [Phandalin](../phandalin.md).
 Suas prateleiras oferecem a maioria dos produtos e suprimentos comuns, incluindo

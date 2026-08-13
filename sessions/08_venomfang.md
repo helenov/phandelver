@@ -22,7 +22,7 @@ _próxima_ : [Sessão 9] próxima...
 
 ### Cena 1 Galhos
 
-![Mato alto e arbustos espinhoso estão cercados por paredes de pedra em ruínas.](../images/cenas/08_1_galhos.png)
+![Mato alto e arbustos espinhoso estão cercados por paredes de pedra em ruínas.](../images/sessions/08_venomfang/08_1_galhos.png)
 
 Sem saber muito bem o que fazer com [Iarno](../casting/npcs/iarno_albrek.md), o
 grupo decide deixá-lo preso com algemas a uma pesada bigorna da oficina em que
@@ -45,7 +45,7 @@ raios de fogo conjurados pelo Professor, e são facilmente eliminadas.
 
 ### Cena 2 Druida
 
-![O interior da cabana de um velho druída: uma cama simples a um canto, ao lado de um pequeno fogão de ferro, com uma velha chaleira em cima. No centro apenas uma mesa e uma cadeira de madeira e palha rústicos. Apenas alguns poucos utensilios se espalham pelas paredes e sobre mesa,](../images/cenas/08_2_druida.png)
+![O interior da cabana de um velho druída: uma cama simples a um canto, ao lado de um pequeno fogão de ferro, com uma velha chaleira em cima. No centro apenas uma mesa e uma cadeira de madeira e palha rústicos. Apenas alguns poucos utensilios se espalham pelas paredes e sobre mesa,](../images/sessions/08_venomfang/08_2_druida.png)
 
 Seguindo pelas ruínas o grupo se aproxima cautelosamente de uma casa que está
 especialmente bem conservada, com telhados praticamente novos, porta de madeira
@@ -159,7 +159,7 @@ Ralf parece um pouco mais animado do que seria razoável.
 
 ### Cena 3 Aranhas
 
-![Duas aranhas gigantes avançam sobre paredes em ruínas, cercadas por mato alto e teias de aranha.](../images/cenas/08_3_aranhas.png)
+![Duas aranhas gigantes avançam sobre paredes em ruínas, cercadas por mato alto e teias de aranha.](../images/sessions/08_venomfang/08_3_aranhas.png)
 
 Seguindo [Reidoth](../casting/npcs/thundertree/reidoth.md), o grupo segue pelo
 que deve ter sido a rua principal da vila, hoje cercada por mato alto e ruínas.
@@ -209,7 +209,7 @@ equipe."
 
 ### Cena 4 Dragão
 
-![A velha torre em ruínas, com seu telhado aberto, são vistos de baixo, próximo à porta entreaberta da casa anexa.](../images/cenas/08_4_dragao.png)
+![A velha torre em ruínas, com seu telhado aberto, são vistos de baixo, próximo à porta entreaberta da casa anexa.](../images/sessions/08_venomfang/08_4_dragao.png)
 
 Após um breve descanso, o grupo sobre o caminho sinuoso que leva ao topo da
 colina. A primeira que veem ao se aproximar da torre, são duas aranhas gigantes

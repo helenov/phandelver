@@ -98,7 +98,7 @@ que leva a [Floresta Neverwinter](../locations/neverwinter_wood.md).
 
 ### Cena 3 Conyberry
 
-![A estrada passa por algumas construções em ruínas, com uma densa floresta ao fundo. Ao lado da estrada um poço.](../images/cenas/06_3_conyberry.png)
+![A estrada passa por algumas construções em ruínas, com uma densa floresta ao fundo. Ao lado da estrada um poço.](../images/sessions/06_wyvern_tor/06_3_conyberry.png)
 
 Próximo ao meio-dia do quarto dia de viagem sem incidentes
 pela [Estrada Triboar](../locations/triboar_trail.md), o grupo chega às ruínas
@@ -124,7 +124,7 @@ por segui-la, na esperança de localizar a base dos assaltantes.
 
 ### Cena 4 Necromante
 
-![No alto de uma pequena colina, estão as ruínas de uma antiga torre de vigia.](../images/cenas/06_4_necromante.png)
+![No alto de uma pequena colina, estão as ruínas de uma antiga torre de vigia.](../images/sessions/06_wyvern_tor/06_4_necromante.png)
 
 Após algumas horas seguindo pela trilha, quando o sol já começa a baixar no
 horizonte, avistam uma torre no alto de uma colina. Se aproximam, pensando que
@@ -167,7 +167,7 @@ campo de estudos, "por gentileza."
 
 ### Cena 5 Wyvern Tor
 
-![Uma ravina profunda acompanha um grande penhasco de pedra. Na base do penhasco, acima de um desnível é possível ver a entrada de uma caverna. Uma silhueta humanóide está sentada em frente a entrada.](../images/cenas/06_5_wyvern_tor.png)
+![Uma ravina profunda acompanha um grande penhasco de pedra. Na base do penhasco, acima de um desnível é possível ver a entrada de uma caverna. Uma silhueta humanóide está sentada em frente a entrada.](../images/sessions/06_wyvern_tor/06_5_wyvern_tor.png)
 
 No dia seguinte, após mais algumas horas de caminhada, chegam a base do penhasco
 da [Wyvern Tor](../locations/wyvern_tor.md) e, seguindo as indicações do

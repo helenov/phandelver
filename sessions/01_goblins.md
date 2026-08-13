@@ -22,7 +22,7 @@ _próxima_ : [Sessão 2 Phandalin](02_phandalin.md)
 
 ### Cena 1 Emboscada
 
-![Quatro goblins armados com arcos, espreitam entre a vegetação no alto de um barranco, enquanto uma carroça de suprimentos puxada por dois bois, passa na estrada abaixo.](../images/cenas/01_1_emboscada.png)
+![Quatro goblins armados com arcos, espreitam entre a vegetação no alto de um barranco, enquanto uma carroça de suprimentos puxada por dois bois, passa na estrada abaixo.](../images/sessions/01_goblins/01_1_emboscada.png)
 
 Ao se aproximarem dos cavalos mortos, o grupo pode identificar que realmente são
 aqueles usados [Gundren](../casting/npcs/gundren_rockseeker.md)
@@ -52,7 +52,7 @@ entendem, e um desenho tosco de um anão com um chapelão.
 
 ### Cena 2 Caverna
 
-![A trilha cercada de vegetação, leva a entrada de uma caverna escura, de onde sai um riacho.](../images/cenas/01_2_caverna.png)
+![A trilha cercada de vegetação, leva a entrada de uma caverna escura, de onde sai um riacho.](../images/sessions/01_goblins/01_2_caverna.png)
 
 Sapão, ao investigar o rastro deixado pelo goblin fugitivo, encontra uma trilha.
 Pelos rastros, calcula que cerca de uma dúzia de goblins têm usado a trilha com
@@ -88,7 +88,7 @@ entrada do canil.
 
 ### Cena 3 Água!
 
-![Dentro de uma caverna, uma grande torrente de água descem na sua direção, levando tudo no caminho.](../images/cenas/01_3_agua.png)
+![Dentro de uma caverna, uma grande torrente de água descem na sua direção, levando tudo no caminho.](../images/sessions/01_goblins/01_3_agua.png)
 
 O grupo entre um pouco mais na caverna que sobe fazendo uma curva para a
 direita. A esquerda há uma passagem cheia de entulho, mas que parece levar a um
@@ -148,7 +148,7 @@ está bastante ferido.
 
 ### Cena 5 Klarg!
 
-![Klarg, o bugbear, esta sentado em uma grande cadeira de pedra, segurando uma clava com espetos. Deitado a seus pés um lobo feróz rosna arreganhando os dentes. A sua volta caixas e sacos de suprimentos roubados enchem a caverna.](../images/cenas/01_5_klarg.png)
+![Klarg, o bugbear, esta sentado em uma grande cadeira de pedra, segurando uma clava com espetos. Deitado a seus pés um lobo feróz rosna arreganhando os dentes. A sua volta caixas e sacos de suprimentos roubados enchem a caverna.](../images/sessions/01_goblins/01_5_klarg.png)
 
 A passagem do lado direito leva o grupo a uma sala com duas piscinas de água,
 uma delas agora vazia, deparam com dois goblins e dois lobos. Eles brigam e

@@ -2,7 +2,7 @@
 
 ## Poço da Velha Coruja
 
-![No alto de uma pequena colina, estão as ruínas de uma antiga torre de vigia.](../images/cenas/06_4_necromante.png)
+![No alto de uma pequena colina, estão as ruínas de uma antiga torre de vigia.](../images/sessions/06_wyvern_tor/06_4_necromante.png)
 
 :construction: {Texto}
 <br clear="left"/>

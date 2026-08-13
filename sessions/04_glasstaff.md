@@ -22,7 +22,7 @@ _próxima_ : [Sessão 5 Perda](05_perda.md)
 
 ### Cena 1 Prisioneiros
 
-![De cada lado da cena há uma cela de prisão. As celas tem grandes portões de barras de ferro fechados por correntes e cadeado. Ao fundo, uma pequena mesa com dois banquinhos, com cartas de um jogo interrompido.](../images/cenas/04_1_prisioneiros.png)
+![De cada lado da cena há uma cela de prisão. As celas tem grandes portões de barras de ferro fechados por correntes e cadeado. Ao fundo, uma pequena mesa com dois banquinhos, com cartas de um jogo interrompido.](../images/sessions/04_glasstaff/04_1_prisioneiros.png)
 
 Após alguns segundos de tensão, o combate inicia. Os dois guardas encurralados
 na sala pequena parecem não ter muitas chances, mas o grupo é surpreendido por
@@ -67,7 +67,7 @@ vamos voltar."
 
 ### Cena 2 Ssnark
 
-![De trás de uma coluna na caverna, Ssnark espreita com seu único olho.](../images/cenas/04_2_ssnark.png)
+![De trás de uma coluna na caverna, Ssnark espreita com seu único olho.](../images/sessions/04_glasstaff/04_2_ssnark.png)
 
 Passando pela passagem secreta revelada pelo bandido na sua tentativa de fuga, o
 grupo se vê na oficina ao fundo da caverna da fenda. O lugar está atulhado de
@@ -96,7 +96,7 @@ bloquear o caminho, reiniciando o combate, e a criatura acaba derrotada.
 
 ### Cena 3 Mago
 
-![O laboratório tem uma mesa no centro cheia de equipamentos alquímicos e um livro aberto. Atrás da mesa, prateleiras cheias de livros, pergaminhos e ingredientes estranhos. Ao fundo, uma porta de madeira.](../images/cenas/04_3_mago.png)
+![O laboratório tem uma mesa no centro cheia de equipamentos alquímicos e um livro aberto. Atrás da mesa, prateleiras cheias de livros, pergaminhos e ingredientes estranhos. Ao fundo, uma porta de madeira.](../images/sessions/04_glasstaff/04_3_mago.png)
 
 Explorando o corredor indicado por Ssnark, após descer um lance de escada,
 encontram duas portas. Na porta da esquerda escutam risadas e xingamentos:
@@ -149,7 +149,7 @@ fugiram.
 
 ### Cena 4 Pé-de-Cabra
 
-![Dois pés-de-cabra repousam, com outras ferramentas, sobre caixotes de madeira colocados junto a uma parede de pedra](../images/cenas/04_4_pe_de_cabra.png)
+![Dois pés-de-cabra repousam, com outras ferramentas, sobre caixotes de madeira colocados junto a uma parede de pedra](../images/sessions/04_glasstaff/04_4_pe_de_cabra.png)
 
 Enquanto lamentam a chance perdida de capturar o líder
 dos [Redbrands](../organizations/redbrands.md), Professor se lembra que possui

@@ -2,7 +2,7 @@
 
 ## Conyberry
 
-![A estrada passa por algumas construções em ruínas, com uma densa floresta ao fundo. Ao lado da estrada um poço.](../images/cenas/06_3_conyberry.png)
+![A estrada passa por algumas construções em ruínas, com uma densa floresta ao fundo. Ao lado da estrada um poço.](../images/sessions/06_wyvern_tor/06_3_conyberry.png)
 
 :construction: {Texto}
 <br clear="left"/>
