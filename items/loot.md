@@ -25,8 +25,22 @@
 [//]: # (####)
 [//]: # ()
 [//]: # (* {Local})
-[//]: # (  * {detalhe})
+[//]: # (  * {detalhe} &#40;[Sessão {X} Cena {Y}]&#41;)
 [//]: # (    * {item} &ndash; _{destinação}_)
+
+## Custódia
+
+* [pente de prata](objects/silver_comb.md)
+  * recebido da [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
+    ([Sessão 6 Cena 2](../sessions/06_wyvern_tor.md#cena-2-despedidas))
+  * entregue para [Agatha](../casting/npcs/agatha.md)
+    ([Sessão 7 Cena 2](../sessions/07_floresta.md#cena-2-agatha))
+
+[//]: # (####)
+[//]: # ()
+[//]: # (* {item})
+[//]: # (  * recebido de [Personagem] &#40;[Sessão {X} Cena {Y}]&#41;)
+[//]: # (  * entregue para [Personagem] &#40;[Sessão {X} Cena {Y}]&#41;)
 
 ## Pilhagens
 
@@ -130,7 +144,7 @@
 [//]: # (####)
 [//]: # ()
 [//]: # (* {Local})
-[//]: # (  * {detalhe})
+[//]: # (  * {detalhe} &#40;[Sessão {X} Cena {Y}]&#41;)
 [//]: # (    * {item} &ndash; _{destinação}_)
 
 ## Resumo
@@ -201,3 +215,8 @@
 
 * família [Dendrar](../casting/npcs/phandalin/dendrar/mirna_dendrar.md)
   * 3 capas vermelhas
+
+####
+
+* [Agatha](../casting/npcs/agatha.md)
+  * [pente de prata](objects/silver_comb.md)

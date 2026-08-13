@@ -82,7 +82,7 @@
 
 #### tarde
 
-* visita ao [Santuário da Sorte](locations/phandalin/luck_shrine.md) e
+* visita ao [Santuário da Fortuna](locations/phandalin/luck_shrine.md) e
   à [Irmã Garaele](casting/npcs/phandalin/sister_garaele.md)
   * [Sessão 5](sessions/05_perda.md): [Cena 4](sessions/05_perda.md#cena-4-irmã-garaele)
 

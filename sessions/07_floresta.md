@@ -109,8 +109,10 @@ procurar a morte?"
 
 "Sim... posso dar informações, mas nada é de graça."
 
-Professor tira de sua mochila o [pente de prata] da Irmã Garaele e o mostra para
-a banshee, que fica claramente encantada, com o olhar cobiçoso fixo no objeto.
+Professor tira de sua mochila
+o [pente de prata](../items/objects/silver_comb.md)
+da [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) e o mostra para a
+banshee, que fica claramente encantada, com o olhar cobiçoso fixo no objeto.
 
 "Ah! Que belo presente! Muito bem... Vejo que buscam muitas coisas. Façam uma
 pergunta e eu lhes darei uma resposta. No entanto, responderei apenas a _uma_

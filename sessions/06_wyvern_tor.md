@@ -78,7 +78,8 @@ precisa ser convencida a isso.
 Ela diz que subestimou a ganância da criatura e, ao não oferecer um presente em
 troca de uma resposta, foi atacada e se salvou por pouco. A banshee tem especial
 predileção por belos objetos, e antes de fugir percebeu que Agatha demonstrou
-especial interesse pelo [pente de prata] que estava usando.
+especial interesse pelo [pente de prata](../items/objects/silver_comb.md) que
+estava usando.
 
 Irmã Garaele pediu então que, caso estejam mesmo indo para aquela região, tentem
 obter a informação sobre o Grimório, com a banshee. Para ajudar na empreitada,
