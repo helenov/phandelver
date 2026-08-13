@@ -39,8 +39,8 @@
 [//]: # (####)
 [//]: # ()
 [//]: # (* {item})
-[//]: # (  * recebido de [Personagem] &#40;[Sessão {X} Cena {Y}]&#41;)
-[//]: # (  * entregue para [Personagem] &#40;[Sessão {X} Cena {Y}]&#41;)
+[//]: # (  * recebido de {Personagem} &#40;[Sessão {X} Cena {Y}]&#41;)
+[//]: # (  * entregue para {Personagem} &#40;[Sessão {X} Cena {Y}]&#41;)
 
 ## Pilhagens
 
