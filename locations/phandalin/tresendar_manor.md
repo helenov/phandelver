@@ -7,7 +7,12 @@
 [//]: # (<!-- @formatter:on -->)
 :construction: {Imagem}
 
-:construction: {Texto}
+A Mansão Tresendar ergue-se na extremidade leste da cidade, numa colina baixa em
+meio a bosques e matagais. A antiga mansão está abandonada há muito tempo, boa
+parte dos telhados e paredes internas já não existem.
+
+Muitos rastros vindos de direções diversas claramente levam até ao que um dia
+foi a cozinha da mansão, e a uma escada que desce para o antigo porão.
 <br clear="left"/>
 
 [//]: # (### Personagens)
@@ -33,8 +38,8 @@
 ### Referências
 
 * [Sessão 2 Phandalin](../../sessions/02_phandalin.md)
-  * [Carp](../../casting/npcs/phandalin/alderleaf/carp_alderleaf.md) conta
-    como encontrou um "túnel secreto" na mata ao sul da **Mansão Tresendar**
+  * [Carp](../../casting/npcs/phandalin/alderleaf/carp_alderleaf.md) conta como
+    encontrou um "túnel secreto" na mata ao sul da **Mansão Tresendar**
     ([Cena 13](../../sessions/02_phandalin.md#cena-13-carp))
 
 ####
@@ -51,6 +56,6 @@
 ####
 
 * [Sessão 4 Glasstaff](../../sessions/04_glasstaff.md)
-  * grupo persegue [Glasstaff](../../casting/npcs/redbrands/glasstaff.md) até
-    as ruínas da **Mansão Tresendar**
+  * grupo persegue [Glasstaff](../../casting/npcs/redbrands/glasstaff.md) até as
+    ruínas da **Mansão Tresendar**
     ([Cena 3](../../sessions/04_glasstaff.md#cena-3-mago))
