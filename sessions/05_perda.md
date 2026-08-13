@@ -57,7 +57,7 @@ preciosas.
 
 ### Cena 2 Perda
 
-[//]: # (:construction: {Imagem})
+![Uma mão usando uma pulseira de miçanga pende inerte na beirada de uma cama de campanha.](../images/sessions/05_perda/05_2_perda.png)
 
 Após ver que não há mais nada de interesse nos aposentos do líder
 dos [Redbrands](../organizations/redbrands.md), o grupo resolve dar cabo dos
