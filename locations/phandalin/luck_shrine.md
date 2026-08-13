@@ -2,10 +2,7 @@
 
 ## Santuário da Fortuna
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-:construction: {Imagem}
+![Uma aventureira ora em frente ao Santuário da Fortuna com uma estátua representando Tymora e cercada por velas e oferendas.](../../images/sessions/05_perda/05_4_irma_garaele.png)
 
 :construction: {Texto}
 <br clear="left"/>

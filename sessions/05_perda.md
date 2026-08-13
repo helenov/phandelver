@@ -150,7 +150,7 @@ de [Conyberry](../locations/conyberry.md)"
 
 ### Cena 4 Irmã Garaele
 
-[//]: # (:construction: {Imagem})
+![Uma aventureira ora em frente ao Santuário da Fortuna com uma estátua representando Tymora e cercada por velas e oferendas.](../images/sessions/05_perda/05_4_irma_garaele.png)
 
 Chegando ao [Santuário da Fortuna](../locations/phandalin/luck_shrine.md), são
 recebidos por [Sildar](../casting/npcs/sildar_hallwinter.md), que lamenta a
