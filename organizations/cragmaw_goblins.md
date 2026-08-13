@@ -2,10 +2,9 @@
 
 ## Cragmaw Goblins
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-:construction: {Imagem}
+<!-- @formatter:off -->
+<img alt="Cragmaw Goblins" src="../images/organizations/cragmaw_goblins.png" style="width:300px; margin-right: 15px; float: left" />
+<!-- @formatter:on -->
 
 :construction: {Texto}
 <br clear="left"/>
