@@ -17,6 +17,8 @@
 ### Proprietários
 
 * [Bowgentle](../../casting/npcs/mentions/bowgentle.md), autor
+* [Agatha](../../casting/npcs/agatha.md), herdado de Bowgentle
+* [Tsernoth](../../casting/npcs/mentions/tsernoth.md), negociado com Agatha
 
 [//]: # (### Personagens)
 [//]: # ()
