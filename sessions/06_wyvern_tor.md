@@ -52,7 +52,7 @@ a [Conyberry](../locations/conyberry.md).
 
 ### Cena 2 Despedidas
 
-[//]: # (:construction: {Imagem})
+![Um pente de prata cravejado de pedras preciosas respousa sobre uma mesa de madeira, em uma sala simples com paredes de pedra.](../images/sessions/06_wyvern_tor/06_2_despedidas.png)
 
 Pela manhã, encontram [Sildar](../casting/npcs/sildar_hallwinter.md) tomando
 café na [Hospedaria](../locations/phandalin/stonehill_inn.md), que comenta que
