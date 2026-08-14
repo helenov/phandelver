@@ -200,7 +200,9 @@ missão, já que o covil da banshee fica para o mesmo lado".
 
 ### Cena 5 Frodo
 
-[//]: # (:construction: {Imagem})
+[//]: # (O cão Frodo acaba de entrar pela porta da hospedaria e aguarda seu companheiro)
+[//]: # (que é apenas uma silhueta a porta emoldurada pela luz do sol poente atrás.)
+:construction: {Imagem}
 
 Já na [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md), Ralf e
 Professor recebem tanto congratulações pelo feito de livrar a cidade dos

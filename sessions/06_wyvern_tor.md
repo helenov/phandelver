@@ -23,7 +23,8 @@ _próxima_ : [Sessão 7 Floresta](07_floresta.md)
 
 ### Cena 1 Jeremias
 
-[//]: # (:construction: {Imagem})
+[//]: # (A figura de Jeremias aparece entrando pela porta da hospedaria.)
+:construction: {Imagem}
 
 "Sapão?!? É você?"
 

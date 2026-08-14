@@ -253,7 +253,9 @@ ainda vão arrumar confusão pra gente!"
 
 ### Cena 9 Pomar Edermath
 
-[//]: # (:construction: {Imagem})
+[//]: # (Um velho usando chapéu de palha está de costas agachado enquanto remove ervas)
+[//]: # (daninhas em meio a um pomar de macieiras.)
+:construction: {Imagem}
 
 Após discutir um pouco sobre os próximos passos, o grupo decide procurar o tal
 [Daran Edermath](../casting/npcs/phandalin/daran_edermath.md) que poderia ter
@@ -303,7 +305,9 @@ ranzinza Daran demonstra pela primeira vez algo parecido com satisfação:
 
 ### Cena 10 Lionshield Coster
 
-[//]: # (:construction: {Imagem})
+[//]: # (Fachada do posto comercial da Lionshield Coster com seu brasão pendendo sobre a)
+[//]: # (porta.)
+:construction: {Imagem}
 
 Voltando do pomar, o grupo, enquanto ruma para a prefeitura onde pretendem
 conversar com o prefeito, nota na praça central um modesto posto comercial onde,
@@ -332,7 +336,10 @@ combinar os detalhes mais tarde.
 
 ### Cena 11 Prefeitura
 
-[//]: # (:construction: {Imagem})
+[//]: # (Fachada do prédio da prefeitura de Phandalin, que é a casa de um homem rico. Uma)
+[//]: # (escada de três degraus de pedra levam até a grande porta dúpla, em que está)
+[//]: # (fixado um informativo.)
+:construction: {Imagem}
 
 Ao chegarem a porta do prédio
 da [Prefeitura](../locations/phandalin/townmasters_hall.md), que, na verdade, é
@@ -414,7 +421,8 @@ levada do lugar, sem tempo para quaisquer preparativos.
 
 ### Cena 13 Carp
 
-[//]: # (:construction: {Imagem})
+[//]: # (Carp, uma garota halfling, está contando animadamente uma estória de aventura. )
+:construction: {Imagem}
 
 De volta a [hospedaria](../locations/phandalin/stonehill_inn.md), para almoçar e
 discutir o que fazer, veem
