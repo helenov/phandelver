@@ -235,7 +235,7 @@ alguma coisa. "Ele é 'antigo' e sabe de muita coisa".
 
 ### Cena 8 Pip
 
-[//]: # (:construction: {Imagem})
+![O garoto Pip está no salão da hospedaia, contando algo que parecer ser ao mesmo tempo empolgante e perigoso para seu pai, Toblen, que está claramente preocupado.](../images/sessions/02_phandalin/02_2_pip.png)
 
 A noite passa tranquila e no dia seguinte, enquanto tomam o café da manhã, e
 pensam sobre o que farão a seguir, um garoto de cerca de 10 anos entra correndo
