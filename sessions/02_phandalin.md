@@ -127,7 +127,8 @@ o [Castelo Cragmaw](../locations/cragmaw_castle.md) fica na floresta a nordeste
 dali, mas não sabe exatamente onde -
 "Só [Klarg](../casting/npcs/cragmaw/klarg.md) sabia". Também menciona os
 "goblins estranhos" e diz ter medo deles. Também não sabe quem é Spider, mas já
-ouviu falar dele "Tenho medo dele... [Spider](../casting/npcs/mentions/spider.md)
+ouviu falar dele "Tenho medo
+dele... [Spider](../casting/npcs/mentions/spider.md)
 mandar em [Grol](../casting/npcs/cragmaw/grol.md)"
 
 Após ser ameaçado é liberado e corre para o mato, sem olhar para trás, por onde
@@ -178,10 +179,10 @@ com as minas.
 
 Elmina conta que os irmãos de
 Gundren, [Tharden](../casting/npcs/mentions/tharden_rockseeker.md)
-e [Nundro](../casting/npcs/mentions/nundro_rockseeker.md), também devem estar ansiosos e
-ficarão muito abalados ao saber do sequestro do irmão. Eles vivem acampados fora
-da cidade, sempre em lugares diferentes, explorando, mas vêm a cidade
-frequentemente para se reabastecer. "A última vez foi há uns dez dias,
+e [Nundro](../casting/npcs/mentions/nundro_rockseeker.md), também devem estar
+ansiosos e ficarão muito abalados ao saber do sequestro do irmão. Eles vivem
+acampados fora da cidade, sempre em lugares diferentes, explorando, mas vêm a
+cidade frequentemente para se reabastecer. "A última vez foi há uns dez dias,
 provavelmente devem aparecer em um dia ou dois"
 
 Um dos garotos, Ander, sugere se o sequestro poderia ter alguma relação com os
@@ -240,10 +241,9 @@ A noite passa tranquila e no dia seguinte, enquanto tomam o café da manhã, e
 pensam sobre o que farão a seguir, um garoto de cerca de 10 anos entra correndo
 no salão, chamando: "Papai! Papai!
 A [Carp](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md) disse que quase
-foi pega por uns bandidos. Ela encontrou alguma coisa na floresta! Posso ir lá
-explorar com ela?"
+foi pega por uns bandidos. Ela encontrou alguma coisa na floresta!"
 
-\"Já disse para vocês ficarem longe destes
+"Já disse para vocês ficarem longe destes
 bandidos, [Pip](../casting/npcs/phandalin/stonehill/pip_stonehill.md)!
 Você viu o que houve com a família do
 carpinteiro [Thel](../casting/npcs/phandalin/dendrar/thel_dendrar.md)? Vocês
@@ -488,8 +488,10 @@ na manhã seguinte para que ela os leve até o local.
 
 * [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md), mercador
   sequestrado
-* [Tharden Rockseeker](../casting/npcs/mentions/tharden_rockseeker.md), irmão de Gundren
-* [Nundro Rockseeker](../casting/npcs/mentions/nundro_rockseeker.md), irmão de Gundren
+* [Tharden Rockseeker](../casting/npcs/mentions/tharden_rockseeker.md), irmão de
+  Gundren
+* [Nundro Rockseeker](../casting/npcs/mentions/nundro_rockseeker.md), irmão de
+  Gundren
 
 ####
 
