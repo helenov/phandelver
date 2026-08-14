@@ -6,7 +6,17 @@
 <img alt="Glasstaff" src="../../../images/characters/redbrands/glasstaff.jpg" style="width:200px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
-:construction: {Texto}
+**Glasstaff** era o líder dos [Redbrands](../../../organizations/redbrands.md),
+um grupo de bandidos que aterrorizavam e extorquiam os moradores
+de [Phandalin](../../../locations/phandalin.md). O nome **Glasstaff** foi
+adotado por seus subordinados em função de seu cajado mágico feito de vidro.
+
+Quando o grupo invadiu
+o [Esconderijo Redbrand](../../../locations/phandalin/redbrand_hideout.md) e
+desmantelou a quadrilha, **Glasstaff** conseguiu fugir com a ajuda de uma poção
+de invisibilidade. Investigando os documentos deixados por **Glasstaff**, o
+grupo encontra uma carta de [Spider](../mentions/spider.md) que revela que o
+líder dos bandidos era, na verdade, [Iarno Albrek](../iarno_albrek.md).
 <br clear="left"/>
 
 ### Relações
