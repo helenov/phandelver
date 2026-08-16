@@ -4,10 +4,10 @@
 
 ### Player Characters
 
-* Ralf, o Halfling
-* Professor Ork
-* Sila "Sapão" Raizforte (RIP)
-* Jeremias "Colina" Raizforte
+* [Professor Ork](pcs/professor.md)
+* [Ralf the Halfling](pcs/ralf.md)
+* [Silas "Sapão" Raizforte](pcs/silas.md) (RIP)
+* [Jeremias "Colina" Raizforte](pcs/jeremias.md)
 
 #### Companions
 
