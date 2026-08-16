@@ -13,8 +13,8 @@ Druida.
 
 ### Relações
 
-* [Professor Ork](professor.md), companheiro
-* [Ralf the Halfling](ralf.md), companheiro
+* [Professor Ork](professor.md), amigo
+* [Ralf the Halfling](ralf.md), amigo
 * [Jeremias 'Colina' Raizforte](jeremias.md), primo
 
 [//]: # (### Organizações)

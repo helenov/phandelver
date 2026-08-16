@@ -11,9 +11,13 @@ Wizard, Evoker.
 
 ### Relações
 
-* [Ralf the Halfling](ralf.md), companheiro
-* [Silas 'Sapão' Raizforte](silas.md) (RIP), companheiro
-* [Jeremias 'Colina' Raizforte](jeremias.md), companheiro
+* [Ralf the Halfling](ralf.md), amigo
+* [Silas 'Sapão' Raizforte](silas.md) (RIP), amigo
+* [Jeremias 'Colina' Raizforte](jeremias.md), amigo
+
+####
+
+* [Bia](companions/bia.md), companheira
 
 [//]: # (### Organizações)
 [//]: # ()

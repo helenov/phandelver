@@ -11,8 +11,8 @@
 
 #### Companions
 
-* Bia, a coruja
-* Frodo, o cão
+* [Bia](pcs/companions/bia.md), a coruja
+* [Frodo](pcs/companions/frodo.md), o cão
 
 ### Non-player Characters
 
