@@ -2,12 +2,12 @@
 
 ## Jeremias 'Colina' Raizforte, <small>_elfo_</small>
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-:construction: {Imagem}
+<!-- @formatter:off -->
+<img alt="Jeremias 'Colina' Raizforte e Frodo" src="../../images/characters/pcs/jeremias.png" style="width:300px; margin-right: 15px; float: left" />
+<!-- @formatter:on -->
 
 :construction:
+
 Ranger, Beast Master.
 <br clear="left"/>
 

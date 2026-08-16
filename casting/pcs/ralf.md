@@ -2,12 +2,12 @@
 
 ## Ralf the Halfling, <small>_hafling_</small>
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-:construction: {Imagem}
+<!-- @formatter:off -->
+<img alt="Ralf the Halfling" src="../../images/characters/pcs/ralf.png" style="width:300px; margin-right: 15px; float: left" />
+<!-- @formatter:on -->
 
 :construction:
+
 Barbarian, Path of the Wild Heart.
 <br clear="left"/>
 
