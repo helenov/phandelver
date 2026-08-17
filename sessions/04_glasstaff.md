@@ -29,15 +29,17 @@ na sala pequena parecem não ter muitas chances, mas o grupo é surpreendido por
 trás, com a chegada de mais dois bandidos vindos da porta que era um
 beco-sem-saída.
 
-Professor, que estava mais atrás, é o primeiro a ser atacado por estes novos
-adversários, e logo reconhece que são os mesmos bandidos que havia colocado para
-dormir no quarto ao lado da cisterna. Parece que houve tempo suficiente para
-acordarem, e se livrarem das suas amarras. Mas de onde vieram?
+[Professor](../casting/pcs/professor.md), que estava mais atrás, é o primeiro a
+ser atacado por estes novos adversários, e logo reconhece que são os mesmos
+bandidos que havia colocado para dormir no quarto ao lado da cisterna. Parece
+que houve tempo suficiente para acordarem, e se livrarem das suas amarras. Mas
+de onde vieram?
 
 Mas este reforço não se mostra suficiente. Após três deles serem neutralizados,
 o quarto bandido tenta fugir pelo mesmo corredor de onde veio, revelando que há
-uma passagem secreta em frente a porta trancada. Ralf consegue ser rápido e o
-encurralar justamente nesta passagem, derrotando enfim o último adversário.
+uma passagem secreta em frente a porta trancada. [Ralf](../casting/pcs/ralf.md)
+consegue ser rápido e o encurralar justamente nesta passagem, derrotando enfim o
+último adversário.
 
 Agora, com tudo mais calmo novamente, o grupo conversa com os prisioneiros. A
 mulher mais velha se apresenta
@@ -78,12 +80,13 @@ contrabandeados &mdash; além de ferramentas para trabalhar com as caixas.
 [Ssnark](../casting/npcs/redbrands/ssnark.md)...", sussurra a voz novamente
 direto na cabeça de cada um, e mais risadas insanas.
 
-Bia, a coruja, sobrevoa a caverna, e vê a criatura atrás de uma das pilastras.
-Nisso, a criatura se revela. Um ser escamoso, com braços e pernas longos, garras
-e dentes afiadas, e, o mais notável, um único olho verde enorme que ocupa quase
-toda sua cabeça.
+[Bia](../casting/pcs/companions/bia.md), a coruja, sobrevoa a caverna, e vê a
+criatura atrás de uma das pilastras. Nisso, a criatura se revela. Um ser
+escamoso, com braços e pernas longos, garras e dentes afiadas, e, o mais
+notável, um único olho verde enorme que ocupa quase toda sua cabeça.
 
-Sapão rapidamente ataca de longe, iniciando o combate.
+[Sapão](../casting/pcs/silas.md) rapidamente ataca de longe, iniciando o
+combate.
 
 Ssnark fica bastante ferido e foge da briga, tentando negociar. "Mestre não quer
 intrusos em seus aposentos", diz a criatura apontando para um dos corredores que
@@ -109,16 +112,19 @@ escondido.
 
 A sala é um laboratório de alquimia, com uma mesa central abarrotada de
 equipamentos, tubos e jarros de vidro com líquidos de muitas cores fumegando e
-borbulhando sobre chamas de lamparinas. Um livro aberto, que o Professor
+borbulhando sobre chamas de lamparinas. Um livro aberto, que
+o [Professor](../casting/pcs/professor.md)
 reconhece como instruções para fazer algum tipo de poção, talvez de
 invisibilidade. Professor guarda este livro.
 
-Ralf ouve uma movimentação vinda da porta do outro lado da sala. Corre para
-abrir a porta para encontrar um quarto. Apenas uma cama e uma pequena mesa cheia
-de papéis. Sapão nota uma irregularidade na parede oposta, que revela uma
-passagem secreta que foi deixada entreaberta.
+[Ralf](../casting/pcs/ralf.md) ouve uma movimentação vinda da porta do outro
+lado da sala. Corre para abrir a porta para encontrar um quarto. Apenas uma cama
+e uma pequena mesa cheia de papéis. [Sapão](../casting/pcs/silas.md) nota uma
+irregularidade na parede oposta, que revela uma passagem secreta que foi deixada
+entreaberta.
 
-Neste mesmo momento, Bia, que havia sido deixada vigiando na caverna, alerta
+Neste mesmo momento, [Bia](../casting/pcs/companions/bia.md), que havia sido
+deixada vigiando na caverna, alerta
 "Homem passando!"
 
 O grupo corre em perseguição. A passagem se abre para uma escada que sobe até
@@ -130,8 +136,8 @@ Sapão, a frente, chega na cisterna a tempo de ver o homem baixo e barbado, que
 acabou de pegar algo dentro da água, tomar uma poção e sumir bem na sua frente.
 
 Sapão percebe uma movimentação que parece subir as escadas. Neste momento, uma
-criatura alada surge do nada, ataca e desaparece em seguida. Sem perder tempo,
-Sapão sobe correndo, e vê a porta no patamar se abrir. Chega a tropeçar no mago
+criatura alada surge do nada, ataca e desaparece em seguida. Sem perder tempo, o
+druida sobe correndo, e vê a porta no patamar se abrir. Chega a tropeçar no mago
 invisível ao alcançar a porta, mas é atacado novamente pela criatura alada, que
 passa por ele, sumindo em seguida.
 
@@ -152,10 +158,10 @@ fugiram.
 ![Dois pés-de-cabra repousam, com outras ferramentas, sobre caixotes de madeira colocados junto a uma parede de pedra](../images/sessions/04_glasstaff/04_4_pe_de_cabra.png)
 
 Enquanto lamentam a chance perdida de capturar o líder
-dos [Redbrands](../organizations/redbrands.md), Professor se lembra que possui
-um pé-de-cabra entre seu equipamento, o grupo volta para os prisioneiros. Com a
-ajuda da ferramenta, Ralf consegue romper as correntes que prendem as grades das
-celas.
+dos [Redbrands](../organizations/redbrands.md), [Professor](../casting/pcs/professor.md)
+se lembra que possui um pé-de-cabra entre seu equipamento, e o grupo volta para
+os prisioneiros. Com a ajuda da ferramenta, [Ralf](../casting/pcs/ralf.md)
+consegue romper as correntes que prendem as grades das celas.
 
 Cautelosamente, conduzem a família Dendrar pela caverna até o túnel, onde são
 orientados a seguir

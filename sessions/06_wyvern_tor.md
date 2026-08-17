@@ -26,7 +26,7 @@ _próxima_ : [Sessão 7 Floresta](07_floresta.md)
 [//]: # (A figura de Jeremias aparece entrando pela porta da hospedaria.)
 :construction: {Imagem}
 
-"Sapão?!? É você?"
+"[Sapão](../casting/pcs/silas.md)?!? É você?"
 
 "Alto lá, Frodo!", disse a silhueta na porta
 da [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md), ao que o cão
@@ -34,10 +34,10 @@ obedeceu imediatamente, mantendo-se em estado de alerta. "Vocês falaram 'Sapão
 Vocês conhecem meu primo?", continuou o elfo alto de cabelos longos que entrava
 no salão.
 
-"Eu sou Jeremias 'Colina' Raizforte e este é meu fiel companheiro, Frodo. Sou
-primo de Silas 'Sapão' Raizforte. Soube
-em [Neverwinter](../locations/neverwinter.md) que ele estaria nesta região.
-Vocês são amigos dele?"
+"Eu sou [Jeremias 'Colina' Raizforte](../casting/pcs/jeremias.md) e este é meu
+fiel companheiro, [Frodo](../casting/pcs/companions/frodo.md). Sou primo de
+Silas 'Sapão' Raizforte. Soube em [Neverwinter](../locations/neverwinter.md) que
+ele estaria nesta região. Vocês são amigos dele?"
 
 O grupo conta o que acabou de acontecer com o amigo, ao que o recém-chegado fica
 profundamente consternado. Ao relatarem mais detalhes dos últimos acontecimentos
@@ -65,15 +65,15 @@ a [Conyberry](../locations/conyberry.md). [Irmã Garaele](../casting/npcs/phanda
 chegou de lá e pode ter visto alguma coisa.
 
 O grupo vai até o [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
-onde, enquanto Colina vela seu primo
-Sapão, [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) conta que foi
-para Conyberry para procurar uma banshee
+onde, enquanto [Jeremias](../casting/pcs/jeremias.md) vela seu primo
+[Sapão](../casting/pcs/silas.md), [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
+conta que foi para Conyberry para procurar uma banshee
 chamada [Agatha](../casting/npcs/agatha.md), em uma missão solicitada por seus
 superiores nos [Harpers](../organizations/harpers.md). Seu objetivo era obter
 alguma informação sobre o paradeiro
 do [Grimório Bowgentle](../items/books/bowgentle_spellbook.md), conhecido livro
 de magia do lendário mago [Bowgentle](../casting/npcs/mentions/bowgentle.md).
-Agatha tem poderem divinatórios e pode responder a qualquer pergunta, mas
+Agatha tem poderes divinatórios e pode responder a qualquer pergunta, mas
 precisa ser convencida a isso.
 
 Ela diz que subestimou a ganância da criatura e, ao não oferecer um presente em
@@ -148,10 +148,11 @@ O homem &mdash; alto, usando um manto vermelho, tem a cabeça raspada e o rosto
 todo tatuado, mas um símbolo arcano se destaca em sua testa &mdash; se apresenta
 como [Hamun Kost](../casting/npcs/hamun_kost.md) e que está ali
 no [Poço da Velha Coruja](../locations/old_owl_well.md) estudando "assuntos de
-seu interesse". O Professor reconhece sua aparência peculiar como uma
-característica marcante dos [Red Wizards](../organizations/red_wizards.md), um
-grupo de magos malígnos, ambiciosos e poderosos. O símbolo que carregam gravados
-em suas testas indicam sua especialidade mágica &mdash; neste caso, necromancia.
+seu interesse". O [Professor](../casting/pcs/professor.md) reconhece sua
+aparência peculiar como uma característica marcante
+dos [Red Wizards](../organizations/red_wizards.md), um grupo de magos malígnos,
+ambiciosos e poderosos. O símbolo que carregam gravados em suas testas indicam
+sua especialidade mágica &mdash; neste caso, necromancia.
 
 Perguntado sobre os bandidos que estão na região, ele confirma que se escondem
 por perto, mas não o evitam &mdash; diz isso fazendo um leve gesto na direção
@@ -177,9 +178,9 @@ necromante, encontram o esconderijo, no fim de uma ravina profunda. A entrada de
 gruta está sendo vigiada por um bugbear, visivelmente entendiado.
 
 O grupo se aproxima, escondido pela vegetação do lado oposto da ravina. Com um
-feitiço, o Professor coloca o guarda para dormir, e, se aproximando com extrema
-cautela, levam o guarda dormindo para longe do local, para ser acordado e
-interrogado.
+feitiço, o [Professor](../casting/pcs/professor.md) coloca o guarda para dormir,
+e, se aproximando com extrema cautela, levam o guarda dormindo para longe do
+local, para ser acordado e interrogado.
 
 Se vendo sem opções, o bugbear diz que são um grupo
 dos [Cragmaw Goblins](../organizations/cragmaw_goblins.md), mas que apenas seu

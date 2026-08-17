@@ -29,10 +29,11 @@ Após perderem o rastro do líder dos [Redbrands](../organizations/redbrands.md)
 o grupo resolve investigar com mais calma seus aposentos em busca de alguma
 pista de sua identidade, intenções e ligações.
 
-No laboratório, Professor pega o livro com instruções para a produção de poções
-que estava aberto sobre a mesa e, olhando as estantes, encontram um livro
-antigo, escrito em língua anã, com o título ["As Aventuras de Urmon"]. Leva
-consigo também alguns frascos de reagentes que julgou interessante.
+No laboratório, [Professor](../casting/pcs/professor.md) pega o livro com
+instruções para a produção de poções que estava aberto sobre a mesa e, olhando
+as estantes, encontram um livro antigo, escrito em língua anã, com o
+título ["As Aventuras de Urmon"]. Leva consigo também alguns frascos de
+reagentes que julgou interessante.
 
 No quarto de [Glasstaff](../casting/npcs/redbrands/glasstaff.md), sobre sua mesa
 estão muitos papéis espalhados, a maioria pedidos e recibos de material
@@ -64,10 +65,11 @@ dos [Redbrands](../organizations/redbrands.md), o grupo resolve dar cabo dos
 últimos bandidos que ouviram em duas salas.
 
 Na primeira sala, pela porta ouvem risadas e gritos de pessoas que aparentam
-estar bêbadas e jogando dados. A princípio, Ralf entra tentando enganar os
-quatro homens, mas vendo que aquilo não levaria a lugar nenhum, Sapão se
-transforma um lobo e entra no lugar atacando. O Professor coloca dois para
-dormir enquanto Ralf e Sapão-lobo derrubam os demais com certa facilidade.
+estar bêbadas e jogando dados. A princípio, [Ralf](../casting/pcs/ralf.md) entra
+tentando enganar os quatro homens, mas vendo que aquilo não levaria a lugar
+nenhum, [Sapão](../casting/pcs/silas.md) se transforma um lobo e entra no lugar
+atacando. O [Professor](../casting/pcs/professor.md) coloca dois para dormir
+enquanto Ralf e Sapão-lobo derrubam os demais com certa facilidade.
 
 Deixando os sobreviventes amarrados, seguem para a segunda porta que ainda não
 abriram e de onde também ouvem gritos e risadas, mas aqui o clima é outro.
@@ -83,7 +85,7 @@ solta um grito agudo e desmaia.
 Sapão, ainda na forma de lobo, passa pelo halfling, e entra atacando o primeiro
 bugbear, enquanto Ralf bloqueia a porta, protegendo o Professor logo atrás. O
 combate é acirrado e, com a porta bloqueada pela luta entre Ralf e um dos
-bugbears, Sapão se ve encurralado e, atacado por dois vilões simultaneamente,
+bugbears, o druida se vê encurralado e, atacado por dois vilões simultaneamente,
 acaba levando um forte golpe que o derruba.
 
 A luta na porta está difícil, ainda mais quando os dois outros se juntam ao
@@ -125,10 +127,10 @@ cisterna) e o goblin Droop.
 
 [//]: # (:construction: {Imagem})
 
-Ralf e Professor levam os bandidos para
-a [Prefeitura](../locations/phandalin/townmasters_hall.md), onde são recebidos
-por um prefeito com a barba suja de molho e um lenço pendurado na gola da
-camisa.
+[Ralf](../casting/pcs/ralf.md) e [Professor](../casting/pcs/professor.md) levam
+os bandidos para a [Prefeitura](../locations/phandalin/townmasters_hall.md),
+onde são recebidos por um prefeito com a barba suja de molho e um lenço
+pendurado na gola da camisa.
 
 Ao saber que os Redbrands foram
 debandados, [Harbin Wester](../casting/npcs/phandalin/harbin_wester.md) felicita
@@ -204,9 +206,12 @@ missão, já que o covil da banshee fica para o mesmo lado".
 [//]: # (que é apenas uma silhueta a porta emoldurada pela luz do sol poente atrás.)
 :construction: {Imagem}
 
-Já na [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md), Ralf e
-Professor recebem tanto congratulações pelo feito de livrar a cidade dos
-arruaceiros, quanto condolências pela perda de seu companheiro.
+Já
+na [Hospedaria Stonehill](../locations/phandalin/stonehill_inn.md), [Ralf](../casting/pcs/ralf.md)
+e
+[Professor](../casting/pcs/professor.md) recebem tanto congratulações pelo feito
+de livrar a cidade dos arruaceiros, quanto condolências pela perda de seu
+companheiro.
 
 Passam a tarde toda ali bebendo e relembrando suas aventuras com o amigo.
 
@@ -215,10 +220,10 @@ sol que começa a baixar no horizonte, a silhueta de um elfo alto de cabelos
 longos.
 
 Com a vista turva pela bebida e ofuscada pela luz alaranjada do sol, os amigos
-se assustam. "Sapão?!? É você?"
+se assustam. "[Sapão](../casting/pcs/silas.md)?!? É você?"
 
 Nisso, um cachorro enorme passa pelo recém-chegado entrando no salão com um
-olhar alerta. "Alto lá, Frodo!"
+olhar alerta. "Alto lá, [Frodo](../casting/pcs/companions/frodo.md)!"
 
 ---
 

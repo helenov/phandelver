@@ -26,8 +26,8 @@ _próxima_ : [Sessão 2 Phandalin](02_phandalin.md)
 
 Ao se aproximarem dos cavalos mortos, o grupo pode identificar que realmente são
 aqueles usados [Gundren](../casting/npcs/gundren_rockseeker.md)
-e [Sildar](../casting/npcs/sildar_hallwinter.md), mas logo são surpreendidos
-por uma flecha que passa zunindo próxima a Ralf.
+e [Sildar](../casting/npcs/sildar_hallwinter.md), mas logo são surpreendidos por
+uma flecha que passa zunindo próxima a [Ralf](../casting/pcs/ralf.md).
 
 Da direção de onde a flecha veio se revela um goblin que estava escondido na
 vegetação em um local elevado. Quase que simultaneamente ouve-se um grito, em
@@ -37,16 +37,19 @@ Em seguida dois outros goblins saem dos arbustos, um de cada lado da estrada e
 correm na direção de Ralf que está a frente. O primeiro dos goblins está
 xingando em direção ao que disparou a flecha, se mostrando bastante contrariado.
 
-O combate inicia. Professor chega cair, mas com a ajuda de Sapão, logo voltou a
-ativa. Quando os dois goblins com cimitarras são derrotados, aquele das flechas
-se vira e foge em no meio do mato.
+O combate inicia. [Professor](../casting/pcs/professor.md) chega cair, mas com a
+ajuda de [Sapão](../casting/pcs/silas.md), logo voltou a ativa. Quando os dois
+goblins com cimitarras são derrotados, aquele das flechas se vira e foge em no
+meio do mato.
 
-Ralf chega a correr na sua direção, mas este desapareceu na vegetação densa.
+[Ralf](../casting/pcs/ralf.md) chega a correr na sua direção, mas este
+desapareceu na vegetação densa.
 
-Enquanto isso, Sapão e Professor, investigam o local, encontrado as bolsas dos
-cavalos vazias e uma caixa de mapas, também vazia, caída próximo. Em um dos
-goblins caídos, encontram um papel amarrotado com garranchos em goblin, que não
-entendem, e um desenho tosco de um anão com um chapelão.
+Enquanto isso, [Sapão](../casting/pcs/silas.md)
+e [Professor](../casting/pcs/professor.md), investigam o local, encontrado as
+bolsas dos cavalos vazias e uma caixa de mapas, também vazia, caída próximo. Em
+um dos goblins caídos, encontram um papel amarrotado com garranchos em goblin,
+que não entendem, e um desenho tosco de um anão com um chapelão.
 
 ---
 
@@ -54,9 +57,9 @@ entendem, e um desenho tosco de um anão com um chapelão.
 
 ![A trilha cercada de vegetação, leva a entrada de uma caverna escura, de onde sai um riacho.](../images/sessions/01_goblins/01_2_caverna.png)
 
-Sapão, ao investigar o rastro deixado pelo goblin fugitivo, encontra uma trilha.
-Pelos rastros, calcula que cerca de uma dúzia de goblins têm usado a trilha com
-frequência.
+[Sapão](../casting/pcs/silas.md), ao investigar o rastro deixado pelo goblin
+fugitivo, encontra uma trilha. Pelos rastros, calcula que cerca de uma dúzia de
+goblins têm usado a trilha com frequência.
 
 Além das pegadas mais leves dos goblins, dois pares de pegadas mais profundas e
 irregulares sugerem que duas criaturas maiores passaram por esta mesma trilha
@@ -75,9 +78,10 @@ exigem quem os invasores devem ir embora, mas o grupo insiste que estão
 procurando por um anão que pode estar com eles. Enquanto discutem os goblins
 fogem para dentro da caverna.
 
-A coruja do Professor entra na caverna e vê um dos goblins fugindo para o
-interior, enquanto o outro foi para uma sala lateral onde está soltando três
-lobos presos a correntes.
+A coruja
+do [Professor](../casting/pcs/professor.md), [Bia](../casting/pcs/companions/bia.md),
+entra na caverna e vê um dos goblins fugindo para o interior, enquanto o outro
+foi para uma sala lateral onde está soltando três lobos presos a correntes.
 
 O grupo entra e briga com este goblin e com os lobos, matando o goblin e lobo
 que já estava liberto. Os outros dois permanecem presos, e o grupo percebe que
@@ -100,13 +104,15 @@ possível ouvir o som distante e ritmado de batidas como as de um martelo batend
 em pedra.
 
 O teto da caverna é cheio de estalactites, mas é bem alto, dando bastante espaço
-para a coruja voar a frente. Ao chegar a curva sobre a ponte, ela volta
-rapidamente, alertando o Professor mentalmente: "Água!!!".
+para [Bia](../casting/pcs/companions/bia.md) voar a frente. Ao chegar a curva
+sobre a ponte, ela volta rapidamente, alertando
+o [Professor](../casting/pcs/professor.md) mentalmente: "Água!!!".
 
 Simultaneamente, o grupo ouve o barulho de pedras caindo e rolando, seguido do
 rugido de uma cachoeira forte. O grupo consegue correr para fora da caverna a
-tempo de escapar por pouco da enxurrada. A água chega a alcançar Ralf, mas ele
-consegue se agarrar evitando que fosse arrastado.
+tempo de escapar por pouco da enxurrada. A água chega a
+alcançar [Ralf](../casting/pcs/ralf.md), mas ele consegue se agarrar evitando
+que fosse arrastado.
 
 ---
 
@@ -114,35 +120,39 @@ consegue se agarrar evitando que fosse arrastado.
 
 [//]: # (:construction: {Imagem})
 
-O grupo se recupera do susto e entra novamente na caverna cautelosamente. A
-coruja segue na frente e avisa sobre um "lago". O grupo vê um goblin espiando do
-alto da ponte e fugindo para dentro a direita.
+O grupo se recupera do susto e entra novamente na caverna
+cautelosamente. [Bia](../casting/pcs/companions/bia.md)
+segue na frente e avisa sobre um "lago". O grupo vê um goblin espiando do alto
+da ponte e fugindo para dentro a direita.
 
-Sapão escala a parede da caverna alcançando a ponte e jogando uma corda para
-ajudar seus amigos a subir. A coruja, ainda a frente, vê que para a direita
-goblins e lobos estão de prontidão aguardando.
+[Sapão](../casting/pcs/silas.md) escala a parede da caverna alcançando a ponte e
+jogando uma corda para ajudar seus amigos a subir. A coruja, ainda a frente, vê
+que para a direita goblins e lobos estão de prontidão aguardando.
 
-Se esgueirando para o lado esquerdo da ponte, Ralf vê que há outra sala com
-goblins, mas antes que a luz de sua lanterna possa revelar todo o espaço e ver
-quantos estão ali, uma voz que parece ser a de um líder ordena que pare, caso
-contrário "[Yeemik](../casting/npcs/cragmaw/yeemik.md) matar humano!".
+Se esgueirando para o lado esquerdo da ponte, [Ralf](../casting/pcs/ralf.md) vê
+que há outra sala com goblins, mas antes que a luz de sua lanterna possa revelar
+todo o espaço e ver quantos estão ali, uma voz que parece ser a de um líder
+ordena que pare, caso contrário "[Yeemik](../casting/npcs/cragmaw/yeemik.md)
+matar humano!".
 
-Ralf propõe pagar um resgate pelo "humano", ao que o líder pede 50 gp, mas Ralf
-diz que não tem este dinheiro todo e oferece 5 gp. O líder fala, então, que
+Ralf propõe pagar um resgate pelo "humano", ao que o líder pede 50 gp, mas o
+halfling diz que não tem este dinheiro todo e oferece 5 gp. O líder fala, então,
+que
 "libertar humano, se trazer cabeça
-de [Klarg](../casting/npcs/cragmaw/klarg.md)". Nisso uma voz humana, que
-parece ser a de [Sildar](../casting/npcs/sildar_hallwinter.md), grita dizendo
-que não devem confiar neles, "é mais importante
-resgatarem [Gundren](../casting/npcs/gundren_rockseeker.md)". Fica, então,
-claro que o anão não está com eles.
+de [Klarg](../casting/npcs/cragmaw/klarg.md)\". Nisso uma voz humana, que parece
+ser a de [Sildar](../casting/npcs/sildar_hallwinter.md), grita dizendo que não
+devem confiar neles, "é mais importante
+resgatarem [Gundren](../casting/npcs/gundren_rockseeker.md)". Fica, então, claro
+que o anão não está com eles.
 
 Discutindo com Yeemik, Ralf entende que Klarg é o líder do grupo, mas que eles
 estão insatisfeitos com sua liderança e gostariam de tomar seu lugar.
 
 Sabendo que Gundren não está do lado esquerdo, o grupo decide investigar o lado
-esquerdo da caverna. Enquanto isso o Professor envia sua coruja para vigiar o
-lado direito, e podem enfim saber que a sala tem cinco goblins e um humano, que
-está bastante ferido.
+esquerdo da caverna. Enquanto isso o [Professor](../casting/pcs/professor.md)
+envia [Bia](../casting/pcs/companions/bia.md) para vigiar o lado direito, e
+podem enfim saber que a sala tem cinco goblins e um humano, que está bastante
+ferido.
 
 ---
 
@@ -159,24 +169,24 @@ Ao avançarem para esta próxima sala, deparam com apenas um lobo, que rosna par
 eles em um canto. O fundo da sala está cheio de caixas e sacos de suprimentos
 diversos.
 
-Quando Ralf avança para atacar o lobo, sai de trás de algumas caixas um bugbear
-que logo o ataca, tentando intimidar o grupo
+Quando [Ralf](../casting/pcs/ralf.md) avança para atacar o lobo, sai de trás de
+algumas caixas um bugbear que logo o ataca, tentando intimidar o grupo
 "[Klarg](../casting/npcs/cragmaw/klarg.md) ordena que invasores vão embora!".
 
 A princípio bugbear parece estar sozinho, mas após bradar que seus "Lacaios
 covardes expulsem invasores da caverna de Klarg!", três goblins relutantes
 deixam seus esconderijos, se juntam a defesa de seu líder.
 
-Sapão e Professor chegam a cair no combate, mas conseguem se recuperam e juntos
-ferem bastante o bugbear, que estava tendo bastante azar nas investidas de sua
-maça de espinhos.
+[Sapão](../casting/pcs/silas.md) e [Professor](../casting/pcs/professor.md)
+chegam a cair no combate, mas conseguem se recuperam e juntos ferem bastante o
+bugbear, que estava tendo bastante azar nas investidas de sua maça de espinhos.
 
 Os goblins, vendo que seu líder está prestes a cair, fogem. E, pouco depois, um
 golpe fatal de Ralf liquida com o bugbear e outro do Professor elimina seu lobo.
 
 Investigando a sala, não há sinal do anão. Apenas caixas e sacos de provisões de
-inúmeras caravanas saqueadas (um brasão de um escudo com um leão azul
-identifica a maioria da carga como sendo
+inúmeras caravanas saqueadas (um brasão de um escudo com um leão azul identifica
+a maioria da carga como sendo
 da [Lionshield Coster](../organizations/lionshield_coster.md)).
 
 O grupo bastante ferido e esgotado precisa decidir o que fazer: ir para o

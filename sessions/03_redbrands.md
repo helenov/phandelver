@@ -51,17 +51,17 @@ Com o impasse, nenhum lado quer ceder, irrompe um combate. Os bandidos, bem
 falastrões, começam bem, mas logo ficam sérios quando a maré vira e acabam
 derrotados. O quarto homem, que permaneceu observando da varanda todo este
 tempo, primeiro rindo, depois preocupado e temeroso, foge para trás do bar
-gritando que vai trazer reforços. Ralf chega a tentar persegui-lo, mas ele
-escapa na noite.
+gritando que vai trazer reforços. [Ralf](../casting/pcs/ralf.md) chega a tentar
+persegui-lo, mas ele escapa na noite.
 
 Dentro do bar, o grupo encontra o taverneiro, um ogre grandalhão e aborrecido,
 que mergulha copos na água suja que está na pia, e os enxuga com um pano
 encardido. Após pedir cervejas e serem atendidos &mdash; o ogre usa os mesmos
 copos que vinha 'lavando' &mdash;, o grupo se apresenta, e o ogre, que se
-apresenta como [Greska](../casting/npcs/phandalin/greska.md), parece se
-divertir muito quando dizem que estão ali para livrar a cidade dos bandidos.
-Greska diz que o Redbrands são seus únicos clientes e o dinheiro deles é tão bom
-quanto o de qualquer outro, e que não se importa com o que fazem fora de seu
+apresenta como [Greska](../casting/npcs/phandalin/greska.md), parece se divertir
+muito quando dizem que estão ali para livrar a cidade dos bandidos. Greska diz
+que o Redbrands são seus únicos clientes e o dinheiro deles é tão bom quanto o
+de qualquer outro, e que não se importa com o que fazem fora de seu
 estabelecimento. Diz que acha que eles se escondem "pros lados da
 velha [Mansão Tresendar](../locations/phandalin/tresendar_manor.md)".
 
@@ -69,18 +69,17 @@ Dos homens derrotados, dois estão mortos, mas um está apenas inconsciente.
 
 Quando o grupo bate a porta
 da [Prefeitura](../locations/phandalin/townmasters_hall.md), são atendidos por
-um prefeito [Harbin](../casting/npcs/phandalin/harbin_wester.md) já de
-camisola. Explicam a situação e, sobre protestos de que foi acordado, o grupo é
-levado até o porão onde trancam o bandido inconsciente em uma cela. Também
-deixam as espadas apreendidas em uma sala da prefeitura, agora um arsenal
-improvisado.
+um prefeito [Harbin](../casting/npcs/phandalin/harbin_wester.md) já de camisola.
+Explicam a situação e, sobre protestos de que foi acordado, o grupo é levado até
+o porão onde trancam o bandido inconsciente em uma cela. Também deixam as
+espadas apreendidas em uma sala da prefeitura, agora um arsenal improvisado.
 
 O prefeito os orienta a levar o corpo para o cemitério que fica atrás
-do [Santuário da Fortuna](../locations/phandalin/luck_shrine.md), do outro
-lado da praça, mas já adianta que
-a [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) não se encontra
-na cidade. No templo, realmente não encontram ninguém, e deixam os corpos para
-que alguém os enterre no dia seguinte.
+do [Santuário da Fortuna](../locations/phandalin/luck_shrine.md), do outro lado
+da praça, mas já adianta que
+a [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md) não se encontra na
+cidade. No templo, realmente não encontram ninguém, e deixam os corpos para que
+alguém os enterre no dia seguinte.
 
 ---
 
@@ -98,8 +97,8 @@ estalajadeiro, está cabisbaixo, claramente contrariado e infeliz.
 Após tomar café, apressados por uma garota inquieta ao lado, ela os leva até uma
 [fazenda](../locations/phandalin/alderleaf_farm.md) no extremo sudeste da vila.
 "É aqui que eu moro com minha
-mãe, [Qelline](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md), mas
-é melhor não a incomoda ela agora."
+mãe, [Qelline](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md), mas é
+melhor não a incomoda ela agora."
 Contornam a casa, atravessam um campo de canteiros de hortaliças diversas e
 chegam a uma densa mata, conhecida
 como [Mata Tresendar](../locations/phandalin/tresendar_wood.md) já além dos
@@ -127,12 +126,12 @@ Após levar [Carp](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md)
 e [Pip](../casting/npcs/phandalin/stonehill/pip_stonehill.md) de volta
 a [Fazenda Alderleaf](../locations/phandalin/alderleaf_farm.md), e deixá-la aos
 cuidados
-da [Sra. Alderleaf](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md),
-o grupo retorna a entrada escondida.
+da [Sra. Alderleaf](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md), o
+grupo retorna a entrada escondida.
 
-Sempre com a coruja Bia investigando a frente, o grupo segue um túnel estreito e
-chega a um grande salão de caverna natural cortado por uma fenda no sentido
-norte-sul.
+Sempre com a coruja [Bia](../casting/pcs/companions/bia.md) investigando a
+frente, o grupo segue um túnel estreito e chega a um grande salão de caverna
+natural cortado por uma fenda no sentido norte-sul.
 
 Duas pontes rústicas que atravessam a fenda que tem por volta de 20 pés de
 profundidade, embora suas paredes pareçam ser facilmente escaláveis. Do alto é
@@ -169,9 +168,10 @@ frutas, vinho e cerveja. Tudo em bom estado de conservação, deixando claro que
 um depósito que vem sendo usado cotidianamente.
 
 No lado oposto da sala, duas escadas levam a um patamar, onde é possível ver uma
-porta. Contornando a cisterna, há outra porta, que Ralf abre impetuosamente,
-surpreendendo três bandidos de capas vermelhas, que interrompem a conversa e se
-levantam de pronto das camas onde estavam sentados.
+porta. Contornando a cisterna, há outra porta,
+que [Ralf](../casting/pcs/ralf.md) abre impetuosamente, surpreendendo três
+bandidos de capas vermelhas, que interrompem a conversa e se levantam de pronto
+das camas onde estavam sentados.
 
 "Quem são vocês! O que estão fazendo aqui?"
 
@@ -181,7 +181,8 @@ levantam de pronto das camas onde estavam sentados.
 
 Enquanto dura o impasse, o grupo bloqueia a saída do quarto, e um combate
 inicia. Rapidamente um dos bandidos cai desacordado por uma pancada de Ralf, e
-os outros dois são colocados para dormir pela magia de Sapão.
+os outros dois são colocados para dormir pela magia
+de [Professor](../casting/pcs/professor.md).
 
 Retiram as capas dos três que são deixados amarrados e fecham a porta.
 
@@ -194,9 +195,10 @@ Retiram as capas dos três que são deixados amarrados e fecham a porta.
 Explorando mais a sala da cisterna, o grupo nota uma porta abaixo de uma das
 escadas, que leva a corredor largo que leva uma grande porta dupla decorada.
 
-Seguindo pelo corredor, Ralf e Sapão quase caem em um fosso escondido sob
-algumas pedras soltas do piso. Passando por pequenas saliências laterais, o
-grupo ultrapassa a armadilha sem grande dificuldade.
+Seguindo pelo corredor, [Ralf](../casting/pcs/ralf.md)
+e [Sapão](../casting/pcs/silas.md) quase caem em um fosso escondido sob algumas
+pedras soltas do piso. Passando por pequenas saliências laterais, o grupo
+ultrapassa a armadilha sem grande dificuldade.
 
 Chegando mais próximo da porta ao fundo, notam que as suas folhas são revestidas
 por placas de cobre esverdeadas pelo tempo, e mostram, em relevo, a figura de um
@@ -248,8 +250,8 @@ A tensão aumenta e parece que um combate é inevitável.
 * [Harbin Wester](../casting/npcs/phandalin/harbin_wester.md), prefeito
 * [Carp Alderleaf](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md),
   garota halfling
-* [Pip Stonehill](../casting/npcs/phandalin/stonehill/pip_stonehill.md),
-  garoto humano
+* [Pip Stonehill](../casting/npcs/phandalin/stonehill/pip_stonehill.md), garoto
+  humano
 * [Qelline Alderleaf](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md),
   mãe de Carp
 

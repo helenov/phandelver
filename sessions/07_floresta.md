@@ -94,8 +94,8 @@ ao fundo, baús e prateleiras, tudo em estilo élfico, mas bem antigo com talvez
 séculos de poeira acumulada. Nenhum sinal de que alguém habita o lugar há muito
 tempo.
 
-Professor é o primeiro a entrar e nota que o ar ali é ainda mais frio, e
-imediatamente sente uma sensação de pavor.
+[Professor](../casting/pcs/professor.md) é o primeiro a entrar e nota que o ar
+ali é ainda mais frio, e imediatamente sente uma sensação de pavor.
 
 Uma luz pálida cintila no ar, bem no meio do espaço, e circulando toma a forma
 de uma elfa etérea, com cabelos e vestes ondulando em resposta a um vento
@@ -152,13 +152,14 @@ seguir para oeste procurando
 pelo [Castelo Cragmaw](../locations/cragmaw_castle.md) como indicado pelo mapa
 de [Brughor](../casting/npcs/cragmaw/brughor.md).
 
-Com Jeremias guiando o caminho, ao final do terceiro dia, enquanto já procuram
-um lugar para acampar, encontram um ninho gigante, contendo dois ovos igualmente
-grandes.
+Com [Jeremias](../casting/pcs/jeremias.md) guiando o caminho, ao final do
+terceiro dia, enquanto já procuram um lugar para acampar, encontram um ninho
+gigante, contendo dois ovos igualmente grandes.
 
-Ralf e Jeremias, curiosos, e sob alguns protestos do Professor, se aproximam.
-Mas assim que chegam mais perto, ouvem um farfalhar na vegetação próxima,
-seguido de um grito estridente.
+[Ralf](../casting/pcs/ralf.md) e Jeremias, curiosos, e sob alguns protestos
+do [Professor](../casting/pcs/professor.md), se aproximam. Mas assim que chegam
+mais perto, ouvem um farfalhar na vegetação próxima, seguido de um grito
+estridente.
 
 Nem bem têm tempo de se colocar em alerta, surge uma criatura meio urso, meio
 coruja, que sai da vegetação já atacando.
@@ -179,7 +180,8 @@ Ralf então resolve levar [um dos ovos](../items/objects/owlbear_egg.md) consigo
 com a intenção de tentar chocar o ovo, e criar o filhote. "Não seria legal ter
 um destes?!?"
 
-"Mas ele pode ser perigoso! Você garante que ele não vai fazer mal para a Bia?"
+"Mas ele pode ser perigoso! Você garante que ele não vai fazer mal para
+a [Bia](../casting/pcs/companions/bia.md)?"
 
 "Gente! Vocês já têm seus animais de estimação, por que só eu não posso ter um?"
 
@@ -190,8 +192,10 @@ um destes?!?"
 ![Uma floresta densa com raios de luz atravessando as copas das grandes árvores.](../images/sessions/07_floresta/07_4_buscas.png)
 
 Após mais dois dias viajando pela floresta, finalmente chegam
-ao [Rio Neverwinter](../locations/neverwinter_river.md). Neste ponto, Professor
-pede que Bia passe o dia sobrevoando a região em busca de algum sinal
+ao [Rio Neverwinter](../locations/neverwinter_river.md). Neste
+ponto, [Professor](../casting/pcs/professor.md)
+pede que [Bia](../casting/pcs/companions/bia.md) passe o dia sobrevoando a
+região em busca de algum sinal
 do [Castelo Cragmaw](../locations/cragmaw_castle.md).
 
 Seguem esta mesma estratégia de sobrevoos diários, enquanto seguem primeiro para
@@ -224,8 +228,9 @@ denuncia uma chaminé larga e, ao lado da porta, uma pilha de lenha apodrecida e
 algumas ferramentas velhas. O prédio pequeno, relativamente bem conservado, tem
 uma porta de madeira e janelas tapadas com tábuas.
 
-Explorando o lugar, Ralf ao olhar por uma das frestas da porta, vê um vulto que
-afasta rapidamente, no interior. Ralf verifica que a porta está trancada e bate.
+Explorando o lugar, [Ralf](../casting/pcs/ralf.md) ao olhar por uma das frestas
+da porta, vê um vulto que afasta rapidamente, no interior. Verificando que a
+porta está trancada, bate.
 
 Lá de dentro ouvem uma voz fraca e lamurienta, "P-por favor, não me matem!"
 
@@ -258,8 +263,10 @@ um problema, nós mesmos os debelamos."
 "Ah! Então foram _vocês_ que derrotaram os Redbrands?!?", disse arregalando os
 olhos e se encolhendo um pouco mais.
 
-"Como assim 'foram _vocês_'!? Você já nos conhece?", Professor e Ralf desconfiam
-da identidade do sujeito, "Quem é você? Qual o seu nome?"
+"Como assim 'foram _vocês_'!? Você já nos
+conhece?", [Professor](../casting/pcs/professor.md)
+e [Ralf](../casting/pcs/ralf.md)
+desconfiam da identidade do sujeito, "Quem é você? Qual o seu nome?"
 
 "Bom... eu sou [Iarno Albrek](../casting/npcs/iarno_albrek.md)!"
 
@@ -359,7 +366,8 @@ atrapalhar seus planos". Entendeu que o tal druida mora na vila.
 
 * [Floresta Neverwinter](../locations/neverwinter_wood.md)
   * owlbear
-    * [ovo](../items/objects/owlbear_egg.md) &ndash; _com Ralf_
+    * [ovo](../items/objects/owlbear_egg.md) &ndash;
+      _com [Ralf](../casting/pcs/ralf.md)_
 
 #### Mencionados
 

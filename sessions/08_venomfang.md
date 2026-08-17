@@ -31,15 +31,16 @@ estão, enquanto vão procurar pelo tal druida.
 Como Iarno falou que os cultistas se escondem a leste, optam por começar a busca
 pela casa, a oeste, que parece ainda estar em bom estado de conservação.
 
-Mas ao contornar a oficina, passando por um grupo de arbustos, Ralf nota que
-alguns galhos têm uma aparência distinta do restante da vegetação. Curioso,
-cutuca o galho com sua espada, revelando que se trata de uma criatura vegetal,
-que ao ser importunada, reage imediatamente. E quase como se fossem um só
-organismo, diversos outros galhos similares começam a se mover em direção dos
-intrusos.
+Mas ao contornar a oficina, passando por um grupo de
+arbustos, [Ralf](../casting/pcs/ralf.md) nota que alguns galhos têm uma
+aparência distinta do restante da vegetação. Curioso, cutuca o galho com sua
+espada, revelando que se trata de uma criatura vegetal, que ao ser importunada,
+reage imediatamente. E quase como se fossem um só organismo, diversos outros
+galhos similares começam a se mover em direção dos intrusos.
 
 As criaturas se revelam bastante frágeis, sendo especialmente vulneráveis aos
-raios de fogo conjurados pelo Professor, e são facilmente eliminadas.
+raios de fogo conjurados pelo [Professor](../casting/pcs/professor.md), e são
+facilmente eliminadas.
 
 ---
 
@@ -52,10 +53,11 @@ especialmente bem conservada, com telhados praticamente novos, porta de madeira
 sólida reforçada com faixas de ferro, e janelas com persianas grossas e
 resistentes.
 
-Ralf, mantendo distância e abrigado nas ruínas próximas, joga uma pedra contra a
-porta. Nada. Mais alguns segundos, outra pedra. Agora a porta se abre e dela sai
-um homem velho, calvo, com barba e cabelos brancos e muito longos, vestes longas
-e sandálias portando um cajado penas, pedras, ossos e chifres.
+[Ralf](../casting/pcs/ralf.md), mantendo distância e abrigado nas ruínas
+próximas, joga uma pedra contra a porta. Nada. Mais alguns segundos, outra
+pedra. Agora a porta se abre e dela sai um homem velho, calvo, com barba e
+cabelos brancos e muito longos, vestes longas e sandálias portando um cajado
+penas, pedras, ossos e chifres.
 
 "Malditos cultistas! Vão embora daqui! Não me encham o saco!"
 
@@ -96,7 +98,7 @@ Nisso Reidoth, nota a grande trouxa que o halfling carrega presa a uma vara.
 
 Ralf, animado, mostra o ovo.
 
-"Nossa! Um ovo de owlbear! Não vejo um destes a muito tempo! Onde você o
+"Nossa! Um ovo de owlbear! Não vejo um destes há muito tempo! Onde você o
 conseguiu? Estes ovos podem ser bastante valorizados no mercado negro."
 
 "Não pretendo vendê-lo! Quero, na verdade, criá-lo!"
@@ -132,7 +134,7 @@ mesmo?", força um pouco a memória franzindo a testa e olhando para o vazio,
 
 "Ah! Sim! É a mãe da
 menina [Carp](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md)!",
-reconheceu Professor.
+reconheceu o [Professor](../casting/pcs/professor.md).
 
 "Mas, como íamos dizendo... somos responsáveis pela segurança de Phandalin e
 estamos procurando pelo Castelo Cragmaw e o goblins que têm atacado os viajantes
@@ -152,8 +154,10 @@ cultistas que, parece, estão tentando cair nas graças da criatura.
 poderia encontrar quando voltasse..."
 
 O grupo discute brevemente e, embora pareça uma tarefa bem perigosa, concordam
-que pode ser uma forma de obter a ajuda do druida. Jeremias está confiante e
-Ralf parece um pouco mais animado do que seria razoável.
+que pode ser uma forma de obter a ajuda do
+druida. [Jeremias](../casting/pcs/jeremias.md) está confiante e
+[Ralf](../casting/pcs/ralf.md) parece um pouco mais animado do que seria
+razoável.
 
 ---
 
@@ -180,9 +184,12 @@ Quase que instantaneamente, como se tivessem esperando pelo chamado, duas
 aranhas gigantes surgem por cima das paredes quebradas do lugar, já descendo na
 direção do grupo.
 
-Professor, a distância, e Ralf atacam imediatamente a aranha mais próxima,
-enquanto Jeremias e Frodo correm para a segunda, mas acabam pisando na teia e
-ficam presos, entre a aranha e o fogo que segue queimando em suas direções.
+[Professor](../casting/pcs/professor.md), a distância,
+e [Ralf](../casting/pcs/ralf.md) atacam imediatamente a aranha mais próxima,
+enquanto [Jeremias](../casting/pcs/jeremias.md)
+e [Frodo](../casting/pcs/companions/frodo.md) correm para a segunda, mas acabam
+pisando na teia e ficam presos, entre a aranha e o fogo que segue queimando em
+suas direções.
 
 Reidoth bate forte seu cajado no chão, que estremecer ao som de um trovão que
 chacoalha as paredes e por pouco não faz as aranhas serem atiradas ao chão.
@@ -220,15 +227,16 @@ O silêncio é sepulcral &mdash; nenhuma criatura ousa se aproximar &mdash, e o 
 tem um cheiro meio acido, meio picante.
 
 A torre e a casa anexa estão em razoável de conservação, exceto por metade do
-telhado da torre que desabou a muito tempo.
+telhado da torre que desabou há muito tempo.
 
-A pedido do Professor, Bia sobrevoa a torre, tentando ver seu interior, mas só
-vê o que resta do segundo piso, e uma escada em espiral que desce para o térreo
-escuro.
+A pedido
+do [Professor](../casting/pcs/professor.md), [Bia](../casting/pcs/companions/bia.md)
+sobrevoa a torre, tentando ver seu interior, mas só vê o que resta do segundo
+piso, e uma escada em espiral que desce para o térreo escuro.
 
-Ralf abre a porta da casa, onde encontram móveis empoeirados, e muita teia de
-aranha. Há uma porta que lava aos fundos, cheio de mato, e outra que leva para a
-torre.
+[Ralf](../casting/pcs/ralf.md) abre a porta da casa, onde encontram móveis
+empoeirados, e muita teia de aranha. Há uma porta que lava aos fundos, cheio de
+mato, e outra que leva para a torre.
 
 Após uma breve deliberação sobre o que fazer, Ralf abre a segunda porta e
 surpreendem o dragão que acorda com a intromissão.
@@ -246,8 +254,9 @@ ira", começa a tomar folego para atacar.
 
 Vendo que o dragão não está convencido a deixar o lugar, Ralf corre para dentro
 e ataca o dragão que definitivamente não espera por tanta impetuosidade. Logo
-Jeremias, Frodo e [Reidoth](../casting/npcs/thundertree/reidoth.md) o seguem,
-atacando a fera antes que ele pudesse reagir.
+[Jeremias](../casting/pcs/jeremias.md), [Frodo](../casting/pcs/companions/frodo.md)
+e [Reidoth](../casting/npcs/thundertree/reidoth.md) o seguem, atacando a fera
+antes que ele pudesse reagir.
 
 Quando finalmente, consegue se recompor, Venomfang assopra seu bafo fedorento de
 venenoso. Ralf consegue se esquivar, mas o druida atingido em cheio e com o
@@ -275,8 +284,9 @@ que, apesar de parecer enferrujado, revela uma cabeça de aço muito bem
 trabalhada com cuidado e atenção. Limpando um pouco a ferrugem, conseguem ler
 uma palavra gravada em três runas anãs: H-E-W.
 
-Quando o Professor lê este nome em voz alta, "Hew", Jeremias se lembra de uma
-história antiga sobre um certo [Machado Hew](../items/magical/battleaxe_hew.md)
+Quando o [Professor](../casting/pcs/professor.md) lê este nome em voz alta,
+"Hew", [Jeremias](../casting/pcs/jeremias.md) se lembra de uma história antiga
+sobre um certo [Machado Hew](../items/magical/battleaxe_hew.md)
 que foi criado por um ferreiro anão que travava uma disputa pessoal contra as
 dríades de uma floresta, pois elas o atacavam sempre que ele tentava cortar
 lenha.

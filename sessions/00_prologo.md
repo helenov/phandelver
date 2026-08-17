@@ -21,8 +21,8 @@ _próxima_ : [Sessão 1 Goblins](01_goblins.md)
 
 ![Uma taverna medieval lotada de pessoas animadas. No centro da cena, como quem acaba de chegar, um anão usando chapéu de abas largas acena ao lado de um soldado que permanece sério.](../images/sessions/00_prologo/00_1_trabalho.png)
 
-Um antigo amigo, [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md),
-um anão mercador, sabendo que o grupo estava
+Um antigo amigo, [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md), um
+anão mercador, sabendo que o grupo estava
 em [Neverwinter](../locations/neverwinter.md), mandou um recado combinando um
 encontro em uma conhecida taverna.
 
@@ -33,8 +33,8 @@ da [Lords' Alliance](../organizations/lords_alliance.md).
 
 O anão logo os localiza na taverna cheia e, com um grande sorriso e os braços
 abertos, se aproxima. Cumprimentando o grupo, logo apresenta seu
-amigo, [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), que
-retribui com um aceno só sóbrio, mas permanece calado.
+amigo, [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), que retribui
+com um aceno só sóbrio, mas permanece calado.
 
 Após uma troca inicial de amenidades, o anão traz o ponto que o motivou seu
 encontro com o grupo:
@@ -54,9 +54,9 @@ O grupo aceita o pagamento e combinam os detalhes do encontro e partida para a
 manhã seguinte.
 
 Em um dado momento, Sildar se volta para Gundren e cochicha algo em seu ouvido.
-Sapão ouve apenas algo sobre outro compromisso. O anão, sobressaltado, se
-desculpa pela pressa e ambos partem, alegando que precisam ainda acertar alguns
-preparativos para a viagem.
+[Sapão](../casting/pcs/silas.md) ouve apenas algo sobre outro compromisso. O
+anão, sobressaltado, se desculpa pela pressa e ambos partem, alegando que
+precisam ainda acertar alguns preparativos para a viagem.
 
 ---
 
@@ -66,8 +66,8 @@ preparativos para a viagem.
 
 Na manhã seguinte, o grupo está esperando no local combinado para a partida
 quando o [Gundren](../casting/npcs/gundren_rockseeker.md)
-e [Sildar](../casting/npcs/sildar_hallwinter.md) chegam meio apresados,
-trazendo dois cavalos.
+e [Sildar](../casting/npcs/sildar_hallwinter.md) chegam meio apresados, trazendo
+dois cavalos.
 
 Gundren explica que houve uma pequena alteração nos planos e que ele e o amigo
 precisarão chegar em [Phandalin](../locations/phandalin.md) mais cedo, e por
@@ -97,13 +97,16 @@ na [Estrada Triboar](../locations/triboar_trail.md).
 
 Quando estão próximos do meio-dia, antes de uma curva os bois se agitam e param,
 se recusando a seguir. O grupo parando para escutar atentamente ouve um leve
-farfalhar da vegetação do lado esquerdo da estrada. O Professor manda sua coruja
-fazer um reconhecimento aéreo, mas não percebe nada de estranho.
+farfalhar da vegetação do lado esquerdo da estrada.
+O [Professor](../casting/pcs/professor.md)
+manda [Bia](../casting/pcs/companions/bia.md), sua coruja, fazer um
+reconhecimento aéreo, mas não percebe nada de estranho.
 
-Ralf se adianta sorrateiramente pela estrada e ao ultrapassar a curva vê dois
-cavalos caídos, aparentemente mortos no meio da estrada. Chama os companheiros
-que avançam cautelosos, com Sapão mais para trás trazendo os bois com a carroça
-pelas rédeas.
+[Ralf](../casting/pcs/ralf.md) se adianta sorrateiramente pela estrada e ao
+ultrapassar a curva vê dois cavalos caídos, aparentemente mortos no meio da
+estrada. Chama os companheiros que avançam cautelosos,
+com [Sapão](../casting/pcs/silas.md) mais para trás trazendo os bois com a
+carroça pelas rédeas.
 
 Quando se aproximam mais, agora podem reconhecer os cavalos que
 levavam [Gundren](../casting/npcs/gundren_rockseeker.md)

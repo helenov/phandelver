@@ -41,12 +41,14 @@ da [Lionshield Coster](../organizations/lionshield_coster.md).
 
 Em meio às caixas também encontram um baú destrancado contendo cerca de duas mil
 moedas (cerca de uma a cada dez é sp, sendo a maioria cp), duas poções de cura,
-e uma estatueta de jade na forma de um pequeno sapo com olhos dourados, que Ralf
+e uma estatueta de jade na forma de um pequeno sapo com olhos dourados,
+que [Ralf](../casting/pcs/ralf.md)
 leva no bolso. Mas nenhum sinal do
 anão [Gundren](../casting/npcs/gundren_rockseeker.md).
 
-Após Sapão e Professor tomarem as poções de cura e se recuperarem, se preparam
-para levar o corpo de Klarg para [Yeemik](../casting/npcs/cragmaw/yeemik.md)
+Após [Sapão](../casting/pcs/silas.md) e [Professor](../casting/pcs/professor.md)
+tomarem as poções de cura e se recuperarem, se preparam para levar o corpo de
+Klarg para [Yeemik](../casting/npcs/cragmaw/yeemik.md)
 do outro lado da caverna.
 
 Sapão houve rosnados e sons de ossos triturados vindos do canto da sala que
@@ -77,10 +79,11 @@ ao [Castelo Cragmaw](../locations/cragmaw_castle.md). E ainda acrescenta que o
 rei estaria atendendo a um pedido de um tal
 de [Spider](../casting/npcs/mentions/spider.md), que ele não conhece.
 
-Após alguma discussão sobre o valor do resgate pedido, Ralf volta a câmara de
-Klarg de onde traz um tanto de moedas que enganam Yeemik e seu grupo. Ao jogar o
-saco de moedas dentro sala, o goblin joga Sildar do patamar, caindo
-desacordando. "Intrusos poder levar humano nojento!"
+Após alguma discussão sobre o valor do resgate
+pedido, [Ralf](../casting/pcs/ralf.md) volta a câmara de Klarg de onde traz um
+tanto de moedas que enganam Yeemik e seu grupo. Ao jogar o saco de moedas dentro
+sala, o goblin joga Sildar do patamar, caindo desacordando. "Intrusos poder
+levar humano nojento!"
 
 Em meio a risadas dos goblins, Ralf entra na sala e arrasta Sildar para fora.
 Após curar Sildar, o grupo sai às pressas da caverna.
@@ -119,7 +122,7 @@ ou algo do tipo. Ele teme que agora esta informação esteja com os
 
 De volta a estrada, o grupo surpreende três goblins fugitivos que estão mexendo
 na carroça. Os três fogem ao serem surpreendidos, mas um deles é ferido e,
-alcançado por Sapão, se rende.
+alcançado por [Sapão](../casting/pcs/silas.md), se rende.
 "[Flip](../casting/npcs/cragmaw/flip.md) não quer morrer!"
 
 Interrogado, Flip informa que sabe que
@@ -430,9 +433,9 @@ entrar [Pip](../casting/npcs/phandalin/stonehill/pip_stonehill.md), o filho do
 estalajadeiro, com uma menina halfling, que está tagarelando, contando de como
 escapou "por muito pouco dos bandidos malvados".
 
-Sapão chama as crianças e pergunta sobre o que foi que ela
-viu. [Carp](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md), a garota,
-fica deslumbrada com os "grandes heróis" e quer saber de suas aventuras.
+[Sapão](../casting/pcs/silas.md) chama as crianças e pergunta sobre o que foi
+que ela viu. [Carp](../casting/npcs/phandalin/alderleaf/carp_alderleaf.md), a
+garota, fica deslumbrada com os "grandes heróis" e quer saber de suas aventuras.
 "Um dia, quando eu for maior, também serei uma grande aventureira, e conhecerei
 o mundo, e lutarei contra dragões. Vocês já devem ter matado um dragão, né? E
 encontrarei grandes tesouros, e..."
