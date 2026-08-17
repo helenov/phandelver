@@ -27,6 +27,13 @@ Wizard, Evoker.
 [//]: # ()
 [//]: # (* {Local}, {detalhe})
 
+### Itens
+
+* 1 crossbow
+* [equipamento de alquimia]
+* [livro de poções]
+* [livro "As Aventuras de Urmon"]
+
 [//]: # (### Referências)
 [//]: # ()
 [//]: # (* [Sessão {X} {Título}])

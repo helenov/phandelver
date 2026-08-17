@@ -25,6 +25,12 @@ Barbarian, Path of the Wild Heart.
 [//]: # ()
 [//]: # (* {Local}, {detalhe})
 
+### Itens
+
+* [sapinho de jade]
+* [tapa-olho cravejado de pedras]
+* [ovo de owlbear](../../items/objects/owlbear_egg.md)
+
 [//]: # (### Referências)
 [//]: # ()
 [//]: # (* [Sessão {X} {Título}])
