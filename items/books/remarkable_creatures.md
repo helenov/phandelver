@@ -36,4 +36,4 @@
 * [Sessão 9 Pacato](../../sessions/09_pacato.md)
   * [Reidoth](../../casting/npcs/thundertree/reidoth.md) deu o livro
     para [Ralf](../../casting/pcs/ralf.md)
-    ([Cena 1](../../sessions/09_pacato.md#cena-1-almoço-queimado))
+    ([Cena 1](../../sessions/09_pacato.md#cena-1-descanso))

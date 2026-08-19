@@ -33,13 +33,13 @@ _próxima_ : [Sessão 10]
 
     * tarde
       * descansando e conversando na casa do druida
-      * Reidoth se empolga 
-        * cuidados com o ovo 
+      * Reidoth se empolga
+        * cuidados com o ovo
         * treinamento do jovem owlbear
         * se lembra que tem um livro sobre criaturas
           * dá o livro para Ralf
             * "Criaturas Extraordinárias"
-    
+
 ---
 
 ### Cena 2 Almoço Queimado
@@ -48,13 +48,13 @@ _próxima_ : [Sessão 10]
 
 :construction: {Texto}
 
-    * fim da tarde 
+    * fim da tarde
       * cheiro de fumaça
         * na torre e no leste
-  
+
       * vão investigar no leste
         * Glasstaff está bem
-  
+
       - casa a leste
         - casa de fazenda
         - portas foram deixadas abertas
@@ -186,7 +186,7 @@ visão do terraço.
 
     - Reidoth se despede
       - diz que pretende ir para Phandalin visitar Qelline
-      - recomendam relatar os passos do grupo para Sildar 
+      - recomendam relatar os passos do grupo para Sildar
 
     - grupo se aproxima da entrada principal
       - uma seteira de cada lado da porta
