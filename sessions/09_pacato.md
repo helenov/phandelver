@@ -55,27 +55,32 @@ sobre os owlbears parece estar completo.
 
 ### Cena 2 Almoço Queimado
 
+[//]: # (Uma panela está sobre um pequeno fogão de ferro. Umas poucas brasas ainda ardem,)
+[//]: # (mas a comida que estava sendo preparadas está completamente queimada e a panela)
+[//]: # (libera uma densa fumaça preta que enche o pequeno espaço.)
 :construction: {Imagem}
 
-:construction: {Texto}
+Já no final da tarde, o grupo começa a planejar seus próximos passos para o dia
+seguinte, quando percebe um forte cheiro de fumaça. Investigando do lado de fora
+da casa, notam duas colunas de fumaça: uma maior e mais densa próxima à torre
+onde estiveram mais cedo, outra mais ao sul, no leste da vila.
 
-    * fim da tarde
-      * cheiro de fumaça
-        * na torre e no leste
+Lembrando-se com [Iarno], que foi deixado preso naquela direção, correm para lá.
+O mago está como o deixaram, mas agora preocupado com o cheiro de queimado que
+também já notou. Realmente o foco da fumaça vem de uma casa um pouco mais além.
 
-      * vão investigar no leste
-        * Glasstaff está bem
+A porta da casa de fazenda está entre aberta e dela sai uma fumaça escura.
+Entrando no lugar, encontram um pequeno fogão de ferro ainda com algumas brasas
+ainda ardendo. Sobre ele uma panela está fumegando com seu conteúdo &mdash; tudo
+indica que seria uma refeição &mdash; completamente queimado.
 
-      - casa a leste
-        - casa de fazenda
-        - portas foram deixadas abertas
-          - fumaça sai pela porta
-        - fogão ainda tem brasas acessas
-          - uma refeição estava sendo preparada
-          - foi abandonada, agora está queimando
-        - cadeiras caídas
-        - camas e colchões virados
-          - deixaram o lugar às pressas
+[Jeremias] trata de tirar a panela do fogão e a joga para fora da casa. Quando
+parte da fumaça se dissipa, conseguem ver que, no interior da casa, cadeiras
+estão tombadas, e quatro camas estão viradas, como se quem quer que estivesse
+ali deixou o lugar recolhendo seus pertences às pressas.
+
+Apenas uma capa preta cortada de modo a lembrar uma asa de dragão resta caída a
+um canto.
 
 ---
 
@@ -211,12 +216,14 @@ visão do terraço.
 :construction:
 
 * [Reidoth], druida
+* [Iarno 'Glasstaff' Albrek], prisioneiro
 * {Personagem}, {detalhe}
 
 #### Mencionados
 
 * [Venonfang]
 * {Personagem}, {detalhe}
+* cultistas
 
 ### Cenários
 
@@ -236,6 +243,8 @@ visão do terraço.
 * [Thundertree]
   * [Reidoth]
     * livro ["Criaturas Extraordinárias"] &ndash; _com [Ralf]_
+  * cultistas
+    * capa preta em forma de asa de dragão
 
 ####
 
