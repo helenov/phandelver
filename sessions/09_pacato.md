@@ -140,15 +140,23 @@ a noite em segurança.
 
 :construction: {Imagem}
 
-:construction: {Texto}
+Na manhã seguinte, bem cedo, o grupo parte de [Thundertree], e guiados
+por [Reidoth] seguem para sudeste. Quando mostram a cópia do esboço de mapa
+feito pelo orc [Brughor] para a localização do [Castelo Cragmaw], o druida se
+surpreende.
 
-    - manhã seguinte, cedo
-      - guiados por Reidoth
-      - partem para sudeste
+"Mas este mapa está bem errado! O castelo fica muito mais ao sul, bem mais perto
+da [Estrada Triboar] que do [Rio Neverwinter]."
 
-    - entrando na floresta ao meio-dia
-      - Glasstaff insiste em ser levado para Phandalin antes
-      - decidem libertá-lo para ir sozinho para Phandalin
+Próximo ao meio-dia, estão se aproximando da borda [Floresta Neverwinter],
+quando [Iarno] protesta e insiste que preferia ser levado diretamente
+para [Phandalin]. "Sabe-se lá o que podemos encontrar nesta floresta!
+No [Castelo Cragmaw], se [Spider] estiver lá, e aí estou perdido!"
+
+Após alguma deliberação sobre o que fazer, o grupo decide que vai dar muito
+trabalho lidar com um prisioneiro enquanto navegam pela floresta, e decidem
+libertá-lo, sob a promessa de seguir direto para Phandalin e se entregar
+para [Sildar].
 
 ---
 
@@ -221,6 +229,9 @@ visão do terraço.
 
 * [Reidoth], druida
 * [Iarno 'Glasstaff' Albrek], prisioneiro
+
+####
+
 * [Thundertree]
   * plantas mutantes
   * zumbis
@@ -233,6 +244,12 @@ visão do terraço.
 
 ####
 
+* [Brughor], orc
+* [Spider], vilão
+* [Sildar Hallwinter], aliado
+
+####
+
 * {Personagem}, {detalhe}
 
 ### Cenários
@@ -240,10 +257,15 @@ visão do terraço.
 :construction:
 
 * [Thundertree]
+* [Floresta Neverwinter]
+* [Castelo Cragmaw]
 * {Local}
 
 #### Mencionados
 
+* [Estrada Triboar]
+* [Rio Neverwinter]
+* [Phandalin]
 * {Local}
 
 ### Itens
