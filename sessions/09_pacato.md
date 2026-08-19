@@ -27,18 +27,29 @@ _próxima_ : [Sessão 10]
 
 ### Cena 1 Descanso
 
+[//]: # (Livro muito velho e desgastado, com capa de couro escamoso onde se lê em letras)
+[//]: # (gravadas com fogo "Criaturas Extraordinárias".)
 :construction: {Imagem}
 
-:construction: {Texto}
+Após derrotar o dragão [Venonfang], o grupo passou a tarde na casa de [Reidoth]
+descansando e comemorando &mdash; o druida ofereceu aos convidados um lícor de
+açafrão selvagem, ao mesmo tempo, delicioso, revigorante e forte.
 
-    * tarde
-      * descansando e conversando na casa do druida
-      * Reidoth se empolga
-        * cuidados com o ovo
-        * treinamento do jovem owlbear
-        * se lembra que tem um livro sobre criaturas
-          * dá o livro para Ralf
-            * "Criaturas Extraordinárias"
+Conversaram bastante sobre o combate bem-sucedido, e em um certo momento o
+assunto recaiu novamente nos cuidados necessários para o [ovo de owlbear], e o
+druida se lembrou que possuia um livro que, entre outras coisas, tratava do
+assunto.
+
+Após alguns minutos revirando seus pertences espalhados pelo exíguo espaço de
+sua cabana, encontrou um livro, muito velho e desgastado, com uma capa de couro
+escamoso onde se lê em letras gravadas com fogo ["Criaturas Extraordinárias"]. O
+livro ilustrado é um compendium que cataloga diversas criaturas mágicas, míticas
+e fantásticas, muitas desconhecidas do grupo.
+
+Claramente faltam páginas no livro, outras estão meio soltas, mas o capítulo
+sobre os owlbears parece estar completo.
+
+"Pode ficar com ele, meu rapaz! E faça bom uso dele."
 
 ---
 
@@ -199,16 +210,19 @@ visão do terraço.
 
 :construction:
 
+* [Reidoth], druida
 * {Personagem}, {detalhe}
 
 #### Mencionados
 
+* [Venonfang]
 * {Personagem}, {detalhe}
 
 ### Cenários
 
 :construction:
 
+* [Thundertree]
 * {Local}
 
 #### Mencionados
@@ -219,9 +233,15 @@ visão do terraço.
 
 :construction:
 
-* {Local}
-  * {detalhe}
-    * {item} &ndash; _{destinação}_
+* [Thundertree]
+  * [Reidoth]
+    * livro ["Criaturas Extraordinárias"] &ndash; _com [Ralf]_
+
+####
+
+* [Floresta Neverwinter]
+  * eclodiu
+    * [ovo de owlbear] &ndash; eclodiu
 
 #### Mencionados
 
