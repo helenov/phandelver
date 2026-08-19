@@ -4,7 +4,7 @@
 
 _data_ : 2026-08-04 \
 _anterior_ : [Sessão 7 Floresta](07_floresta.md) \
-_próxima_ : [Sessão 9] próxima...
+_próxima_ : [Sessão 9 Pacato](09_pacato.md)
 
 * Cenas
   * [Cena 1 Galhos](#cena-1-galhos)
