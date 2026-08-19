@@ -115,7 +115,7 @@ equivalente a duas rações devem ser suficientes.
 Mas ao chegar a adolescência, para suportar o rápido desenvolvimento muscular da
 criatura, sua alimentação deve ser reforçada, demandando animais maiores, com
 uma galinha ou um coelho por dia. Já um owlbear adulto vai precisar de pelo
-menos uma ovelha ou um boi diariamente.
+menos uma ovelha a cada dois dias.
 
 Até o owlbear estar desenvolvido o suficiente para ter autonômia para buscar sua
 própria alimentação &mdash; ou em situações que não tenha acesso a este tipo de
