@@ -155,8 +155,8 @@ tempo &mdash; podem dificultar o progresso.
 
 ### Comportamento
 
-Uma vez que esteja domesticado, o **owlbear** vai considerar seu treinador e seus
-aliados como sua família, e não irá atacá-los exceto se provocado ou sob
+Uma vez que esteja domesticado, o **owlbear** vai considerar seu treinador e
+seus aliados como sua família, e não irá atacá-los exceto se provocado ou sob
 estresse extremo.
 
 Costuma obedecer a comandos simples de seu treinador, a menos que sejam muito
@@ -213,8 +213,8 @@ Uma vez montado, se manter sobre a criatura não é muito mais complicado que
 montar um cavalo. Claro, se ela estiver selada! Sem uma sela, a estória é outra:
 qualquer situação um pouco mais extrema, como correr, escalar ou atacar (seja
 quem for que estiver atacando, montaria ou montador), certamente, irá exigir
-mais do montador. Comandar o movimento da criatura em combate estando montado
-sem sela, é igualmente mais desafiador.
+mais do montador. Comandar o movimento da criatura em combate sem sela é
+igualmente mais desafiador.
 
 E, falando em combate, montada ou não, a criatura sempre vai agir por contra
 própria, aceitando ou não os comandos do seu treinador
