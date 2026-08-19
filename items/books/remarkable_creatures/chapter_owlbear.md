@@ -155,7 +155,7 @@ tempo &mdash; podem dificultar o progresso.
 
 ### Comportamento
 
-Uma vez que esteja domesticado, o *owlbear** vai considerar seu treinador e seus
+Uma vez que esteja domesticado, o **owlbear** vai considerar seu treinador e seus
 aliados como sua família, e não irá atacá-los exceto se provocado ou sob
 estresse extremo.
 
@@ -170,7 +170,7 @@ Mesmo domesticado, um **owlbear**, seja jovem ou adulto, ainda é muito agressiv
 e teimoso, podendo ser difícil de controlar em combate. Normalmente ele vai agir
 por conta própria, por instinto, atacando quem vê como a ameaça mais próxima até
 que tenha sido eliminada, perseguindo-a se for necessário, antes de passar a
-próxima. Só vai desengajar de um combate, por conta própria, se estiver muito
+próxima. Só vai desengajar de um combate por conta própria, se estiver muito
 ferido.
 
 Seu treinador pode dar comandos básicos no sentido de direcionar suas ações, mas
