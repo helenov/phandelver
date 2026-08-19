@@ -86,29 +86,28 @@ um canto.
 
 ### Cena 3 Pira
 
+[//]: # (Uma grande fogueira queima ao lado da torre de Thundertree, lançando ao céu uma)
+[//]: # (grossa fumaça preta.)
 :construction: {Imagem}
 
 :construction: {Texto}
 
-    - para a torre
-      - no caminho: mais twig blights
-        - não mexeram
-      - estátua de madeira desgastada
-        - levemente inclinada para um lado
-        - um guerreiro com uma lança e um escudo
-        - Professor:
-          - antigo herói da cidade, chamado Palien
-          - na época da fundação da cidade
-          - derrotou diversos monstros na floresta
+No caminho para a torre, [Ralf] percebe mais um arbusto infestado de plantas
+mutantes como as que encontraram naquela manhã. Alertados deste fato, evitam
+incomodá-las e passam pelo lugar sem problemas.
 
-    - na torre
-      - grande fogueira queimando o dragão
+No que parece ter sido uma praça da antiga vila, há uma estátua de madeira muito
+desgastada de um guerreiro portando uma lança e um escudo. A estátua está
+inclinada para um lado, prestes a tombar. Em seu pedestal se lê "[Palien], herói
+de Thundertree" e o [Professor] se lembra de ter lido sobre alguém com este nome
+em algum lugar: parece ter sido algum herói local que ajudou a limpar a floresta
+próxima de monstros que assolavam a região nos tempos da fundação da vila.
 
-    - Jeremias
-      - rastros de 6 a 10 pessoas
-        - arrastaram lenha para montar a pira
-        - ficaram ali reunidos por um tempo
-        - depois partiram para o norte
+Se aproximando da torre, ainda a distância, é possível ver uma grande fogueira
+queimando onde antes estava o corpo do dragão derrotado. [Jeremias] encontra
+rastros que indicam que cerca de 6 a 10 pessoas arrastaram lenha e galhos para
+montar a pira funerária, e, após permanecer no local por algum tempo, partiram
+para o norte.
 
 ---
 
@@ -222,6 +221,7 @@ visão do terraço.
 #### Mencionados
 
 * [Venonfang]
+* [Palien], herói local
 * {Personagem}, {detalhe}
 * cultistas
 
