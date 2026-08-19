@@ -8,8 +8,9 @@
 * [Desenvolvimento](#desenvolvimento)
 * [Alimentação](#alimentação)
 * [Treinamento](#treinamento)
-* [Combate](#combate)
-* [Montaria](#montaria)
+* [Comportamento](#comportamento)
+  * [Combate](#combate)
+  * [Montaria](#montaria)
 
 ### Introdução
 
@@ -133,7 +134,7 @@ Algumas opções para suprir a dieta diária são:
   em combate pode parecer reprovável, mas é pode ser a única opção em situações
   que a caça não possível;
 
-####                       
+####
 
 * frutinhas mágicas (_goodberries_) &ndash; uma única destas frutinhas supre as
   necessidades nutricionais da criatura por um dia, provocando saciedade, mas
@@ -152,30 +153,43 @@ Sendo criaturas teimosas e agressivas, fatores de instabilidade &mdash; como
 alternância de treinadores, má alimentação, participação de combates antes do
 tempo &mdash; podem dificultar o progresso.
 
-### Combate
+### Comportamento
+
+Uma vez que esteja domesticado, o *owlbear** vai considerar seu treinador e seus
+aliados como sua família, e não irá atacá-los exceto se provocado ou sob
+estresse extremo.
+
+Costuma obedecer a comandos simples de seu treinador, a menos que sejam muito
+contra seus instintos &mdash; lembre-se que ainda é uma criatura selvagem por
+natureza. Outros membros de sua "família" também podem lhe dar comandos, embora,
+nestes casos, ele seja mais propenso a teimosia.
+
+#### Combate
 
 Mesmo domesticado, um **owlbear**, seja jovem ou adulto, ainda é muito agressivo
 e teimoso, podendo ser difícil de controlar em combate. Normalmente ele vai agir
 por conta própria, por instinto, atacando quem vê como a ameaça mais próxima até
 que tenha sido eliminada, perseguindo-a se for necessário, antes de passar a
-próxima.
+próxima. Só vai desengajar de um combate, por conta própria, se estiver muito
+ferido.
 
-Seu treinador pode dar comandos básicos no sentido de direcionar seu ataque, ou
-mesmo para deixar um alvo em favor de outra linha de ação, mas isso requer um
-comando firme e, mesmo assim, a criatura pode teimar em desobedecer,
-principalmente se o comando for contra seus instintos.
+Seu treinador pode dar comandos básicos no sentido de direcionar suas ações, mas
+isso requer um comando firme, verbal ou gestual. A criatura treinada tende a
+obedecer a estes comandos, desde que não sejam muito contrários a seus
+instintos.
 
-Um **owlbear** ainda não totalmente domesticado, se envolvido em um combate, até
-pode receber comandos, mas, além de ser mais propenso a desobediência, pode
-gerar estresse, o que tende a dificultar o próprio treinamento.
+Um **owlbear** ainda não totalmente domesticado, se envolvido em um combate,
+normalmente vai agir por instinto. Até pode receber comandos, mas, além de ser
+mais propenso a desobediência, pode gerar estresse na criatura, o que tende a
+dificultar seu progresso no treinamento.
 
-### Montaria
+#### Montaria
 
 :construction: {Texto}
 
     * 15 PD e adulto
 
-#### Sela
+##### Sela
 
 :construction: {Texto}
 
@@ -183,11 +197,11 @@ gerar estresse, o que tende a dificultar o próprio treinamento.
       * encontrar artesão disposto
       * necessário tirar as medidas
         * DC 15 WIS (Animal Handling) ou ataca quem estiver medindo
-    
+
     * para selar
       * DC 15 WIS (Animal Handling)
 
-#### Básico
+##### Básico
 
 :construction: {Texto}
 
@@ -197,16 +211,16 @@ gerar estresse, o que tende a dificultar o próprio treinamento.
         * com sela => vantagem
 
     * montaria prone ou movida contra a vontade
-      * DC 10 DEX (Acrobatics) ou cavaleiro prone
+      * DC 10 DEX (Acrobatics) ou montador prone
       * sem sela => desvantagem
 
-#### Controle
+##### Controle
 
 :construction: {Texto}
 
     * montaria independente
       * iniciativa própria (ver [Combate](#combate))
-    
+
     * sem sela
       * se dash ou ataque
-        * DC 15 DEX (Acrobatics) ou STR (Athletics) ou cavaleiro prone
+        * DC 15 DEX (Acrobatics) ou STR (Athletics) ou montador prone
