@@ -308,7 +308,7 @@ floresta, como se a própria natureza o estivesse observando constantemente.
 
 ####
 
-* twig blights
+* plantas mutantes
 * aranhas gigantes
 
 #### Mencionados

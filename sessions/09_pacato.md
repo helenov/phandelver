@@ -90,8 +90,6 @@ um canto.
 [//]: # (grossa fumaça preta.)
 :construction: {Imagem}
 
-:construction: {Texto}
-
 No caminho para a torre, [Ralf] percebe mais um arbusto infestado de plantas
 mutantes como as que encontraram naquela manhã. Alertados deste fato, evitam
 incomodá-las e passam pelo lugar sem problemas.
@@ -113,21 +111,28 @@ para o norte.
 
 ### Cena 4 Zumbis
 
+[//]: # (Um zumbi coberto de cinzas está saindo pela porta de uma construção meio em)
+[//]: # (ruínas.)
 :construction: {Imagem}
 
-:construction: {Texto}
+No caminho de volta, [Ralf] resolve investigar uma construção que está
+razoavelmente inteira e tem as portas e janelas fechadas.
 
-    - voltando
-      - Ralf investiga uma das casas perto da estátua
-      - 3 zumbis se levantam
-      - fecha a porta e correm
-      - zumbis lentos saem da casa
-        - mas ficam para trás
+Ao forçar a porta que estava meio emperrada e abri-la, imediatamente vê três
+figuras, que estavam recostadas nas paredes, se levantarem e começar a se
+dirigir para onde está. Os três zumbis estão cobertos por uma fuligem que lhes
+dá um aspecto ainda mais acinzentado.
 
-    - com o perigo dos zumbis soltos
-      - levam Glasstaff para a casa do druída
+Rapidamente o halfling, fecha e segura a porta, enquanto os zumbis tentam
+abri-la puxando pelas frestas da madeixa.
 
-    - noite tranquila
+Decidindo não lutar, o grupo corre do lugar. Os zumbis saem da casa pela porta
+aberta, mas sendo muito mais lentos, são deixados para trás, logo se
+desinteressam e ficam vagando pela praça da vila.
+
+Sabendo o perigo agora representado pelos zumbis a solta na vila, o grupo passa
+na oficina onde [Iarno] foi deixado preso e o levam à casa do druida para passar
+a noite em segurança.
 
 ---
 
@@ -216,14 +221,19 @@ visão do terraço.
 
 * [Reidoth], druida
 * [Iarno 'Glasstaff' Albrek], prisioneiro
-* {Personagem}, {detalhe}
+* [Thundertree]
+  * plantas mutantes
+  * zumbis
 
 #### Mencionados
 
-* [Venonfang]
-* [Palien], herói local
-* {Personagem}, {detalhe}
+* [Venonfang], dragão morto
+* [Palien], estátua em [Thundertree]
 * cultistas
+
+####
+
+* {Personagem}, {detalhe}
 
 ### Cenários
 
@@ -249,7 +259,7 @@ visão do terraço.
 ####
 
 * [Floresta Neverwinter]
-  * eclodiu
+  * lobos
     * [ovo de owlbear] &ndash; eclodiu
 
 #### Mencionados
