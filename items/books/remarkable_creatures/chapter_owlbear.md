@@ -185,42 +185,38 @@ dificultar seu progresso no treinamento.
 
 #### Montaria
 
-:construction: {Texto}
+Um **owlbear** adulto que já tenha sido domesticado, com um pouco mais treino
+adicional, pode vir aceitar ser montado, mas apenas por seu treinador, e mesmo
+assim esta não é uma atividade livre de riscos.
 
-    * 15 PD e adulto
+Embora possa ser montado sem uma sela, é recomentado que se use uma sela, que
+aumenta o conforto do montador, já que anatomicamente os owlbears não foram
+selecionados para isso, e reduz boa parte dos riscos, principalmente de queda.
 
-##### Sela
+Mas não é qualquer sela que pode ser usada. Será necessário confeccionar uma
+sela especialmente desenvolvida para a criatura, sendo necessário inclusive
+tirar suas medidas para um ajuste preciso &mdash; recomenda-se cuidado para quem
+for realizar esta tarefa, pois a criatura muito provavelmente não vai gostar de
+ser tão intimamente tocada.
 
-:construction: {Texto}
+Uma vez que se tenha uma sela apropriada, a atividade de selar a criatura também
+pode ser desafiadora, pelo menos até que ela se acostume &mdash; o que pode
+levar tempo &mdash; e aceite o adereço.
 
-    * sela exótica
-      * encontrar artesão disposto
-      * necessário tirar as medidas
-        * DC 15 WIS (Animal Handling) ou ataca quem estiver medindo
+Mesmo que o **owlbear** esteja treinado para aceitar a montaria, isso nunca será
+uma coisa de que ele vai gostar, e o montador sempre vai precisar "convencê-lo"
+a se deixar montar &mdash; pode estar num dia ruim e simplesmente se recusar. E,
+nisso, a falta de uma sela certamente vai dificultar. Para desmontar é sempre
+bem mais fácil.
 
-    * para selar
-      * DC 15 WIS (Animal Handling)
+Uma vez montado, se manter sobre a criatura não é muito mais complicado que
+montar um cavalo. Claro, se ela estiver selada! Sem uma sela, a estória é outra:
+qualquer situação um pouco mais extrema, como correr, escalar ou atacar (seja
+quem for que estiver atacando, montaria ou montador), certamente, irá exigir
+mais do montador. Comandar o movimento da criatura em combate estando montado
+sem sela, é igualmente mais desafiador.
 
-##### Básico
+E, falando em combate, montada ou não, a criatura sempre vai agir por contra
+própria, aceitando ou não os comandos do seu treinador
+(ver [Combate](#combate)).
 
-:construction: {Texto}
-
-    * montar e desmontar
-      * metade do movimento
-      * montar: DC 15 WIS (Animal Handling)
-        * com sela => vantagem
-
-    * montaria prone ou movida contra a vontade
-      * DC 10 DEX (Acrobatics) ou montador prone
-      * sem sela => desvantagem
-
-##### Controle
-
-:construction: {Texto}
-
-    * montaria independente
-      * iniciativa própria (ver [Combate](#combate))
-
-    * sem sela
-      * se dash ou ataque
-        * DC 15 DEX (Acrobatics) ou STR (Athletics) ou montador prone
