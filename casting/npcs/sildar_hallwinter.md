@@ -124,6 +124,15 @@ do que julga seu amigo otimista.
   * [Iarno](iarno_albrek.md) diz que era amigo de **Sildar**
     ([Cena 5](../../sessions/07_floresta.md#cena-5-arrependido))
 
+####
+
+* [Sessão 9 Pacato](../../sessions/09_pacato.md)
+  * grupo orienta [Iarno](iarno_albrek.md) a se entregar para **Sildar**
+    em [Phandalin]
+    ([Cena 5](../../sessions/09_pacato.md#cena-5-libertado))
+  * grupo pede que [Reidoth](thundertree/reidoth.md) reporte a **Sildar**
+    ([Cena 7](../../sessions/09_pacato.md#cena-7-castelo))
+
 [//]: # (####)
 [//]: # ()
 [//]: # (* [Sessão {X} {Título}])

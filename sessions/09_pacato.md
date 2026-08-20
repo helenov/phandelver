@@ -153,7 +153,7 @@ estiver lá, e aí estou perdido!"
 Após alguma deliberação sobre o que fazer, o grupo decide que vai dar muito
 trabalho lidar com um prisioneiro enquanto navegam pela floresta, e decidem
 libertá-lo, sob a promessa de seguir direto para Phandalin e se entregar
-para [Sildar].
+para [Sildar](../casting/npcs/sildar_hallwinter.md).
 
 ---
 
@@ -230,8 +230,8 @@ O grupo decide que vai entrar pela porta principal e, neste momento, se despedem
 agradecidos de [Reidoth](../casting/npcs/thundertree/reidoth.md), que diz
 preferir não se envolver com os goblins, e que pretende ir para [Phandalin] que
 agora está mais próxima, e visitar sua amiga [Qelline]. O grupo então pede que
-lá procure por [Sildar] e relate a ele que localizaram finalmente
-o [Castelo Cragmaw].
+lá procure por [Sildar](../casting/npcs/sildar_hallwinter.md) e relate a ele que
+localizaram finalmente o [Castelo Cragmaw].
 
 Vendo o druida se afastar, o grupo desce o monte em direção ao vale e ao
 castelo, se aproximando da entrada principal.
@@ -274,7 +274,7 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
 ####
 
-* [Sildar Hallwinter], aliado
+* [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), aliado
 * [Qelline Alderleaf], fazendeira em [Phandalin]
 
 ### Cenários
