@@ -29,7 +29,8 @@ _próxima_ : [Sessão 10]
 
 ![Sobre uma mesa rústica, repousa um livro muito velho e desgastado, com capa de couro escamoso onde se lê em letras gravadas com fogo "Criaturas Extraordinárias".](../images/sessions/09_pacato/09_1_descanso.png)
 
-Após derrotar o dragão [Venonfang], o grupo passou a tarde na casa de [Reidoth]
+Após derrotar o dragão [Venonfang], o grupo passou a tarde na casa
+de [Reidoth](../casting/npcs/thundertree/reidoth.md)
 descansando e comemorando &mdash; o druida ofereceu aos convidados um lícor de
 açafrão selvagem, ao mesmo tempo, delicioso, revigorante e forte.
 
@@ -129,12 +130,12 @@ a noite em segurança.
 
 ### Cena 5 Libertado
 
-:construction: {Imagem}
+[//]: # (:construction: {Imagem})
 
 Na manhã seguinte, bem cedo, o grupo parte de [Thundertree], e guiados
-por [Reidoth] seguem para sudeste. Quando mostram a cópia do esboço de mapa
-feito pelo orc [Brughor] para a localização do [Castelo Cragmaw], o druida se
-surpreende.
+por [Reidoth](../casting/npcs/thundertree/reidoth.md) seguem para sudeste.
+Quando mostram a cópia do esboço de mapa feito pelo orc [Brughor] para a
+localização do [Castelo Cragmaw], o druida se surpreende.
 
 "Mas este mapa está bem errado! O castelo fica muito mais ao sul, bem mais perto
 da [Estrada Triboar] que do [Rio Neverwinter]."
@@ -153,12 +154,13 @@ para [Sildar].
 
 ### Cena 6 Lobos
 
-[//]: # (Um lobo feroz rosna e espreita saindo da densa vegetação. )
-:construction: {Imagem}
+![É noite e um lobo feroz rosna e espreita saindo da densa vegetação da floresta..](../images/sessions/09_pacato/09_6_lobos.png)
 
-Neste primeiro dia navegando pela [Floresta Neverwinter], [Reidoth] teve alguma
-dificuldade para encontrar os caminhos e o progresso não foi muito grande. "A
-floresta é uma criatura viva e muda muito de uma estação para a outra."
+Neste primeiro dia navegando
+pela [Floresta Neverwinter], [Reidoth](../casting/npcs/thundertree/reidoth.md)
+teve alguma dificuldade para encontrar os caminhos e o progresso não foi muito
+grande. "A floresta é uma criatura viva e muda muito de uma estação para a
+outra."
 
 Quando a noite chega encontram um bom lugar para acampar e ascender uma fogueira
 para se manterem aquecidos. Tudo está indo bem, quando no meio da noite, durante
@@ -192,11 +194,11 @@ arranhões. "Você não será feroz, será dócil... Vou te chamar [Pacato]."
 
 ### Cena 7 Castelo
 
-[//]: # (A entrada do Castelo Cragmaw está aberta com as duas folhas da antiga porta de)
-[//]: # (madeira e bronze corroídas e caídas do chão. Do lado de fora, nas paredes que)
-[//]: # (ladeiam a entrada, é possível ver uma seteira de cada lado, localizadas a cerca)
-[//]: # (de 10 pés do piso. O interior é pouco visível na penumbra da pouca luz que)
-[//]: # (entra.)
+[//]: # (A entrada do Castelo Cragmaw é ladeada por antigas torres de pedra com seteiras)
+[//]: # (que vigiam que estiver se aproximando da porta. As seteiras, uma de cada lado)
+[//]: # (estão a cerca de 10 pés do piso externo. A porta está aberta, com suas duas)
+[//]: # (folhas de madeira e bronze quebradas e corroídas pelo tempo, pendendo das)
+[//]: # (antigas dobradiças. O interior é pouco visível na penumbra da pouca luz que entra pela porta.)
 :construction: {Imagem}
 
 Foram mais três dias de viagem pela floresta até que, finalmente, perto do
@@ -219,10 +221,11 @@ em frente à entrada principal do castelo, cujas portas de madeira e bronze est�
 quebradas e caídas.
 
 O grupo decide que vai entrar pela porta principal e, neste momento, se despedem
-agradecidos de [Reidoth], que diz preferir não se envolver com os goblins, e que
-pretende ir para [Phandalin] que agora está mais próxima, e visitar sua
-amiga [Qelline]. O grupo então pede que lá procure por [Sildar] e relate a ele
-que localizaram finalmente o [Castelo Cragmaw].
+agradecidos de [Reidoth](../casting/npcs/thundertree/reidoth.md), que diz
+preferir não se envolver com os goblins, e que pretende ir para [Phandalin] que
+agora está mais próxima, e visitar sua amiga [Qelline]. O grupo então pede que
+lá procure por [Sildar] e relate a ele que localizaram finalmente
+o [Castelo Cragmaw].
 
 Vendo o druida se afastar, o grupo desce o monte em direção ao vale e ao
 castelo, se aproximando da entrada principal.
@@ -240,7 +243,7 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
 :construction:
 
-* [Reidoth], druida
+* [Reidoth](../casting/npcs/thundertree/reidoth.md), druida
 * [Iarno 'Glasstaff' Albrek], prisioneiro
 
 ####
@@ -290,7 +293,7 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 :construction:
 
 * [Thundertree]
-  * [Reidoth]
+  * [Reidoth](../casting/npcs/thundertree/reidoth.md)
     * livro ["Criaturas Extraordinárias"] &ndash; _com [Ralf]_
   * cultistas
     * capa preta em forma de asa de dragão

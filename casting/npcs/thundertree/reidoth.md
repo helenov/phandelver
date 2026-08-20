@@ -43,6 +43,16 @@ aranhas gigantes, e mais recentemente, um dragão.
   * **Reidoth** participa do combate contra [Venomfang](venomfang.md)
     ([Cena 4](../../../sessions/08_venomfang.md#cena-4-dragão))
 
+####
+
+* [Sessão 9 Pacato](../../../sessions/09_pacato.md)
+  * **Reidoth** dá para [Ralf] o livro ["Criaturas Extraordinárias"]
+    ([Cena 1](../../../sessions/09_pacato.md#cena-1-descanso))
+  * **Reidoth** participa do combate contra os lobos
+    ([Cena 6](../../../sessions/09_pacato.md#cena-6-lobos))
+  * **Reidoth** leva o grupo até o [Castelo Cragmaw]
+    ([Cenas 5 a 7](../../../sessions/09_pacato.md#cena-5-libertado))
+
 [//]: # (####)
 [//]: # ()
 [//]: # (* [Sessão {X} {Título}])
