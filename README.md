@@ -27,5 +27,5 @@
   * (2026-06-08) [Sessão 6 Wyvern Tor](sessions/06_wyvern_tor.md)
   * (2026-07-06) [Sessão 7 Floresta](sessions/07_floresta.md)
   * (2026-08-04) [Sessão 8 Venomfang](sessions/08_venomfang.md)
-  * (2026-08-17) [Sessão 9 Pacato](sessions/09_pacato.md) :construction:
+  * (2026-08-17) [Sessão 9 Pacato](sessions/09_pacato.md)
   * (2026-08-31) [Sessão 10] próxima...
