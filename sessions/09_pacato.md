@@ -162,26 +162,40 @@ para [Sildar].
 
 ### Cena 6 Lobos
 
+[//]: # (Um lobo feroz rosna e espreita saindo da densa vegetação. )
 :construction: {Imagem}
 
-:construction: {Texto}
+Neste primeiro dia navegando pela [Floresta Neverwinter], [Reidoth] teve alguma
+dificuldade para encontrar os caminhos e o progresso não foi muito grande. "A
+floresta é uma criatura viva e muda muito de uma estação para a outra."
 
-    - 1a noite na floresta
-      - acampamento para noite
-      - 2o turno: Reidoth
-        - "Lobos!"
+Quando a noite chega encontram um bom lugar para acampar e ascender uma fogueira
+para se manterem aquecidos. Tudo está indo bem, quando no meio da noite, durante
+o turno do druida, todos acordam com o alerta: "Lobos! Acordem!"
 
-    - 8 lobos atacam, focados no ovo
-      - forçados a se dividir
-      - um asserta e racha o ovo
+Todos despertam para se verem cercados por uma alcatéia de lobos &mdash; oito no
+total &mdash; que se aproximavam sorrateiramente pela vegetação, mas uma vez
+dado o alerta avançam rapidamente.
 
-    - Professor
-      - fica invisível, pega o ovo e corre para longe
-    - grupo elimina os lobos
+As feras visam claramente o [ovo de owlbear], mas como ele havia sido colocado
+próximo à fogueira e estava praticamente cercado pelo grupo, apenas dois lobos
+conseguiram chegar até ele.
 
-    - Professor volta e alerta que o ovo está rachando
-    - Ralf ajuda o filhote de owlbear a sair
-      - "Vai de chamar Pacato"
+Um deles chega a conseguir acertar bem uma investida, mas antes que pudessem
+fazer mais algum estrago, o [Professor] pensa rápido e pega o ovo, faz um
+feitiço que o deixa invisível e corre para longe do perigo.
+
+O grupo tem um pouco de dificuldade, sai um pouco ferido, mas consegue eliminar
+as feras.
+
+Quando o Professor, ainda invisível, avisa que o ovo começou a rachar e o
+entrega para [Ralf], que percebe que a criatura lá dentro está bicando e a
+rachadura inicial feita pelo lobo já está aumentando.
+
+Em alguns minutos, e com a ajuda de Ralf, o bebê owlbear se livra completamente
+da casca e sai para o mundo. A princípio cambaleante, logo consegue se firmar
+nas quatro patas e a responder aos afagos do halfling com leves bicadas e
+arranhões. "Você não será feroz, será dócil... Vou te chamar [Pacato]."
 
 ---
 
@@ -236,6 +250,12 @@ visão do terraço.
   * plantas mutantes
   * zumbis
 
+####
+
+* [Floresta Thundertree]
+  * [Pacato], filhote de owlbear
+  * lobos
+
 #### Mencionados
 
 * [Venonfang], dragão morto
@@ -282,7 +302,7 @@ visão do terraço.
 
 * [Floresta Neverwinter]
   * lobos
-    * [ovo de owlbear] &ndash; eclodiu
+    * [ovo de owlbear] &ndash; eclosão
 
 #### Mencionados
 
