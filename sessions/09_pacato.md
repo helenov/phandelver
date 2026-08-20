@@ -151,7 +151,7 @@ da [Estrada Triboar] que do [Rio Neverwinter]."
 Próximo ao meio-dia, estão se aproximando da borda [Floresta Neverwinter],
 quando [Iarno] protesta e insiste que preferia ser levado diretamente
 para [Phandalin]. "Sabe-se lá o que podemos encontrar nesta floresta!
-No [Castelo Cragmaw], se [Spider] estiver lá, e aí estou perdido!"
+No castelo, se [Spider] estiver lá, e aí estou perdido!"
 
 Após alguma deliberação sobre o que fazer, o grupo decide que vai dar muito
 trabalho lidar com um prisioneiro enquanto navegam pela floresta, e decidem
@@ -205,35 +205,40 @@ arranhões. "Você não será feroz, será dócil... Vou te chamar [Pacato]."
 
 :construction: {Texto}
 
-    - mais 3 dias pela floresta
-      - meio-dia: castelo
+Foram mais três dias de viagem pela floresta até que, finalmente, perto do
+meio-dia, o grupo alcança o topo de um monte de onde é possível ver, no vale
+abaixo, cercado e parcialmente encoberto pela densa floresta, os escombros do
+que de uma grande fortaleza formada pelo que devem ter sido sete torres altas,
+mas hoje são apenas escombros. Apenas o que parece ser o andar térreo da antiga
+construção continua de pé. Enfim o [Castelo Cragmaw]!
 
-    - localizado em um vale "escondido na floresta"
-    - antiga fortaleza
-      - costumava ser bem maior, com 7 grandes torres
-      - todas já desabaram; hoje só tem o térreo
+[Bia] é mandada voando para se aproximar, mas ficando a uma distância bastante
+segura em que consegue manter seu contato telepático com o [Professor], apenas
+consegue discernir as características mais gerais do que resta da construção.
 
-O castelo consiste em sete torres em ruínas de diferentes tamanhos e alturas,
-mas os andares superiores encontram-se em vários estágios de desabamento.
+As paredes externas de pedra ainda são bastante reforçadas, embora estejam em
+escombros em alguns trechos. Em todo o perímetro destas paredes é possível ver
+que há seteiras, mas é impossível avaliar se estão ou não sendo vigiadas.
 
-    - Bia se aproxima voando
-      - entrada do castelo
-      - portões principais de madeira e bronze
-        - corroidos e caídos
+Apesar da distância é possível ver que uma pequena escadaria leva a um terraço
+em frente à entrada principal do castelo, cujas portas de madeira e bronze estão
+quebradas e caídas.
 
-Uma pequena escadaria leva a um terraço em frente à entrada principal. Passando
-pelos destroços de um par de portas destruídas, encontra-se um salão sombrio.
-Torres redondas se erguem sobre a entrada, com seteiras escuras que permitem a
-visão do terraço.
+O grupo decide que vai entrar pela porta principal e, neste momento, se despedem
+agradecidos de [Reidoth], que diz preferir não se envolver com os goblins, e que
+pretende ir para [Phandalin] que agora está mais próxima, e visitar sua
+amiga [Qelline]. O grupo então pede que lá procure por [Sildar] e relate a ele
+que localizaram finalmente o [Castelo Cragmaw].
 
-    - Reidoth se despede
-      - diz que pretende ir para Phandalin visitar Qelline
-      - recomendam relatar os passos do grupo para Sildar
+Vendo o druida se afastar, o grupo desce o monte em direção ao vale e ao
+castelo, se aproximando da entrada principal.
 
-    - grupo se aproxima da entrada principal
-      - uma seteira de cada lado da porta
-      - uma flecha acerta Jeremias
-      - outra acerta o escudo de Ralf
+Quando estão a meio caminho de chegar ao arco da porta destruída, já começando a
+discernir o interior do hall de entrada a meia-luz, ouve-se o som sibilante de
+duas flechas saindo das seteiras que ladeiam a porta: uma acerta [Jeremias] e
+outra passa zunindo e crava no escudo de [Ralf]. 
+
+Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
 ---
 
@@ -266,11 +271,11 @@ visão do terraço.
 
 * [Brughor], orc
 * [Spider], vilão
-* [Sildar Hallwinter], aliado
 
 ####
 
-* {Personagem}, {detalhe}
+* [Sildar Hallwinter], aliado
+* [Qelline], fazendeira em [Phandalin]
 
 ### Cenários
 
@@ -279,14 +284,12 @@ visão do terraço.
 * [Thundertree]
 * [Floresta Neverwinter]
 * [Castelo Cragmaw]
-* {Local}
 
 #### Mencionados
 
 * [Estrada Triboar]
 * [Rio Neverwinter]
 * [Phandalin]
-* {Local}
 
 ### Itens
 
@@ -303,10 +306,3 @@ visão do terraço.
 * [Floresta Neverwinter]
   * lobos
     * [ovo de owlbear] &ndash; eclosão
-
-#### Mencionados
-
-* {Local}
-  * {detalhe}
-    * {item}
-
