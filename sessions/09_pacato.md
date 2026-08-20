@@ -29,7 +29,8 @@ _próxima_ : [Sessão 10]
 
 ![Sobre uma mesa rústica, repousa um livro muito velho e desgastado, com capa de couro escamoso onde se lê em letras gravadas com fogo "Criaturas Extraordinárias".](../images/sessions/09_pacato/09_1_descanso.png)
 
-Após derrotar o dragão [Venonfang], o grupo passou a tarde na casa
+Após derrotar o dragão [Venomfang](../casting/npcs/thundertree/venomfang.md), o
+grupo passou a tarde na casa
 de [Reidoth](../casting/npcs/thundertree/reidoth.md)
 descansando e comemorando &mdash; o druida ofereceu aos convidados um lícor de
 açafrão selvagem, ao mesmo tempo, delicioso, revigorante e forte.
@@ -246,12 +247,9 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
 :construction:
 
-* [Reidoth](../casting/npcs/thundertree/reidoth.md), druida
-* [Iarno 'Glasstaff' Albrek](../casting/npcs/iarno_albrek.md), prisioneiro
-
-####
-
 * [Thundertree]
+  * [Reidoth](../casting/npcs/thundertree/reidoth.md), druida
+  * [Iarno 'Glasstaff' Albrek](../casting/npcs/iarno_albrek.md), prisioneiro
   * plantas mutantes
   * zumbis
 
@@ -263,7 +261,7 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
 #### Mencionados
 
-* [Venonfang], dragão morto
+* [Venomfang](../casting/npcs/thundertree/venomfang.md) (RIP), dragão morto
 * [Palien], estátua em [Thundertree]
 * cultistas
 

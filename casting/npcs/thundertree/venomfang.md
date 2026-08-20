@@ -34,6 +34,12 @@ região como seus domínios.
   * grupo enfrenta e derrota **Venomfang**
     ([Cena 4](../../../sessions/08_venomfang.md#cena-4-dragão))
 
+####
+
+* [Sessão 9 Pacato](../../../sessions/09_pacato.md)
+  * grupo comemora a derrota de **Venomfang**
+    ([Cena 1](../../../sessions/09_pacato.md#cena-1-descanso))
+
 [//]: # (####)
 [//]: # ()
 [//]: # (* [Sessão {X} {Título}])

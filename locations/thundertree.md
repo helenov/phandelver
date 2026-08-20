@@ -51,7 +51,7 @@ colocarem-se a seu serviço.
 
 ####
 
-* [Sessão 8 Venonfang](../sessions/08_venomfang.md)
+* [Sessão 8 Venomfang](../sessions/08_venomfang.md)
   * grupo conhece o druida [Reidoth](../casting/npcs/thundertree/reidoth.md) em
     **Thundertree** ([Cena 2](../sessions/08_venomfang.md#cena-2-druida))
   * rupo enfrenta e
