@@ -96,9 +96,9 @@ acostumado a receber visitas... Aceitam um chá?"
 Nisso Reidoth, nota a grande trouxa que o halfling carrega presa a uma vara.
 "Mas o que é isso meu rapaz?"
 
-Ralf, animado, mostra o ovo.
+Ralf, animado, mostra o [ovo de owlbear](../items/objects/owlbear_egg.md).
 
-"Nossa! Um ovo de owlbear! Não vejo um destes há muito tempo! Onde você o
+"Nossa! Que ovo magnífico! Não vejo um destes há muito tempo! Onde você o
 conseguiu? Estes ovos podem ser bastante valorizados no mercado negro."
 
 "Não pretendo vendê-lo! Quero, na verdade, criá-lo!"
@@ -347,3 +347,8 @@ floresta, como se a própria natureza o estivesse observando constantemente.
     * scroll misty step
     * scroll lighting bolt
     * [Machado Hew](../items/magical/battleaxe_hew.md)
+
+#### Mencionados
+
+* [ovo de owlbear](../items/objects/owlbear_egg.md)
+
