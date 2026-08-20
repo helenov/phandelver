@@ -143,7 +143,8 @@ orc [Brughor](../casting/npcs/cragmaw/brughor.md) para a localização
 do [Castelo Cragmaw](../locations/cragmaw_castle.md), o druida se surpreende.
 
 "Mas este mapa está bem errado! O castelo fica muito mais ao sul, bem mais perto
-da [Estrada Triboar](../locations/triboar_trail.md) que do [Rio Neverwinter]."
+da [Estrada Triboar](../locations/triboar_trail.md) que
+do [Rio Neverwinter](../locations/neverwinter_river.md)."
 
 Próximo ao meio-dia, estão se aproximando da
 borda [Floresta Neverwinter](../locations/neverwinter_wood.md),
@@ -293,7 +294,7 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 #### Mencionados
 
 * [Estrada Triboar](../locations/triboar_trail.md)
-* [Rio Neverwinter]
+* [Rio Neverwinter](../locations/neverwinter_river.md)
 * [Phandalin]
 
 ### Itens
