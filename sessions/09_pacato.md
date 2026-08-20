@@ -229,8 +229,10 @@ quebradas e caídas.
 O grupo decide que vai entrar pela porta principal e, neste momento, se despedem
 agradecidos de [Reidoth](../casting/npcs/thundertree/reidoth.md), que diz
 preferir não se envolver com os goblins, e que pretende ir para [Phandalin] que
-agora está mais próxima, e visitar sua amiga [Qelline]. O grupo então pede que
-lá procure por [Sildar](../casting/npcs/sildar_hallwinter.md) e relate a ele que
+agora está mais próxima, e visitar sua
+amiga [Qelline](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md). O
+grupo então pede que lá procure
+por [Sildar](../casting/npcs/sildar_hallwinter.md) e relate a ele que
 localizaram finalmente o [Castelo Cragmaw].
 
 Vendo o druida se afastar, o grupo desce o monte em direção ao vale e ao
@@ -275,7 +277,8 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 ####
 
 * [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), aliado
-* [Qelline Alderleaf], fazendeira em [Phandalin]
+* [Qelline Alderleaf](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md),
+  fazendeira em [Phandalin]
 
 ### Cenários
 

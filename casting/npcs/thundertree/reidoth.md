@@ -52,7 +52,9 @@ aranhas gigantes, e mais recentemente, um dragão.
     ([Cena 6](../../../sessions/09_pacato.md#cena-6-lobos))
   * **Reidoth** leva o grupo até o [Castelo Cragmaw]
     ([Cenas 5 a 7](../../../sessions/09_pacato.md#cena-5-libertado))
-  * **Reidoth** parte para [Phandalin]
+  * **Reidoth** parte para
+    visitar [Qelline](../phandalin/alderleaf/qelline_alderleaf.md)
+    em [Phandalin]
     ([Cena 7](../../../sessions/09_pacato.md#cena-7-castelo))
 
 [//]: # (####)
