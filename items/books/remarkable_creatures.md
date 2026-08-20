@@ -2,13 +2,9 @@
 
 ## Criaturas Extraordinárias
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-:construction: {Imagem}
+![Sobre uma mesa rústica, repousa um livro muito velho e desgastado, com capa de couro escamoso onde se lê em letras gravadas com fogo "Criaturas Extraordinárias".](../../images/sessions/09_pacato/09_1_descanso.png)
 
 :construction: {Texto}
-<br clear="left"/>
 
 ### Capítulos
 

@@ -27,9 +27,7 @@ _próxima_ : [Sessão 10]
 
 ### Cena 1 Descanso
 
-[//]: # (Livro muito velho e desgastado, com capa de couro escamoso onde se lê em letras)
-[//]: # (gravadas com fogo "Criaturas Extraordinárias".)
-:construction: {Imagem}
+![Sobre uma mesa rústica, repousa um livro muito velho e desgastado, com capa de couro escamoso onde se lê em letras gravadas com fogo "Criaturas Extraordinárias".](../images/sessions/09_pacato/09_1_descanso.png)
 
 Após derrotar o dragão [Venonfang], o grupo passou a tarde na casa de [Reidoth]
 descansando e comemorando &mdash; o druida ofereceu aos convidados um lícor de
