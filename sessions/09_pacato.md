@@ -104,9 +104,7 @@ para o norte.
 
 ### Cena 4 Zumbis
 
-[//]: # (Um zumbi coberto de cinzas está saindo pela porta de uma construção meio em)
-[//]: # (ruínas.)
-:construction: {Imagem}
+![Um zumbi coberto de cinzas está saindo pela porta de uma construção meio em ruínas.](../images/sessions/09_pacato/09_4_zumbis.png)
 
 No caminho de volta, [Ralf] resolve investigar uma construção que está
 razoavelmente inteira e tem as portas e janelas fechadas.
