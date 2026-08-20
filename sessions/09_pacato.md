@@ -81,9 +81,7 @@ um canto.
 
 ### Cena 3 Pira
 
-[//]: # (Uma grande fogueira queima ao lado da torre de Thundertree, lançando ao céu uma)
-[//]: # (grossa fumaça preta.)
-:construction: {Imagem}
+![Uma grande fogueira queima ao lado da torre de Thundertree, lançando ao céu uma grossa fumaça preta.](../images/sessions/09_pacato/09_3_pira.png)
 
 No caminho para a torre, [Ralf] percebe mais um arbusto infestado de plantas
 mutantes como as que encontraram naquela manhã. Alertados deste fato, evitam
