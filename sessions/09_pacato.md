@@ -201,9 +201,12 @@ arranhões. "Você não será feroz, será dócil... Vou te chamar [Pacato]."
 
 ### Cena 7 Castelo
 
+[//]: # (A entrada do Castelo Cragmaw está aberta com as duas folhas da antiga porta de)
+[//]: # (madeira e bronze corroídas e caídas do chão. Do lado de fora, nas paredes que)
+[//]: # (ladeiam a entrada, é possível ver uma seteira de cada lado, localizadas a cerca)
+[//]: # (de 10 pés do piso. O interior é pouco visível na penumbra da pouca luz que)
+[//]: # (entra.)
 :construction: {Imagem}
-
-:construction: {Texto}
 
 Foram mais três dias de viagem pela floresta até que, finalmente, perto do
 meio-dia, o grupo alcança o topo de um monte de onde é possível ver, no vale
@@ -236,7 +239,7 @@ castelo, se aproximando da entrada principal.
 Quando estão a meio caminho de chegar ao arco da porta destruída, já começando a
 discernir o interior do hall de entrada a meia-luz, ouve-se o som sibilante de
 duas flechas saindo das seteiras que ladeiam a porta: uma acerta [Jeremias] e
-outra passa zunindo e crava no escudo de [Ralf]. 
+outra passa zunindo e crava no escudo de [Ralf].
 
 Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
