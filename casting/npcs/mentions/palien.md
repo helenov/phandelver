@@ -21,7 +21,7 @@ dos monstros que assolavam a região.
 
 ### Locais
 
-* [Thundertree], herói
+* [Thundertree], herói local
 
 ### Referências
 

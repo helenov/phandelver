@@ -49,6 +49,13 @@
   * [Iarno](../iarno_albrek.md) diz que foi traído por **Spider**
     ([Cena 5](../../../sessions/07_floresta.md#cena-5-arrependido))
 
+####
+
+* [Sessão 9 Pacato](../../../sessions/09_pacato.md)
+  * [Iarno](../iarno_albrek.md) menciona a possibilidade de **Spider** estar
+    no [Castelo Cragmaw]
+    ([Cena 5](../../../sessions/09_pacato.md#cena-5-libertado))
+
 [//]: # (####)
 [//]: # ()
 [//]: # (* [Sessão {X} {Título}])

@@ -147,7 +147,8 @@ da [Estrada Triboar] que do [Rio Neverwinter]."
 Próximo ao meio-dia, estão se aproximando da borda [Floresta Neverwinter],
 quando [Iarno](../casting/npcs/iarno_albrek.md) protesta e insiste que preferia
 ser levado diretamente para [Phandalin]. "Sabe-se lá o que podemos encontrar
-nesta floresta! No castelo, se [Spider] estiver lá, e aí estou perdido!"
+nesta floresta! No castelo, se [Spider](../casting/npcs/mentions/spider.md)
+estiver lá, e aí estou perdido!"
 
 Após alguma deliberação sobre o que fazer, o grupo decide que vai dar muito
 trabalho lidar com um prisioneiro enquanto navegam pela floresta, e decidem
@@ -269,12 +270,12 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 ####
 
 * [Brughor](../casting/npcs/cragmaw/brughor.md), orc
-* [Spider], vilão
+* [Spider](../casting/npcs/mentions/spider.md), vilão
 
 ####
 
 * [Sildar Hallwinter], aliado
-* [Qelline], fazendeira em [Phandalin]
+* [Qelline Alderleaf], fazendeira em [Phandalin]
 
 ### Cenários
 
