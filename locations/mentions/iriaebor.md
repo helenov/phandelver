@@ -8,12 +8,12 @@
 [//]: # (:construction: {Imagem})
 
 **Iriaebor**, também conhecida como "A Cidade das Mil Torres", fica a cerca de
-700 milhas (ou 30 dias de viagem) a sudeste de [Neverwinter](neverwinter.md).
+700 milhas (ou 30 dias de viagem) a sudeste de [Neverwinter](../neverwinter.md).
 <br clear="left"/>
 
 ### Personagens
 
-* [Tsernoth](../casting/npcs/mentions/tsernoth.md), necromante
+* [Tsernoth](../../casting/npcs/mentions/tsernoth.md), necromante
 
 [//]: # (### Organizações)
 [//]: # ()
@@ -26,10 +26,10 @@
 
 ### Referências
 
-* [Sessão 7 Floresta](../sessions/07_floresta.md)
-  * [Agatha](../casting/npcs/agatha.md)
-    menciona [Tsernoth](../casting/npcs/mentions/tsernoth.md) de **Iriaebor**
-    ([Cena 2](../sessions/07_floresta.md#cena-2-agatha))
+* [Sessão 7 Floresta](../../sessions/07_floresta.md)
+  * [Agatha](../../casting/npcs/agatha.md)
+    menciona [Tsernoth](../../casting/npcs/mentions/tsernoth.md) de **Iriaebor**
+    ([Cena 2](../../sessions/07_floresta.md#cena-2-agatha))
 
 [//]: # (####)
 [//]: # ()

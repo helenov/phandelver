@@ -8,7 +8,7 @@
 [//]: # (:construction: {Imagem})
 
 :construction:
-Necromante de [Iriaebor](../../../locations/iriaebor.md).
+Necromante de [Iriaebor](../../../locations/mentions/iriaebor.md).
 <br clear="left"/>
 
 [//]: # (### Relações)
@@ -21,7 +21,7 @@ Necromante de [Iriaebor](../../../locations/iriaebor.md).
 
 ### Locais
 
-* [Iriaebor](../../../locations/iriaebor.md), cidade de origem
+* [Iriaebor](../../../locations/mentions/iriaebor.md), cidade de origem
 
 ### Referências
 

@@ -124,7 +124,7 @@ do [Grimório Bowgentle](../items/books/bowgentle_spellbook.md).
 nome de meu velho amigo... Eu mesma fiquei com seu livro após sua morte, mas o
 negociei com um necromante
 chamado [Tsernoth](../casting/npcs/mentions/tsernoth.md),
-de [Iriaebor](../locations/iriaebor.md), há mais de 100 anos, quando ainda vivia
+de [Iriaebor](../locations/mentions/iriaebor.md), há mais de 100 anos, quando ainda vivia
 entre vocês mortais. Depois disso, não sei mais."
 
 O grupo insiste em querem saber mais detalhes deste tal necromante, mas ela
@@ -349,7 +349,7 @@ atrapalhar seus planos". Entendeu que o tal druida mora na vila.
 #### Mencionados
 
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
-* [Iriaebor](../locations/iriaebor.md)
+* [Iriaebor](../locations/mentions/iriaebor.md)
 * [Phandalin](../locations/phandalin.md)
 
 ### Itens
