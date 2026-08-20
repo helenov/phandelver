@@ -36,9 +36,9 @@ descansando e comemorando &mdash; o druida ofereceu aos convidados um lícor de
 açafrão selvagem, ao mesmo tempo, delicioso, revigorante e forte.
 
 Conversaram bastante sobre o combate bem-sucedido, e em um certo momento o
-assunto recaiu novamente nos cuidados necessários para o [ovo de owlbear], e o
-druida se lembrou que possuia um livro que, entre outras coisas, tratava do
-assunto.
+assunto recaiu novamente nos cuidados necessários para
+o [ovo de owlbear](../items/objects/owlbear_egg.md), e o druida se lembrou que
+possuia um livro que, entre outras coisas, tratava do assunto.
 
 Após alguns minutos revirando seus pertences espalhados pelo exíguo espaço de
 sua cabana, encontrou um livro, muito velho e desgastado, com uma capa de couro
@@ -180,9 +180,9 @@ Todos despertam para se verem cercados por uma alcatéia de lobos &mdash; oito n
 total &mdash; que se aproximavam sorrateiramente pela vegetação, mas uma vez
 dado o alerta avançam rapidamente.
 
-As feras visam claramente o [ovo de owlbear], mas como ele havia sido colocado
-próximo à fogueira e estava praticamente cercado pelo grupo, apenas dois lobos
-conseguiram chegar até ele.
+As feras visam claramente o [ovo de owlbear](../items/objects/owlbear_egg.md),
+mas como ele havia sido colocado próximo à fogueira e estava praticamente
+cercado pelo grupo, apenas dois lobos conseguiram chegar até ele.
 
 Um deles chega a conseguir acertar bem uma investida, mas antes que pudessem
 fazer mais algum estrago, o [Professor] pensa rápido e pega o ovo, faz um
@@ -314,5 +314,5 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 ####
 
 * [Floresta Neverwinter](../locations/neverwinter_wood.md)
-  * lobos
-    * [ovo de owlbear] &ndash; eclosão
+  * lobos ([Cena 6](#cena-6-lobos))
+    * [ovo de owlbear](../items/objects/owlbear_egg.md) &ndash; _eclosão_

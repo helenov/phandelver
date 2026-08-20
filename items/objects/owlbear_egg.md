@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Ovo de Owlbear
+## Ovo de Owlbear (eclodido)
 
 <!-- @formatter:off -->
 <img alt="Ovo de Owlbear" src="../../images/items/owlbear_egg.png" style="width:200px; margin-right: 15px; float: left" />
@@ -25,6 +25,12 @@
   * [Reidoth](../../casting/npcs/thundertree/reidoth.md) dá dicas de cuidados
     com o **ovo**
     ([Cena 2](../../sessions/08_venomfang.md#cena-2-druida))
+
+####
+
+* [Sessão 9 Pacato](../../sessions/09_pacato.md)
+  * [Pacato](../../casting/pcs/companions/pacato.md) nasceu do **ovo**
+    ([Cena 6](../../sessions/09_pacato.md#cena-6-lobos))
 
 [//]: # (####)
 [//]: # ()

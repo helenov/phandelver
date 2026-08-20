@@ -189,7 +189,7 @@
 * [Ralf]
   * [sapinho de jade]
   * [tapa-olho cravejado de pedras]
-  * [ovo de owlbear](objects/owlbear_egg.md)
+  * [ovo de owlbear](objects/owlbear_egg.md) &ndash; _eclodido_
   * livro ["Criaturas Extraordinárias"](books/remarkable_creatures.md)
 
 ####
