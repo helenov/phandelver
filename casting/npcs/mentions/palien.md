@@ -8,7 +8,8 @@
 
 **Palien** foi um herói local que, nos tempos da fundação
 de [Thundertree](../../../locations/thundertree.md), foi responsável por livrar
-a [Floresta Neverwinter] próxima dos monstros que assolavam a região.
+a [Floresta Neverwinter](../../../locations/neverwinter_wood.md) próxima dos
+monstros que assolavam a região.
 <br clear="left"/>
 
 [//]: # (### Relações)

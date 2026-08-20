@@ -21,10 +21,11 @@ Companion.
 
 ### Locais
 
-* [Floresta Neverwinter], nascimento
+* [Floresta Neverwinter](../../../locations/neverwinter_wood.md), nascimento
 
 ### Referências
 
 * [Sessão 9 Pacato](../../../sessions/09_pacato.md)
-  * **Pacato** nasce na [Floresta Neverwinter]
+  * **Pacato** nasce
+    na [Floresta Neverwinter](../../../locations/neverwinter_wood.md)
     ([Cena 6](../../../sessions/09_pacato.md#cena-6-lobos))

@@ -76,6 +76,16 @@
     Neverwinter**
     ([Cena 2](../sessions/08_venomfang.md#cena-2-druida))
 
+####
+
+* [Sessão 9 Pacato](../sessions/09_pacato.md)
+  * [Pacato](../casting/pcs/companions/pacato.md) nasce na **Floresta
+    Neverwinter**
+    ([Cena 6](../sessions/09_pacato.md#cena-6-lobos))
+  * [Reidoth](../casting/npcs/thundertree/reidoth.md) guia o grupo pela
+    **Floresta Neverwinter** até o [Castelo Cragmaw]
+    ([Cena 7](../sessions/09_pacato.md#cena-7-castelo))
+
 [//]: # (####)
 [//]: # ()
 [//]: # (* [Sessão {X} {Título}])

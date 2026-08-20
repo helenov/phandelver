@@ -145,7 +145,8 @@ do [Castelo Cragmaw], o druida se surpreende.
 "Mas este mapa está bem errado! O castelo fica muito mais ao sul, bem mais perto
 da [Estrada Triboar] que do [Rio Neverwinter]."
 
-Próximo ao meio-dia, estão se aproximando da borda [Floresta Neverwinter],
+Próximo ao meio-dia, estão se aproximando da
+borda [Floresta Neverwinter](../locations/neverwinter_wood.md),
 quando [Iarno](../casting/npcs/iarno_albrek.md) protesta e insiste que preferia
 ser levado diretamente para [Phandalin]. "Sabe-se lá o que podemos encontrar
 nesta floresta! No castelo, se [Spider](../casting/npcs/mentions/spider.md)
@@ -163,7 +164,7 @@ para [Sildar](../casting/npcs/sildar_hallwinter.md).
 ![É noite e um lobo feroz rosna e espreita saindo da densa vegetação da floresta..](../images/sessions/09_pacato/09_6_lobos.png)
 
 Neste primeiro dia navegando
-pela [Floresta Neverwinter], [Reidoth](../casting/npcs/thundertree/reidoth.md)
+pela [Floresta Neverwinter](../locations/neverwinter_wood.md), [Reidoth](../casting/npcs/thundertree/reidoth.md)
 teve alguma dificuldade para encontrar os caminhos e o progresso não foi muito
 grande. "A floresta é uma criatura viva e muda muito de uma estação para a
 outra."
@@ -258,7 +259,7 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
 ####
 
-* [Floresta Neverwinter]
+* [Floresta Neverwinter](../locations/neverwinter_wood.md)
   * [Pacato](../casting/pcs/companions/pacato.md), filhote de owlbear
   * lobos
 
@@ -285,7 +286,7 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 :construction:
 
 * [Thundertree](../locations/thundertree.md)
-* [Floresta Neverwinter]
+* [Floresta Neverwinter](../locations/neverwinter_wood.md)
 * [Castelo Cragmaw]
 
 #### Mencionados
@@ -306,6 +307,6 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
 ####
 
-* [Floresta Neverwinter]
+* [Floresta Neverwinter](../locations/neverwinter_wood.md)
   * lobos
     * [ovo de owlbear] &ndash; eclosão
