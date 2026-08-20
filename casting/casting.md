@@ -13,6 +13,7 @@
 
 * [Bia](pcs/companions/bia.md), a coruja
 * [Frodo](pcs/companions/frodo.md), o cão
+* [Pacato](pcs/companions/pacato.md), o owlbear filhote
 
 ### Non-player Characters
 

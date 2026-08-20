@@ -17,6 +17,10 @@ Barbarian, Path of the Wild Heart.
 * [Silas 'Sapão' Raizforte](silas.md) (RIP), amigo
 * [Jeremias 'Colina' Raizforte](jeremias.md), amigo
 
+####
+
+* [Pacato](companions/pacato.md), companheiro animal
+
 [//]: # (### Organizações)
 [//]: # ()
 [//]: # (* {Organização}, {detalhe})

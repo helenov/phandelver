@@ -190,7 +190,8 @@ rachadura inicial feita pelo lobo já está aumentando.
 Em alguns minutos, e com a ajuda de Ralf, o bebê owlbear se livra completamente
 da casca e sai para o mundo. A princípio cambaleante, logo consegue se firmar
 nas quatro patas e a responder aos afagos do halfling com leves bicadas e
-arranhões. "Você não será feroz, será dócil... Vou te chamar [Pacato]."
+arranhões. "Você não será feroz, será dócil... Vou te
+chamar [Pacato](../casting/pcs/companions/pacato.md)."
 
 ---
 
@@ -257,7 +258,7 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 ####
 
 * [Floresta Thundertree]
-  * [Pacato], filhote de owlbear
+  * [Pacato](../casting/pcs/companions/pacato.md), filhote de owlbear
   * lobos
 
 #### Mencionados
