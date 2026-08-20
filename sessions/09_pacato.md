@@ -87,9 +87,9 @@ um canto.
 
 ![Uma grande fogueira queima ao lado da torre de Thundertree, lançando ao céu uma grossa fumaça preta.](../images/sessions/09_pacato/09_3_pira.png)
 
-No caminho para a torre, [Ralf] percebe mais um arbusto infestado de plantas
-mutantes como as que encontraram naquela manhã. Alertados deste fato, evitam
-incomodá-las e passam pelo lugar sem problemas.
+No caminho para a torre, [Ralf](../casting/pcs/ralf.md) percebe mais um arbusto
+infestado de plantas mutantes como as que encontraram naquela manhã. Alertados
+deste fato, evitam incomodá-las e passam pelo lugar sem problemas.
 
 No que parece ter sido uma praça da antiga vila, há uma estátua de madeira muito
 desgastada de um guerreiro portando uma lança e um escudo. A estátua está
@@ -111,8 +111,8 @@ para o norte.
 
 ![Um zumbi coberto de cinzas está saindo pela porta de uma construção meio em ruínas.](../images/sessions/09_pacato/09_4_zumbis.png)
 
-No caminho de volta, [Ralf] resolve investigar uma construção que está
-razoavelmente inteira e tem as portas e janelas fechadas.
+No caminho de volta, [Ralf](../casting/pcs/ralf.md) resolve investigar uma
+construção que está razoavelmente inteira e tem as portas e janelas fechadas.
 
 Ao forçar a porta que estava meio emperrada e abri-la, imediatamente vê três
 figuras, que estavam recostadas nas paredes, se levantarem e começar a se
@@ -192,8 +192,8 @@ O grupo tem um pouco de dificuldade, sai um pouco ferido, mas consegue eliminar
 as feras.
 
 Quando o Professor, ainda invisível, avisa que o ovo começou a rachar e o
-entrega para [Ralf], que percebe que a criatura lá dentro está bicando e a
-rachadura inicial feita pelo lobo já está aumentando.
+entrega para [Ralf](../casting/pcs/ralf.md), que percebe que a criatura lá
+dentro está bicando e a rachadura inicial feita pelo lobo já está aumentando.
 
 Em alguns minutos, e com a ajuda de Ralf, o bebê owlbear se livra completamente
 da casca e sai para o mundo. A princípio cambaleante, logo consegue se firmar
@@ -248,7 +248,7 @@ castelo, se aproximando da entrada principal.
 Quando estão a meio caminho de chegar ao arco da porta destruída, já começando a
 discernir o interior do hall de entrada a meia-luz, ouve-se o som sibilante de
 duas flechas saindo das seteiras que ladeiam a porta: uma acerta [Jeremias] e
-outra passa zunindo e crava no escudo de [Ralf].
+outra passa zunindo e crava no escudo de [Ralf](../casting/pcs/ralf.md).
 
 Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
@@ -307,7 +307,7 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
     ([Cena 1](#cena-1-descanso))
     * livro
       ["Criaturas Extraordinárias"](../items/books/remarkable_creatures.md)
-      &ndash; _com [Ralf]_
+      &ndash; _com [Ralf](../casting/pcs/ralf.md)_
   * cultistas ([Cena 2](#cena-2-fumaça))
     * capa preta em forma de asa de dragão
 

@@ -46,7 +46,7 @@ aranhas gigantes, e mais recentemente, um dragão.
 ####
 
 * [Sessão 9 Pacato](../../../sessions/09_pacato.md)
-  * **Reidoth** dá para [Ralf] o
+  * **Reidoth** dá para [Ralf](../../pcs/ralf.md) o
     livro ["Criaturas Extraordinárias"](../../../items/books/remarkable_creatures.md)
     ([Cena 1](../../../sessions/09_pacato.md#cena-1-descanso))
   * **Reidoth** participa do combate contra os lobos
