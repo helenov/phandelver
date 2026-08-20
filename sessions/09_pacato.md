@@ -95,7 +95,8 @@ No que parece ter sido uma praça da antiga vila, há uma estátua de madeira mu
 desgastada de um guerreiro portando uma lança e um escudo. A estátua está
 inclinada para um lado, prestes a tombar. Em seu pedestal se lê
 "[Palien](../casting/npcs/mentions/palien.md), herói de Thundertree" e
-o [Professor] se lembra de ter lido sobre alguém com este nome em algum lugar:
+o [Professor](../casting/pcs/professor.md) se lembra de ter lido sobre alguém
+com este nome em algum lugar:
 parece ter sido algum herói local que ajudou a limpar a floresta próxima de
 monstros que assolavam a região nos tempos da fundação da vila.
 
@@ -185,8 +186,9 @@ mas como ele havia sido colocado próximo à fogueira e estava praticamente
 cercado pelo grupo, apenas dois lobos conseguiram chegar até ele.
 
 Um deles chega a conseguir acertar bem uma investida, mas antes que pudessem
-fazer mais algum estrago, o [Professor] pensa rápido e pega o ovo, faz um
-feitiço que o deixa invisível e corre para longe do perigo.
+fazer mais algum estrago, o [Professor](../casting/pcs/professor.md) pensa
+rápido e pega o ovo, faz um feitiço que o deixa invisível e corre para longe do
+perigo.
 
 O grupo tem um pouco de dificuldade, sai um pouco ferido, mas consegue eliminar
 as feras.
@@ -221,8 +223,9 @@ construção continua de pé. Enfim
 o [Castelo Cragmaw](../locations/cragmaw_castle.md)!
 
 [Bia] é mandada voando para se aproximar, mas ficando a uma distância bastante
-segura em que consegue manter seu contato telepático com o [Professor], apenas
-consegue discernir as características mais gerais do que resta da construção.
+segura em que consegue manter seu contato telepático com
+o [Professor](../casting/pcs/professor.md), apenas consegue discernir as
+características mais gerais do que resta da construção.
 
 As paredes externas de pedra ainda são bastante reforçadas, embora estejam em
 escombros em alguns trechos. Em todo o perímetro destas paredes é possível ver
