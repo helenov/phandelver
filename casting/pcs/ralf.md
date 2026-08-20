@@ -34,6 +34,7 @@ Barbarian, Path of the Wild Heart.
 * [sapinho de jade]
 * [tapa-olho cravejado de pedras]
 * [ovo de owlbear](../../items/objects/owlbear_egg.md)
+* livro ["Criaturas Extraordinárias"](../../items/books/remarkable_creatures.md)
 
 [//]: # (### Referências)
 [//]: # ()

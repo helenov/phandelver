@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Pagamentos
+## Pagamentos e Presentes
 
 * [Venda da Barthen](../locations/phandalin/barthens_provisions.md)
   * [Elmina](../casting/npcs/phandalin/barthens/elmina_barthen.md)
@@ -21,6 +21,14 @@
   * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
     ([Sessão 6 Cena 2](../sessions/06_wyvern_tor.md#cena-2-despedidas))
     * 3 poções de healing (para ajudar na missão) &ndash; _com grupo_
+
+####
+
+* [Thundertree](../locations/thundertree.md)
+  * [Reidoth](../casting/npcs/thundertree/reidoth.md)
+    ([Sessão 9 Cena 1](../sessions/09_pacato.md#cena-1-descanso))
+    * livro ["Criaturas Extraordinárias"](books/remarkable_creatures.md)
+      (presente) &ndash; _com [Ralf]_
 
 [//]: # (####)
 [//]: # ()
@@ -53,7 +61,7 @@
       * 1652 cp, 146 sp &ndash;
         _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
     * 2 poções de healing &ndash; _consumidas_
-    * [sapinho de jade] &ndash; _com Ralf_
+    * [sapinho de jade] &ndash; _com [Ralf]_
 
 ####
 
@@ -88,9 +96,9 @@
     * 12 capas vermelhas
       &ndash; [Prefeitura](../locations/phandalin/townmasters_hall.md)
   * escritório ([Sessão 5 Cena 1](../sessions/05_perda.md#cena-1-carta))
-    * [equipamento de alquimia] &ndash; _com Professor_
-    * [livro de poções] &ndash; _com Professor_
-    * [livro "As Aventuras de Urmon"] &ndash; _com Professor_
+    * [equipamento de alquimia] &ndash; _com [Professor]_
+    * [livro de poções] &ndash; _com [Professor]_
+    * livro ["As Aventuras de Urmon"] &ndash; _com [Professor]_
     * [carta do Spider](objects/spider_letter.md) &ndash; _com grupo_
     * ~300 moedas
       * 130 gp, 180 sp &ndash;
@@ -106,7 +114,7 @@
     * 4 capas vermelhas &ndash;
       _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
   * bugbears ([Sessão 5 Cena 2](../sessions/05_perda.md#cena-2-perda))
-    * [tapa-olho cravejado de pedras] &ndash; _com Ralf_
+    * [tapa-olho cravejado de pedras] &ndash; _com [Ralf]_
     * chaves
       do [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
       &ndash; _com grupo_
@@ -127,7 +135,7 @@
 
 * [Floresta Neverwinter](../locations/neverwinter_wood.md)
   * owlbear ([Sessão 7 Cena 3](../sessions/07_floresta.md#cena-3-owlbear))
-    * [ovo](objects/owlbear_egg.md) &ndash; _com Ralf_
+    * [ovo](objects/owlbear_egg.md) &ndash; _com [Ralf]_
 
 ####
 
@@ -178,14 +186,15 @@
 
 ####
 
-* Ralf
+* [Ralf]
   * [sapinho de jade]
   * [tapa-olho cravejado de pedras]
   * [ovo de owlbear](objects/owlbear_egg.md)
+  * livro ["Criaturas Extraordinárias"](books/remarkable_creatures.md)
 
 ####
 
-* Professor
+* [Professor]
   * 1 crossbow
   * [equipamento de alquimia]
   * [livro de poções]

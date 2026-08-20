@@ -42,7 +42,8 @@ assunto.
 
 Após alguns minutos revirando seus pertences espalhados pelo exíguo espaço de
 sua cabana, encontrou um livro, muito velho e desgastado, com uma capa de couro
-escamoso onde se lê em letras gravadas com fogo ["Criaturas Extraordinárias"]. O
+escamoso onde se lê em letras gravadas com
+fogo ["Criaturas Extraordinárias"](../items/books/remarkable_creatures.md). O
 livro ilustrado é um compendium que cataloga diversas criaturas mágicas, míticas
 e fantásticas, muitas desconhecidas do grupo.
 
@@ -287,8 +288,6 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
 ### Cenários
 
-:construction:
-
 * [Thundertree](../locations/thundertree.md)
 * [Floresta Neverwinter](../locations/neverwinter_wood.md)
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
@@ -305,7 +304,9 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
 * [Thundertree](../locations/thundertree.md)
   * [Reidoth](../casting/npcs/thundertree/reidoth.md)
-    * livro ["Criaturas Extraordinárias"] &ndash; _com [Ralf]_
+    *
+    livro ["Criaturas Extraordinárias"](../items/books/remarkable_creatures.md)
+    &ndash; _com [Ralf]_
   * cultistas
     * capa preta em forma de asa de dragão
 
