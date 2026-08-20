@@ -92,10 +92,11 @@ incomodá-las e passam pelo lugar sem problemas.
 
 No que parece ter sido uma praça da antiga vila, há uma estátua de madeira muito
 desgastada de um guerreiro portando uma lança e um escudo. A estátua está
-inclinada para um lado, prestes a tombar. Em seu pedestal se lê "[Palien], herói
-de Thundertree" e o [Professor] se lembra de ter lido sobre alguém com este nome
-em algum lugar: parece ter sido algum herói local que ajudou a limpar a floresta
-próxima de monstros que assolavam a região nos tempos da fundação da vila.
+inclinada para um lado, prestes a tombar. Em seu pedestal se lê
+"[Palien](../casting/npcs/mentions/palien.md), herói de Thundertree" e
+o [Professor] se lembra de ter lido sobre alguém com este nome em algum lugar:
+parece ter sido algum herói local que ajudou a limpar a floresta próxima de
+monstros que assolavam a região nos tempos da fundação da vila.
 
 Se aproximando da torre, ainda a distância, é possível ver uma grande fogueira
 queimando onde antes estava o corpo do dragão derrotado. [Jeremias] encontra
@@ -262,7 +263,7 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 #### Mencionados
 
 * [Venomfang](../casting/npcs/thundertree/venomfang.md) (RIP), dragão morto
-* [Palien], estátua em [Thundertree]
+* [Palien](../casting/npcs/mentions/palien.md), estátua em [Thundertree]
 * cultistas
 
 ####
