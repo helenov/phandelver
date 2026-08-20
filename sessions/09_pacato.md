@@ -10,7 +10,7 @@ _próxima_ : [Sessão 10]
 
 * Cenas
   * [Cena 1 Descanso](#cena-1-descanso)
-  * [Cena 2 Almoço Queimado](#cena-2-almoço-queimado)
+  * [Cena 2 Fumaça](#cena-2-fumaça)
   * [Cena 3 Pira](#cena-3-pira)
   * [Cena 4 Zumbis](#cena-4-zumbis)
   * [Cena 5 Libertado](#cena-5-libertado)
@@ -51,12 +51,9 @@ sobre os owlbears parece estar completo.
 
 ---
 
-### Cena 2 Almoço Queimado
+### Cena 2 Fumaça
 
-[//]: # (Uma panela está sobre um pequeno fogão de ferro. Umas poucas brasas ainda ardem,)
-[//]: # (mas a comida que estava sendo preparadas está completamente queimada e a panela)
-[//]: # (libera uma densa fumaça preta que enche o pequeno espaço.)
-:construction: {Imagem}
+![Uma panela está sobre um pequeno fogão de ferro. Umas poucas brasas ainda ardem, mas a comida que estava sendo preparada está completamente queimada e a panela libera uma densa fumaça preta que enche o pequeno espaço.](../images/sessions/09_pacato/09_2_fumaca.png)
 
 Já no final da tarde, o grupo começa a planejar seus próximos passos para o dia
 seguinte, quando percebe um forte cheiro de fumaça. Investigando do lado de fora
