@@ -61,9 +61,10 @@ seguinte, quando percebe um forte cheiro de fumaça. Investigando do lado de for
 da casa, notam duas colunas de fumaça: uma maior e mais densa próxima à torre
 onde estiveram mais cedo, outra mais ao sul, no leste da vila.
 
-Lembrando-se com [Iarno], que foi deixado preso naquela direção, correm para lá.
-O mago está como o deixaram, mas agora preocupado com o cheiro de queimado que
-também já notou. Realmente o foco da fumaça vem de uma casa um pouco mais além.
+Lembrando-se de [Iarno](../casting/npcs/iarno_albrek.md), que foi deixado preso
+naquela direção, correm para lá. O mago está como o deixaram, mas agora
+preocupado com o cheiro de queimado que também já notou. Realmente o foco da
+fumaça vem de uma casa um pouco mais além.
 
 A porta da casa de fazenda está entre aberta e dela sai uma fumaça escura.
 Entrando no lugar, encontram um pequeno fogão de ferro ainda com algumas brasas
@@ -123,8 +124,8 @@ aberta, mas sendo muito mais lentos, são deixados para trás, logo se
 desinteressam e ficam vagando pela praça da vila.
 
 Sabendo o perigo agora representado pelos zumbis a solta na vila, o grupo passa
-na oficina onde [Iarno] foi deixado preso e o levam à casa do druida para passar
-a noite em segurança.
+na oficina onde [Iarno](../casting/npcs/iarno_albrek.md) foi deixado preso e o
+levam à casa do druida para passar a noite em segurança.
 
 ---
 
@@ -141,8 +142,9 @@ localização do [Castelo Cragmaw], o druida se surpreende.
 da [Estrada Triboar] que do [Rio Neverwinter]."
 
 Próximo ao meio-dia, estão se aproximando da borda [Floresta Neverwinter],
-quando [Iarno] protesta e insiste que preferia ser levado diretamente
-para [Phandalin]. "Sabe-se lá o que podemos encontrar nesta floresta!
+quando [Iarno](../casting/npcs/iarno_albrek.md) protesta e insiste que preferia
+ser levado diretamente para [Phandalin]. "Sabe-se lá o que podemos encontrar
+nesta floresta!
 No castelo, se [Spider] estiver lá, e aí estou perdido!"
 
 Após alguma deliberação sobre o que fazer, o grupo decide que vai dar muito
@@ -244,7 +246,7 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 :construction:
 
 * [Reidoth](../casting/npcs/thundertree/reidoth.md), druida
-* [Iarno 'Glasstaff' Albrek], prisioneiro
+* [Iarno 'Glasstaff' Albrek](../casting/npcs/iarno_albrek.md), prisioneiro
 
 ####
 

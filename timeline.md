@@ -203,7 +203,7 @@
 #### noite
 
 * ataque dos lobos
-* nascimento do owlbear Pacato
+* nascimento do owlbear [Pacato]
   * [Sessão 9](sessions/09_pacato.md): [Cena 6](sessions/09_pacato.md#cena-6-lobos)
 
 ---

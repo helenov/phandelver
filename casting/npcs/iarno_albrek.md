@@ -91,6 +91,14 @@ poção de invisibilidade.
   * **Iarno** é mantido algemado a uma bigorna
     ([Cena 1](../../sessions/08_venomfang.md#cena-1-galhos))
 
+####
+
+* [Sessão 9 Pacato](../../sessions/09_pacato.md)
+  * **Iarno** deixa [Thundertree] com o grupo
+    ([Cena 5](../../sessions/09_pacato.md#cena-5-libertado))
+  * grupo libera **Iarno**
+    ([Cena 5](../../sessions/09_pacato.md#cena-5-libertado))
+
 [//]: # (####)
 [//]: # ()
 [//]: # (* [Sessão {X} {Título}])
