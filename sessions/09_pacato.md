@@ -137,8 +137,9 @@ levam à casa do druida para passar a noite em segurança.
 
 Na manhã seguinte, bem cedo, o grupo parte de [Thundertree], e guiados
 por [Reidoth](../casting/npcs/thundertree/reidoth.md) seguem para sudeste.
-Quando mostram a cópia do esboço de mapa feito pelo orc [Brughor] para a
-localização do [Castelo Cragmaw], o druida se surpreende.
+Quando mostram a cópia do esboço de mapa feito pelo
+orc [Brughor](../casting/npcs/cragmaw/brughor.md) para a localização
+do [Castelo Cragmaw], o druida se surpreende.
 
 "Mas este mapa está bem errado! O castelo fica muito mais ao sul, bem mais perto
 da [Estrada Triboar] que do [Rio Neverwinter]."
@@ -146,8 +147,7 @@ da [Estrada Triboar] que do [Rio Neverwinter]."
 Próximo ao meio-dia, estão se aproximando da borda [Floresta Neverwinter],
 quando [Iarno](../casting/npcs/iarno_albrek.md) protesta e insiste que preferia
 ser levado diretamente para [Phandalin]. "Sabe-se lá o que podemos encontrar
-nesta floresta!
-No castelo, se [Spider] estiver lá, e aí estou perdido!"
+nesta floresta! No castelo, se [Spider] estiver lá, e aí estou perdido!"
 
 Após alguma deliberação sobre o que fazer, o grupo decide que vai dar muito
 trabalho lidar com um prisioneiro enquanto navegam pela floresta, e decidem
@@ -268,7 +268,7 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
 ####
 
-* [Brughor], orc
+* [Brughor](../casting/npcs/cragmaw/brughor.md), orc
 * [Spider], vilão
 
 ####

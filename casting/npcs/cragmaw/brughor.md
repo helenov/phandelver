@@ -34,3 +34,9 @@
   * **Brughor** indica a localização
     do [Castelo Cragmaw](../../../locations/cragmaw_castle.md)
     ([Cena 1](../../../sessions/07_floresta.md#cena-1-brughor))
+
+####
+
+* [Sessão 9 Pacato](../../../sessions/09_pacato.md)
+  * [Reidoth](../thundertree/reidoth.md) aponta que o mapa de **Brughor** está
+    errado ([Cena 5](../../../sessions/09_pacato.md#cena-5-libertado))
