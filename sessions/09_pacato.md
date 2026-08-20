@@ -149,8 +149,9 @@ do [Rio Neverwinter](../locations/neverwinter_river.md)."
 Próximo ao meio-dia, estão se aproximando da
 borda [Floresta Neverwinter](../locations/neverwinter_wood.md),
 quando [Iarno](../casting/npcs/iarno_albrek.md) protesta e insiste que preferia
-ser levado diretamente para [Phandalin]. "Sabe-se lá o que podemos encontrar
-nesta floresta! No castelo, se [Spider](../casting/npcs/mentions/spider.md)
+ser levado diretamente para [Phandalin](../locations/phandalin.md). "Sabe-se lá
+o que podemos encontrar nesta floresta! No castelo,
+se [Spider](../casting/npcs/mentions/spider.md)
 estiver lá, e aí estou perdido!"
 
 Após alguma deliberação sobre o que fazer, o grupo decide que vai dar muito
@@ -232,8 +233,9 @@ quebradas e caídas.
 
 O grupo decide que vai entrar pela porta principal e, neste momento, se despedem
 agradecidos de [Reidoth](../casting/npcs/thundertree/reidoth.md), que diz
-preferir não se envolver com os goblins, e que pretende ir para [Phandalin] que
-agora está mais próxima, e visitar sua
+preferir não se envolver com os goblins, e que pretende ir
+para [Phandalin](../locations/phandalin.md) que agora está mais próxima, e
+visitar sua
 amiga [Qelline](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md). O
 grupo então pede que lá procure
 por [Sildar](../casting/npcs/sildar_hallwinter.md) e relate a ele que
@@ -281,7 +283,7 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
 * [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), aliado
 * [Qelline Alderleaf](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md),
-  fazendeira em [Phandalin]
+  fazendeira em [Phandalin](../locations/phandalin.md)
 
 ### Cenários
 
@@ -295,7 +297,7 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
 * [Estrada Triboar](../locations/triboar_trail.md)
 * [Rio Neverwinter](../locations/neverwinter_river.md)
-* [Phandalin]
+* [Phandalin](../locations/phandalin.md)
 
 ### Itens
 

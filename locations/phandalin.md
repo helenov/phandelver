@@ -119,6 +119,13 @@
     de [Qelline](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md) em
     **Phandalin** ([Cena 2](../sessions/08_venomfang.md#cena-2-druida))
 
+####
+
+* [Sessão 9 Pacato](../sessions/09_pacato.md)
+  * grupo libera [Iarno](../casting/npcs/iarno_albrek.md) para se entregar em
+    **Phandalin**
+    ([Cena 5](../sessions/09_pacato.md#cena-5-libertado))
+
 [//]: # (####)
 [//]: # ()
 [//]: # (* [Sessão {X} {Título}])

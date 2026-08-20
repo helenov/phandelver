@@ -99,7 +99,8 @@ poção de invisibilidade.
   * **Iarno** menciona a possibilidade de [Spider](mentions/spider.md) estar
     no [Castelo Cragmaw](../../locations/cragmaw_castle.md)
     ([Cena 5](../../sessions/09_pacato.md#cena-5-libertado))
-  * grupo libera **Iarno** para se entregar em [Phandalin]
+  * grupo libera **Iarno** para se entregar
+    em [Phandalin](../../locations/phandalin.md)
     ([Cena 5](../../sessions/09_pacato.md#cena-5-libertado))
 
 [//]: # (####)

@@ -55,7 +55,7 @@ aranhas gigantes, e mais recentemente, um dragão.
     ([Cenas 5 a 7](../../../sessions/09_pacato.md#cena-5-libertado))
   * **Reidoth** parte para
     visitar [Qelline](../phandalin/alderleaf/qelline_alderleaf.md)
-    em [Phandalin]
+    em [Phandalin](../../../locations/phandalin.md)
     ([Cena 7](../../../sessions/09_pacato.md#cena-7-castelo))
 
 [//]: # (####)
