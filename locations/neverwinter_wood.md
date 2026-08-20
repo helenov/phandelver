@@ -83,7 +83,7 @@
     Neverwinter**
     ([Cena 6](../sessions/09_pacato.md#cena-6-lobos))
   * [Reidoth](../casting/npcs/thundertree/reidoth.md) guia o grupo pela
-    **Floresta Neverwinter** até o [Castelo Cragmaw]
+    **Floresta Neverwinter** até o [Castelo Cragmaw](cragmaw_castle.md)
     ([Cena 7](../sessions/09_pacato.md#cena-7-castelo))
 
 [//]: # (####)

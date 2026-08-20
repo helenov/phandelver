@@ -140,7 +140,7 @@ de [Thundertree](../locations/thundertree.md), e guiados
 por [Reidoth](../casting/npcs/thundertree/reidoth.md) seguem para sudeste.
 Quando mostram a cópia do esboço de mapa feito pelo
 orc [Brughor](../casting/npcs/cragmaw/brughor.md) para a localização
-do [Castelo Cragmaw], o druida se surpreende.
+do [Castelo Cragmaw](../locations/cragmaw_castle.md), o druida se surpreende.
 
 "Mas este mapa está bem errado! O castelo fica muito mais ao sul, bem mais perto
 da [Estrada Triboar] que do [Rio Neverwinter]."
@@ -214,7 +214,8 @@ meio-dia, o grupo alcança o topo de um monte de onde é possível ver, no vale
 abaixo, cercado e parcialmente encoberto pela densa floresta, os escombros do
 que de uma grande fortaleza formada pelo que devem ter sido sete torres altas,
 mas hoje são apenas escombros. Apenas o que parece ser o andar térreo da antiga
-construção continua de pé. Enfim o [Castelo Cragmaw]!
+construção continua de pé. Enfim
+o [Castelo Cragmaw](../locations/cragmaw_castle.md)!
 
 [Bia] é mandada voando para se aproximar, mas ficando a uma distância bastante
 segura em que consegue manter seu contato telepático com o [Professor], apenas
@@ -235,7 +236,7 @@ agora está mais próxima, e visitar sua
 amiga [Qelline](../casting/npcs/phandalin/alderleaf/qelline_alderleaf.md). O
 grupo então pede que lá procure
 por [Sildar](../casting/npcs/sildar_hallwinter.md) e relate a ele que
-localizaram finalmente o [Castelo Cragmaw].
+localizaram finalmente o [Castelo Cragmaw](../locations/cragmaw_castle.md).
 
 Vendo o druida se afastar, o grupo desce o monte em direção ao vale e ao
 castelo, se aproximando da entrada principal.
@@ -287,7 +288,7 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
 * [Thundertree](../locations/thundertree.md)
 * [Floresta Neverwinter](../locations/neverwinter_wood.md)
-* [Castelo Cragmaw]
+* [Castelo Cragmaw](../locations/cragmaw_castle.md)
 
 #### Mencionados
 

@@ -83,6 +83,16 @@
   * [Reidoth](../casting/npcs/thundertree/reidoth.md) diz que sabe a localização
     do **Castelo Cragmaw** ([Cena 2](../sessions/08_venomfang.md#cena-2-druida))
 
+####
+
+* [Sessão 9 Pacato](../sessions/09_pacato.md)
+  * [Iarno](../casting/npcs/iarno_albrek.md) menciona a possibilidade
+    de [Spider](../casting/npcs/mentions/spider.md) estar no **Castelo Cragmaw**
+    ([Cena 5](../sessions/09_pacato.md#cena-5-libertado))
+  * [Reidoth](../casting/npcs/thundertree/reidoth.md) guia o grupo até o
+    **Castela Cragmaw**
+    ([Cena 7](../sessions/09_pacato.md#cena-7-castelo))
+
 [//]: # (####)
 [//]: # ()
 [//]: # (* [Sessão {X} {Título}])

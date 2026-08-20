@@ -50,7 +50,8 @@ aranhas gigantes, e mais recentemente, um dragão.
     ([Cena 1](../../../sessions/09_pacato.md#cena-1-descanso))
   * **Reidoth** participa do combate contra os lobos
     ([Cena 6](../../../sessions/09_pacato.md#cena-6-lobos))
-  * **Reidoth** leva o grupo até o [Castelo Cragmaw]
+  * **Reidoth** guia o grupo até
+    o [Castelo Cragmaw](../../../locations/cragmaw_castle.md)
     ([Cenas 5 a 7](../../../sessions/09_pacato.md#cena-5-libertado))
   * **Reidoth** parte para
     visitar [Qelline](../phandalin/alderleaf/qelline_alderleaf.md)
