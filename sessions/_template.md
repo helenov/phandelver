@@ -52,12 +52,11 @@ _próxima_ : [Sessão {X+1} {Título}]
 :construction:
 
 * {Local}
-  * {detalhe}
+  * {detalhe} ([Cena {X}])
     * {item} &ndash; _{destinação}_
 
 #### Mencionados
 
 * {Local}
-  * {detalhe}
+  * {detalhe} ([Cena {X}])
     * {item}
-

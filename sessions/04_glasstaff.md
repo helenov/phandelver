@@ -219,10 +219,10 @@ de livrar o lugar dos bandidos que ainda restam.
 ### Itens
 
 * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-  * celas
+  * celas ([Cena 1](#cena-1-prisioneiros))
     * 4 shortswords
     * 4 capas vermelhas
-  * arsenal
+  * arsenal ([Cena 4](#cena-4-pé-de-cabra))
     * 12 spears &ndash; _deixadas_
     * 6 shortswords &ndash; _deixadas_
     * 4 longswords &ndash; _deixadas_

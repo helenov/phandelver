@@ -573,12 +573,13 @@ na manhã seguinte para que ela os leve até o local.
 
 * [Venda da Barthen](../locations/phandalin/barthens_provisions.md)
   * [Elmina](../casting/npcs/phandalin/barthens/elmina_barthen.md)
+    ([Cena6](#cena-6-venda-da-barthen))
     * 30 gp (pagamento pela carga)
 
 ####
 
 * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
-  * [Klarg](../casting/npcs/cragmaw/klarg.md)
+  * [Klarg](../casting/npcs/cragmaw/klarg.md) ([Cena 1](#cena-1-decisões))
     * ~2000 moedas
       * ~50 moedas &ndash; _deixadas
         com [Yeemik](../casting/npcs/cragmaw/yeemik.md)_

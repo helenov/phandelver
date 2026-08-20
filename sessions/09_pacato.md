@@ -304,10 +304,11 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
 * [Thundertree](../locations/thundertree.md)
   * [Reidoth](../casting/npcs/thundertree/reidoth.md)
-    *
-    livro ["Criaturas Extraordinárias"](../items/books/remarkable_creatures.md)
-    &ndash; _com [Ralf]_
-  * cultistas
+    ([Cena 1](#cena-1-descanso))
+    * livro
+      ["Criaturas Extraordinárias"](../items/books/remarkable_creatures.md)
+      &ndash; _com [Ralf]_
+  * cultistas ([Cena 2](#cena-2-fumaça))
     * capa preta em forma de asa de dragão
 
 ####

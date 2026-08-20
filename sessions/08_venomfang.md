@@ -340,7 +340,8 @@ floresta, como se a própria natureza o estivesse observando constantemente.
 ### Itens
 
 * [Thundertree](../locations/thundertree.md)
-  * [dragão](../casting/npcs/thundertree/venomfang.md)
+  * [Venomfang](../casting/npcs/thundertree/venomfang.md)
+    ([Cena 4](#cena-4-dragão))
     * ~1000 moedas
       * 800 sp, 150 gp
     * 4 [cálices de prata]
@@ -350,5 +351,6 @@ floresta, como se a própria natureza o estivesse observando constantemente.
 
 #### Mencionados
 
-* [ovo de owlbear](../items/objects/owlbear_egg.md)
-
+* [Thundertree](../locations/thundertree.md)
+  * [Reidoth](../casting/npcs/thundertree/reidoth.md) ([Cena 2](#cena-2-druida))
+    * [ovo de owlbear](../items/objects/owlbear_egg.md)

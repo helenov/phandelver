@@ -261,10 +261,12 @@ arranjo.
 
 * [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
   * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
+    ([Cena 2](#cena-2-despedidas))
     * 3 poções de healing (para ajudar na missão)
 
 #### Mencionados
 
 * [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
   * [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
+    ([Cena 2](#cena-2-despedidas))
     * [Grimório Bowgentle](../items/books/bowgentle_spellbook.md)

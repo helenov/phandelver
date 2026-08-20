@@ -287,11 +287,12 @@ A tensão aumenta e parece que um combate é inevitável.
 
 * [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
   * [Redbrands](../organizations/redbrands.md)
+    ([Cena 1](#cena-1-gigante-adormecido))
     * 3 shortshorts
     * 3 capas vermelhas
 
 ####
 
 * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-  * cisterna
+  * citerna ([Cena 4](#cena-4-cisterna))
     * 3 capas vermelhas

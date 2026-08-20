@@ -356,6 +356,7 @@ atrapalhar seus planos". Entendeu que o tal druida mora na vila.
 
 * [Wyvern Tor](../locations/wyvern_tor.md)
   * [Brughor](../casting/npcs/cragmaw/brughor.md)
+    ([Cena 1](#cena-1-brughor))
     * ~200 moedas
       * 180 sp, 15 ep
     * 3 frascos de perfume
@@ -366,6 +367,7 @@ atrapalhar seus planos". Entendeu que o tal druida mora na vila.
 
 * [Floresta Neverwinter](../locations/neverwinter_wood.md)
   * owlbear
+    ([Cena 3](#cena-3-owlbear))
     * [ovo](../items/objects/owlbear_egg.md) &ndash;
       _com [Ralf](../casting/pcs/ralf.md)_
 
@@ -373,4 +375,5 @@ atrapalhar seus planos". Entendeu que o tal druida mora na vila.
 
 * [Covil da Agatha](../locations/agathas_lair.md)
   * [Agatha](../casting/npcs/agatha.md)
+    ([Cena 2](#cena-2-agatha))
     * [Grimório Bowgentle](../items/books/bowgentle_spellbook.md)

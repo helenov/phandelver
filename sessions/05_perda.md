@@ -285,7 +285,7 @@ olhar alerta. "Alto lá, [Frodo](../casting/pcs/companions/frodo.md)!"
 ### Itens
 
 * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-  * escritório
+  * escritório ([Cena 1](#cena-1-carta))
     * [equipamento de alquimia]
     * [livro de poções]
     * [livro "As Aventuras de Urmon"]
@@ -296,10 +296,10 @@ olhar alerta. "Alto lá, [Frodo](../casting/pcs/companions/frodo.md)!"
       * 5 carnelians
       * 2 peridots
       * 1 pearl
-  * carteado
+  * carteado ([Cena 2](#cena-2-perda))
     * 4 shortswords
     * 4 capas vermelhas
-  * bugbears
+  * bugbears ([Cena 2](#cena-2-perda))
     * [tapa-olho cravejado de pedras]
     * chaves
       do [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
@@ -309,4 +309,5 @@ olhar alerta. "Alto lá, [Frodo](../casting/pcs/companions/frodo.md)!"
 
 * [Prefeitura](../locations/phandalin/townmasters_hall.md)
   * [Harbin](../casting/npcs/phandalin/harbin_wester.md)
+    ([Cena 3](#cena-3-recompensa))
     * 100 gp (recompensa pelos [Redbrands](../organizations/redbrands.md))
