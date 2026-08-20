@@ -73,10 +73,10 @@ Entrando no lugar, encontram um pequeno fogão de ferro ainda com algumas brasas
 ainda ardendo. Sobre ele uma panela está fumegando com seu conteúdo &mdash; tudo
 indica que seria uma refeição &mdash; completamente queimado.
 
-[Jeremias] trata de tirar a panela do fogão e a joga para fora da casa. Quando
-parte da fumaça se dissipa, conseguem ver que, no interior da casa, cadeiras
-estão tombadas, e quatro camas estão viradas, como se quem quer que estivesse
-ali deixou o lugar recolhendo seus pertences às pressas.
+[Jeremias](../casting/pcs/jeremias.md) trata de tirar a panela do fogão e a joga
+para fora da casa. Quando parte da fumaça se dissipa, conseguem ver que, no
+interior da casa, cadeiras estão tombadas, e quatro camas estão viradas, como se
+quem quer que estivesse ali deixou o lugar recolhendo seus pertences às pressas.
 
 Apenas uma capa preta cortada de modo a lembrar uma asa de dragão resta caída a
 um canto.
@@ -101,10 +101,10 @@ parece ter sido algum herói local que ajudou a limpar a floresta próxima de
 monstros que assolavam a região nos tempos da fundação da vila.
 
 Se aproximando da torre, ainda a distância, é possível ver uma grande fogueira
-queimando onde antes estava o corpo do dragão derrotado. [Jeremias] encontra
-rastros que indicam que cerca de 6 a 10 pessoas arrastaram lenha e galhos para
-montar a pira funerária, e, após permanecer no local por algum tempo, partiram
-para o norte.
+queimando onde antes estava o corpo do dragão
+derrotado. [Jeremias](../casting/pcs/jeremias.md) encontra rastros que indicam
+que cerca de 6 a 10 pessoas arrastaram lenha e galhos para montar a pira
+funerária, e, após permanecer no local por algum tempo, partiram para o norte.
 
 ---
 
@@ -250,8 +250,9 @@ castelo, se aproximando da entrada principal.
 
 Quando estão a meio caminho de chegar ao arco da porta destruída, já começando a
 discernir o interior do hall de entrada a meia-luz, ouve-se o som sibilante de
-duas flechas saindo das seteiras que ladeiam a porta: uma acerta [Jeremias] e
-outra passa zunindo e crava no escudo de [Ralf](../casting/pcs/ralf.md).
+duas flechas saindo das seteiras que ladeiam a porta: uma
+acerta [Jeremias](../casting/pcs/jeremias.md) e outra passa zunindo e crava no
+escudo de [Ralf](../casting/pcs/ralf.md).
 
 Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
