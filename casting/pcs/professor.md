@@ -17,7 +17,7 @@ Wizard, Evoker.
 
 ####
 
-* [Bia](companions/bia.md), companheira
+* [Bia](companions/bia.md), companheira espiritual
 
 [//]: # (### Organizações)
 [//]: # ()

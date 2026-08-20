@@ -19,7 +19,7 @@ Ranger, Beast Master.
 
 ####
 
-* [Frodo](companions/frodo.md), companheiro
+* [Frodo](companions/frodo.md), companheiro primal
 
 [//]: # (### Organizações)
 [//]: # ()
