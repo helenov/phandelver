@@ -32,6 +32,10 @@ colocarem-se a seu serviço.
 * [Venomfang](../casting/npcs/thundertree/venomfang.md) (RIP), ocupante da torre
 * cultistas, ocupantes
 
+####
+
+* [Palien](../casting/npcs/mentions/palien.md), herói lendário local
+
 [//]: # (### Organizações)
 [//]: # ()
 [//]: # (* {Organização}, {detalhe})
@@ -54,9 +58,17 @@ colocarem-se a seu serviço.
 * [Sessão 8 Venomfang](../sessions/08_venomfang.md)
   * grupo conhece o druida [Reidoth](../casting/npcs/thundertree/reidoth.md) em
     **Thundertree** ([Cena 2](../sessions/08_venomfang.md#cena-2-druida))
-  * rupo enfrenta e
+  * grupo enfrenta e
     derrota [Venomfang](../casting/npcs/thundertree/venomfang.md) em
     **Thundertree** ([Cena 4](../sessions/08_venomfang.md#cena-4-dragão))
+
+####
+
+* [Sessão 9 Pacato](../sessions/09_pacato.md)
+  * cultistas fogem de **Thundertree**
+    ([Cenas 1 a 3](../sessions/09_pacato.md#cena-1-descanso))
+  * grupo parte de **Thundertree**
+    ([Cena 5](../sessions/09_pacato.md#cena-5-libertado))
 
 [//]: # (####)
 [//]: # ()

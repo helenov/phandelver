@@ -135,7 +135,8 @@ levam à casa do druida para passar a noite em segurança.
 
 [//]: # (:construction: {Imagem})
 
-Na manhã seguinte, bem cedo, o grupo parte de [Thundertree], e guiados
+Na manhã seguinte, bem cedo, o grupo parte
+de [Thundertree](../locations/thundertree.md), e guiados
 por [Reidoth](../casting/npcs/thundertree/reidoth.md) seguem para sudeste.
 Quando mostram a cópia do esboço de mapa feito pelo
 orc [Brughor](../casting/npcs/cragmaw/brughor.md) para a localização
@@ -249,9 +250,7 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
 ### Elenco
 
-:construction:
-
-* [Thundertree]
+* [Thundertree](../locations/thundertree.md)
   * [Reidoth](../casting/npcs/thundertree/reidoth.md), druida
   * [Iarno 'Glasstaff' Albrek](../casting/npcs/iarno_albrek.md), prisioneiro
   * plantas mutantes
@@ -259,14 +258,15 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
 ####
 
-* [Floresta Thundertree]
+* [Floresta Neverwinter]
   * [Pacato](../casting/pcs/companions/pacato.md), filhote de owlbear
   * lobos
 
 #### Mencionados
 
 * [Venomfang](../casting/npcs/thundertree/venomfang.md) (RIP), dragão morto
-* [Palien](../casting/npcs/mentions/palien.md), estátua em [Thundertree]
+* [Palien](../casting/npcs/mentions/palien.md), estátua
+  em [Thundertree](../locations/thundertree.md)
 * cultistas
 
 ####
@@ -284,7 +284,7 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
 :construction:
 
-* [Thundertree]
+* [Thundertree](../locations/thundertree.md)
 * [Floresta Neverwinter]
 * [Castelo Cragmaw]
 
@@ -298,7 +298,7 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
 :construction:
 
-* [Thundertree]
+* [Thundertree](../locations/thundertree.md)
   * [Reidoth](../casting/npcs/thundertree/reidoth.md)
     * livro ["Criaturas Extraordinárias"] &ndash; _com [Ralf]_
   * cultistas

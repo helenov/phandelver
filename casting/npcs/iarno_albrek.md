@@ -94,7 +94,7 @@ poção de invisibilidade.
 ####
 
 * [Sessão 9 Pacato](../../sessions/09_pacato.md)
-  * **Iarno** deixa [Thundertree] com o grupo
+  * **Iarno** deixa [Thundertree](../../locations/thundertree.md) com o grupo
     ([Cena 5](../../sessions/09_pacato.md#cena-5-libertado))
   * grupo libera **Iarno** para se entregar em [Phandalin]
     ([Cena 5](../../sessions/09_pacato.md#cena-5-libertado))
