@@ -222,10 +222,10 @@ mas hoje são apenas escombros. Apenas o que parece ser o andar térreo da antig
 construção continua de pé. Enfim
 o [Castelo Cragmaw](../locations/cragmaw_castle.md)!
 
-[Bia] é mandada voando para se aproximar, mas ficando a uma distância bastante
-segura em que consegue manter seu contato telepático com
-o [Professor](../casting/pcs/professor.md), apenas consegue discernir as
-características mais gerais do que resta da construção.
+[Bia](../casting/pcs/companions/bia.md) é mandada voando para se aproximar, mas
+ficando a uma distância bastante segura em que consegue manter seu contato
+telepático com o [Professor](../casting/pcs/professor.md), apenas consegue
+discernir as características mais gerais do que resta da construção.
 
 As paredes externas de pedra ainda são bastante reforçadas, embora estejam em
 escombros em alguns trechos. Em todo o perímetro destas paredes é possível ver

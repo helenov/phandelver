@@ -288,7 +288,7 @@ olhar alerta. "Alto lá, [Frodo](../casting/pcs/companions/frodo.md)!"
   * escritório ([Cena 1](#cena-1-carta))
     * [equipamento de alquimia]
     * [livro de poções]
-    * [livro "As Aventuras de Urmon"]
+    * livro ["As Aventuras de Urmon"]
     * [Carta do Spider](../items/objects/spider_letter.md)
     * ~300 moedas
       * 130 gp, 180 sp

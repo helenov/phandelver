@@ -32,7 +32,7 @@ Wizard, Evoker.
 * 1 crossbow
 * [equipamento de alquimia]
 * [livro de poções]
-* [livro "As Aventuras de Urmon"]
+* livro ["As Aventuras de Urmon"]
 
 [//]: # (### Referências)
 [//]: # ()
