@@ -6,8 +6,6 @@ _data_ : 2026-08-17 \
 _anterior_ : [Sessão 8 Venomfang](08_venomfang.md) \
 _próxima_ : [Sessão 10]
 
-:construction:
-
 * Cenas
   * [Cena 1 Descanso](#cena-1-descanso)
   * [Cena 2 Fumaça](#cena-2-fumaça)
@@ -303,8 +301,6 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 * [Phandalin](../locations/phandalin.md)
 
 ### Itens
-
-:construction:
 
 * [Thundertree](../locations/thundertree.md)
   * [Reidoth](../casting/npcs/thundertree/reidoth.md)
