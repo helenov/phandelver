@@ -205,12 +205,7 @@ chamar [Pacato](../casting/pcs/companions/pacato.md)."
 
 ### Cena 7 Castelo
 
-[//]: # (A entrada do Castelo Cragmaw é ladeada por antigas torres de pedra com seteiras)
-[//]: # (que vigiam que estiver se aproximando da porta. As seteiras, uma de cada lado)
-[//]: # (estão a cerca de 10 pés do piso externo. A porta está aberta, com suas duas)
-[//]: # (folhas de madeira e bronze quebradas e corroídas pelo tempo, pendendo das)
-[//]: # (antigas dobradiças. O interior é pouco visível na penumbra da pouca luz que entra pela porta.)
-:construction: {Imagem}
+![A entrada do Castelo Cragmaw é ladeada por antigas torres de pedra com seteiras que vigiam que estiver se aproximando da porta. A porta está aberta, com suas duas folhas de madeira e bronze quebradas e corroídas pelo tempo, pendendo das antigas dobradiças. O interior é pouco visível na penumbra da pouca luz que entra pela porta.](../images/sessions/09_pacato/09_7_castelo.png)
 
 Foram mais três dias de viagem pela floresta até que, finalmente, perto do
 meio-dia, o grupo alcança o topo de um monte de onde é possível ver, no vale
