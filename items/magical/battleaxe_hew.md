@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Machado Hew, <small>_uncommon_</small>
+## Machado Hew, <small>_weapon (battleaxe), uncommon_</small>
 
 <!-- @formatter:off -->
 <img alt="Um machado de guerra enferrujado está caido no chão em meio a moedas de prata. Sob a ferrugem é possível ver runas inscritas no metal." src="../../images/items/battleaxe_hew.png" style="width:400px; margin-right: 15px; float: left" />
@@ -26,11 +26,16 @@ própria natureza o estivesse observando constantemente.
 ### Propriedades
 
 * battleaxe +1
-* dano máximo contra criatura vegetal ou objeto de madeira
 
 ####
 
-* quem a empunha sente-se desconfortável ao viajar por florestas
+* **Plant Slayer.** Whenever the wielder hits a plant creature or an object made
+  of wood with this weapon, the attack deals maximum damage.
+
+####
+
+* **Uncomfortable Woods.** While carrying the axe, the wielder feels uneasy and
+  anxious whenever they travel through a forest.
 
 ### Locais
 
