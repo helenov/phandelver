@@ -13,9 +13,9 @@ amigo, [Sildar Hallwinter](sildar_hallwinter.md), para tratar de assuntos na
 cidade, enquanto o grupo segue com os suprimentos.
 
 Gundren e seus irmãos, [Tharden](mentions/tharden_rockseeker.md)
-e [Nundro](mentions/nundro_rockseeker.md), estão empenhados em descobrir a localização de
-certas minas lendárias da região de Phandalin. Seu objetivo é recuperá-las para
-seu clã e restabelecer a mina.
+e [Nundro](mentions/nundro_rockseeker.md), estão empenhados em descobrir a
+localização de certas minas lendárias da região de Phandalin. Seu objetivo é
+recuperá-las para seu clã e restabelecer a mina.
 <br clear="left"/>
 
 ### Relações
@@ -26,9 +26,9 @@ seu clã e restabelecer a mina.
 * [Tharden Rockseeker](mentions/tharden_rockseeker.md), irmão
 * [Nundro Rockseeker](mentions/nundro_rockseeker.md), irmão
 
-[//]: # (### Organizações)
-[//]: # ()
-[//]: # (* {Organização}, {detalhe})
+### Organizações
+
+* [Irmãos Rockseeker](../../organizations/rockseeker_brothers.md), família
 
 ### Locais
 

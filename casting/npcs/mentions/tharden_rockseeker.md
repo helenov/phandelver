@@ -16,9 +16,9 @@
 * [Nundro Rockseeker](nundro_rockseeker.md), irmão
 * [Elmina Barthen](../phandalin/barthens/elmina_barthen.md), amiga
 
-[//]: # (### Organizações)
-[//]: # ()
-[//]: # (* {Organização}, {detalhe})
+### Organizações
+
+* [Irmãos Rockseeker](../../../organizations/rockseeker_brothers.md), família
 
 ### Locais
 
@@ -27,5 +27,6 @@
 ### Referências
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
-  * [Elmina](../phandalin/barthens/elmina_barthen.md) menciona os irmãos Rockseeker
+  * [Elmina](../phandalin/barthens/elmina_barthen.md) menciona
+    os [Irmãos Rockseeker](../../../organizations/rockseeker_brothers.md)
     ([Cena 6](../../../sessions/02_phandalin.md#cena-6-venda-da-barthen))

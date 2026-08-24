@@ -27,3 +27,8 @@
 
 * [Sessão {X} {Título}]
   * {detalhe} ([Cena {X}])
+
+[//]: # (####)
+[//]: # ()
+[//]: # (* [Sessão {X} {Título}])
+[//]: # (  * {detalhe} &#40;[Cena {X}]&#41;)

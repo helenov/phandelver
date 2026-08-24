@@ -195,7 +195,8 @@ arrumado confusão na vila. Eles ouviram falar que eles frequentam o
 nos limites da cidade.
 
 Barthen paga os 30 gp combinados pelo transporte da carga, e fica de avisar o
-grupo se os irmãos Rockseeker aparecerem.
+grupo se os [Irmãos Rockseeker](../organizations/rockseeker_brothers.md)
+aparecerem.
 
 ---
 
