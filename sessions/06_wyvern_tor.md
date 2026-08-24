@@ -109,7 +109,7 @@ mais que um posto de parada para viajantes, mas hoje é apenas um poço na beira
 da estrada, no que parece ter sido uma praça, cercado por ruínas de umas poucas
 construções.
 
-Uma trilha é visivel ao norte segue entrando
+Uma trilha é visível ao norte segue entrando
 na [Floresta Neverwinter](../locations/neverwinter_wood.md) logo adiante.
 Segundo as orientações
 de [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md), este é o caminho
@@ -117,7 +117,9 @@ que leva ao [Covil da Agatha](../locations/agathas_lair.md).
 
 Ao se aproximarem do poço, rumando na direção da trilha, são atacados por dois
 bugbears, que estavam escondidos entre as ruínas. Os bandidos acabam se
-revelando pouco perigosos, sendo derrotados com relativa facilidade.
+revelando pouco perigosos, sendo derrotados com relativa facilidade. Com um
+deles, encontram um bilhete com um desenho tosco que lembra o
+amigo [Sapão](../casting/pcs/silas.md).
 
 Procurando por rastros, encontram sinais de uma trilha na direção sul e optam
 por segui-la, na esperança de localizar a base dos assaltantes.
@@ -134,7 +136,7 @@ pode ser um bom lugar para acampar. Tudo está quieto e, a princípio, não veem
 ninguém, mas há uma barraca colorida montada ao lado de um poço bem no centro
 das ruínas do que deve ter sido a guarnição de uma torre de observação.
 
-Assim que entram na área das ruínas, sentem um forte cheiro de carne podre, e,
+Assim que entram na área das ruín as, sentem um forte cheiro de carne podre, e,
 quando se aproximam cautelosamente do poço e da barraca, uma horda de zumbis sai
 do que resta da torre, inícia um ataque.
 
