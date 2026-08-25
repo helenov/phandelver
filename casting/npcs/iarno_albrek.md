@@ -25,8 +25,8 @@ dos [Redbrands](../../organizations/redbrands.md).
 
 Ambicioso, Iarno viu em [Phandalin](../../locations/phandalin.md) uma
 oportunidade para enriquecer ilicitamente. Em vez de estabelecer uma força se
-segurança, que seria seu objetivo original, reuniu um grupo de foras da lei e
-rufiões locais para criar sua própria força de opressão e coerção,
+segurança, que seria seu objetivo original, reuniu um grupo de bandidos locais
+para criar sua própria força de opressão e coerção,
 os [Redbrands](../../organizations/redbrands.md).
 
 Perseguido pelo grupo, **Iarno 'Glasstaff'** consegue fugir com a ajuda de uma
