@@ -22,6 +22,10 @@
 
 * {Local}, {detalhe}
 
+### Itens
+
+* {item}, {detalhe}
+
 ### Referências
 
 * [Sessão {X} {Título}]
