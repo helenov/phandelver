@@ -68,17 +68,18 @@
 * [Hospedaria Stonehill](phandalin/stonehill_inn.md), hospedaria e ponto de
   encontro dos moradores
 * [Pomar Edermath](phandalin/edermath_orchard.md), pomar de maçãs
-* [Posto da Lionshield Coster](../locations/phandalin/lionshield_coster_post.md),
-  posto comercial
+* [Posto da Lionshield Coster](phandalin/lionshield_coster_post.md), posto
+  comercial
 * [Prefeitura](phandalin/townmasters_hall.md), sede da administração
 * [Ferraria](phandalin/blacksmith_shop.md)
 * [Carpintaria](phandalin/woodworker_shop.md)
 * [Gigante Adormecido](phandalin/sleeping_giant.md), bar sujo e decadente
 * [Santuário da Fortuna](phandalin/luck_shrine.md), templo
 * [Fazenda Alderleaf](phandalin/alderleaf_farm.md), fazenda nos limites da
-  cidade
-* [Mata Tresendar](../locations/phandalin/tresendar_wood.md), mata ao sul da
-  velha mansão
+  cidade velha mansão
+* [Mansão Tresendar](phandalin/tresendar_manor.md), ruínas da velha mansão
+  * [Mata Tresendar](phandalin/tresendar_wood.md), mata ao sul da
+  * [Esconderijo Redbrand](phandalin/redbrand_hideout.md)
 
 #### Mencionados
 
@@ -86,7 +87,6 @@
   mineradores
   * [Trilha dos Mineradores](phandalin/miners_trail.md), trilha para as
     montanhas e as minas
-* [Mansão Tresendar](phandalin/tresendar_manor.md), ruínas da velha mansão
 
 ### Referências
 

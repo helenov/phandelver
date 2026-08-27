@@ -18,6 +18,11 @@
 
 * [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
 
+### Locais
+
+* [Floresta Neverwinter](neverwinter_wood.md)
+  * o **Castelo Cragmaw** fica na região sudoeste da floresta
+
 ### Referências
 
 * [Sessão 2 Phandalin](../sessions/02_phandalin.md)

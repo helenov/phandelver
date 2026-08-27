@@ -38,8 +38,8 @@
 ####
 
 * [Sessão 1 Goblins](../sessions/01_goblins.md)
-  * grupo sobre emboscada de um grupo
-    de [Gragmaw Goblins](../organizations/cragmaw_goblins.md)
+  * grupo é emboscado por um grupo
+    de [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
     ([Cena 1](../sessions/01_goblins.md#cena-1-emboscada))
   * [Daran](../casting/npcs/phandalin/daran_edermath.md) fala sobre os ataques
     na **Estrada Triboar**
