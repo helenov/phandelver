@@ -4,7 +4,7 @@
 
 _data_ : 2026-08-17 \
 _anterior_ : [Sessão 8 Venomfang](08_venomfang.md) \
-_próxima_ : [Sessão 10]
+_próxima_ : [Sessão 10 Castelo](10_castelo.md)
 
 * Cenas
   * [Cena 1 Descanso](#cena-1-descanso)
