@@ -13,7 +13,8 @@
 
 ## Diário
 
-* [Linha do tempo](timeline.md)
+* [Linha do Tempo](timeline.md)
+* [Cenários](locations.md)
 
 ####
 
