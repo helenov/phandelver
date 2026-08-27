@@ -32,7 +32,7 @@ pista de sua identidade, intenções e ligações.
 No laboratório, [Professor](../casting/pcs/professor.md) pega o livro com
 instruções para a produção de poções que estava aberto sobre a mesa e, olhando
 as estantes, encontram um livro antigo, escrito em língua anã, com o
-título ["As Aventuras de Urmon"]. Leva consigo também alguns frascos de
+título ["Diários de Urmon"]. Leva consigo também alguns frascos de
 reagentes que julgou interessante.
 
 No quarto de [Glasstaff](../casting/npcs/redbrands/glasstaff.md), sobre sua mesa
@@ -288,7 +288,7 @@ olhar alerta. "Alto lá, [Frodo](../casting/pcs/companions/frodo.md)!"
   * escritório ([Cena 1](#cena-1-carta))
     * [equipamento de alquimia]
     * [livro de poções]
-    * livro ["As Aventuras de Urmon"]
+    * livro ["Diários de Urmon"]
     * [Carta do Spider](../items/objects/spider_letter.md)
     * ~300 moedas
       * 130 gp, 180 sp

@@ -98,7 +98,7 @@
   * escritório ([Sessão 5 Cena 1](../sessions/05_perda.md#cena-1-carta))
     * [equipamento de alquimia] &ndash; _com [Professor](../casting/pcs/professor.md)_
     * [livro de poções] &ndash; _com [Professor](../casting/pcs/professor.md)_
-    * livro ["As Aventuras de Urmon"] &ndash; _com [Professor](../casting/pcs/professor.md)_
+    * livro ["Diários de Urmon"] &ndash; _com [Professor](../casting/pcs/professor.md)_
     * [carta do Spider](objects/spider_letter.md) &ndash; _com grupo_
     * ~300 moedas
       * 130 gp, 180 sp &ndash;
@@ -198,7 +198,7 @@
   * 1 crossbow
   * [equipamento de alquimia]
   * [livro de poções]
-  * livro ["As Aventuras de Urmon"]
+  * livro ["Diários de Urmon"]
 
 ### Na [Prefeitura](../locations/phandalin/townmasters_hall.md)
 
