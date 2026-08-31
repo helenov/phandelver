@@ -18,6 +18,10 @@ Rogue, Soulknife.
 * [Ralf the Halfling](ralf.md), companheiro
 * [Jeremias 'Colina' Raizforte](jeremias.md), companheiro
 
+####
+
+* [Rutger Navarre], amigo
+
 [//]: # (### Organizações)
 [//]: # ()
 [//]: # (* {Organização}, {detalhe})
