@@ -43,11 +43,11 @@ mecânicos, uma minúscula faísca de energia psíquica violeta flutua no centro
   turn, you can use your Reaction to instantly swap places with that echo,
   causing it to vanish.
 
-### Locais
+[//]: # (### Locais)
+[//]: # ()
+[//]: # (* {Local}, {detalhe})
 
-* {Local}, {detalhe}
-
-### Referências
-
-* [Sessão {X} {Título}]
-  * {detalhe} ([Cena {X}])
+[//]: # (### Referências)
+[//]: # ()
+[//]: # (* [Sessão {X} {Título}])
+[//]: # (  * {detalhe} &#40;[Cena {X}]&#41;)
