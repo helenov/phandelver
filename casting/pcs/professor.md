@@ -6,6 +6,8 @@
 <img alt="Professor Ork" src="../../images/characters/pcs/professor.png" style="width:300px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
+:construction:
+
 Wizard, Evoker.
 <br clear="left"/>
 
