@@ -16,6 +16,7 @@ Barbarian, Path of the Wild Heart.
 * [Professor Ork](professor.md), amigo
 * [Silas 'Sapão' Raizforte](silas.md) (RIP), amigo
 * [Jeremias 'Colina' Raizforte](jeremias.md), amigo
+* [Faelar Mistarrow](faelar.md), companheiro
 
 ####
 

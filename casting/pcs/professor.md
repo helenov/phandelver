@@ -16,6 +16,7 @@ Wizard, Evoker.
 * [Ralf the Halfling](ralf.md), amigo
 * [Silas 'Sapão' Raizforte](silas.md) (RIP), amigo
 * [Jeremias 'Colina' Raizforte](jeremias.md), amigo
+* [Faelar Mistarrow](faelar.md), companheiro
 
 ####
 
