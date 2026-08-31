@@ -26,9 +26,9 @@ Barbarian, Path of the Wild Heart.
 [//]: # ()
 [//]: # (* {Organização}, {detalhe})
 
-[//]: # (### Locais)
-[//]: # ()
-[//]: # (* {Local}, {detalhe})
+### Locais
+
+* [Phandalin](../../locations/phandalin.md), agente de segurança
 
 ### Itens
 

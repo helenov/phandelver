@@ -21,9 +21,9 @@ Druida.
 [//]: # ()
 [//]: # (* {Organização}, {detalhe})
 
-[//]: # (### Locais)
-[//]: # ()
-[//]: # (* {Local}, {detalhe})
+### Locais
+
+* [Phandalin](../../locations/phandalin.md), agente de segurança
 
 [//]: # (### Referências)
 [//]: # ()
