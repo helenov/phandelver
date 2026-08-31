@@ -30,7 +30,19 @@ Rogue, Soulknife.
 
 * [Bússola do Vazio](../../items/magical/voids_compass.md)
 
-### Referências
+### Timeline
 
-* [Sessão 10 Castelo](../../sessions/10_castelo.md)
-  * libertado pelo grupo ([Cena {X}])
+#### Dia 25
+
+* capturado por bugbears
+  na [Floresta Neverwinter](../../sessions/07_floresta.md)
+* levado para o [Castelo Cragmaw](../../locations/cragmaw_castle.md)
+
+#### Dia 27 (hoje)
+
+#### tarde
+
+* libertado pelo grupo no [Castelo Cragmaw](../../locations/cragmaw_castle.md)
+  * [Sessão 10](../../sessions/10_castelo.md): [Cena {X}]
+
+continua...

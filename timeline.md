@@ -59,7 +59,7 @@
 
 #### noite
 
-* combate com [Redbrands](organizations/redbrands.md)
+* encontro com [Redbrands](organizations/redbrands.md)
   no [Gigante Adormecido](locations/phandalin/sleeping_giant.md)
   * [Sessão 3](sessions/03_redbrands.md): [Cena 1](sessions/03_redbrands.md#cena-1-gigante-adormecido)
 
@@ -223,6 +223,14 @@
 * [Reidoth](casting/npcs/thundertree/reidoth.md) parte
   para [Phandalin](locations/phandalin.md)
   * [Sessão 9](sessions/09_pacato.md): [Cena 7](sessions/09_pacato.md#cena-7-castelo)
+
+#### tarde
+
+* invasão do [Castelo Cragmaw](locations/cragmaw_castle.md)
+  * [Sessão 10](sessions/10_castelo.md): [Cenas {X} a {Y}]
+
+* conhecem [Faelar](casting/pcs/faelar.md)
+  * [Sessão 10](sessions/10_castelo.md): [Cena {X}]
 
 continua...
 
