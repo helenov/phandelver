@@ -10,9 +10,17 @@
 :construction: {Texto}
 <br clear="left"/>
 
+### Sintonização
+
+* requires Attunement by {...}
+
 ### Propriedades
 
-* {features}
+* **{Feature Name.}** {Description}
+
+####
+
+* **{Feature Name.}** {Description}
 
 ### Locais
 
