@@ -4,7 +4,7 @@
 
 _data_ : 2026-08-31 \
 _anterior_ : [Sessão 9 Pacato](09_pacato.md) \
-_próxima_ : [Sessão 11]
+_próxima_ : [Sessão 11] :construction: continua...
 
 :construction:
 
@@ -86,9 +86,9 @@ _próxima_ : [Sessão 11]
 >   * madeira de qualidade
 >   * trabalho de anão
 
-> * detect magic 
+> * detect magic
 >   * coleira do cachorro
->   * livro 
+>   * livro
 >   * dentro da mochila de Faelar
 >   * atrás da porta nordeste
 
@@ -100,44 +100,33 @@ _próxima_ : [Sessão 11]
 
 ### Elenco
 
-* [Brughor], fugitivo
+* [Brughor](../casting/npcs/cragmaw/brughor.md), fugitivo
 * goblins
 * hobgoblins
 * cão
 
 #### Mencionados
 
-* [Grol], rei bugbear
-* [Gundren Rockseeker]
+* [Grol](../casting/npcs/cragmaw/grol.md), rei bugbear
+* [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md)
 
 ### Cenários
 
-:construction:
-
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
 
-[//]: # (#### Mencionados)
-[//]: # ()
-[//]: # (* {Local})
-
 ### Itens
-
-:construction:
 
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
   * hobgoblins ([Cena 2](#cena-2-faelar))
     * heavy crossbow &ndash; _{destinação}_
     * chain mail &ndash; _{destinação}_
-      * ensanguentada com emblema da [Lords' Alliance]
+      * ensanguentada com emblema
+        da [Lords' Alliance](../organizations/lords_alliance.md)
     * longsword &ndash; _{destinação}_
       * emblema de Neverwinter
-    * [Coleira da Matilha Fantasma] &ndash; _{destinação}_
-    * [Grimório de Cinzas e Sangue] &ndash; _{destinação}_
+    * [Coleira da Matilha Fantasma](../items/magical/collar_phantom_pack.md)
+      &ndash; _{destinação}_
+    * [Grimório de Cinzas e Sangue](../items/magical/grimoire_ash_blood.md)
+      &ndash; _{destinação}_
     * [barril pequeno] &ndash; _{destinação}_
       * trabalho de anão
-
-[//]: # (#### Mencionados)
-[//]: # ()
-[//]: # (* {Local})
-[//]: # (  * {detalhe} &#40;[Cena {X}]&#41;)
-[//]: # (    * {item})
