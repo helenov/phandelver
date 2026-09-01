@@ -96,9 +96,11 @@
     * 12 capas vermelhas
       &ndash; [Prefeitura](../locations/phandalin/townmasters_hall.md)
   * escritório ([Sessão 5 Cena 1](../sessions/05_perda.md#cena-1-carta))
-    * [equipamento de alquimia] &ndash; _com [Professor](../casting/pcs/professor.md)_
+    * [equipamento de alquimia] &ndash;
+      _com [Professor](../casting/pcs/professor.md)_
     * [livro de poções] &ndash; _com [Professor](../casting/pcs/professor.md)_
-    * livro ["Diários de Urmon"] &ndash; _com [Professor](../casting/pcs/professor.md)_
+    * livro ["Diários de Urmon"] &ndash;
+      _com [Professor](../casting/pcs/professor.md)_
     * [carta do Spider](objects/spider_letter.md) &ndash; _com grupo_
     * ~300 moedas
       * 130 gp, 180 sp &ndash;
@@ -114,7 +116,8 @@
     * 4 capas vermelhas &ndash;
       _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
   * bugbears ([Sessão 5 Cena 2](../sessions/05_perda.md#cena-2-perda))
-    * [tapa-olho cravejado de pedras] &ndash; _com [Ralf](../casting/pcs/ralf.md)_
+    * [tapa-olho cravejado de pedras] &ndash;
+      _com [Ralf](../casting/pcs/ralf.md)_
     * chaves
       do [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
       &ndash; _com grupo_
@@ -148,6 +151,21 @@
     * scroll misty step &ndash; _com grupo_
     * scroll lighting bolt &ndash; _com grupo_
     * [Machado Hew](magical/battleaxe_hew.md) &ndash; _com grupo_
+
+####
+
+* [Castelo Cragmaw](../locations/cragmaw_castle.md)
+  * hobgoblins ([Sessão 10 Cena 2](../sessions/10_castelo.md#cena-2-faelar))
+    * heavy crossbow &ndash; _{destinação}_
+    * chain mail &ndash; _{destinação}_
+      * ensanguentada com emblema
+        da [Lords' Alliance](../organizations/lords_alliance.md)
+    * longsword &ndash; _{destinação}_
+      * emblema de [Neverwinter](../locations/neverwinter.md)
+    * [Coleira da Matilha Fantasma](magical/collar_phantom_pack.md) &ndash;
+      _{destinação}_
+    * [Grimório de Cinzas e Sangue](magical/grimoire_ash_blood.md) &ndash;
+      _{destinação}_
 
 [//]: # (####)
 [//]: # ()
