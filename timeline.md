@@ -227,11 +227,14 @@
 #### tarde
 
 * invasão do [Castelo Cragmaw](locations/cragmaw_castle.md)
-  * [Sessão 10](sessions/10_castelo.md): [Cenas {X} a {Y}]
+  * [Sessão 10](sessions/10_castelo.md): [Cenas 1 e 2](sessions/10_castelo.md#cena-1-recepção)
+  * [Sessão 11]: :construção: continua...
+
+####
 
 * conhecem [Faelar](casting/pcs/faelar.md)
-  * [Sessão 10](sessions/10_castelo.md): [Cena {X}]
+  * [Sessão 10](sessions/10_castelo.md): [Cena 2](sessions/10_castelo.md#cena-2-faelar)
 
-continua...
+:construction: continua...
 
 ---

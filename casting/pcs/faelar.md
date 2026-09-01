@@ -47,6 +47,9 @@ Rogue, Soulknife.
 #### tarde
 
 * libertado pelo grupo no [Castelo Cragmaw](../../locations/cragmaw_castle.md)
-  * [Sessão 10](../../sessions/10_castelo.md): [Cena {X}]
+  * [Sessão 10](../../sessions/10_castelo.md): [Cena 2](../../sessions/10_castelo.md#cena-2-faelar)
+
+* invasão do [Castelo Cragmaw](../../locations/cragmaw_castle.md)
+  * [Sessão 11]: :construção: continua...
 
 continua...
