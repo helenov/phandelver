@@ -121,10 +121,10 @@
 
 ####
 
-* [Sessão 9 Pacato](../sessions/09_pacato.md)
+* [Sessão 9 Olie](../sessions/09_olie.md)
   * grupo libera [Iarno](../casting/npcs/iarno_albrek.md) para se entregar em
     **Phandalin**
-    ([Cena 5](../sessions/09_pacato.md#cena-5-libertado))
+    ([Cena 5](../sessions/09_olie.md#cena-5-libertado))
 
 [//]: # (####)
 [//]: # ()

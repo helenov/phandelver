@@ -37,6 +37,6 @@
 
 ####
 
-* [Sessão 9 Pacato](../../../sessions/09_pacato.md)
+* [Sessão 9 Olie](../../../sessions/09_olie.md)
   * [Reidoth](../thundertree/reidoth.md) aponta que o mapa de **Brughor** está
-    errado ([Cena 5](../../../sessions/09_pacato.md#cena-5-libertado))
+    errado ([Cena 5](../../../sessions/09_olie.md#cena-5-libertado))

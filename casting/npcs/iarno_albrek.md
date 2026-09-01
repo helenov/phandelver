@@ -93,15 +93,15 @@ poção de invisibilidade.
 
 ####
 
-* [Sessão 9 Pacato](../../sessions/09_pacato.md)
+* [Sessão 9 Olie](../../sessions/09_olie.md)
   * **Iarno** deixa [Thundertree](../../locations/thundertree.md) com o grupo
-    ([Cena 5](../../sessions/09_pacato.md#cena-5-libertado))
+    ([Cena 5](../../sessions/09_olie.md#cena-5-libertado))
   * **Iarno** menciona a possibilidade de [Spider](mentions/spider.md) estar
     no [Castelo Cragmaw](../../locations/cragmaw_castle.md)
-    ([Cena 5](../../sessions/09_pacato.md#cena-5-libertado))
+    ([Cena 5](../../sessions/09_olie.md#cena-5-libertado))
   * grupo libera **Iarno** para se entregar
     em [Phandalin](../../locations/phandalin.md)
-    ([Cena 5](../../sessions/09_pacato.md#cena-5-libertado))
+    ([Cena 5](../../sessions/09_olie.md#cena-5-libertado))
 
 [//]: # (####)
 [//]: # ()

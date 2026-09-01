@@ -64,11 +64,11 @@ colocarem-se a seu serviço.
 
 ####
 
-* [Sessão 9 Pacato](../sessions/09_pacato.md)
+* [Sessão 9 Olie](../sessions/09_olie.md)
   * cultistas fogem de **Thundertree**
-    ([Cenas 1 a 3](../sessions/09_pacato.md#cena-1-descanso))
+    ([Cenas 1 a 3](../sessions/09_olie.md#cena-1-descanso))
   * grupo parte de **Thundertree**
-    ([Cena 5](../sessions/09_pacato.md#cena-5-libertado))
+    ([Cena 5](../sessions/09_olie.md#cena-5-libertado))
 
 [//]: # (####)
 [//]: # ()

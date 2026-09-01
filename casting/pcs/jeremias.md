@@ -85,14 +85,14 @@ Ranger, Beast Master.
 
 * partida de [Thundertree](../../locations/thundertree.md) rumo
   ao [Castelo Cragmaw](../../locations/cragmaw_castle.md)
-  * [Sessão 9](../../sessions/09_pacato.md): [Cena 5](../../sessions/09_pacato.md#cena-5-libertado)
+  * [Sessão 9](../../sessions/09_olie.md): [Cena 5](../../sessions/09_olie.md#cena-5-libertado)
 
 #### Dia 27 (hoje)
 
 #### meio-dia
 
 * chegada ao [Castelo Cragmaw](../../locations/cragmaw_castle.md)
-  * [Sessão 9](../../sessions/09_pacato.md): [Cena 7](../../sessions/09_pacato.md#cena-7-castelo)
+  * [Sessão 9](../../sessions/09_olie.md): [Cena 7](../../sessions/09_olie.md#cena-7-castelo)
 
 #### tarde
 

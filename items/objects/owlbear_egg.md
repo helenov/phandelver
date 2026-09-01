@@ -28,9 +28,9 @@
 
 ####
 
-* [Sessão 9 Pacato](../../sessions/09_pacato.md)
-  * [Pacato](../../casting/pcs/companions/pacato.md) nasceu do **ovo**
-    ([Cena 6](../../sessions/09_pacato.md#cena-6-lobos))
+* [Sessão 9 Olie](../../sessions/09_olie.md)
+  * [Olie](../../casting/pcs/companions/olie.md) nasceu do **ovo**
+    ([Cena 6](../../sessions/09_olie.md#cena-6-lobos))
 
 [//]: # (####)
 [//]: # ()

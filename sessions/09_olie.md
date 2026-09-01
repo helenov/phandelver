@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Sessão 9 Pacato
+## Sessão 9 Olie
 
 _data_ : 2026-08-17 \
 _anterior_ : [Sessão 8 Venomfang](08_venomfang.md) \
@@ -25,7 +25,7 @@ _próxima_ : [Sessão 10 Castelo](10_castelo.md)
 
 ### Cena 1 Descanso
 
-![Sobre uma mesa rústica, repousa um livro muito velho e desgastado, com capa de couro escamoso onde se lê em letras gravadas com fogo "Criaturas Extraordinárias".](../images/sessions/09_pacato/09_1_descanso.png)
+![Sobre uma mesa rústica, repousa um livro muito velho e desgastado, com capa de couro escamoso onde se lê em letras gravadas com fogo "Criaturas Extraordinárias".](../images/sessions/09_olie/09_1_descanso.png)
 
 Após derrotar o dragão [Venomfang](../casting/npcs/thundertree/venomfang.md), o
 grupo passou a tarde na casa
@@ -54,7 +54,7 @@ sobre os owlbears parece estar completo.
 
 ### Cena 2 Fumaça
 
-![Uma panela está sobre um pequeno fogão de ferro. Umas poucas brasas ainda ardem, mas a comida que estava sendo preparada está completamente queimada e a panela libera uma densa fumaça preta que enche o pequeno espaço.](../images/sessions/09_pacato/09_2_fumaca.png)
+![Uma panela está sobre um pequeno fogão de ferro. Umas poucas brasas ainda ardem, mas a comida que estava sendo preparada está completamente queimada e a panela libera uma densa fumaça preta que enche o pequeno espaço.](../images/sessions/09_olie/09_2_fumaca.png)
 
 Já no final da tarde, o grupo começa a planejar seus próximos passos para o dia
 seguinte, quando percebe um forte cheiro de fumaça. Investigando do lado de fora
@@ -83,7 +83,7 @@ um canto.
 
 ### Cena 3 Pira
 
-![Uma grande fogueira queima ao lado da torre de Thundertree, lançando ao céu uma grossa fumaça preta.](../images/sessions/09_pacato/09_3_pira.png)
+![Uma grande fogueira queima ao lado da torre de Thundertree, lançando ao céu uma grossa fumaça preta.](../images/sessions/09_olie/09_3_pira.png)
 
 No caminho para a torre, [Ralf](../casting/pcs/ralf.md) percebe mais um arbusto
 infestado de plantas mutantes como as que encontraram naquela manhã. Alertados
@@ -108,7 +108,7 @@ funerária, e, após permanecer no local por algum tempo, partiram para o norte.
 
 ### Cena 4 Zumbis
 
-![Um zumbi coberto de cinzas está saindo pela porta de uma construção meio em ruínas.](../images/sessions/09_pacato/09_4_zumbis.png)
+![Um zumbi coberto de cinzas está saindo pela porta de uma construção meio em ruínas.](../images/sessions/09_olie/09_4_zumbis.png)
 
 No caminho de volta, [Ralf](../casting/pcs/ralf.md) resolve investigar uma
 construção que está razoavelmente inteira e tem as portas e janelas fechadas.
@@ -163,7 +163,7 @@ para [Sildar](../casting/npcs/sildar_hallwinter.md).
 
 ### Cena 6 Lobos
 
-![É noite e um lobo feroz rosna e espreita saindo da densa vegetação da floresta..](../images/sessions/09_pacato/09_6_lobos.png)
+![É noite e um lobo feroz rosna e espreita saindo da densa vegetação da floresta..](../images/sessions/09_olie/09_6_lobos.png)
 
 Neste primeiro dia navegando
 pela [Floresta Neverwinter](../locations/neverwinter_wood.md), [Reidoth](../casting/npcs/thundertree/reidoth.md)
@@ -199,13 +199,13 @@ Em alguns minutos, e com a ajuda de Ralf, o bebê owlbear se livra completamente
 da casca e sai para o mundo. A princípio cambaleante, logo consegue se firmar
 nas quatro patas e a responder aos afagos do halfling com leves bicadas e
 arranhões. "Você não será feroz, será dócil... Vou te
-chamar [Pacato](../casting/pcs/companions/pacato.md)."
+chamar [Olie](../casting/pcs/companions/olie.md)."
 
 ---
 
 ### Cena 7 Castelo
 
-![A entrada do Castelo Cragmaw é ladeada por antigas torres de pedra com seteiras que vigiam que estiver se aproximando da porta. A porta está aberta, com suas duas folhas de madeira e bronze quebradas e corroídas pelo tempo, pendendo das antigas dobradiças. O interior é pouco visível na penumbra da pouca luz que entra pela porta.](../images/sessions/09_pacato/09_7_castelo.png)
+![A entrada do Castelo Cragmaw é ladeada por antigas torres de pedra com seteiras que vigiam que estiver se aproximando da porta. A porta está aberta, com suas duas folhas de madeira e bronze quebradas e corroídas pelo tempo, pendendo das antigas dobradiças. O interior é pouco visível na penumbra da pouca luz que entra pela porta.](../images/sessions/09_olie/09_7_castelo.png)
 
 Foram mais três dias de viagem pela floresta até que, finalmente, perto do
 meio-dia, o grupo alcança o topo de um monte de onde é possível ver, no vale
@@ -262,7 +262,7 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 ####
 
 * [Floresta Neverwinter](../locations/neverwinter_wood.md)
-  * [Pacato](../casting/pcs/companions/pacato.md), filhote de owlbear
+  * [Olie](../casting/pcs/companions/olie.md), filhote de owlbear
   * lobos
 
 #### Mencionados

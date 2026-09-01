@@ -16,5 +16,5 @@
 |  Dia 13  | [Conyberry](locations/conyberry.md)                   | [Sessão 7 Cena 2](sessions/07_floresta.md#cena-2-agatha)       |
 |  Dia 13  | [Floresta Neverwinter](locations/neverwinter_wood.md) | [Sessão 7 Cena 2](sessions/07_floresta.md#cena-2-agatha)       |
 |  Dia 23  | [Thundertree](locations/thundertree.md)               | [Sessão 7 Cena 5](sessions/07_floresta.md#cena-5-arrependido)  |
-|  Dia 24  | [Floresta Neverwinter](locations/neverwinter_wood.md) | [Sessão 9 Cena 5](sessions/09_pacato.md#cena-5-libertado)      |
-|  Dia 27  | [Castelo Cragmaw](locations/cragmaw_castle.md)        | [Sessão 9 Cena 7](sessions/09_pacato.md#cena-7-castelo)        |
+|  Dia 24  | [Floresta Neverwinter](locations/neverwinter_wood.md) | [Sessão 9 Cena 5](sessions/09_olie.md#cena-5-libertado)      |
+|  Dia 27  | [Castelo Cragmaw](locations/cragmaw_castle.md)        | [Sessão 9 Cena 7](sessions/09_olie.md#cena-7-castelo)        |

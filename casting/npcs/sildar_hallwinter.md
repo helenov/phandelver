@@ -126,13 +126,13 @@ do que julga seu amigo otimista.
 
 ####
 
-* [Sessão 9 Pacato](../../sessions/09_pacato.md)
+* [Sessão 9 Olie](../../sessions/09_olie.md)
   * grupo libera [Iarno](iarno_albrek.md) para se entregar a **Sildar**
     em [Phandalin](../../locations/phandalin.md)
-    ([Cena 5](../../sessions/09_pacato.md#cena-5-libertado))
+    ([Cena 5](../../sessions/09_olie.md#cena-5-libertado))
   * grupo pede que [Reidoth](thundertree/reidoth.md) reporte a **Sildar**
     em [Phandalin](../../locations/phandalin.md)
-    ([Cena 7](../../sessions/09_pacato.md#cena-7-castelo))
+    ([Cena 7](../../sessions/09_olie.md#cena-7-castelo))
 
 [//]: # (####)
 [//]: # ()

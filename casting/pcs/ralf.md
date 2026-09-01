@@ -24,7 +24,7 @@ Barbarian, Path of the Wild Heart.
 
 ####
 
-* [Pacato](companions/pacato.md), companheiro animal
+* [Olie](companions/olie.md), companheiro animal
 
 [//]: # (### Organizações)
 [//]: # ()
@@ -150,19 +150,19 @@ Barbarian, Path of the Wild Heart.
 
 * partida de [Thundertree](../../locations/thundertree.md) rumo
   ao [Castelo Cragmaw](../../locations/cragmaw_castle.md)
-  * [Sessão 9](../../sessions/09_pacato.md): [Cena 5](../../sessions/09_pacato.md#cena-5-libertado)
+  * [Sessão 9](../../sessions/09_olie.md): [Cena 5](../../sessions/09_olie.md#cena-5-libertado)
 
 ####
 
-* nascimento do owlbear [Pacato](companions/pacato.md)
-  * [Sessão 9](../../sessions/09_pacato.md): [Cena 6](../../sessions/09_pacato.md#cena-6-lobos)
+* nascimento do owlbear [Olie](companions/olie.md)
+  * [Sessão 9](../../sessions/09_olie.md): [Cena 6](../../sessions/09_olie.md#cena-6-lobos)
 
 #### Dia 27 (hoje)
 
 #### meio-dia
 
 * chegada ao [Castelo Cragmaw](../../locations/cragmaw_castle.md)
-  * [Sessão 9](../../sessions/09_pacato.md): [Cena 7](../../sessions/09_pacato.md#cena-7-castelo)
+  * [Sessão 9](../../sessions/09_olie.md): [Cena 7](../../sessions/09_olie.md#cena-7-castelo)
 
 #### tarde
 

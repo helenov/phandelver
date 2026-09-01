@@ -3,7 +3,7 @@
 ## Sessão 10 Castelo
 
 _data_ : 2026-08-31 \
-_anterior_ : [Sessão 9 Pacato](09_pacato.md) \
+_anterior_ : [Sessão 9 Olie](09_olie.md) \
 _próxima_ : [Sessão 11] :construction: continua...
 
 :construction:

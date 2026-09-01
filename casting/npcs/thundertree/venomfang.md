@@ -36,9 +36,9 @@ região como seus domínios.
 
 ####
 
-* [Sessão 9 Pacato](../../../sessions/09_pacato.md)
+* [Sessão 9 Olie](../../../sessions/09_olie.md)
   * grupo comemora a derrota de **Venomfang**
-    ([Cena 1](../../../sessions/09_pacato.md#cena-1-descanso))
+    ([Cena 1](../../../sessions/09_olie.md#cena-1-descanso))
 
 [//]: # (####)
 [//]: # ()

@@ -2,7 +2,7 @@
 
 ## Criaturas Extraordinárias
 
-![Sobre uma mesa rústica, repousa um livro muito velho e desgastado, com capa de couro escamoso onde se lê em letras gravadas com fogo "Criaturas Extraordinárias".](../../images/sessions/09_pacato/09_1_descanso.png)
+![Sobre uma mesa rústica, repousa um livro muito velho e desgastado, com capa de couro escamoso onde se lê em letras gravadas com fogo "Criaturas Extraordinárias".](../../images/sessions/09_olie/09_1_descanso.png)
 
 :construction: {Texto}
 
@@ -29,7 +29,7 @@
 
 ### Referências
 
-* [Sessão 9 Pacato](../../sessions/09_pacato.md)
+* [Sessão 9 Olie](../../sessions/09_olie.md)
   * [Reidoth](../../casting/npcs/thundertree/reidoth.md) deu o livro
     para [Ralf](../../casting/pcs/ralf.md)
-    ([Cena 1](../../sessions/09_pacato.md#cena-1-descanso))
+    ([Cena 1](../../sessions/09_olie.md#cena-1-descanso))

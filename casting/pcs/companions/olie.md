@@ -1,9 +1,9 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Pacato, <small>_owlbear (filhote)_</small>
+## Olie, <small>_owlbear (filhote)_</small>
 
 <!-- @formatter:off -->
-<img alt="Pacato, o filhote de owlbear" src="../../../images/characters/pcs/companions/pacato_cub.png" style="width:300px; margin-right: 15px; float: left" />
+<img alt="Olie, o filhote de owlbear" src="../../../images/characters/pcs/companions/olie_cub.png" style="width:300px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
 :construction:
@@ -25,7 +25,7 @@ Companion.
 
 ### Referências
 
-* [Sessão 9 Pacato](../../../sessions/09_pacato.md)
-  * **Pacato** nasce
+* [Sessão 9 Olie](../../../sessions/09_olie.md)
+  * **Olie** nasce
     na [Floresta Neverwinter](../../../locations/neverwinter_wood.md)
-    ([Cena 6](../../../sessions/09_pacato.md#cena-6-lobos))
+    ([Cena 6](../../../sessions/09_olie.md#cena-6-lobos))

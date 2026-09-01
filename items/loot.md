@@ -26,7 +26,7 @@
 
 * [Thundertree](../locations/thundertree.md)
   * [Reidoth](../casting/npcs/thundertree/reidoth.md)
-    ([Sessão 9 Cena 1](../sessions/09_pacato.md#cena-1-descanso))
+    ([Sessão 9 Cena 1](../sessions/09_olie.md#cena-1-descanso))
     * livro ["Criaturas Extraordinárias"](books/remarkable_creatures.md)
       (presente) &ndash; _com [Ralf](../casting/pcs/ralf.md)_
 

@@ -189,7 +189,7 @@
 #### fim da tarde
 
 * cultistas fogem de [Thundertree](locations/thundertree.md)
-  * [Sessão 9](sessions/09_pacato.md): [Cenas 1 a 3](sessions/09_pacato.md#cena-1-descanso)
+  * [Sessão 9](sessions/09_olie.md): [Cenas 1 a 3](sessions/09_olie.md#cena-1-descanso)
 
 ---
 
@@ -199,19 +199,19 @@
 
 * deixam [Thundertree](locations/thundertree.md) rumo
   ao [Castelo Cragmaw](locations/cragmaw_castle.md)
-  * [Sessão 9](sessions/09_pacato.md): [Cena 5](sessions/09_pacato.md#cena-5-libertado)
+  * [Sessão 9](sessions/09_olie.md): [Cena 5](sessions/09_olie.md#cena-5-libertado)
 
 #### meio-dia
 
 * liberam [Iarno](casting/npcs/iarno_albrek.md)
 * entram na [Floresta Neverwinter](locations/neverwinter_wood.md)
-  * [Sessão 9](sessions/09_pacato.md): [Cena 5](sessions/09_pacato.md#cena-5-libertado)
+  * [Sessão 9](sessions/09_olie.md): [Cena 5](sessions/09_olie.md#cena-5-libertado)
 
 #### noite
 
 * ataque dos lobos
-* nascimento do owlbear [Pacato](casting/pcs/companions/pacato.md)
-  * [Sessão 9](sessions/09_pacato.md): [Cena 6](sessions/09_pacato.md#cena-6-lobos)
+* nascimento do owlbear [Olie](casting/pcs/companions/olie.md)
+  * [Sessão 9](sessions/09_olie.md): [Cena 6](sessions/09_olie.md#cena-6-lobos)
 
 ---
 
@@ -222,7 +222,7 @@
 * chegam ao [Castelo Cragmaw](locations/cragmaw_castle.md)
 * [Reidoth](casting/npcs/thundertree/reidoth.md) parte
   para [Phandalin](locations/phandalin.md)
-  * [Sessão 9](sessions/09_pacato.md): [Cena 7](sessions/09_pacato.md#cena-7-castelo)
+  * [Sessão 9](sessions/09_olie.md): [Cena 7](sessions/09_olie.md#cena-7-castelo)
 
 #### tarde
 

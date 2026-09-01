@@ -51,10 +51,10 @@
 
 ####
 
-* [Sessão 9 Pacato](../../../sessions/09_pacato.md)
+* [Sessão 9 Olie](../../../sessions/09_olie.md)
   * [Iarno](../iarno_albrek.md) menciona a possibilidade de **Spider** estar
     no [Castelo Cragmaw](../../../locations/cragmaw_castle.md)
-    ([Cena 5](../../../sessions/09_pacato.md#cena-5-libertado))
+    ([Cena 5](../../../sessions/09_olie.md#cena-5-libertado))
 
 [//]: # (####)
 [//]: # ()

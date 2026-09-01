@@ -26,7 +26,7 @@ monstros que assolavam a região.
 
 ### Referências
 
-* [Sessão 9 Pacato](../../../sessions/09_pacato.md)
+* [Sessão 9 Olie](../../../sessions/09_olie.md)
   * grupo vê a estátua de **Palien**
     em [Thundertree](../../../locations/thundertree.md)
-    ([Cena 3](../../../sessions/09_pacato.md#cena-3-pira))
+    ([Cena 3](../../../sessions/09_olie.md#cena-3-pira))
