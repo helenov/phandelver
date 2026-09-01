@@ -11,6 +11,16 @@
 
 * [Non-Player Characters](casting/casting.md#non-player-characters)
 
+## Itens
+
+* [Pagamentos e Presentes](items/items.md#pagamentos-e-presentes)
+* [Custódia](items/items.md#custódia)
+* [Pilhagens](items/items.md#pilhagens)
+
+####
+
+* [Resumo](items/items.md#resumo)
+
 ## Diário
 
 * [Linha do Tempo](timeline.md)
