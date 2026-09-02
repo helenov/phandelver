@@ -6,8 +6,6 @@ _data_ : 2026-08-31 \
 _anterior_ : [Sessão 9 Olie](09_olie.md) \
 _próxima_ : [Sessão 11] :construction: continua...
 
-:construction:
-
 * Cenas
   * [Cena 1 Recepção](#cena-1-recepção)
   * [Cena 2 Faelar](#cena-2-faelar)
