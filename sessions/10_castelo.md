@@ -164,6 +164,13 @@ de [Faelar], e ainda algo atrás de uma porta fechada a leste.
 
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
   * hobgoblins ([Cena 2](#cena-2-faelar))
+    * 5 spears &ndash; _{destinação}_
+    * 4 longswords &ndash; _{destinação}_
+    * 3 morningstars &ndash; _{destinação}_
+    * 2 greatswords &ndash; _{destinação}_
+    * 1 [quarterstaff refinado] &ndash; _{destinação}_
+      * gravado com penas estilizadas
+  * depósito ([Cena 2](#cena-2-faelar))
     * heavy crossbow &ndash; _{destinação}_
     * chain mail &ndash; _{destinação}_
       * ensanguentada com emblema

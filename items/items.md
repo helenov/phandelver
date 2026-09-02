@@ -156,6 +156,13 @@
 
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
   * hobgoblins ([Sessão 10 Cena 2](../sessions/10_castelo.md#cena-2-faelar))
+    * 5 spears &ndash; _{destinação}_
+    * 4 longswords &ndash; _{destinação}_
+    * 3 morningstars &ndash; _{destinação}_
+    * 2 greatswords &ndash; _{destinação}_
+    * 1 [quarterstaff refinado] &ndash; _{destinação}_
+      * gravado com penas estilizadas
+  * depósito ([Sessão 10 Cena 2](../sessions/10_castelo.md#cena-2-faelar))
     * heavy crossbow &ndash; _{destinação}_
     * chain mail &ndash; _{destinação}_
       * ensanguentada com emblema
