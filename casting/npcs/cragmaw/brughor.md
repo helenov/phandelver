@@ -40,3 +40,15 @@
 * [Sessão 9 Olie](../../../sessions/09_olie.md)
   * [Reidoth](../thundertree/reidoth.md) aponta que o mapa de **Brughor** está
     errado ([Cena 5](../../../sessions/09_olie.md#cena-5-libertado))
+
+####
+
+* [Sessão 10 Castelo](../../../sessions/10_castelo.md)
+  * grupo vê **Brughor*
+    no [Castelo Cragmaw](../../../locations/cragmaw_castle.md)
+    ([Cena 1](../../../sessions/10_castelo.md#cena-1-recepção))
+
+[//]: # (####)
+[//]: # ()
+[//]: # (* [Sessão {X} {Título}])
+[//]: # (  * {detalhe} &#40;[Cena {X}]&#41;)
