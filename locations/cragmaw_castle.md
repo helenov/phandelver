@@ -2,17 +2,18 @@
 
 ## Castelo Cragmaw
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-[//]: # (:construction: {Imagem})
-[//]: # ()
-[//]: # (:construction: {Texto})
-[//]: # (<br clear="left"/>)
+![09_7_castelo.png](../images/sessions/09_olie/09_7_castelo.png)
+
+:construction: {Texto}
+<br clear="left"/>
 
 ### Personagens
 
 * [Grol](../casting/npcs/cragmaw/grol.md), rei
+
+####  
+
+* [Brughor](../casting/npcs/cragmaw/brughor.md), refúgio
 
 ### Organizações
 
@@ -95,8 +96,14 @@
     de [Spider](../casting/npcs/mentions/spider.md) estar no **Castelo Cragmaw**
     ([Cena 5](../sessions/09_olie.md#cena-5-libertado))
   * [Reidoth](../casting/npcs/thundertree/reidoth.md) guia o grupo até o
-    **Castela Cragmaw**
+    **Castelo Cragmaw**
     ([Cena 7](../sessions/09_olie.md#cena-7-castelo))
+
+####
+
+* [Sessão 10 Castelo](../sessions/10_castelo.md)
+  * grupo entra no **Castelo Cragmaw**
+    ([Cenas 1 e 2](../sessions/10_castelo.md#cena-1-recepção))
 
 [//]: # (####)
 [//]: # ()
