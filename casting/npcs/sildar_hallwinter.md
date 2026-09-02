@@ -134,6 +134,13 @@ do que julga seu amigo otimista.
     em [Phandalin](../../locations/phandalin.md)
     ([Cena 7](../../sessions/09_olie.md#cena-7-castelo))
 
+####
+
+* [Sessão 10 Castelo](../../sessions/10_castelo.md)
+  * grupo encontra o equipamento de **Sildar**
+    no [Castelo Cragmaw](../../locations/cragmaw_castle.md)
+    ([Cena {X}](../../sessions/10_castelo.md#cena-2-faelar))
+
 [//]: # (####)
 [//]: # ()
 [//]: # (* [Sessão {X} {Título}])

@@ -46,3 +46,14 @@ civilização.
   * [Iarno](../casting/npcs/iarno_albrek.md) conta como foi enviado
     para [Phandalin](../locations/phandalin.md)
     ([Cena 5](../sessions/07_floresta.md#cena-5-arrependido))
+
+####
+
+* [Sessão 10 Castelo](../sessions/10_castelo.md)
+  * grupo encontra armadura com o emblema da **Lords' Alliance**
+    ([Cena 2](../sessions/10_castelo.md#cena-2-faelar))
+
+[//]: # (####)
+[//]: # ()
+[//]: # (* [Sessão {X} {Título}])
+[//]: # (  * {detalhe} &#40;[Cena {X}]&#41;)

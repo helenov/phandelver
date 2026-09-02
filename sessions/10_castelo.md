@@ -108,7 +108,9 @@ _próxima_ : [Sessão 11] :construction: continua...
 #### Mencionados
 
 * [Grol](../casting/npcs/cragmaw/grol.md), rei bugbear
-* [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md)
+* [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md), procurado
+* [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), equipamento
+  encontrado
 
 ### Cenários
 
