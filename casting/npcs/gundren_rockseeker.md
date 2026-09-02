@@ -87,3 +87,15 @@ recuperá-las para seu clã e restabelecer a mina.
   * [Sildar](sildar_hallwinter.md) reforça a importância de
     encontrar [Gundren](gundren_rockseeker.md)
     ([Cena 4](../../sessions/05_perda.md#cena-4-irmã-garaele))
+
+####
+
+* [Sessão 10 Castelo](../../sessions/10_castelo.md)
+  * [Faelar](../pcs/faelar.md) diz que não sabe de nenhum anão
+    no [Castelo Cragmaw](../../locations/cragmaw_castle.md)
+    ([Cena 2](../../sessions/10_castelo.md#cena-2-faelar))
+
+[//]: # (####)
+[//]: # ()
+[//]: # (* [Sessão {X} {Título}])
+[//]: # (  * {detalhe} &#40;[Cena {X}]&#41;)
