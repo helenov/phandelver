@@ -38,7 +38,10 @@ Barbarian, Path of the Wild Heart.
 
 * [sapinho de jade]
 * [tapa-olho cravejado de pedras]
+* [Machado Hew](../../items/magical/battleaxe_hew.md), battleaxe mágico
 * livro ["Criaturas Extraordinárias"](../../items/books/remarkable_creatures.md)
+* [Coleira da Matilha Fantasma](../../items/magical/collar_phantom_pack.md)
+* [Barril de Aguardente Anão](../../items/objects/dwarven_brandy_cask.md)
 
 #### Passados
 

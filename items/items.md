@@ -101,7 +101,8 @@
     * [livro de poções] &ndash; _com [Professor](../casting/pcs/professor.md)_
     * livro ["Diários de Urmon"] &ndash;
       _com [Professor](../casting/pcs/professor.md)_
-    * [carta do Spider](objects/spider_letter.md) &ndash; _com grupo_
+    * [carta do Spider](objects/spider_letter.md) &ndash;
+      _com [Professor](../casting/pcs/professor.md)_
     * ~300 moedas
       * 130 gp, 180 sp &ndash;
         _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
@@ -120,7 +121,7 @@
       _com [Ralf](../casting/pcs/ralf.md)_
     * chaves
       do [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-      &ndash; _com grupo_
+      &ndash; _com [Professor](../casting/pcs/professor.md)_
     * 33 sp &ndash; _com grupo_
 
 ####
@@ -130,7 +131,8 @@
     ([Sessão 7 Cena 1](../sessions/07_floresta.md#cena-1-brughor))
     * ~200 moedas
       * 180 sp, 15 ep &ndash; _com grupo_
-    * 3 frascos de perfume &ndash; _com grupo_
+    * 3 frascos de perfume &ndash;
+      _com [Professor](../casting/pcs/professor.md)_
     * hide armor &ndash; _com grupo_
     * greataxe &ndash; _com grupo_
 
@@ -147,10 +149,12 @@
     ([Sessão 8 Cena 4](../sessions/08_venomfang.md#cena-4-dragão))
     * ~1000 moedas
       * 800 sp, 150 gp &ndash; _com grupo_
-    * 4 [cálices de prata] &ndash; _com grupo_
-    * scroll misty step &ndash; _com grupo_
-    * scroll lighting bolt &ndash; _com grupo_
-    * [Machado Hew](magical/battleaxe_hew.md) &ndash; _com grupo_
+    * 4 [cálices de prata] &ndash; _com [Jeremias](../casting/pcs/jeremias.md)_
+    * scroll misty step &ndash; _com [Professor](../casting/pcs/professor.md)_
+    * scroll lighting bolt &ndash;
+      _com [Professor](../casting/pcs/professor.md)_
+    * [Machado Hew](magical/battleaxe_hew.md) &ndash;
+      _com [Ralf](../casting/pcs/ralf.md)_
 
 ####
 
@@ -170,11 +174,11 @@
     * longsword &ndash; _{destinação}_
       * emblema de [Neverwinter](../locations/neverwinter.md)
     * [Coleira da Matilha Fantasma](magical/collar_phantom_pack.md) &ndash;
-      _{destinação}_
+      _com [Ralf](../casting/pcs/ralf.md)_
     * [Grimório de Cinzas e Sangue](magical/grimoire_ash_blood.md) &ndash;
-      _{destinação}_
+      _com [Professor](../casting/pcs/professor.md)_
     * [Barril de Aguardente Anão](objects/dwarven_brandy_cask.md) &ndash;
-      _{destinação}_
+      _com [Ralf](../casting/pcs/ralf.md)_
 
 [//]: # (####)
 [//]: # ()
@@ -187,29 +191,13 @@
 ### Com Grupo
 
 * 280 gp, 15 ep, 1013 sp
-
-####
-
 * 3 poções de healing
-* scroll misty step
-* scroll lighting bolt
-
-####
-
 * 3 capas vermelhas
-* [carta do Spider](objects/spider_letter.md)
-* chaves do [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
 
 ####
 
-* 3 frascos de perfume
-* 4 [cálices de prata]
 * hide armor
 * greataxe
-
-####
-
-* [Machado Hew](magical/battleaxe_hew.md), battleaxe mágico
 
 ####
 
@@ -217,7 +205,10 @@
   * [sapinho de jade]
   * [tapa-olho cravejado de pedras]
   * [ovo de owlbear](objects/owlbear_egg.md) &ndash; _eclodido_
+  * [Machado Hew](magical/battleaxe_hew.md), battleaxe mágico
   * livro ["Criaturas Extraordinárias"](books/remarkable_creatures.md)
+  * [Coleira da Matilha Fantasma](magical/collar_phantom_pack.md)
+  * [Barril de Aguardente Anão](objects/dwarven_brandy_cask.md)
 
 ####
 
@@ -226,6 +217,17 @@
   * [equipamento de alquimia]
   * [livro de poções]
   * livro ["Diários de Urmon"]
+  * [carta do Spider](objects/spider_letter.md)
+  * chaves do [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+  * 3 frascos de perfume
+  * scroll misty step
+  * scroll lighting bolt
+  * [Grimório de Cinzas e Sangue](magical/grimoire_ash_blood.md)
+
+####
+
+* [Jeremias](../casting/pcs/jeremias.md)
+  * 4 [cálices de prata]
 
 ### Na [Prefeitura](../locations/phandalin/townmasters_hall.md)
 

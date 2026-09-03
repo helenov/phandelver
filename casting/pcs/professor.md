@@ -40,6 +40,13 @@ Wizard, Evoker.
 * [equipamento de alquimia]
 * [livro de poções]
 * livro ["Diários de Urmon"]
+* [carta do Spider](../../items/objects/spider_letter.md)
+* chaves
+  do [Esconderijo Redbrand](../../locations/phandalin/redbrand_hideout.md)
+* 3 frascos de perfume
+* scroll misty step
+* scroll lighting bolt
+* [Grimório de Cinzas e Sangue](../../items/magical/grimoire_ash_blood.md)
 
 ### Timeline
 

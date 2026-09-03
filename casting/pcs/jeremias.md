@@ -30,6 +30,10 @@ Ranger, Beast Master.
 
 * [Phandalin](../../locations/phandalin.md), agente de segurança
 
+### Itens
+
+* 4 [cálices de prata]
+
 ### Timeline
 
 #### Dia 7
