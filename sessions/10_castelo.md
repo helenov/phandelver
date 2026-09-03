@@ -192,5 +192,5 @@ de uma porta fechada a leste.
       &ndash; _{destinação}_
     * [Grimório de Cinzas e Sangue](../items/magical/grimoire_ash_blood.md)
       &ndash; _{destinação}_
-    * [barril pequeno] &ndash; _{destinação}_
-      * trabalho de anão
+    * [Barril de Aguardente Anão](../items/objects/dwarven_brandy_cask.md)
+      &ndash; _{destinação}_
