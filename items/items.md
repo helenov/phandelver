@@ -160,18 +160,19 @@
 
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
   * hobgoblins ([Sessão 10 Cena 2](../sessions/10_castelo.md#cena-2-faelar))
-    * 5 spears &ndash; _{destinação}_
-    * 4 longswords &ndash; _{destinação}_
-    * 3 morningstars &ndash; _{destinação}_
-    * 2 greatswords &ndash; _{destinação}_
-    * 1 [quarterstaff refinado] &ndash; _{destinação}_
+    * 5 spears &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
+    * 4 longswords &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
+    * 3 morningstars &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
+    * 2 greatswords &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
+    * 1 [quarterstaff refinado] &ndash;
+      _no [Castelo](../locations/cragmaw_castle.md)_
       * gravado com penas estilizadas
   * depósito ([Sessão 10 Cena 2](../sessions/10_castelo.md#cena-2-faelar))
-    * heavy crossbow &ndash; _{destinação}_
-    * chain mail &ndash; _{destinação}_
+    * heavy crossbow &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
+    * chain mail &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
       * ensanguentada com emblema
         da [Lords' Alliance](../organizations/lords_alliance.md)
-    * longsword &ndash; _{destinação}_
+    * longsword &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
       * emblema de [Neverwinter](../locations/neverwinter.md)
     * [Coleira da Matilha Fantasma](magical/collar_phantom_pack.md) &ndash;
       _com [Ralf](../casting/pcs/ralf.md)_
@@ -193,11 +194,6 @@
 * 280 gp, 15 ep, 1013 sp
 * 3 poções de healing
 * 3 capas vermelhas
-
-####
-
-* hide armor
-* greataxe
 
 ####
 
@@ -228,6 +224,26 @@
 
 * [Jeremias](../casting/pcs/jeremias.md)
   * 4 [cálices de prata]
+
+### No [Castelo Cragmaw](../locations/cragmaw_castle.md)
+
+* hide armor
+* greataxe
+
+####
+
+* 5 spears
+* 4 longswords
+* 3 morningstars
+* 2 greatswords
+* 1 [quarterstaff refinado]
+  * gravado com penas estilizadas
+* heavy crossbow
+* chain mail
+  * ensanguentada com emblema
+    da [Lords' Alliance](../organizations/lords_alliance.md)
+* longsword
+  * emblema de [Neverwinter](../locations/neverwinter.md)
 
 ### Na [Prefeitura](../locations/phandalin/townmasters_hall.md)
 
