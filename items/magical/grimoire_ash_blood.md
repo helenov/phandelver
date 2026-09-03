@@ -39,7 +39,9 @@ este grimório, você deve segurá-lo com pelo menos uma das mãos.
 
 * [Castelo Cragmaw](../../locations/cragmaw_castle.md), armazém
 
-[//]: # (### Referências)
-[//]: # ()
-[//]: # (* [Sessão {X} {Título}])
-[//]: # (  * {detalhe} &#40;[Cena {X}]&#41;)
+### Referências
+
+* [Sessão 10 Castelo](../../sessions/10_castelo.md)
+  * **grimório** encontrado
+    no [Castelo Cragmaw](../../locations/cragmaw_castle.md)
+    ([Cena 2](../../sessions/10_castelo.md#cena-2-faelar))
