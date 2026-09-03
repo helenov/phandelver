@@ -13,13 +13,14 @@
 
 ## Itens
 
-* [Pagamentos e Presentes](items/items.md#pagamentos-e-presentes)
-* [Custódia](items/items.md#custódia)
-* [Pilhagens](items/items.md#pilhagens)
+* [Distribuição](items/items.md)
 
 ####
 
-* [Resumo](items/items.md#resumo)
+* Histórico
+  * [Pagamentos e Presentes](items/looting.md#pagamentos-e-presentes)
+  * [Custódia](items/looting.md#custódia)
+  * [Pilhagens](items/looting.md#pilhagens)
 
 ## Diário
 

@@ -1,0 +1,189 @@
+# Phandelver and Below: The Shattered Obelisk
+
+## Pagamentos e Presentes
+
+* [Elmina](../casting/npcs/phandalin/barthens/elmina_barthen.md)
+  * [Venda da Barthen](../locations/phandalin/barthens_provisions.md)
+    ([Sessão 2 Cena 6](../sessions/02_phandalin.md#cena-6-venda-da-barthen))
+    * 30 gp (pagamento pela carga) &ndash; _com grupo_
+
+####
+
+* [Harbin](../casting/npcs/phandalin/harbin_wester.md)
+  * [Prefeitura](../locations/phandalin/townmasters_hall.md)
+    ([Sessão 5 Cena 3](../sessions/05_perda.md#cena-3-recompensa))
+    * 100 gp (recompensa pelos [Redbrands](../organizations/redbrands.md))
+      &ndash; _com grupo_
+
+####
+
+* [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
+  * [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
+    ([Sessão 6 Cena 2](../sessions/06_wyvern_tor.md#cena-2-despedidas))
+    * 3 poções de healing (para ajudar na missão) &ndash; _com grupo_
+
+####
+
+* [Reidoth](../casting/npcs/thundertree/reidoth.md)
+  * [Thundertree](../locations/thundertree.md)
+    ([Sessão 9 Cena 1](../sessions/09_olie.md#cena-1-descanso))
+    * livro ["Criaturas Extraordinárias"](books/remarkable_creatures.md)
+      (presente) &ndash; _com [Ralf](../casting/pcs/ralf.md)_
+
+[//]: # (####)
+[//]: # ()
+[//]: # (* {Local})
+[//]: # (  * {detalhe} &#40;[Sessão {X} Cena {Y}]&#41;)
+[//]: # (    * {item} &ndash; _{destinação}_)
+
+## Custódia
+
+* [Irmã Garaele](../casting/npcs/phandalin/sister_garaele.md)
+  * [Santuário da Fortuna](../locations/phandalin/luck_shrine.md)
+    ([Sessão 6 Cena 2](../sessions/06_wyvern_tor.md#cena-2-despedidas))
+    * [pente de prata](objects/silver_comb.md)
+      * entregue para [Agatha](../casting/npcs/agatha.md)
+        ([Sessão 7 Cena 2](../sessions/07_floresta.md#cena-2-agatha))
+
+[//]: # (####)
+[//]: # ()
+[//]: # (* {item})
+[//]: # (  * recebido de {Personagem} &#40;[Sessão {X} Cena {Y}]&#41;)
+[//]: # (  * entregue para {Personagem} &#40;[Sessão {X} Cena {Y}]&#41;)
+
+## Pilhagens
+
+* [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
+  * [Klarg](../casting/npcs/cragmaw/klarg.md)
+    ([Sessão 2 Cena 1](../sessions/02_phandalin.md#cena-1-decisões))
+    * ~2000 moedas
+      * ~50 moedas &ndash; _deixadas
+        com [Yeemik](../casting/npcs/cragmaw/yeemik.md)_
+      * 1652 cp, 146 sp &ndash;
+        _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
+    * 2 poções de healing &ndash; _consumidas_
+    * [sapinho de jade] &ndash; _com [Ralf](../casting/pcs/ralf.md)_
+
+####
+
+* [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
+  * [Redbrands](../organizations/redbrands.md)
+    ([Sessão 3 Cena 1](../sessions/03_redbrands.md#cena-1-gigante-adormecido))
+    * 3 shortshorts &ndash;
+      _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
+    * 3 capas vermelhas &ndash;
+      _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
+
+####
+
+* [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+  * cisterna ([Sessão 3 Cena 4](../sessions/03_redbrands.md#cena-4-cisterna))
+    * 3 capas vermelhas &ndash; _com grupo_
+  * celas ([Sessão 4 Cena 1](../sessions/04_glasstaff.md#cena-1-prisioneiros))
+    * 4 shortswords &ndash;
+      _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
+    * 4 capas vermelhas
+      * 3 com
+        família [Dendrar](../casting/npcs/phandalin/dendrar/mirna_dendrar.md)
+      * 1 na [Prefeitura](../locations/phandalin/townmasters_hall.md)
+  * arsenal ([Sessão 4 Cena 4](../sessions/04_glasstaff.md#cena-4-pé-de-cabra))
+    * 12 spears &ndash; _deixadas_
+    * 6 shortswords &ndash; _deixadas_
+    * 4 longswords &ndash; _deixadas_
+    * 6 light crossbows
+      * 5 na [Prefeitura](../locations/phandalin/townmasters_hall.md)
+      * 1 com Professor
+    * 8 quivers, 20 bolts cada &ndash; _deixadas_
+    * 12 capas vermelhas
+      &ndash; [Prefeitura](../locations/phandalin/townmasters_hall.md)
+  * escritório ([Sessão 5 Cena 1](../sessions/05_perda.md#cena-1-carta))
+    * [equipamento de alquimia] &ndash;
+      _com [Professor](../casting/pcs/professor.md)_
+    * [livro de poções] &ndash; _com [Professor](../casting/pcs/professor.md)_
+    * livro ["Diários de Urmon"] &ndash;
+      _com [Professor](../casting/pcs/professor.md)_
+    * [carta do Spider](objects/spider_letter.md) &ndash;
+      _com [Professor](../casting/pcs/professor.md)_
+    * ~300 moedas
+      * 130 gp, 180 sp &ndash;
+        _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
+    * bolsa de seda com pedras preciosas &ndash;
+      _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
+      * 5 carnelians
+      * 2 peridots
+      * 1 pearl
+  * carteado ([Sessão 5 Cena 2](../sessions/05_perda.md#cena-2-perda))
+    * 4 shortswords &ndash;
+      _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
+    * 4 capas vermelhas &ndash;
+      _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
+  * bugbears ([Sessão 5 Cena 2](../sessions/05_perda.md#cena-2-perda))
+    * [tapa-olho cravejado de pedras] &ndash;
+      _com [Ralf](../casting/pcs/ralf.md)_
+    * chaves
+      do [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+      &ndash; _com [Professor](../casting/pcs/professor.md)_
+    * 33 sp &ndash; _com grupo_
+
+####
+
+* [Wyvern Tor](../locations/wyvern_tor.md)
+  * [Brughor](../casting/npcs/cragmaw/brughor.md)
+    ([Sessão 7 Cena 1](../sessions/07_floresta.md#cena-1-brughor))
+    * ~200 moedas
+      * 180 sp, 15 ep &ndash; _com grupo_
+    * 3 frascos de perfume &ndash;
+      _com [Professor](../casting/pcs/professor.md)_
+    * hide armor &ndash; _com grupo_
+    * greataxe &ndash; _com grupo_
+
+####
+
+* [Floresta Neverwinter](../locations/neverwinter_wood.md)
+  * owlbear ([Sessão 7 Cena 3](../sessions/07_floresta.md#cena-3-owlbear))
+    * [ovo](objects/owlbear_egg.md) &ndash; _com [Ralf](../casting/pcs/ralf.md)_
+
+####
+
+* [Thundertree](../locations/thundertree.md)
+  * [dragão](../casting/npcs/thundertree/venomfang.md)
+    ([Sessão 8 Cena 4](../sessions/08_venomfang.md#cena-4-dragão))
+    * ~1000 moedas
+      * 800 sp, 150 gp &ndash; _com grupo_
+    * 4 [cálices de prata] &ndash; _com [Jeremias](../casting/pcs/jeremias.md)_
+    * scroll misty step &ndash; _com [Professor](../casting/pcs/professor.md)_
+    * scroll lighting bolt &ndash;
+      _com [Professor](../casting/pcs/professor.md)_
+    * [Machado Hew](magical/battleaxe_hew.md) &ndash;
+      _com [Ralf](../casting/pcs/ralf.md)_
+
+####
+
+* [Castelo Cragmaw](../locations/cragmaw_castle.md)
+  * hobgoblins ([Sessão 10 Cena 2](../sessions/10_castelo.md#cena-2-faelar))
+    * 5 spears &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
+    * 4 longswords &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
+    * 3 morningstars &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
+    * 2 greatswords &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
+    * 1 [quarterstaff refinado] &ndash;
+      _no [Castelo](../locations/cragmaw_castle.md)_
+      * gravado com penas estilizadas
+  * depósito ([Sessão 10 Cena 2](../sessions/10_castelo.md#cena-2-faelar))
+    * heavy crossbow &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
+    * chain mail &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
+      * ensanguentada com emblema
+        da [Lords' Alliance](../organizations/lords_alliance.md)
+    * longsword &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
+      * emblema de [Neverwinter](../locations/neverwinter.md)
+    * [Coleira da Matilha Fantasma](magical/collar_phantom_pack.md) &ndash;
+      _com [Ralf](../casting/pcs/ralf.md)_
+    * [Grimório de Cinzas e Sangue](magical/grimoire_ash_blood.md) &ndash;
+      _com [Professor](../casting/pcs/professor.md)_
+    * [Barril de Aguardente Anão](objects/dwarven_brandy_cask.md) &ndash;
+      _com [Ralf](../casting/pcs/ralf.md)_
+
+[//]: # (####)
+[//]: # ()
+[//]: # (* {Local})
+[//]: # (  * {detalhe} &#40;[Sessão {X} Cena {Y}]&#41;)
+[//]: # (    * {item} &ndash; _{destinação}_)
