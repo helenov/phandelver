@@ -44,9 +44,9 @@ olhos surpreso.
 "Maldito!", grita Jeremias, "Lembra que dissemos que, se tivesse mentindo, nós
 iríamos atrás de você? Aqui estamos"
 
-Enquanto isso, [Ralf](../casting/pcs/ralf.md)(../casting/pcs/ralf.md) correu
-para a seteira norte onde surpreende outros dois goblins, que embora estejam
-encurralados, lhe dão um certo trabalho.
+Enquanto isso, [Ralf](../casting/pcs/ralf.md) correu para a seteira norte onde
+surpreende outros dois goblins, que embora estejam encurralados, lhe dão um
+certo trabalho.
 
 [Professor](../casting/pcs/professor.md) busca ajudar nas duas frentes,
 deixando [Bia](../casting/pcs/companions/bia.md) para ajudar o halfling, corre
