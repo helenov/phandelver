@@ -175,22 +175,23 @@ de uma porta fechada a leste.
 
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
   * hobgoblins ([Cena 2](#cena-2-faelar))
-    * 5 spears &ndash; _{destinação}_
-    * 4 longswords &ndash; _{destinação}_
-    * 3 morningstars &ndash; _{destinação}_
-    * 2 greatswords &ndash; _{destinação}_
-    * 1 [quarterstaff refinado] &ndash; _{destinação}_
+    * 5 spears &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
+    * 4 longswords &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
+    * 3 morningstars &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
+    * 2 greatswords &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
+    * 1 [quarterstaff refinado] &ndash;
+      _no [Castelo](../locations/cragmaw_castle.md)_
       * gravado com penas estilizadas
   * depósito ([Cena 2](#cena-2-faelar))
-    * heavy crossbow &ndash; _{destinação}_
-    * chain mail &ndash; _{destinação}_
+    * heavy crossbow &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
+    * chain mail &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
       * ensanguentada com emblema
         da [Lords' Alliance](../organizations/lords_alliance.md)
-    * longsword &ndash; _{destinação}_
-      * emblema de Neverwinter
+    * longsword &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
+      * emblema de [Neverwinter](../locations/neverwinter.md)
     * [Coleira da Matilha Fantasma](../items/magical/collar_phantom_pack.md)
-      &ndash; _{destinação}_
+      &ndash; _com [Ralf](../casting/pcs/ralf.md)_
     * [Grimório de Cinzas e Sangue](../items/magical/grimoire_ash_blood.md)
-      &ndash; _{destinação}_
+      &ndash; _com [Professor](../casting/pcs/professor.md)_
     * [Barril de Aguardente Anão](../items/objects/dwarven_brandy_cask.md)
-      &ndash; _{destinação}_
+      &ndash; _com [Ralf](../casting/pcs/ralf.md)_

@@ -55,6 +55,9 @@
 * 2 greatswords
 * 1 [quarterstaff refinado]
   * gravado com penas estilizadas
+
+####
+
 * heavy crossbow
 * chain mail
   * ensanguentada com emblema

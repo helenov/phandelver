@@ -5,12 +5,12 @@
 * [Pagamentos e Presentes](#pagamentos-e-presentes)
 * [Custódia](#custódia)
 * [Pilhagens](#pilhagens)
-  * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
-  * [Gigante Adormecido](../locations/phandalin/sleeping_giant.md)
-  * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-  * [Wyvern Tor](../locations/wyvern_tor.md)
-  * [Thundertree](../locations/thundertree.md)
-  * [Castelo Cragmaw](../locations/cragmaw_castle.md)
+  * [Esconderijo Cragmaw](#esconderijo-cragmaw)
+  * [Gigante Adormecido](#gigante-adormecido)
+  * [Esconderijo Redbrand](#esconderijo-redbrand)
+  * [Wyvern Tor](#wyvern-tor)
+  * [Thundertree](#thundertree)
+  * [Castelo Cragmaw](#castelo-cragmaw)
 
 ### Pagamentos e Presentes
 
