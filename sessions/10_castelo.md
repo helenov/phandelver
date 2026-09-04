@@ -20,7 +20,7 @@ _próxima_ : [Sessão 11] :construction: continua...
 
 ### Cena 1 Recepção
 
-:construction: {Imagem}
+![10_1_recepcao.png](../images/sessions/10_castelo/10_1_recepcao.png)
 
 Após serem alvejados através das seteiras na entrada
 do [Castelo Cragmaw](../locations/cragmaw_castle.md), o grupo correu para
@@ -99,7 +99,7 @@ elimina finalmente o último hobgoblin.
 
 ### Cena 2 Faelar
 
-:construction: {Imagem}
+![10_2_faelar.png](../images/sessions/10_castelo/10_2_faelar.png)
 
 Enquanto [Jeremias](../casting/pcs/jeremias.md) amarra os dois goblins
 capturados, [Ralf](../casting/pcs/ralf.md) ouve um chamado:
