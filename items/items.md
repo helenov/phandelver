@@ -2,41 +2,45 @@
 
 ## Itens
 
+* [com Grupo](#com-grupo)
+  * [com Ralf](#com-ralf)
+  * [com Professor](#com-professor)
+  * [com Jeremias](#com-jeremias)
+* [no Castelo Cragmaw](#no-castelo-cragmaw)
+* [na Prefeitura](#na-prefeitura)
+
 ### Com Grupo
 
 * 280 gp, 15 ep, 1013 sp
 * 3 poções de healing
 * 3 capas vermelhas
 
-####
+#### Com [Ralf](../casting/pcs/ralf.md)
 
-* [Ralf](../casting/pcs/ralf.md)
-  * [sapinho de jade]
-  * [tapa-olho cravejado de pedras]
-  * [ovo de owlbear](objects/owlbear_egg.md) &ndash; _eclodido_
-  * [Machado Hew](magical/battleaxe_hew.md), battleaxe mágico
-  * livro ["Criaturas Extraordinárias"](books/remarkable_creatures.md)
-  * [Coleira da Matilha Fantasma](magical/collar_phantom_pack.md)
-  * [Barril de Aguardente Anão](objects/dwarven_brandy_cask.md)
+* [sapinho de jade]
+* [tapa-olho cravejado de pedras]
+* [ovo de owlbear](objects/owlbear_egg.md) &ndash; _eclodido_
+* [Machado Hew](magical/battleaxe_hew.md), battleaxe mágico
+* livro ["Criaturas Extraordinárias"](books/remarkable_creatures.md)
+* [Coleira da Matilha Fantasma](magical/collar_phantom_pack.md)
+* [Barril de Aguardente Anão](objects/dwarven_brandy_cask.md)
 
-####
+#### Com [Professor](../casting/pcs/professor.md)
 
-* [Professor](../casting/pcs/professor.md)
-  * 1 crossbow
-  * [equipamento de alquimia]
-  * [livro de poções]
-  * livro ["Diários de Urmon"]
-  * [carta do Spider](objects/spider_letter.md)
-  * chaves do [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-  * 3 frascos de perfume
-  * scroll misty step
-  * scroll lighting bolt
-  * [Grimório de Cinzas e Sangue](magical/grimoire_ash_blood.md)
+* 1 crossbow
+* [equipamento de alquimia]
+* [livro de poções]
+* livro ["Diários de Urmon"]
+* [carta do Spider](objects/spider_letter.md)
+* chaves do [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
+* 3 frascos de perfume
+* scroll misty step
+* scroll lighting bolt
+* [Grimório de Cinzas e Sangue](magical/grimoire_ash_blood.md)
 
-####
+#### Com [Jeremias](../casting/pcs/jeremias.md)
 
-* [Jeremias](../casting/pcs/jeremias.md)
-  * 4 [cálices de prata]
+* 4 [cálices de prata]
 
 ### No [Castelo Cragmaw](../locations/cragmaw_castle.md)
 
