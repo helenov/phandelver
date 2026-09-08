@@ -228,7 +228,7 @@
 
 * invasão do [Castelo Cragmaw](locations/cragmaw_castle.md)
   * [Sessão 10](sessions/10_castelo.md): [Cenas 1 e 2](sessions/10_castelo.md#cena-1-recepção)
-  * [Sessão 11]: :construção: continua...
+  * [Sessão 11](sessions/11_grol.md): :construção: continua...
 
 ####
 

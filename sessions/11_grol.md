@@ -1,15 +1,18 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Sessão {X} {Título}
+## Sessão 11 Grol
 
-_data_ : {YYYY-MM-DD} \
-_anterior_ : [Sessão {X-1} {Título}] \
-_próxima_ : [Sessão {X+1} {Título}] :construction: continua...
+_data_ : 2026-09-14 \
+_anterior_ : [Sessão 10 Castelo](10_castelo.md) \
+_próxima_ : [Sessão 12] :construction: continua...
 
 :construction:
 
 * Cenas
-  * [Cena {X} {Título}]
+  * [Cena {X} Templo]
+  * [Cena {X} Barricadas]
+  * [Cena {X} Grol]
+  * [Cena {X} Iarno]
 
 ####
 
