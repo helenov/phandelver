@@ -34,7 +34,22 @@ _próxima_ : [Sessão 12] :construction: continua...
 
 :construction:
 
-* {Personagem}, {detalhe}
+* [Lhupo], clérigo
+* goblins
+
+####
+
+* hobgoblin iron shadow
+* hobgoblins
+
+####
+
+* [Grol], rei
+  * [Snarl], lobo
+  * [Yepp], cozinheiro
+  * goblins
+* [Iarno Albrek], mago
+* [Gundren Rockseeker], anão
 
 #### Mencionados
 
@@ -44,7 +59,7 @@ _próxima_ : [Sessão 12] :construction: continua...
 
 :construction:
 
-* {Local}
+* [Castelo Cragmaw]
 
 #### Mencionados
 
@@ -54,9 +69,21 @@ _próxima_ : [Sessão 12] :construction: continua...
 
 :construction:
 
-* {Local}
-  * {detalhe} ([Cena {X}])
-    * {item} &ndash; _{destinação}_
+* [Castelo Cragmaw]
+  * templo ([Cena {X}])
+    * [Lâmina Leroy]
+    * cálice de ouro
+    * faca de ouro
+    * incensário de ouro
+    * scroll revivify
+    * diamante
+  * owlbear ([Cena {X}])
+    * ~200 moedas
+      * 90 ep, 120 gp
+    * potion of healing
+    * scroll silence
+  * [Grol] ([Cena {X}])
+    * [Mapa da Caverna das Ondas]
 
 #### Mencionados
 
