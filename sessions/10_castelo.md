@@ -4,7 +4,7 @@
 
 _data_ : 2026-08-31 \
 _anterior_ : [Sessão 9 Olie](09_olie.md) \
-_próxima_ : [Sessão 11 Grol](11_grol.md)
+_próxima_ : [Sessão 11 Barricadas](11_barricadas.md)
 
 * Cenas
   * [Cena 1 Recepção](#cena-1-recepção)

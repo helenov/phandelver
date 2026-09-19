@@ -168,7 +168,7 @@ Wizard, Evoker.
 
 * invasão do [Castelo Cragmaw](../../locations/cragmaw_castle.md)
   * [Sessão 10](../../sessions/10_castelo.md): [Cenas 1 e 2](../../sessions/10_castelo.md#cena-1-recepção)
-  * [Sessão 11](../../sessions/11_grol.md): [Cena {X}]: :construção: continua...
+  * [Sessão 11](../../sessions/11_barricadas.md): [Cena {X}]: :construção: continua...
 
 * conhece [Faelar](faelar.md)
   * [Sessão 10](../../sessions/10_castelo.md): [Cena 2](../../sessions/10_castelo.md#cena-2-faelar)

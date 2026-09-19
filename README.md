@@ -41,5 +41,5 @@
   * (2026-08-04) [Sessão 8 Venomfang](sessions/08_venomfang.md)
   * (2026-08-17) [Sessão 9 Olie](sessions/09_olie.md)
   * (2026-08-31) [Sessão 10 Castelo](sessions/10_castelo.md)
-  * (2026-09-14) [Sessão 11 Grol](sessions/11_grol.md)
+  * (2026-09-14) [Sessão 11 Barricadas](sessions/11_barricadas.md)
   * (2026-09-14) [Sessão 12] :construction: continua...

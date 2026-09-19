@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Sessão 11 Grol
+## Sessão 11 Barricadas
 
 _data_ : 2026-09-14 \
 _anterior_ : [Sessão 10 Castelo](10_castelo.md) \
@@ -13,6 +13,7 @@ _próxima_ : [Sessão 12] :construction: continua...
   * [Cena {X} Barricadas]
   * [Cena {X} Grol]
   * [Cena {X} Iarno]
+  * [Cena {X} Gundren]
 
 ####
 
