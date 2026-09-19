@@ -69,19 +69,21 @@ cortinas.
 
 :construction:
 
-> - passam as cortinas
-> - sala escura
-> - Professor: light
->
-> - antiga capela
-> - estatuas no teto
->
-> - braseiro
->   - Professor e Faelar encontram estatueta
->   - Professor examina com Mage Hand
->     - lembra de histórias
->     - este tipo de estátua seria comum em rituais divinatórios
->   - Professor guarda
+O salão ao sul das cortinas é quase completamente escuro, exceto por uma tênue
+luz que entra pelo alto de uma de suas paredes que está desmoronada.
+
+Quando o [Professor] acende uma luz em seu cajado, todos podem ver que se trata
+da parte principal de uma antiga capela, ornada no teto, ao redor das paredes,
+por estátuas representando os principais deuses de panteão de Faerun todos
+olhando para baixo.
+
+No centro apenas um velho braseiro de ferro que, embora ricamente ornado, está
+rachado. Ao examinar o braseiro de perto, [Professor] e [Faelar] percebem que,
+parcialmente encoberto pelas cinzas, há um tecido vermelho. [Professor] conjura
+uma mão mágica para pegar o tecido sem o tocar, revelando uma estatueta de ouro
+representando um elfo solar. [Professor] reconhece a figura como relacionada a
+mágia divinatória, mas como precisaria de mais tempo para entender o seu
+funcionamento, resolve apenas a guardar para examinar mais tarde.
 
 ---
 
