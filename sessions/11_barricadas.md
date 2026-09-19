@@ -26,7 +26,8 @@ _próxima_ : [Sessão 12] :construction: continua...
 
 :construction: {Imagem}
 
-Após o curto descanso, [Jeremias](../casting/pcs/jeremias.md) e [Ralf]
+Após o curto descanso, [Jeremias](../casting/pcs/jeremias.md)
+e [Ralf](../casting/pcs/ralf.md)
 experimentam a bebida de anões que se mostra realmente revigorante, mas, ao
 mesmo tempo, muito forte. Temendo uma embriaguês fora de hora, ambos preferem
 parar na primeira dose.
@@ -91,9 +92,9 @@ funcionamento, resolve apenas a guardar para examinar mais tarde.
 :construction: {Imagem}
 
 Na capela há duas portas: uma para leste, outra para oeste. Supondo corretamente
-que a porta oeste leva de volta ao hall de entrada do castelo, [Ralf] abre a
-porta leste, que leva um grande corredor, com diversos trechos ladeados pilhas
-de entulhos.
+que a porta oeste leva de volta ao hall de entrada do
+castelo, [Ralf](../casting/pcs/ralf.md) abre a porta leste, que leva um grande
+corredor, com diversos trechos ladeados pilhas de entulhos.
 
 A passagem norte está bloqueada por uma barricada alta feita de entulhos, caixas
 e barris. E também é possível ver que, num cômodo anexo a leste, também foi
@@ -110,24 +111,24 @@ de modo a, caso a corda seja solta ou cortada, a porta será liberada. De trás 
 porta, é possível ouvir guinchos estridentes que o elfo já ouvi antes em algum
 lugar.
 
-Enquanto isso [Ralf] está no fogo cruzado das duas barricadas, e a situação
-piora quando surge às suas costas uma hobgoblin esguia, usando trajes ajustados
-ao corpo que o ataca com socos e chutes muito ágeis. [Faelar] ajuda lançando
-suas lâminas psíquicas.
+Enquanto isso [Ralf](../casting/pcs/ralf.md) está no fogo cruzado das duas
+barricadas, e a situação piora quando surge às suas costas uma hobgoblin esguia,
+usando trajes ajustados ao corpo que o ataca com socos e chutes muito
+ágeis. [Faelar] ajuda lançando suas lâminas psíquicas.
 
 [Professor] manda [Bia] por sobre a barricada mais próxima, e desfere uma
 descarga elétrica através dela em um dos dois hobgoblins que estavam ali e que
 morre imediatamente.
 
-[Ralf] luta com a hobgoblin, mas esta se teleporta para a sala de
-onde [Professor] e [Faelar] agiam a distância, e agora os ataca de longe
-lançando dardos que saca de seu cinto.
+[Ralf](../casting/pcs/ralf.md) luta com a hobgoblin, mas esta se teleporta para
+a sala de onde [Professor] e [Faelar] agiam a distância, e agora os ataca de
+longe lançando dardos que saca de seu cinto.
 
 No leste, enquanto [Jeremias](../casting/pcs/jeremias.md) busca uma maneira de
 penetrar a barricada, os hobgoblins ali abrigados cortam a corda, ao que, quase
 imediatamente, a porta se escancara revelando um owlbear enfurecido que ataca
 Jeremias que está em seu caminho. Alertados pelo novo perigo, [Professor]
-e [Ralf] correm para ajudar o amigo.
+e [Ralf](../casting/pcs/ralf.md) correm para ajudar o amigo.
 
 No oeste, a troca de arremessos entre a hobgoblin e [Faelar] favorece o elfo. Se
 vendo bastante ferida, a hobgoblin se teleporta desaparecendo da vista. Livre da
@@ -136,29 +137,30 @@ não dura muito, uma vez que a hobgoblin reaparece apenas para lançar mais dard
 e desaparecer novamente.
 
 Agora bastante ferido [Faelar] aproveita o breve sossego para se aproximar
-de [Ralf] que carrega o [barril de aguardente], para tomar uma dose da bebida e
-se recuperar um pouco, antes de procurar se afastar do combate. Mas Jeremias o
-alcança e realiza uma de suas curas mágicas, tirando novo amigo do perigo mais
-imediato.
+de [Ralf](../casting/pcs/ralf.md) que carrega o [barril de aguardente], para
+tomar uma dose da bebida e se recuperar um pouco, antes de procurar se afastar
+do combate. Mas Jeremias o alcança e realiza uma de suas curas mágicas, tirando
+novo amigo do perigo mais imediato.
 
 Quando está voltando para a briga com o owlbear, vê de relance a hobgoblin se
 escondendo em um canto ao sul do corredor. Aproveita para alvejá-la vê que ela
 cai.
 
-O owlbear segue tentando abrir caminho, e atinge forte [Ralf],
-enquanto [Professor] lança mísseis mágicos contra a criatura. Tudo isso,
-enquanto os hobgoblins da barricada seguem atirando em quem aparece em seu
-ângulo de visão.
+O owlbear segue tentando abrir caminho, e atinge
+forte [Ralf](../casting/pcs/ralf.md), enquanto [Professor] lança mísseis mágicos
+contra a criatura. Tudo isso, enquanto os hobgoblins da barricada seguem
+atirando em quem aparece em seu ângulo de visão.
 
-Quando o owlbear acaba derrotado, [Ralf] joga óleo na barricada, ameaçando
-queimar os hobgoblins lá dentro. Em
+Quando o owlbear acaba derrotado, [Ralf](../casting/pcs/ralf.md) joga óleo na
+barricada, ameaçando queimar os hobgoblins lá dentro. Em
 seguida, [Jeremias](../casting/pcs/jeremias.md) não espera a reação dos inimigos
 e ateia fogo no óleo e a barricada começa a queimar. Os hobgoblins continuam
 atirando enquanto é possível, mas acabam recuando.
 
-[Ralf] então se lembra do [Machado Hew] que, pela lenda contada
-por [Jeremias](../casting/pcs/jeremias.md), seria especialmente bom para cortar
-madeira, o que se mostra uma realidade, acelerando a abertura da barricada.
+[Ralf](../casting/pcs/ralf.md) então se lembra do [Machado Hew] que, pela lenda
+contada por [Jeremias](../casting/pcs/jeremias.md), seria especialmente bom para
+cortar madeira, o que se mostra uma realidade, acelerando a abertura da
+barricada.
 
 Os dois últimos bugbears recuram e agora estão encurralados defendendo uma
 porta, de onde é possível discernir uma discussão intensa.
@@ -172,7 +174,8 @@ não valer nada para [Grol]! Se não ajudar, ficar fora do caminho! Depois que
 Grol esmagar invasores, voltar a conversar!"
 
 Os hobgoblins acabam sendo eliminados pelo ataque conjunto
-de [Ralf], [Jeremias](../casting/pcs/jeremias.md), [Professor] e [Bia].
+de [Ralf](../casting/pcs/ralf.md), [Jeremias](../casting/pcs/jeremias.md), [Professor]
+e [Bia].
 
 ---
 
@@ -185,10 +188,10 @@ de [Ralf], [Jeremias](../casting/pcs/jeremias.md), [Professor] e [Bia].
 "Homenzinho franguinho! Hahaha!! [Grol] não fugir! Grol poderoso! [Yepp], se
 necessário, acabar com o anão. [Snarl], ficar... "
 
-Neste momento, [Ralf] abre a porta e é imediatamente atingindo pela forte
-pancada do mangual de um bugbear grande e corpulento. Quase ao mesmo tempo,
-também é atingido pelas fechas de dois goblins posicionados de frente para a
-porta.
+Neste momento, [Ralf](../casting/pcs/ralf.md) abre a porta e é imediatamente
+atingindo pela forte pancada do mangual de um bugbear grande e corpulento. Quase
+ao mesmo tempo, também é atingido pelas fechas de dois goblins posicionados de
+frente para a porta.
 
 Na outra lateral da porta, oposta a onde está o bugbear, há ainda um grande lobo
 com os dentes salivando de antecipação.
