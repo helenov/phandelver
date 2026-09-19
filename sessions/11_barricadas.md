@@ -45,8 +45,9 @@ puídas sobre suas armaduras, dois estão com arcos, mas o que parece ser o líd
 salta sobre o altar, empunhando uma bela espada curta esverdeada, bem diferente
 das armas rústicas dos demais goblins que o grupo já encontrou.
 
-"[Lhupo], o humilde, fala em nome do deus supremo, [Maglibieyt], que ordena que
-os ímpios profanadores sejam mortos! [Grick], venha ao chamado Dele."
+"[Lhupo], o humilde, fala em nome do deus
+supremo, [Maglubieyt](../casting/npcs/deities/maglubieyt.md), que ordena que os
+ímpios profanadores sejam mortos! [Grick], venha ao chamado Dele."
 
 Jeremias e Ralf engajam rapidamente, eliminando os arqueiros, e enquanto
 Jeremias e Frodo se concentram no líder [Lhupo], Ralf é surpreendido por uma
@@ -238,6 +239,10 @@ anão desacordado, enquanto aponta grande faca contra seu pescoço: "[Gundren]!"
 * [Gundren Rockseeker], anão
 
 #### Mencionados
+
+* [Maglubieyt](../casting/npcs/deities/maglubieyt.md), deus goblin
+
+####
 
 * [Spider]
 
