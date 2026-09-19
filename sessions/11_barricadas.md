@@ -26,9 +26,10 @@ _próxima_ : [Sessão 12] :construction: continua...
 
 :construction: {Imagem}
 
-Após o curto descanso, [Jeremias] e [Ralf] experimentam a bebida de anões que se
-mostra realmente revigorante, mas, ao mesmo tempo, muito forte. Temendo uma
-embriaguês fora de hora, ambos preferem parar na primeira dose.
+Após o curto descanso, [Jeremias](../casting/pcs/jeremias.md) e [Ralf]
+experimentam a bebida de anões que se mostra realmente revigorante, mas, ao
+mesmo tempo, muito forte. Temendo uma embriaguês fora de hora, ambos preferem
+parar na primeira dose.
 
 Após uma breve discussão sobre o caminho a seguir, Ralf abre a porta leste que
 leva a uma sala com um altar no centro. O altar de pedra está coberto por um
@@ -101,12 +102,13 @@ erguida uma barricada similar, com camas e mesas.
 Ao avançar para o corredor, uma fecha parte de cada barricada em sua direção,
 ambas erram, mas desperta a atenção do grupo que vem logo atrás.
 
-[Jeremias] corre para a sala do fundo, se posicionando de modo a não ser alvo da
-seteira improvisada. Nesta outra sala, vê que ao sul há uma porta que está
-amarrada com uma corda tensa que sae da porta e vai atá a barricada. Após uma
-rápida avaliação, entende que o arranjo foi feito de modo a, caso a corda seja
-solta ou cortada, a porta será liberada. De trás da porta, é possível ouvir
-guinchos estridentes que o elfo já ouvi antes em algum lugar.
+[Jeremias](../casting/pcs/jeremias.md) corre para a sala do fundo, se
+posicionando de modo a não ser alvo da seteira improvisada. Nesta outra sala, vê
+que ao sul há uma porta que está amarrada com uma corda tensa que sae da porta e
+vai atá a barricada. Após uma rápida avaliação, entende que o arranjo foi feito
+de modo a, caso a corda seja solta ou cortada, a porta será liberada. De trás da
+porta, é possível ouvir guinchos estridentes que o elfo já ouvi antes em algum
+lugar.
 
 Enquanto isso [Ralf] está no fogo cruzado das duas barricadas, e a situação
 piora quando surge às suas costas uma hobgoblin esguia, usando trajes ajustados
@@ -121,11 +123,11 @@ morre imediatamente.
 onde [Professor] e [Faelar] agiam a distância, e agora os ataca de longe
 lançando dardos que saca de seu cinto.
 
-No leste, enquanto [Jeremias] busca uma maneira de penetrar a barricada, os
-hobgoblins ali abrigados cortam a corda, ao que, quase imediatamente, a porta se
-escancara revelando um owlbear enfurecido que ataca Jeremias que está em seu
-caminho. Alertados pelo novo perigo, [Professor] e [Ralf] correm para ajudar o
-amigo.
+No leste, enquanto [Jeremias](../casting/pcs/jeremias.md) busca uma maneira de
+penetrar a barricada, os hobgoblins ali abrigados cortam a corda, ao que, quase
+imediatamente, a porta se escancara revelando um owlbear enfurecido que ataca
+Jeremias que está em seu caminho. Alertados pelo novo perigo, [Professor]
+e [Ralf] correm para ajudar o amigo.
 
 No oeste, a troca de arremessos entre a hobgoblin e [Faelar] favorece o elfo. Se
 vendo bastante ferida, a hobgoblin se teleporta desaparecendo da vista. Livre da
@@ -149,13 +151,14 @@ enquanto os hobgoblins da barricada seguem atirando em quem aparece em seu
 ângulo de visão.
 
 Quando o owlbear acaba derrotado, [Ralf] joga óleo na barricada, ameaçando
-queimar os hobgoblins lá dentro. Em seguida, [Jeremias] não espera a reação dos
-inimigos e ateia fogo no óleo e a barricada começa a queimar. Os hobgoblins
-continuam atirando enquanto é possível, mas acabam recuando.
+queimar os hobgoblins lá dentro. Em
+seguida, [Jeremias](../casting/pcs/jeremias.md) não espera a reação dos inimigos
+e ateia fogo no óleo e a barricada começa a queimar. Os hobgoblins continuam
+atirando enquanto é possível, mas acabam recuando.
 
-[Ralf] então se lembra do [Machado Hew] que, pela lenda contada por [Jeremias],
-seria especialmente bom para cortar madeira, o que se mostra uma realidade,
-acelerando a abertura da barricada.
+[Ralf] então se lembra do [Machado Hew] que, pela lenda contada
+por [Jeremias](../casting/pcs/jeremias.md), seria especialmente bom para cortar
+madeira, o que se mostra uma realidade, acelerando a abertura da barricada.
 
 Os dois últimos bugbears recuram e agora estão encurralados defendendo uma
 porta, de onde é possível discernir uma discussão intensa.
@@ -169,7 +172,7 @@ não valer nada para [Grol]! Se não ajudar, ficar fora do caminho! Depois que
 Grol esmagar invasores, voltar a conversar!"
 
 Os hobgoblins acabam sendo eliminados pelo ataque conjunto
-de [Ralf], [Jeremias], [Professor] e [Bia].
+de [Ralf], [Jeremias](../casting/pcs/jeremias.md), [Professor] e [Bia].
 
 ---
 
