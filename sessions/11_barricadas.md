@@ -182,8 +182,9 @@ Os dois últimos bugbears recuram e agora estão encurralados defendendo uma
 porta, de onde é possível discernir uma discussão intensa.
 
 "...não sabe com quem está lidando...", uma voz suplicante, mas urgente, está
-dizendo, "Vamos logo acabar com isso! Me entregue o mapa e [Spider] será
-generoso em sua gratidão. Pode ficar com o anão!"
+dizendo, "Vamos logo acabar com isso! Me entregue o mapa
+e [Spider](../casting/npcs/mentions/spider.md) será generoso em sua gratidão.
+Pode ficar com o anão!"
 
 "Cala boca, frangote!", replica uma voz rouca e trovejante, "Anão quase morto,
 não valer nada para [Grol](../casting/npcs/cragmaw/castle/grol.md)! Se não
@@ -191,7 +192,8 @@ ajudar, ficar fora do caminho! Depois que Grol esmagar invasores, voltar a
 conversar!"
 
 Os hobgoblins acabam sendo eliminados pelo ataque conjunto
-de [Ralf](../casting/pcs/ralf.md), [Jeremias](../casting/pcs/jeremias.md), [Professor](../casting/pcs/professor.md)
+de [Ralf](../casting/pcs/ralf.md), [Jeremias](../casting/pcs/jeremias.md),
+[Professor](../casting/pcs/professor.md)
 e [Bia](../casting/pcs/companions/bia.md).
 
 ---
@@ -252,7 +254,7 @@ seu pescoço: "[Gundren](../casting/npcs/gundren_rockseeker.md)!"
 
 ####
 
-* [Spider], vilão
+* [Spider](../casting/npcs/mentions/spider.md), vilão
 
 ### Cenários
 

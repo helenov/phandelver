@@ -56,6 +56,13 @@
     no [Castelo Cragmaw](../../../locations/cragmaw_castle.md)
     ([Cena 5](../../../sessions/09_olie.md#cena-5-libertado))
 
+####
+
+* [Sessão 11 Barricadas](../../../sessions/11_barricadas.md)
+  * **Spider** é mencionado na discussão entre [Grol](../cragmaw/castle/grol.md)
+    e [Iarno](../iarno_albrek.md)
+    ([Cena 3](../../../sessions/11_barricadas.md#cena-3-barricadas))
+
 [//]: # (####)
 [//]: # ()
 [//]: # (* [Sessão {X} {Título}])
