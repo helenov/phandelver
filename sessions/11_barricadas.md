@@ -45,13 +45,14 @@ puídas sobre suas armaduras, dois estão com arcos, mas o que parece ser o líd
 salta sobre o altar, empunhando uma bela espada curta esverdeada, bem diferente
 das armas rústicas dos demais goblins que o grupo já encontrou.
 
-"[Lhupo], o humilde, fala em nome do deus
-supremo, [Maglubieyt](../casting/npcs/deities/maglubieyt.md), que ordena que os
-ímpios profanadores sejam mortos! [Grick], venha ao chamado Dele."
+"[Lhupo](../casting/npcs/cragmaw/castle/lhupo.md), o humilde, fala em nome do
+deus supremo, [Maglubieyt](../casting/npcs/deities/maglubieyt.md), que ordena
+que os ímpios profanadores sejam mortos! [Grick], venha ao chamado Dele."
 
 Jeremias e Ralf engajam rapidamente, eliminando os arqueiros, e enquanto
-Jeremias e Frodo se concentram no líder [Lhupo], Ralf é surpreendido por uma
-criatura que entra vindo pelo teto de trás de uma das cortinas e salta sobre
+Jeremias e Frodo se concentram no
+líder [Lhupo](../casting/npcs/cragmaw/castle/lhupo.md), Ralf é surpreendido por
+uma criatura que entra vindo pelo teto de trás de uma das cortinas e salta sobre
 ele. A criatura, de corpo alongado, é munida de quatro tentáculos que terminam
 em garras afiadas, e uma boca central com um poderoso bico encurvado.
 
@@ -60,7 +61,8 @@ de [Faelar](../casting/pcs/faelar.md) e
 [Professor](../casting/pcs/professor.md) a distância, consegue derrotar a
 criatura, sem sofrer maiores danos.
 
-Após breve combate, Ralf pega a espada de [Lhupo] que verifica ser realmente
+Após breve combate, Ralf pega a espada
+de [Lhupo](../casting/npcs/cragmaw/castle/lhupo.md) que verifica ser realmente
 especial: além da lâmina de aço esverdeado, o punho é ornado com faixas de couro
 trançadas de modo a lembrar escamas e a inscrição ["Leroy J"]. Faelar recolhe os
 itens de ouro que estava sobre o altar. E seguem todos para a sala ao sul das
@@ -219,7 +221,7 @@ anão desacordado, enquanto aponta grande faca contra seu pescoço: "[Gundren]!"
 
 :construction:
 
-* [Lhupo], clérigo
+* [Lhupo](../casting/npcs/cragmaw/castle/lhupo.md), sacerdote
 * [Grick]
 * goblins
 

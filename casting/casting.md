@@ -60,6 +60,9 @@
   * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
     * [Nosk](npcs/cragmaw/redbrands/nosk.md) (RIP), líder bugbear
     * [Droop](npcs/cragmaw/redbrands/droop.md), goblin capturado
+  * [Castelo Cragmaw](../locations/cragmaw_castle.md)
+    * [Lhupo](npcs/cragmaw/castle/lhupo.md), sacerdote
+      de [Maglubieyt](npcs/deities/maglubieyt.md)
 
 ####
 
@@ -119,3 +122,7 @@
 * [Bowgentle](npcs/mentions/bowgentle.md), mago lendário
 * [Tsernoth](npcs/mentions/tsernoth.md), necromante
   de [Iriaebor](../locations/mentions/iriaebor.md)
+
+####
+
+* [Maglubieyt](npcs/deities/maglubieyt.md), deus goblin

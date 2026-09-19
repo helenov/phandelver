@@ -23,6 +23,10 @@
 
 ####
 
+* [Lhupo](lhupo.md), sacerdote de [Maglubieyt](../../deities/maglubieyt.md)
+
+####
+
 * [Spider](../../mentions/spider.md), aliado
 
 ### Organizações

@@ -13,7 +13,7 @@ heróis mortais e deuses imortais com punho de ferro.
 
 ### Relações
 
-* [Lhupo], sacerdote
+* [Lhupo](../cragmaw/castle/lhupo.md), sacerdote
 
 [//]: # (### Organizações)
 [//]: # ()
@@ -30,5 +30,5 @@ heróis mortais e deuses imortais com punho de ferro.
 ### Referências
 
 * [Sessão 11 Barricadas](../../../sessions/11_barricadas.md)
-  * [Lhupo] alega falar em nome de **Maglubiyet**
+  * [Lhupo](../cragmaw/castle/lhupo.md) alega falar em nome de **Maglubiyet**
     ([Cena 1](../../../sessions/11_barricadas.md#cena-1-altar))
