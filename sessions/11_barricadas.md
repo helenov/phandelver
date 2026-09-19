@@ -38,12 +38,12 @@ papo preto manchado de sangue, sobre o que se encontram três objetos rituais de
 ouro: um cálice, uma faca e um incensário. Ao sul dois arcos idênticos,
 encobertos por uma grossa cortina separam o ambiente de outra sala.
 
-Ralf, Jeremias e [Frodo] entram cautelosos, mas assim que se aproximam, são
-surpreendidos por três goblins que estavam escondidos atrás do altar, e saltam
-para o combate. Todos vestem túnicas negras puídas sobre suas armaduras, dois
-estão com arcos, mas o que parece ser o líder salta sobre o altar, empunhando
-uma bela espada curta esverdeada, bem diferente das armas rústicas dos demais
-goblins que o grupo já encontrou.
+Ralf, Jeremias e [Frodo](../casting/pcs/companions/frodo.md) entram cautelosos,
+mas assim que se aproximam, são surpreendidos por três goblins que estavam
+escondidos atrás do altar, e saltam para o combate. Todos vestem túnicas negras
+puídas sobre suas armaduras, dois estão com arcos, mas o que parece ser o líder
+salta sobre o altar, empunhando uma bela espada curta esverdeada, bem diferente
+das armas rústicas dos demais goblins que o grupo já encontrou.
 
 "[Lhupo], o humilde, fala em nome do deus supremo, [Maglibieyt], que ordena que
 os ímpios profanadores sejam mortos! [Grick], venha ao chamado Dele."
