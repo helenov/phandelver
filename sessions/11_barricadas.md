@@ -76,42 +76,21 @@ _próxima_ : [Sessão 12] :construction: continua...
 * [Iarno Albrek], mago
 * [Gundren Rockseeker], anão
 
-#### Mencionados
-
-* {Personagem}, {detalhe}
-
 ### Cenários
 
 :construction:
 
 * [Castelo Cragmaw]
 
-#### Mencionados
-
-* {Local}
-
 ### Itens
 
 :construction:
 
 * [Castelo Cragmaw]
-  * templo ([Cena {X}])
+  * altar ([Cena 1](#cena-1-altar))
     * [Lâmina Leroy]
     * cálice de ouro
     * faca de ouro
     * incensário de ouro
-    * scroll revivify
-    * diamante
-  * owlbear ([Cena {X}])
-    * ~200 moedas
-      * 90 ep, 120 gp
-    * potion of healing
-    * scroll silence
-  * [Grol] ([Cena {X}])
-    * [Mapa da Caverna das Ondas]
-
-#### Mencionados
-
-* {Local}
-  * {detalhe} ([Cena {X}])
-    * {item}
+  * braseiro ([Cena 2](#cena-2-elfo-dourado))  
+    * [Elfo Dourado], estatueta
