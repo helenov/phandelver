@@ -21,7 +21,6 @@
 * [tapa-olho cravejado de pedras]
 * [ovo de owlbear](objects/owlbear_egg.md) &ndash; _eclodido_
 * [Machado Hew](magical/battleaxe_hew.md), battleaxe mágico
-* livro ["Criaturas Extraordinárias"](books/remarkable_creatures.md)
 * [Coleira da Matilha Fantasma](magical/collar_phantom_pack.md)
 * [Barril de Aguardente Anão](objects/dwarven_brandy_cask.md)
 
@@ -41,6 +40,7 @@
 #### Com [Jeremias](../casting/pcs/jeremias.md)
 
 * 4 [cálices de prata]
+* livro ["Criaturas Extraordinárias"](books/remarkable_creatures.md)
 
 ### No [Castelo Cragmaw](../locations/cragmaw_castle.md)
 

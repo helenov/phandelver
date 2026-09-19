@@ -33,6 +33,7 @@ Ranger, Beast Master.
 ### Itens
 
 * 4 [cálices de prata]
+* [Coleira da Matilha Fantasma](../../items/magical/collar_phantom_pack.md)
 
 ### Timeline
 
@@ -105,7 +106,7 @@ Ranger, Beast Master.
   * [Sessão 11](../../sessions/11_barricadas.md): [Cenas 1 a 4](../../sessions/11_barricadas.md#cena-1-altar)
   * [Sessão 12]: :construção: continua...
 
-#### 
+####        
 
 * conhece [Faelar](faelar.md)
   * [Sessão 10](../../sessions/10_castelo.md): [Cena 2](../../sessions/10_castelo.md#cena-2-faelar)

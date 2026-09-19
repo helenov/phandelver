@@ -190,7 +190,7 @@ de uma porta fechada a leste.
     * longsword &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
       * emblema de [Neverwinter](../locations/neverwinter.md)
     * [Coleira da Matilha Fantasma](../items/magical/collar_phantom_pack.md)
-      &ndash; _com [Ralf](../casting/pcs/ralf.md)_
+      &ndash; _com [Jeremias](../casting/pcs/jeremias.md)_
     * [Grimório de Cinzas e Sangue](../items/magical/grimoire_ash_blood.md)
       &ndash; _com [Professor](../casting/pcs/professor.md)_
     * [Barril de Aguardente Anão](../items/objects/dwarven_brandy_cask.md)

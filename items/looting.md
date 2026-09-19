@@ -179,7 +179,7 @@
   * longsword &ndash; _no [Castelo](../locations/cragmaw_castle.md)_
     * emblema de [Neverwinter](../locations/neverwinter.md)
   * [Coleira da Matilha Fantasma](magical/collar_phantom_pack.md) &ndash;
-    _com [Ralf](../casting/pcs/ralf.md)_
+    _com [Jeremias](../casting/pcs/jeremias.md)_
   * [Grimório de Cinzas e Sangue](magical/grimoire_ash_blood.md) &ndash;
     _com [Professor](../casting/pcs/professor.md)_
   * [Barril de Aguardente Anão](objects/dwarven_brandy_cask.md) &ndash;
