@@ -56,7 +56,8 @@ em garras afiadas, e uma boca central com um poderoso bico encurvado.
 
 Ralf consegue se esquivar dos tentáculos do [Grick] e, com a ajuda
 de [Faelar](../casting/pcs/faelar.md) e
-[Professor] a distância, consegue derrotar a criatura, sem sofrer maiores danos.
+[Professor](../casting/pcs/professor.md) a distância, consegue derrotar a
+criatura, sem sofrer maiores danos.
 
 Após breve combate, Ralf pega a espada de [Lhupo] que verifica ser realmente
 especial: além da lâmina de aço esverdeado, o punho é ornado com faixas de couro
@@ -73,19 +74,21 @@ cortinas.
 O salão ao sul das cortinas é quase completamente escuro, exceto por uma tênue
 luz que entra pelo alto de uma de suas paredes que está desmoronada.
 
-Quando o [Professor] acende uma luz em seu cajado, todos podem ver que se trata
-da parte principal de uma antiga capela, ornada no teto, ao redor das paredes,
-por estátuas representando os principais deuses de panteão de Faerun todos
-olhando para baixo.
+Quando o [Professor](../casting/pcs/professor.md) acende uma luz em seu cajado,
+todos podem ver que se trata da parte principal de uma antiga capela, ornada no
+teto, ao redor das paredes, por estátuas representando os principais deuses de
+panteão de Faerun todos olhando para baixo.
 
 No centro apenas um velho braseiro de ferro que, embora ricamente ornado, está
-rachado. Ao examinar o braseiro de perto, [Professor]
+rachado. Ao examinar o braseiro de
+perto, [Professor](../casting/pcs/professor.md)
 e [Faelar](../casting/pcs/faelar.md) percebem que, parcialmente encoberto pelas
-cinzas, há um tecido vermelho. [Professor] conjura uma mão mágica para pegar o
-tecido sem o tocar, revelando uma estatueta de ouro representando um elfo
-solar. [Professor] reconhece a figura como relacionada a mágia divinatória, mas
-como precisaria de mais tempo para entender o seu funcionamento, resolve apenas
-a guardar para examinar mais tarde.
+cinzas, há um tecido vermelho. [Professor](../casting/pcs/professor.md) conjura
+uma mão mágica para pegar o tecido sem o tocar, revelando uma estatueta de ouro
+representando um elfo solar. [Professor](../casting/pcs/professor.md) reconhece
+a figura como relacionada a mágia divinatória, mas como precisaria de mais tempo
+para entender o seu funcionamento, resolve apenas a guardar para examinar mais
+tarde.
 
 ---
 
@@ -118,18 +121,20 @@ barricadas, e a situação piora quando surge às suas costas uma hobgoblin esgu
 usando trajes ajustados ao corpo que o ataca com socos e chutes muito
 ágeis. [Faelar](../casting/pcs/faelar.md) ajuda lançando suas lâminas psíquicas.
 
-[Professor] manda [Bia] por sobre a barricada mais próxima, e desfere uma
-descarga elétrica através dela em um dos dois hobgoblins que estavam ali e que
-morre imediatamente.
+[Professor](../casting/pcs/professor.md) manda [Bia] por sobre a barricada mais
+próxima, e desfere uma descarga elétrica através dela em um dos dois hobgoblins
+que estavam ali e que morre imediatamente.
 
 [Ralf](../casting/pcs/ralf.md) luta com a hobgoblin, mas esta se teleporta para
-a sala de onde [Professor] e [Faelar](../casting/pcs/faelar.md) agiam a
-distância, e agora os ataca de longe lançando dardos que saca de seu cinto.
+a sala de onde [Professor](../casting/pcs/professor.md)
+e [Faelar](../casting/pcs/faelar.md) agiam a distância, e agora os ataca de
+longe lançando dardos que saca de seu cinto.
 
 No leste, enquanto [Jeremias](../casting/pcs/jeremias.md) busca uma maneira de
 penetrar a barricada, os hobgoblins ali abrigados cortam a corda, ao que, quase
 imediatamente, a porta se escancara revelando um owlbear enfurecido que ataca
-Jeremias que está em seu caminho. Alertados pelo novo perigo, [Professor]
+Jeremias que está em seu caminho. Alertados pelo novo
+perigo, [Professor](../casting/pcs/professor.md)
 e [Ralf](../casting/pcs/ralf.md) correm para ajudar o amigo.
 
 No oeste, a troca de arremessos entre a hobgoblin
@@ -150,9 +155,10 @@ escondendo em um canto ao sul do corredor. Aproveita para alvejá-la vê que ela
 cai.
 
 O owlbear segue tentando abrir caminho, e atinge
-forte [Ralf](../casting/pcs/ralf.md), enquanto [Professor] lança mísseis mágicos
-contra a criatura. Tudo isso, enquanto os hobgoblins da barricada seguem
-atirando em quem aparece em seu ângulo de visão.
+forte [Ralf](../casting/pcs/ralf.md),
+enquanto [Professor](../casting/pcs/professor.md) lança mísseis mágicos contra a
+criatura. Tudo isso, enquanto os hobgoblins da barricada seguem atirando em quem
+aparece em seu ângulo de visão.
 
 Quando o owlbear acaba derrotado, [Ralf](../casting/pcs/ralf.md) joga óleo na
 barricada, ameaçando queimar os hobgoblins lá dentro. Em
@@ -177,7 +183,7 @@ não valer nada para [Grol]! Se não ajudar, ficar fora do caminho! Depois que
 Grol esmagar invasores, voltar a conversar!"
 
 Os hobgoblins acabam sendo eliminados pelo ataque conjunto
-de [Ralf](../casting/pcs/ralf.md), [Jeremias](../casting/pcs/jeremias.md), [Professor]
+de [Ralf](../casting/pcs/ralf.md), [Jeremias](../casting/pcs/jeremias.md), [Professor](../casting/pcs/professor.md)
 e [Bia].
 
 ---
