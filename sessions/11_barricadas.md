@@ -258,15 +258,13 @@ seu pescoço: "[Gundren](../casting/npcs/gundren_rockseeker.md)!"
 
 ### Cenários
 
-:construction:
-
-* [Castelo Cragmaw]
+* [Castelo Cragmaw](../locations/cragmaw_castle.md)
 
 ### Itens
 
 :construction:
 
-* [Castelo Cragmaw]
+* [Castelo Cragmaw](../locations/cragmaw_castle.md)
   * altar ([Cena 1](#cena-1-altar))
     * [Lâmina Leroy]
     * cálice de ouro

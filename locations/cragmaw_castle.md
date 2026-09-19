@@ -14,7 +14,7 @@
   * [Grick](../casting/npcs/cragmaw/castle/grick.md) (RIP), mascote
   * goblins (RIP), acólitos
 
-####   
+####    
 
 * [Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md), foragido
 
@@ -110,6 +110,12 @@
 * [Sessão 10 Castelo](../sessions/10_castelo.md)
   * grupo entra no **Castelo Cragmaw**
     ([Cenas 1 e 2](../sessions/10_castelo.md#cena-1-recepção))
+
+####
+
+* [Sessão 11 Barricadas](../sessions/11_barricadas.md)
+  * grupo avança pelo **Castelo Cragmaw**
+    ([Cenas 1 a 4](../sessions/11_barricadas.md#cena-1-altar))
 
 [//]: # (####)
 [//]: # ()
