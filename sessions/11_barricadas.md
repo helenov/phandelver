@@ -9,11 +9,10 @@ _próxima_ : [Sessão 12] :construction: continua...
 :construction:
 
 * Cenas
-  * [Cena {X} Templo]
-  * [Cena {X} Barricadas]
-  * [Cena {X} Grol]
-  * [Cena {X} Iarno]
-  * [Cena {X} Gundren]
+  * [Cena 1 Altar](#cena-1-altar)
+  * [Cena 2 Elfo Dourado](#cena-2-elfo-dourado)
+  * [Cena 3 Barricadas](#cena-3-barricadas)
+  * [Cena 4 Grol](#cena-4-grol)
 
 ####
 
@@ -23,7 +22,31 @@ _próxima_ : [Sessão 12] :construction: continua...
 
 ---
 
-### Cena {X} {Título}
+### Cena 1 Altar
+
+:construction: {Imagem}
+
+:construction: {Texto}
+
+---
+
+### Cena 2 Elfo Dourado
+
+:construction: {Imagem}
+
+:construction: {Texto}
+
+---
+
+### Cena 3 Barricadas
+
+:construction: {Imagem}
+
+:construction: {Texto}
+
+---
+
+### Cena 4 Grol
 
 :construction: {Imagem}
 
@@ -42,6 +65,7 @@ _próxima_ : [Sessão 12] :construction: continua...
 
 * hobgoblin iron shadow
 * hobgoblins
+* owlbear
 
 ####
 
