@@ -62,8 +62,8 @@ recuperá-las para seu clã e restabelecer a mina.
   * **Gundren** não é encontrado
     no [Esconderijo Cragmaw](../../locations/cragmaw_hideout.md)
     ([Cena 1](../../sessions/02_phandalin.md#cena-1-decisões))
-  * [Yeemik](cragmaw/hideout/yeemik.md) diz que a ordem de capturar **Gundren** veio
-    de [Grol](cragmaw/castle/grol.md)
+  * [Yeemik](cragmaw/hideout/yeemik.md) diz que a ordem de capturar **Gundren**
+    veio de [Grol](cragmaw/castle/grol.md)
     ([Cena 2](../../sessions/02_phandalin.md#cena-2-troca))
   * [Yeemik](cragmaw/hideout/yeemik.md) diz que a ordem teria sido um pedido
     de [Spider](mentions/spider.md)
@@ -94,6 +94,13 @@ recuperá-las para seu clã e restabelecer a mina.
   * [Faelar](../pcs/faelar.md) diz que não sabe de nenhum anão
     no [Castelo Cragmaw](../../locations/cragmaw_castle.md)
     ([Cena 2](../../sessions/10_castelo.md#cena-2-faelar))
+
+####
+
+* [Sessão 11 Barricadas](../../sessions/11_barricadas.md)
+  * **Gundren** é visto desacordado nos aposentos
+    de [Grol](cragmaw/castle/grol.md)
+    ([Cena 4](../../sessions/11_barricadas.md#cena-4-grol))
 
 [//]: # (####)
 [//]: # ()

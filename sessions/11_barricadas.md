@@ -186,8 +186,9 @@ dizendo, "Vamos logo acabar com isso! Me entregue o mapa e [Spider] será
 generoso em sua gratidão. Pode ficar com o anão!"
 
 "Cala boca, frangote!", replica uma voz rouca e trovejante, "Anão quase morto,
-não valer nada para [Grol](../casting/npcs/cragmaw/castle/grol.md)! Se não ajudar, ficar fora do caminho! Depois que
-Grol esmagar invasores, voltar a conversar!"
+não valer nada para [Grol](../casting/npcs/cragmaw/castle/grol.md)! Se não
+ajudar, ficar fora do caminho! Depois que Grol esmagar invasores, voltar a
+conversar!"
 
 Os hobgoblins acabam sendo eliminados pelo ataque conjunto
 de [Ralf](../casting/pcs/ralf.md), [Jeremias](../casting/pcs/jeremias.md), [Professor](../casting/pcs/professor.md)
@@ -201,8 +202,9 @@ e [Bia](../casting/pcs/companions/bia.md).
 
 "Sua estratégia estúpida nos deixou sem rotas de fuga!"
 
-"Homenzinho franguinho! Hahaha!! [Grol](../casting/npcs/cragmaw/castle/grol.md) não fugir! Grol poderoso! [Yepp], se
-necessário, acabar com o anão. [Snarl], ficar... "
+"Homenzinho franguinho! Hahaha!! [Grol](../casting/npcs/cragmaw/castle/grol.md)
+não fugir! Grol poderoso! [Yepp], se necessário, acabar com o anão. [Snarl],
+ficar... "
 
 Neste momento, [Ralf](../casting/pcs/ralf.md) abre a porta e é imediatamente
 atingindo pela forte pancada do mangual de um bugbear grande e corpulento. Quase
@@ -213,10 +215,11 @@ Na outra lateral da porta, oposta a onde está o bugbear, há ainda um grande lo
 com os dentes salivando de antecipação.
 
 Dentro da sala, pode ainda ver que, a um canto próximo a uma cama coberta com
-peles, está [Iarno], com seu manto negro muito bem alinhado e empunhando um
-cajado de vidro. Ao fundo, junto a parede oposta do quarto, um goblin parrudo
-usando um avental de cozinha encardido segura a sua frente como um escudo um
-anão desacordado, enquanto aponta grande faca contra seu pescoço: "[Gundren]!"
+peles, está [Iarno](../casting/npcs/iarno_albrek.md), com seu manto negro muito
+bem alinhado e empunhando um cajado de vidro. Ao fundo, junto a parede oposta do
+quarto, um goblin parrudo usando um avental de cozinha encardido segura a sua
+frente como um escudo um anão desacordado, enquanto aponta grande faca contra
+seu pescoço: "[Gundren](../casting/npcs/gundren_rockseeker.md)!"
 
 ---
 
@@ -241,7 +244,7 @@ anão desacordado, enquanto aponta grande faca contra seu pescoço: "[Gundren]!"
   * [Yepp], cozinheiro
   * goblins
 * [Iarno Albrek](../casting/npcs/iarno_albrek.md), mago
-* [Gundren Rockseeker], anão desacordado
+* [Gundren Rockseeker](../casting/npcs/gundren_rockseeker.md), anão desacordado
 
 #### Mencionados
 
