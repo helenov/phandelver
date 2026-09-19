@@ -47,7 +47,9 @@ das armas rústicas dos demais goblins que o grupo já encontrou.
 
 "[Lhupo](../casting/npcs/cragmaw/castle/lhupo.md), o humilde, fala em nome do
 deus supremo, [Maglubieyt](../casting/npcs/deities/maglubieyt.md), que ordena
-que os ímpios profanadores sejam mortos! [Grick], venha ao chamado Dele."
+que os ímpios profanadores sejam
+mortos! [Grick](../casting/npcs/cragmaw/castle/grick.md), venha ao chamado
+Dele."
 
 Jeremias e Ralf engajam rapidamente, eliminando os arqueiros, e enquanto
 Jeremias e Frodo se concentram no
@@ -56,7 +58,8 @@ uma criatura que entra vindo pelo teto de trás de uma das cortinas e salta sobr
 ele. A criatura, de corpo alongado, é munida de quatro tentáculos que terminam
 em garras afiadas, e uma boca central com um poderoso bico encurvado.
 
-Ralf consegue se esquivar dos tentáculos do [Grick] e, com a ajuda
+Ralf consegue se esquivar dos tentáculos
+do [Grick](../casting/npcs/cragmaw/castle/grick.md) e, com a ajuda
 de [Faelar](../casting/pcs/faelar.md) e
 [Professor](../casting/pcs/professor.md) a distância, consegue derrotar a
 criatura, sem sofrer maiores danos.
@@ -222,8 +225,8 @@ anão desacordado, enquanto aponta grande faca contra seu pescoço: "[Gundren]!"
 :construction:
 
 * [Lhupo](../casting/npcs/cragmaw/castle/lhupo.md), sacerdote
-* [Grick]
-* goblins
+  * [Grick](../casting/npcs/cragmaw/castle/grick.md), mascote
+  * goblins, acólitos
 
 ####
 

@@ -61,8 +61,9 @@
     * [Nosk](npcs/cragmaw/redbrands/nosk.md) (RIP), líder bugbear
     * [Droop](npcs/cragmaw/redbrands/droop.md), goblin capturado
   * [Castelo Cragmaw](../locations/cragmaw_castle.md)
-    * [Lhupo](npcs/cragmaw/castle/lhupo.md), sacerdote
+    * [Lhupo](npcs/cragmaw/castle/lhupo.md) (RIP), sacerdote
       de [Maglubieyt](npcs/deities/maglubieyt.md)
+      * [Grick](npcs/cragmaw/castle/grick.md) (RIP), mascote
 
 ####
 
