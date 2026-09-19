@@ -54,7 +54,8 @@ criatura que entra vindo pelo teto de trás de uma das cortinas e salta sobre
 ele. A criatura, de corpo alongado, é munida de quatro tentáculos que terminam
 em garras afiadas, e uma boca central com um poderoso bico encurvado.
 
-Ralf consegue se esquivar dos tentáculos do [Grick] e, com a ajuda de [Faelar] e
+Ralf consegue se esquivar dos tentáculos do [Grick] e, com a ajuda
+de [Faelar](../casting/pcs/faelar.md) e
 [Professor] a distância, consegue derrotar a criatura, sem sofrer maiores danos.
 
 Após breve combate, Ralf pega a espada de [Lhupo] que verifica ser realmente
@@ -78,12 +79,13 @@ por estátuas representando os principais deuses de panteão de Faerun todos
 olhando para baixo.
 
 No centro apenas um velho braseiro de ferro que, embora ricamente ornado, está
-rachado. Ao examinar o braseiro de perto, [Professor] e [Faelar] percebem que,
-parcialmente encoberto pelas cinzas, há um tecido vermelho. [Professor] conjura
-uma mão mágica para pegar o tecido sem o tocar, revelando uma estatueta de ouro
-representando um elfo solar. [Professor] reconhece a figura como relacionada a
-mágia divinatória, mas como precisaria de mais tempo para entender o seu
-funcionamento, resolve apenas a guardar para examinar mais tarde.
+rachado. Ao examinar o braseiro de perto, [Professor]
+e [Faelar](../casting/pcs/faelar.md) percebem que, parcialmente encoberto pelas
+cinzas, há um tecido vermelho. [Professor] conjura uma mão mágica para pegar o
+tecido sem o tocar, revelando uma estatueta de ouro representando um elfo
+solar. [Professor] reconhece a figura como relacionada a mágia divinatória, mas
+como precisaria de mais tempo para entender o seu funcionamento, resolve apenas
+a guardar para examinar mais tarde.
 
 ---
 
@@ -114,15 +116,15 @@ lugar.
 Enquanto isso [Ralf](../casting/pcs/ralf.md) está no fogo cruzado das duas
 barricadas, e a situação piora quando surge às suas costas uma hobgoblin esguia,
 usando trajes ajustados ao corpo que o ataca com socos e chutes muito
-ágeis. [Faelar] ajuda lançando suas lâminas psíquicas.
+ágeis. [Faelar](../casting/pcs/faelar.md) ajuda lançando suas lâminas psíquicas.
 
 [Professor] manda [Bia] por sobre a barricada mais próxima, e desfere uma
 descarga elétrica através dela em um dos dois hobgoblins que estavam ali e que
 morre imediatamente.
 
 [Ralf](../casting/pcs/ralf.md) luta com a hobgoblin, mas esta se teleporta para
-a sala de onde [Professor] e [Faelar] agiam a distância, e agora os ataca de
-longe lançando dardos que saca de seu cinto.
+a sala de onde [Professor] e [Faelar](../casting/pcs/faelar.md) agiam a
+distância, e agora os ataca de longe lançando dardos que saca de seu cinto.
 
 No leste, enquanto [Jeremias](../casting/pcs/jeremias.md) busca uma maneira de
 penetrar a barricada, os hobgoblins ali abrigados cortam a corda, ao que, quase
@@ -130,17 +132,18 @@ imediatamente, a porta se escancara revelando um owlbear enfurecido que ataca
 Jeremias que está em seu caminho. Alertados pelo novo perigo, [Professor]
 e [Ralf](../casting/pcs/ralf.md) correm para ajudar o amigo.
 
-No oeste, a troca de arremessos entre a hobgoblin e [Faelar] favorece o elfo. Se
-vendo bastante ferida, a hobgoblin se teleporta desaparecendo da vista. Livre da
-adversária, [Faelar] volta sua atenção aos hobgoblins das barricadas, mas isso
-não dura muito, uma vez que a hobgoblin reaparece apenas para lançar mais dardos
-e desaparecer novamente.
+No oeste, a troca de arremessos entre a hobgoblin
+e [Faelar](../casting/pcs/faelar.md) favorece o elfo. Se vendo bastante ferida,
+a hobgoblin se teleporta desaparecendo da vista. Livre da
+adversária, [Faelar](../casting/pcs/faelar.md) volta sua atenção aos hobgoblins
+das barricadas, mas isso não dura muito, uma vez que a hobgoblin reaparece
+apenas para lançar mais dardos e desaparecer novamente.
 
-Agora bastante ferido [Faelar] aproveita o breve sossego para se aproximar
-de [Ralf](../casting/pcs/ralf.md) que carrega o [barril de aguardente], para
-tomar uma dose da bebida e se recuperar um pouco, antes de procurar se afastar
-do combate. Mas Jeremias o alcança e realiza uma de suas curas mágicas, tirando
-novo amigo do perigo mais imediato.
+Agora bastante ferido [Faelar](../casting/pcs/faelar.md) aproveita o breve
+sossego para se aproximar de [Ralf](../casting/pcs/ralf.md) que carrega
+o [barril de aguardente], para tomar uma dose da bebida e se recuperar um pouco,
+antes de procurar se afastar do combate. Mas Jeremias o alcança e realiza uma de
+suas curas mágicas, tirando novo amigo do perigo mais imediato.
 
 Quando está voltando para a briga com o owlbear, vê de relance a hobgoblin se
 escondendo em um canto ao sul do corredor. Aproveita para alvejá-la vê que ela
