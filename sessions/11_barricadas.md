@@ -26,30 +26,40 @@ _próxima_ : [Sessão 12] :construction: continua...
 
 :construction: {Imagem}
 
-:construction:
-
-Após o curto descanso, Jeremias e Ralf experimentam a bebida de anões que se
+Após o curto descanso, [Jeremias] e [Ralf] experimentam a bebida de anões que se
 mostra realmente revigorante, mas, ao mesmo tempo, muito forte. Temendo uma
 embriaguês fora de hora, ambos preferem parar na primeira dose.
 
-> - Ralf abre a porta
->
-> - Ralf, Jeremias e Frodo entram
->
-> - Goblins saltam de trás do altar
-> - "Lhupo, o humilde, fala em nome do deus supremo, Maglubiyet, e ordena que os
-    ímpios profanadores sejam mortos! Grick, venha ao chamado Dele"
->
-> - combate
->   - goblins com arco
->     - um acerta bem
->     - mas eliminados rápido
->   - Grick entra atacando Ralf, mas erra seus tentáculos
->   - Jeremias se concentra em Lhupo
->   - Ralf, Faelar e Professor derrotam o Grick
->
-> - Ralf leva a espada do Lhupo
-> - Faelar levas os itens de ouro
+Após uma breve discussão sobre o caminho a seguir, Ralf abre a porta leste que
+leva a uma sala com um altar no centro. O altar de pedra está coberto por um
+papo preto manchado de sangue, sobre o que se encontram três objetos rituais de
+ouro: um cálice, uma faca e um incensário. Ao sul dois arcos idênticos,
+encobertos por uma grossa cortina separam o ambiente de outra sala.
+
+Ralf, Jeremias e [Frodo] entram cautelosos, mas assim que se aproximam, são
+surpreendidos por três goblins que estavam escondidos atrás do altar, e saltam
+para o combate. Todos vestem túnicas negras puídas sobre suas armaduras, dois
+estão com arcos, mas o que parece ser o líder salta sobre o altar, empunhando
+uma bela espada curta esverdeada, bem diferente das armas rústicas dos demais
+goblins que o grupo já encontrou.
+
+"[Lhupo], o humilde, fala em nome do deus supremo, [Maglibieyt], que ordena que
+os ímpios profanadores sejam mortos! [Grick], venha ao chamado Dele."
+
+Jeremias e Ralf engajam rapidamente, eliminando os arqueiros, e enquanto
+Jeremias e Frodo se concentram no líder [Lhupo], Ralf é surpreendido por uma
+criatura que entra vindo pelo teto de trás de uma das cortinas e salta sobre
+ele. A criatura, de corpo alongado, é munida de quatro tentáculos que terminam
+em garras afiadas, e uma boca central com um poderoso bico encurvado.
+
+Ralf consegue se esquivar dos tentáculos do [Grick] e, com a ajuda de [Faelar] e
+[Professor] a distância, consegue derrotar a criatura, sem sofrer maiores danos.
+
+Após breve combate, Ralf pega a espada de [Lhupo] que verifica ser realmente
+especial: além da lâmina de aço esverdeado, o punho é ornado com faixas de couro
+trançadas de modo a lembrar escamas e a inscrição ["Leroy J"]. Faelar recolhe os
+itens de ouro que estava sobre o altar. E seguem todos para a sala ao sul das
+cortinas.
 
 ---
 
