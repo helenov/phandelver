@@ -103,6 +103,12 @@ poção de invisibilidade.
     em [Phandalin](../../locations/phandalin.md)
     ([Cena 5](../../sessions/09_olie.md#cena-5-libertado))
 
+####
+
+* [Sessão 11 Barricadas](../../sessions/11_barricadas.md)
+  * **Iarno** é visto nos aposentos de [Grol](cragmaw/castle/grol.md)
+    ([Cena 4](../../sessions/11_barricadas.md#cena-4-grol))
+
 [//]: # (####)
 [//]: # ()
 [//]: # (* [Sessão {X} {Título}])

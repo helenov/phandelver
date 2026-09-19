@@ -240,7 +240,7 @@ anão desacordado, enquanto aponta grande faca contra seu pescoço: "[Gundren]!"
   * [Snarl], lobo
   * [Yepp], cozinheiro
   * goblins
-* [Iarno Albrek], mago
+* [Iarno Albrek](../casting/npcs/iarno_albrek.md), mago
 * [Gundren Rockseeker], anão desacordado
 
 #### Mencionados
