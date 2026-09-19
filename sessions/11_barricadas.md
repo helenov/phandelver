@@ -121,7 +121,8 @@ barricadas, e a situação piora quando surge às suas costas uma hobgoblin esgu
 usando trajes ajustados ao corpo que o ataca com socos e chutes muito
 ágeis. [Faelar](../casting/pcs/faelar.md) ajuda lançando suas lâminas psíquicas.
 
-[Professor](../casting/pcs/professor.md) manda [Bia] por sobre a barricada mais
+[Professor](../casting/pcs/professor.md)
+manda [Bia](../casting/pcs/companions/bia.md) por sobre a barricada mais
 próxima, e desfere uma descarga elétrica através dela em um dos dois hobgoblins
 que estavam ali e que morre imediatamente.
 
@@ -184,7 +185,7 @@ Grol esmagar invasores, voltar a conversar!"
 
 Os hobgoblins acabam sendo eliminados pelo ataque conjunto
 de [Ralf](../casting/pcs/ralf.md), [Jeremias](../casting/pcs/jeremias.md), [Professor](../casting/pcs/professor.md)
-e [Bia].
+e [Bia](../casting/pcs/companions/bia.md).
 
 ---
 
