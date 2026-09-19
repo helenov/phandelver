@@ -16,6 +16,19 @@ Os goblins provavelmente o menosprezaram por seu tamanho e por não saber
 valorizar sua qualidade.
 <br clear="left"/>
 
+### Propriedades
+
+* 17 of 20 shots
+
+####
+
+* taking 1 shot
+  * recover 1d4 HPs
+
+####
+
+* ...
+
 ### Locais
 
 * [Castelo Cragmaw](../../locations/cragmaw_castle.md), armazém 
