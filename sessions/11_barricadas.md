@@ -67,8 +67,6 @@ cortinas.
 
 :construction: {Imagem}
 
-:construction:
-
 O salão ao sul das cortinas é quase completamente escuro, exceto por uma tênue
 luz que entra pelo alto de uma de suas paredes que está desmoronada.
 
@@ -90,8 +88,6 @@ funcionamento, resolve apenas a guardar para examinar mais tarde.
 ### Cena 3 Barricadas
 
 :construction: {Imagem}
-
-:construction:
 
 Na capela há duas portas: uma para leste, outra para oeste. Supondo corretamente
 que a porta oeste leva de volta ao hall de entrada do castelo, [Ralf] abre a
@@ -181,21 +177,24 @@ de [Ralf], [Jeremias], [Professor] e [Bia].
 
 :construction: {Imagem}
 
-:construction:
+"Sua estratégia estúpida nos deixou sem rotas de fuga!"
 
-> - Ralf, Jeremias, Professor e Bia, eliminam os bugbears
->
-> - Ralf abre a porta
->   - pancada forte da morningstar de um bugbear corpulento
->   - duas flechas certeiras de goblins a frente
->   - quase ainda é mordido por um lobo
->
-> - dentro da sala
->   - a um canto está Iarno, com um belo manto preto e um cajado de vidro
->   - ao fundo um goblin parrudo, usando um avental de cozinha encardido, segura
->     a sua frente como um escudo um anão desacordado enquanto segura uma
-      adaga
->     em seu pescoço: Gundren
+"Homenzinho franguinho! Hahaha!! [Grol] não fugir! Grol poderoso! [Yepp], se
+necessário, acabar com o anão. [Snarl], ficar... "
+
+Neste momento, [Ralf] abre a porta e é imediatamente atingindo pela forte
+pancada do mangual de um bugbear grande e corpulento. Quase ao mesmo tempo,
+também é atingido pelas fechas de dois goblins posicionados de frente para a
+porta.
+
+Na outra lateral da porta, oposta a onde está o bugbear, há ainda um grande lobo
+com os dentes salivando de antecipação.
+
+Dentro da sala, pode ainda ver que, a um canto próximo a uma cama coberta com
+peles, está [Iarno], com seu manto negro muito bem alinhado e empunhando um
+cajado de vidro. Ao fundo, junto a parede oposta do quarto, um goblin parrudo
+usando um avental de cozinha encardido segura a sua frente como um escudo um
+anão desacordado, enquanto aponta grande faca contra seu pescoço: "[Gundren]!"
 
 ---
 
@@ -204,11 +203,12 @@ de [Ralf], [Jeremias], [Professor] e [Bia].
 :construction:
 
 * [Lhupo], clérigo
+* [Grick]
 * goblins
 
 ####
 
-* hobgoblin iron shadow
+* hobgoblin "iron shadow"
 * hobgoblins
 * owlbear
 
