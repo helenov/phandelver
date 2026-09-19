@@ -139,7 +139,7 @@ Na manhã seguinte, bem cedo, o grupo parte
 de [Thundertree](../locations/thundertree.md), e guiados
 por [Reidoth](../casting/npcs/thundertree/reidoth.md) seguem para sudeste.
 Quando mostram a cópia do esboço de mapa feito pelo
-orc [Brughor](../casting/npcs/cragmaw/brughor.md) para a localização
+orc [Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md) para a localização
 do [Castelo Cragmaw](../locations/cragmaw_castle.md), o druida se surpreende.
 
 "Mas este mapa está bem errado! O castelo fica muito mais ao sul, bem mais perto
@@ -274,7 +274,7 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
 
 ####
 
-* [Brughor](../casting/npcs/cragmaw/brughor.md), orc
+* [Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md), orc
 * [Spider](../casting/npcs/mentions/spider.md), vilão
 
 ####

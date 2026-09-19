@@ -17,7 +17,7 @@
 
 ####
 
-* [Droop](../../casting/npcs/cragmaw/droop.md), prisioneiro
+* [Droop](../../casting/npcs/cragmaw/redbrands/droop.md), prisioneiro
 * [Redbrands](../../organizations/redbrands.md)
   * 4 prisioneiros
 
@@ -50,7 +50,7 @@
 ####
 
 * [Sessão 5 Perda](../../sessions/05_perda.md)
-  * grupo deixa [Droop](../../casting/npcs/cragmaw/droop.md) e mais três
+  * grupo deixa [Droop](../../casting/npcs/cragmaw/redbrands/droop.md) e mais três
     [Redbrands](../../organizations/redbrands.md) capturados na **Prefeitura**
     ([Cena 3](../../sessions/05_perda.md#cena-3-recompensa))
   * [Harbin](../../casting/npcs/phandalin/harbin_wester.md) paga a recompensa

@@ -12,26 +12,26 @@
 ### Membros
 
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
-  * [Grol](../casting/npcs/cragmaw/grol.md), rei
+  * [Grol](../casting/npcs/cragmaw/castle/grol.md), rei
 
 ####
 
 * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
-  * [Klarg](../casting/npcs/cragmaw/klarg.md) (RIP), antigo chefe local
-  * [Yeemik](../casting/npcs/cragmaw/yeemik.md), novo chefe local
+  * [Klarg](../casting/npcs/cragmaw/hideout/klarg.md) (RIP), antigo chefe local
+  * [Yeemik](../casting/npcs/cragmaw/hideout/yeemik.md), novo chefe local
 
 ####
 
 * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-  * [Nosk](../casting/npcs/cragmaw/nosk.md) (RIP), líder enviado
+  * [Nosk](../casting/npcs/cragmaw/redbrands/nosk.md) (RIP), líder enviado
     de [Wyvern Tor](../locations/wyvern_tor.md)
-  * [Droop](../casting/npcs/cragmaw/droop.md), goblin enviado
+  * [Droop](../casting/npcs/cragmaw/redbrands/droop.md), goblin enviado
     de [Wyvern Tor](../locations/wyvern_tor.md)
 
 ####
 
 * [Wyvern Tor](../locations/wyvern_tor.md)
-  * [Brughor](../casting/npcs/cragmaw/brughor.md), chefe local
+  * [Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md), chefe local
 
 ### Locais
 
@@ -48,7 +48,7 @@
 * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
   * grupo de reforço para os [Redbrands](redbrands.md)
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
-  * base do rei [Grol](../casting/npcs/cragmaw/grol.md)
+  * base do rei [Grol](../casting/npcs/cragmaw/castle/grol.md)
 
 ### Relações
 
@@ -62,10 +62,10 @@
   * grupo encontra e invade
     o [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
     ([Cena 2 e 3](../sessions/01_goblins.md#cena-2-caverna))
-  * grupo negocia com [Yeemik](../casting/npcs/cragmaw/yeemik.md) a liberdade
+  * grupo negocia com [Yeemik](../casting/npcs/cragmaw/hideout/yeemik.md) a liberdade
     de [Sildar](../casting/npcs/sildar_hallwinter.md)
     ([Cena 4](../sessions/01_goblins.md#cena-4-negociação))
-  * grupo derrota [Klarg](../casting/npcs/cragmaw/klarg.md), o chefe do grupo
+  * grupo derrota [Klarg](../casting/npcs/cragmaw/hideout/klarg.md), o chefe do grupo
     ([Cena 5](../sessions/01_goblins.md#cena-5-klarg))
 
 ####
@@ -84,7 +84,7 @@
   * grupo derrota bugbears
     no [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
     ([Cena 2](../sessions/05_perda.md#cena-2-perda))
-  * [Droop](../casting/npcs/cragmaw/droop.md) diz foram enviados como reforço
+  * [Droop](../casting/npcs/cragmaw/redbrands/droop.md) diz foram enviados como reforço
     para os [Redbrands](redbrands.md)
     ([Cena 2](../sessions/05_perda.md#cena-2-perda))
 

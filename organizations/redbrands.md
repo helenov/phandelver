@@ -97,7 +97,7 @@
     que [Glasstaff](../casting/npcs/redbrands/glasstaff.md)
     é [Iarno Albrek](../casting/npcs/iarno_albrek.md)
     ([Cena 1](../sessions/05_perda.md#cena-1-carta))
-  * [Droop](../casting/npcs/cragmaw/droop.md) diz que foram enviados como
+  * [Droop](../casting/npcs/cragmaw/redbrands/droop.md) diz que foram enviados como
     reforço para os **Redbrands**
     ([Cena 2](../sessions/05_perda.md#cena-2-perda))
   * grupo recebe a recompensa por desmantelar os **Redbrands**

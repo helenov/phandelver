@@ -19,8 +19,8 @@
 ####
 
 * [Cragmaw Goblins](../../organizations/cragmaw_goblins.md)
-  * [Nosk](../../casting/npcs/cragmaw/nosk.md) (RIP), líder bugbear
-  * [Droop](../../casting/npcs/cragmaw/droop.md), goblin
+  * [Nosk](../../casting/npcs/cragmaw/redbrands/nosk.md) (RIP), líder bugbear
+  * [Droop](../../casting/npcs/cragmaw/redbrands/droop.md), goblin
   * bugbears
 
 ### Organizações
@@ -67,4 +67,4 @@
 * [Sessão 5 Perda](../../sessions/05_perda.md)
   * grupo derrota bugbears de [Wyvern Tor](../wyvern_tor.md) no **Esconderijo
     Redbrand** ([Cena 2](../../sessions/05_perda.md#cena-2-perda))
-  * grupo captura [Droop](../../casting/npcs/cragmaw/droop.md)
+  * grupo captura [Droop](../../casting/npcs/cragmaw/redbrands/droop.md)

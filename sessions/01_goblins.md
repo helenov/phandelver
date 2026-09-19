@@ -132,14 +132,14 @@ que para a direita goblins e lobos estão de prontidão aguardando.
 Se esgueirando para o lado esquerdo da ponte, [Ralf](../casting/pcs/ralf.md) vê
 que há outra sala com goblins, mas antes que a luz de sua lanterna possa revelar
 todo o espaço e ver quantos estão ali, uma voz que parece ser a de um líder
-ordena que pare, caso contrário "[Yeemik](../casting/npcs/cragmaw/yeemik.md)
+ordena que pare, caso contrário "[Yeemik](../casting/npcs/cragmaw/hideout/yeemik.md)
 matar humano!".
 
 Ralf propõe pagar um resgate pelo "humano", ao que o líder pede 50 gp, mas o
 halfling diz que não tem este dinheiro todo e oferece 5 gp. O líder fala, então,
 que
 "libertar humano, se trazer cabeça
-de [Klarg](../casting/npcs/cragmaw/klarg.md)\". Nisso uma voz humana, que parece
+de [Klarg](../casting/npcs/cragmaw/hideout/klarg.md)\". Nisso uma voz humana, que parece
 ser a de [Sildar](../casting/npcs/sildar_hallwinter.md), grita dizendo que não
 devem confiar neles, "é mais importante
 resgatarem [Gundren](../casting/npcs/gundren_rockseeker.md)". Fica, então, claro
@@ -171,7 +171,7 @@ diversos.
 
 Quando [Ralf](../casting/pcs/ralf.md) avança para atacar o lobo, sai de trás de
 algumas caixas um bugbear que logo o ataca, tentando intimidar o grupo
-"[Klarg](../casting/npcs/cragmaw/klarg.md) ordena que invasores vão embora!".
+"[Klarg](../casting/npcs/cragmaw/hideout/klarg.md) ordena que invasores vão embora!".
 
 A princípio bugbear parece estar sozinho, mas após bradar que seus "Lacaios
 covardes expulsem invasores da caverna de Klarg!", três goblins relutantes
@@ -197,9 +197,9 @@ recuperar?
 
 ### Elenco
 
-* [Yeemik](../casting/npcs/cragmaw/yeemik.md), rival do chefe
+* [Yeemik](../casting/npcs/cragmaw/hideout/yeemik.md), rival do chefe
 * [Sildar Hallwinter](../casting/npcs/sildar_hallwinter.md), prisioneiro
-* [Klarg](../casting/npcs/cragmaw/klarg.md), chefe
+* [Klarg](../casting/npcs/cragmaw/hideout/klarg.md), chefe
 * goblins
 * lobos
 

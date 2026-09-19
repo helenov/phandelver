@@ -9,14 +9,14 @@
 
 ### Personagens
 
-* [Nosk](../casting/npcs/cragmaw/nosk.md) (RIP), líder enviado
+* [Nosk](../casting/npcs/cragmaw/redbrands/nosk.md) (RIP), líder enviado
   ao [Esconderijo Redbrand](phandalin/redbrand_hideout.md)
-* [Droop](../casting/npcs/cragmaw/droop.md), goblin enviado
+* [Droop](../casting/npcs/cragmaw/redbrands/droop.md), goblin enviado
   ao [Esconderijo Redbrand](phandalin/redbrand_hideout.md)
 
 ####
 
-* [Brughor](../casting/npcs/cragmaw/brughor.md), chefe local
+* [Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md), chefe local
 
 ### Organizações
 
@@ -30,7 +30,7 @@
 ### Referências
 
 * [Sessão 5 Perda](../sessions/05_perda.md)
-  * [Droop](../casting/npcs/cragmaw/droop.md) diz que ele e os bugbear
+  * [Droop](../casting/npcs/cragmaw/redbrands/droop.md) diz que ele e os bugbear
     são [Cragmaw Goblins](../organizations/cragmaw_goblins.md) vindos de
     **Wyvern Tor** ([Cena 2](../sessions/05_perda.md#cena-2-perda))
 
@@ -47,6 +47,6 @@
 ####
 
 * [Sessão 7 Floresta](../sessions/07_floresta.md)
-  * [Brughor](../casting/npcs/cragmaw/brughor.md) indica a localização
+  * [Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md) indica a localização
     do [Castelo Cragmaw](cragmaw_castle.md) partindo de **Wyvern Tor**
     ([Cena 1](../sessions/07_floresta.md#cena-1-brughor))

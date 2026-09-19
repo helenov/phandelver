@@ -25,7 +25,7 @@ _próxima_ : [Sessão 8 Venomfang](08_venomfang.md)
 
 ![Um mapa desenhado rusticamente no chão de uma caverna, iluminado por tochas, mostrando a Floresta e o Rio Neverwinter indicando a localização do Castelo Cragmaw.](../images/sessions/07_floresta/07_1_brughor.png)
 
-[Brughor](../casting/npcs/cragmaw/brughor.md), sob ameaças, fez um desenho no
+[Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md), sob ameaças, fez um desenho no
 chão da caverna indicando onde estão agora,
 em [Wyvern Tor](../locations/wyvern_tor.md), e onde fica
 o [Castelo Cragmaw](../locations/cragmaw_castle.md)
@@ -150,7 +150,7 @@ pela [Floresta Neverwinter](../locations/neverwinter_wood.md) para noroeste até
 encontrarem o [Rio Neverwinter](../locations/neverwinter_river.md) e de lá
 seguir para oeste procurando
 pelo [Castelo Cragmaw](../locations/cragmaw_castle.md) como indicado pelo mapa
-de [Brughor](../casting/npcs/cragmaw/brughor.md).
+de [Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md).
 
 Com [Jeremias](../casting/pcs/jeremias.md) guiando o caminho, ao final do
 terceiro dia, enquanto já procuram um lugar para acampar, encontram um ninho
@@ -308,7 +308,7 @@ atrapalhar seus planos". Entendeu que o tal druida mora na vila.
 ### Elenco
 
 * [Wyvern Tor](../locations/wyvern_tor.md)
-  * [Brughor](../casting/npcs/cragmaw/brughor.md), líder local
+  * [Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md), líder local
 
 ####
 
@@ -355,7 +355,7 @@ atrapalhar seus planos". Entendeu que o tal druida mora na vila.
 ### Itens
 
 * [Wyvern Tor](../locations/wyvern_tor.md)
-  * [Brughor](../casting/npcs/cragmaw/brughor.md)
+  * [Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md)
     ([Cena 1](#cena-1-brughor))
     * ~200 moedas
       * 180 sp, 15 ep

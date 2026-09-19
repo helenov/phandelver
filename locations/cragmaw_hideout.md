@@ -8,8 +8,8 @@
 
 ### Personagens
 
-* [Klarg](../casting/npcs/cragmaw/klarg.md) (RIP), antigo chefe local
-* [Yeemik](../casting/npcs/cragmaw/yeemik.md), novo chefe local
+* [Klarg](../casting/npcs/cragmaw/hideout/klarg.md) (RIP), antigo chefe local
+* [Yeemik](../casting/npcs/cragmaw/hideout/yeemik.md), novo chefe local
 * goblins
 * lobos
 
@@ -29,7 +29,7 @@
 * [Sessão 1 Goblins](../sessions/01_goblins.md)
   * grupo encontra e explora o **Esconderijo Cragmaw**
     ([Cenas 2 a 5](../sessions/01_goblins.md#cena-2-caverna))
-  * grupo derrota [Klarg](../casting/npcs/cragmaw/klarg.md) em combate
+  * grupo derrota [Klarg](../casting/npcs/cragmaw/hideout/klarg.md) em combate
     ([Cena 5](../sessions/01_goblins.md#cena-5-klarg))
 
 ####

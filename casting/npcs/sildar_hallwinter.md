@@ -54,7 +54,7 @@ do que julga seu amigo otimista.
 ####
 
 * [Sessão 1 Goblins](../../sessions/01_goblins.md)
-  * prisioneiro de [Yeemik](cragmaw/yeemik.md)
+  * prisioneiro de [Yeemik](cragmaw/hideout/yeemik.md)
     ([Cena 4](../../sessions/01_goblins.md#cena-4-negociação))
 
 ####

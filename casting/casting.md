@@ -54,12 +54,12 @@
 
 * [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
   * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
-    * [Klarg](npcs/cragmaw/klarg.md) (RIP), antigo chefe local
-    * [Yeemik](npcs/cragmaw/yeemik.md), novo chefe local
-    * [Flip](npcs/cragmaw/flip.md), goblin interrogado
+    * [Klarg](npcs/cragmaw/hideout/klarg.md) (RIP), antigo chefe local
+    * [Yeemik](npcs/cragmaw/hideout/yeemik.md), novo chefe local
+    * [Flip](npcs/cragmaw/hideout/flip.md), goblin interrogado
   * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
-    * [Nosk](npcs/cragmaw/nosk.md) (RIP), líder bugbear
-    * [Droop](npcs/cragmaw/droop.md), goblin capturado
+    * [Nosk](npcs/cragmaw/redbrands/nosk.md) (RIP), líder bugbear
+    * [Droop](npcs/cragmaw/redbrands/droop.md), goblin capturado
 
 ####
 
@@ -77,7 +77,7 @@
 ####
 
 * [Wyvern Tor](../locations/wyvern_tor.md)
-  * [Brughor](npcs/cragmaw/brughor.md), líder local
+  * [Brughor](npcs/cragmaw/wyvern_tor/brughor.md), líder local
 
 ####
 
@@ -107,7 +107,7 @@
 ####
 
 * [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
-  * [Grol](npcs/cragmaw/grol.md), rei
+  * [Grol](npcs/cragmaw/castle/grol.md), rei
 
 ####
 

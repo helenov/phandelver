@@ -33,7 +33,7 @@ _próxima_ : [Sessão 3 Redbrands](03_redbrands.md)
 
 ![Uma caverna com uma fogueira ao centro, esta cheia de caixas e sacos de suprimentos roubados.](../images/sessions/02_phandalin/02_1_decisoes.jpeg)
 
-Após derrotarem [Klarg](../casting/npcs/cragmaw/klarg.md), o grupo investiga a
+Após derrotarem [Klarg](../casting/npcs/cragmaw/hideout/klarg.md), o grupo investiga a
 sala onde estão guardados os carregamentos roubados
 pelos [Cragmaw](../organizations/cragmaw_goblins.md):
 muitas caixas e sacos de suprimentos, com o símbolo
@@ -48,7 +48,7 @@ anão [Gundren](../casting/npcs/gundren_rockseeker.md).
 
 Após [Sapão](../casting/pcs/silas.md) e [Professor](../casting/pcs/professor.md)
 tomarem as poções de cura e se recuperarem, se preparam para levar o corpo de
-Klarg para [Yeemik](../casting/npcs/cragmaw/yeemik.md)
+Klarg para [Yeemik](../casting/npcs/cragmaw/hideout/yeemik.md)
 do outro lado da caverna.
 
 Sapão houve rosnados e sons de ossos triturados vindos do canto da sala que
@@ -67,13 +67,13 @@ Ao se aproximarem da câmara a oeste da caverna, ouvem que os goblins parecem j�
 estar comemorando por antecipação.
 
 Chegando na entrada, são saldados
-por [Yeemik](../casting/npcs/cragmaw/yeemik.md) e seus companheiros, que urram
-de alegria ao ver o corpo de [Klarg](../casting/npcs/cragmaw/klarg.md). Há um
+por [Yeemik](../casting/npcs/cragmaw/hideout/yeemik.md) e seus companheiros, que urram
+de alegria ao ver o corpo de [Klarg](../casting/npcs/cragmaw/hideout/klarg.md). Há um
 impasse quando o grupo pede que [Sildar](../casting/npcs/sildar_hallwinter.md)
 seja liberto: Yeemik quer um pagamento de 50 gp, ou "humano morre!".
 
 Perguntado sobre o anão, Yeemik informa que Klarg tinha ordens
-de [Grol](../casting/npcs/cragmaw/grol.md), o rei, para
+de [Grol](../casting/npcs/cragmaw/castle/grol.md), o rei, para
 capturar [Gundren](../casting/npcs/gundren_rockseeker.md) e enviá-lo
 ao [Castelo Cragmaw](../locations/cragmaw_castle.md). E ainda acrescenta que o
 rei estaria atendendo a um pedido de um tal
@@ -123,16 +123,16 @@ ou algo do tipo. Ele teme que agora esta informação esteja com os
 De volta a estrada, o grupo surpreende três goblins fugitivos que estão mexendo
 na carroça. Os três fogem ao serem surpreendidos, mas um deles é ferido e,
 alcançado por [Sapão](../casting/pcs/silas.md), se rende.
-"[Flip](../casting/npcs/cragmaw/flip.md) não quer morrer!"
+"[Flip](../casting/npcs/cragmaw/hideout/flip.md) não quer morrer!"
 
 Interrogado, Flip informa que sabe que
 o [Castelo Cragmaw](../locations/cragmaw_castle.md) fica na floresta a nordeste
 dali, mas não sabe exatamente onde -
-"Só [Klarg](../casting/npcs/cragmaw/klarg.md) sabia". Também menciona os
+"Só [Klarg](../casting/npcs/cragmaw/hideout/klarg.md) sabia". Também menciona os
 "goblins estranhos" e diz ter medo deles. Também não sabe quem é Spider, mas já
 ouviu falar dele "Tenho medo
 dele... [Spider](../casting/npcs/mentions/spider.md)
-mandar em [Grol](../casting/npcs/cragmaw/grol.md)"
+mandar em [Grol](../casting/npcs/cragmaw/castle/grol.md)"
 
 Após ser ameaçado é liberado e corre para o mato, sem olhar para trás, por onde
 seus companheiros haviam fugido.
@@ -469,8 +469,8 @@ na manhã seguinte para que ela os leve até o local.
 
 #### No [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
 
-* [Yeemik](../casting/npcs/cragmaw/yeemik.md), novo chefe
-* [Flip](../casting/npcs/cragmaw/flip.md), goblin interrogado
+* [Yeemik](../casting/npcs/cragmaw/hideout/yeemik.md), novo chefe
+* [Flip](../casting/npcs/cragmaw/hideout/flip.md), goblin interrogado
 * goblins
 * lobos
 
@@ -508,8 +508,8 @@ na manhã seguinte para que ela os leve até o local.
 ####
 
 * [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
-  * [Klarg](../casting/npcs/cragmaw/klarg.md) (RIP), antigo chefe
-  * [Grol](../casting/npcs/cragmaw/grol.md), rei
+  * [Klarg](../casting/npcs/cragmaw/hideout/klarg.md) (RIP), antigo chefe
+  * [Grol](../casting/npcs/cragmaw/castle/grol.md), rei
 
 ####
 
@@ -580,10 +580,10 @@ na manhã seguinte para que ela os leve até o local.
 ####
 
 * [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
-  * [Klarg](../casting/npcs/cragmaw/klarg.md) ([Cena 1](#cena-1-decisões))
+  * [Klarg](../casting/npcs/cragmaw/hideout/klarg.md) ([Cena 1](#cena-1-decisões))
     * ~2000 moedas
       * ~50 moedas &ndash; _deixadas
-        com [Yeemik](../casting/npcs/cragmaw/yeemik.md)_
+        com [Yeemik](../casting/npcs/cragmaw/hideout/yeemik.md)_
       * 1652 cp, 146 sp
     * 2 poções de healing &ndash; _consumidas_
     * [sapinho de jade]

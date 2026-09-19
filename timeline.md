@@ -36,7 +36,7 @@
 
 ####
 
-* interrogatório de [Flip](casting/npcs/cragmaw/flip.md), o goblin
+* interrogatório de [Flip](casting/npcs/cragmaw/hideout/flip.md), o goblin
   * [Sessão 2](sessions/02_phandalin.md): [Cena 4](sessions/02_phandalin.md#cena-4-interrogatório)
 
 ---

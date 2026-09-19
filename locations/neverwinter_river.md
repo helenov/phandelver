@@ -28,7 +28,7 @@
 ### Referências
 
 * [Sessão 7 Floresta](../sessions/07_floresta.md)
-  * [Brughor](../casting/npcs/cragmaw/brughor.md) indica que
+  * [Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md) indica que
     o [Castelo Cragmaw](cragmaw_castle.md)
     fica próximo ao **Rio Neverwinter**
     ([Cena 1](../sessions/07_floresta.md#cena-1-brughor))

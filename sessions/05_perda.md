@@ -99,7 +99,7 @@ apenas para encontrá-lo já sem vida.
 
 Enquanto lamentam a perda do elfo, o goblin desmaiado finalmente acorda. Vendo
 que seus algózes foram derrotados, o goblin implora aos seus salvadores "P-por
-favor... Não matem [Droop](../casting/npcs/cragmaw/droop.md)! Droop não fez
+favor... Não matem [Droop](../casting/npcs/cragmaw/redbrands/droop.md)! Droop não fez
 nada!"
 
 Droop diz ser um [Cragmaw](../organizations/cragmaw_goblins.md) que foi mandado
@@ -108,7 +108,7 @@ a localização do [Castelo Cragmaw](../locations/cragmaw_castle.md), diz que ve
 de [Wyvern Tor](../locations/wyvern_tor.md) e que nunca esteve no castelo, só
 sabe que "fica escondido na floresta ao norte", claramente
 a [Floresta Neverwinter](../locations/neverwinter_wood.md), e apontando para o
-líder morto, "Droop acha que [Nosk](../casting/npcs/cragmaw/nosk.md) sabia..."
+líder morto, "Droop acha que [Nosk](../casting/npcs/cragmaw/redbrands/nosk.md) sabia..."
 
 O líder era um bugbear corpulento que usava um tapa-olho de couro preto
 cravejado de pequenas pedras preciosas. Retirado o tapa-olho, percebem que Nosk,
@@ -235,8 +235,8 @@ olhar alerta. "Alto lá, [Frodo](../casting/pcs/companions/frodo.md)!"
 ####
 
 * [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
-  * [Nosk](../casting/npcs/cragmaw/nosk.md) (RIP), líder bugbear
-  * [Droop](../casting/npcs/cragmaw/droop.md), goblin medroso
+  * [Nosk](../casting/npcs/cragmaw/redbrands/nosk.md) (RIP), líder bugbear
+  * [Droop](../casting/npcs/cragmaw/redbrands/droop.md), goblin medroso
   * bugbears
 
 ####

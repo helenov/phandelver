@@ -67,11 +67,11 @@
 
 #### [Esconderijo Cragmaw](../locations/cragmaw_hideout.md)
 
-* [Klarg](../casting/npcs/cragmaw/klarg.md)
+* [Klarg](../casting/npcs/cragmaw/hideout/klarg.md)
   ([Sessão 2 Cena 1](../sessions/02_phandalin.md#cena-1-decisões))
   * ~2000 moedas
     * ~50 moedas &ndash; _deixadas
-      com [Yeemik](../casting/npcs/cragmaw/yeemik.md)_
+      com [Yeemik](../casting/npcs/cragmaw/hideout/yeemik.md)_
     * 1652 cp, 146 sp &ndash;
       _na [Prefeitura](../locations/phandalin/townmasters_hall.md)_
   * 2 poções de healing &ndash; _consumidas_
@@ -136,7 +136,7 @@
 
 #### [Wyvern Tor](../locations/wyvern_tor.md)
 
-* [Brughor](../casting/npcs/cragmaw/brughor.md)
+* [Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md)
   ([Sessão 7 Cena 1](../sessions/07_floresta.md#cena-1-brughor))
   * ~200 moedas
     * 180 sp, 15 ep &ndash; _com grupo_

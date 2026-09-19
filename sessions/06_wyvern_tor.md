@@ -186,7 +186,7 @@ local, para ser acordado e interrogado.
 
 Se vendo sem opções, o bugbear diz que são um grupo
 dos [Cragmaw Goblins](../organizations/cragmaw_goblins.md), mas que apenas seu
-líder, um orc chamado [Brughor](../casting/npcs/cragmaw/brughor.md), sabe a
+líder, um orc chamado [Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md), sabe a
 localização do [Castelo Cragmaw](../locations/cragmaw_castle.md). Deixando o
 prisioneiro amarrado e amordaçado, o grupo volta para a entrada do esconderijo
 do bando.
@@ -207,7 +207,7 @@ a localização da sede
 dos [Cragmaw Goblins](../organizations/cragmaw_goblins.md).
 
 Desconfiados da informação, o grupo pretende levá-lo como prisioneiro, mas
-[Brughor](../casting/npcs/cragmaw/brughor.md) não está nada satisfeito com este
+[Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md) não está nada satisfeito com este
 arranjo.
 
 ---
@@ -233,7 +233,7 @@ arranjo.
 ####
 
 * [Wyvern Tor](../locations/wyvern_tor.md)
-  * [Brughor](../casting/npcs/cragmaw/brughor.md), líder local
+  * [Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md), líder local
   * bugbears
 
 #### Mencionados

@@ -12,7 +12,7 @@
 
 ### Relações
 
-* [Grol](../cragmaw/grol.md), aliado
+* [Grol](../cragmaw/castle/grol.md), aliado
 * [Iarno Albrek](../iarno_albrek.md), aliado
 
 [//]: # (### Organizações)
@@ -26,14 +26,14 @@
 ### Referências
 
 * [Sessão 2 Phandalin](../../../sessions/02_phandalin.md)
-  * [Yeemik](../cragmaw/yeemik.md) diz que a ordem de
+  * [Yeemik](../cragmaw/hideout/yeemik.md) diz que a ordem de
     capturar [Gundren](../gundren_rockseeker.md) foi a pedido de **Spider**
     ([Cena 2](../../../sessions/02_phandalin.md#cena-2-troca))
   * [Sildar](../sildar_hallwinter.md) confirma que a ordem para
     capturar [Gundren](../gundren_rockseeker.md) seria a pedido de **Spider**
     ([Cena 3](../../../sessions/02_phandalin.md#cena-3-sildar))
-  * [Flip](../cragmaw/flip.md) diz que **Spider** "manda"
-    em [Grol](../cragmaw/grol.md)
+  * [Flip](../cragmaw/hideout/flip.md) diz que **Spider** "manda"
+    em [Grol](../cragmaw/castle/grol.md)
     ([Cena 4](../../../sessions/02_phandalin.md#cena-4-interrogatório))
 
 ####
