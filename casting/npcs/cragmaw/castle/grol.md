@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Grol<!--, <small>_bugbear_</small>-->
+## Grol, <small>_bugbear_</small>
 
 [//]: # (<!-- @formatter:off -->)
 [//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
@@ -19,11 +19,13 @@
 
 ####
 
-* [Brughor](../wyvern_tor/brughor.md), chefe em [Wyvern Tor](../../../../locations/wyvern_tor.md)
+* [Brughor](../wyvern_tor/brughor.md), chefe
+  em [Wyvern Tor](../../../../locations/wyvern_tor.md)
 
 ####
 
-* [Lhupo](lhupo.md) (RIP), sacerdote de [Maglubieyt](../../deities/maglubieyt.md)
+* [Lhupo](lhupo.md) (RIP), sacerdote
+  de [Maglubieyt](../../deities/maglubieyt.md)
 
 ####
 
@@ -33,20 +35,36 @@
 
 * [Cragmaw Goblins](../../../../organizations/cragmaw_goblins.md), rei
 
+### Locais
+
+* [Castelo Cragmaw](../../../../locations/cragmaw_castle.md), base
+
+[//]: # (### Itens)
+[//]: # ()
+[//]: # (* {item}, {detalhe})
+
 ### Referências
 
 * [Sessão 2 Phandalin](../../../../sessions/02_phandalin.md)
   * [Yeemik](../hideout/yeemik.md) diz que a ordem de
     capturar [Gundren](../../gundren_rockseeker.md) veio de **Grol**
     ([Cena 2](../../../../sessions/02_phandalin.md#cena-2-troca))
-  * [Flip](../hideout/flip.md) diz que [Spider](../../mentions/spider.md) "manda" em **Grol**
+  * [Flip](../hideout/flip.md) diz que [Spider](../../mentions/spider.md)
+    "manda" em **Grol**
     ([Cena 4](../../../../sessions/02_phandalin.md#cena-4-interrogatório))
 
 ####
 
 * [Sessão 10 Castelo](../../../../sessions/10_castelo.md)
-  * [Faelar](../../../pcs/faelar.md) diz que hobgoblins se referiam a **Grol** como
-    bugbear ([Cena 2](../../../../sessions/10_castelo.md#cena-2-faelar))
+  * [Faelar](../../../pcs/faelar.md) diz que hobgoblins se referiam a **Grol**
+    como um bugbear ([Cena 2](../../../../sessions/10_castelo.md#cena-2-faelar))
+
+####
+
+* [Sessão 11 Barricadas](../../../../sessions/11_barricadas.md)
+  * grupo encontra o rei **Grol**
+    no [Castelo Cragmaw](../../../../locations/cragmaw_castle.md)
+    ([Cena 4](../../../../sessions/11_barricadas.md#cena-4-grol))
 
 [//]: # (####)
 [//]: # ()

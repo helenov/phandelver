@@ -186,7 +186,7 @@ dizendo, "Vamos logo acabar com isso! Me entregue o mapa e [Spider] será
 generoso em sua gratidão. Pode ficar com o anão!"
 
 "Cala boca, frangote!", replica uma voz rouca e trovejante, "Anão quase morto,
-não valer nada para [Grol]! Se não ajudar, ficar fora do caminho! Depois que
+não valer nada para [Grol](../casting/npcs/cragmaw/castle/grol.md)! Se não ajudar, ficar fora do caminho! Depois que
 Grol esmagar invasores, voltar a conversar!"
 
 Os hobgoblins acabam sendo eliminados pelo ataque conjunto
@@ -201,7 +201,7 @@ e [Bia](../casting/pcs/companions/bia.md).
 
 "Sua estratégia estúpida nos deixou sem rotas de fuga!"
 
-"Homenzinho franguinho! Hahaha!! [Grol] não fugir! Grol poderoso! [Yepp], se
+"Homenzinho franguinho! Hahaha!! [Grol](../casting/npcs/cragmaw/castle/grol.md) não fugir! Grol poderoso! [Yepp], se
 necessário, acabar com o anão. [Snarl], ficar... "
 
 Neste momento, [Ralf](../casting/pcs/ralf.md) abre a porta e é imediatamente
@@ -236,12 +236,12 @@ anão desacordado, enquanto aponta grande faca contra seu pescoço: "[Gundren]!"
 
 ####
 
-* [Grol], rei
+* [Grol](../casting/npcs/cragmaw/castle/grol.md), rei
   * [Snarl], lobo
   * [Yepp], cozinheiro
   * goblins
 * [Iarno Albrek], mago
-* [Gundren Rockseeker], anão
+* [Gundren Rockseeker], anão desacordado
 
 #### Mencionados
 
@@ -249,7 +249,7 @@ anão desacordado, enquanto aponta grande faca contra seu pescoço: "[Gundren]!"
 
 ####
 
-* [Spider]
+* [Spider], vilão
 
 ### Cenários
 

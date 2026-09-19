@@ -60,7 +60,10 @@
   * [Esconderijo Redbrand](../locations/phandalin/redbrand_hideout.md)
     * [Nosk](npcs/cragmaw/redbrands/nosk.md) (RIP), líder bugbear
     * [Droop](npcs/cragmaw/redbrands/droop.md), goblin capturado
+  * [Wyvern Tor](../locations/wyvern_tor.md)
+    * [Brughor](npcs/cragmaw/wyvern_tor/brughor.md), líder local
   * [Castelo Cragmaw](../locations/cragmaw_castle.md)
+    * [Grol](npcs/cragmaw/castle/grol.md), rei
     * [Lhupo](npcs/cragmaw/castle/lhupo.md) (RIP), sacerdote
       de [Maglubieyt](npcs/deities/maglubieyt.md)
       * [Grick](npcs/cragmaw/castle/grick.md) (RIP), mascote
@@ -77,11 +80,6 @@
 * [Poço da Velha Coruja](../locations/old_owl_well.md)
   * [Hamun Kost](npcs/hamun_kost.md),
     necromante [Red Wizard](../organizations/red_wizards.md)
-
-####
-
-* [Wyvern Tor](../locations/wyvern_tor.md)
-  * [Brughor](npcs/cragmaw/wyvern_tor/brughor.md), líder local
 
 ####
 
@@ -107,11 +105,6 @@
   * [Halia Thornton](npcs/phandalin/halia_thornton.md), mestre da guilda dos
     mineradores
   * [Thel Dendrar](npcs/phandalin/dendrar/thel_dendrar.md) (RIP), carpinteiro
-
-####
-
-* [Cragmaw Goblins](../organizations/cragmaw_goblins.md)
-  * [Grol](npcs/cragmaw/castle/grol.md), rei
 
 ####
 

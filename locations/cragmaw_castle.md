@@ -10,10 +10,13 @@
 ### Personagens
 
 * [Grol](../casting/npcs/cragmaw/castle/grol.md), rei
+* [Lhupo](../casting/npcs/cragmaw/castle/lhupo.md) (RIP), sacerdote
+  * [Grick](../casting/npcs/cragmaw/castle/grick.md) (RIP), mascote
+  * goblins (RIP), acólitos
 
-####  
+####   
 
-* [Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md), refúgio
+* [Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md), foragido
 
 ### Organizações
 
@@ -34,12 +37,13 @@
     que [Gundren](../casting/npcs/gundren_rockseeker.md) teria sido enviado para
     o **Castelo Cragmaw**
     ([Cena 3](../sessions/02_phandalin.md#cena-3-sildar))
-  * [Flip](../casting/npcs/cragmaw/hideout/flip.md) diz que o **Castelo Cragmaw**
+  * [Flip](../casting/npcs/cragmaw/hideout/flip.md) diz que o **Castelo
+    Cragmaw**
     fica na [Floresta Neverwinter](neverwinter_wood.md)
     ([Cena 4](../sessions/02_phandalin.md#cena-4-interrogatório))
   * [Flip](../casting/npcs/cragmaw/hideout/flip.md) diz que
-    apenas [Klarg](../casting/npcs/cragmaw/hideout/klarg.md) sabia a localização exata
-    ([Cena 4](../sessions/02_phandalin.md#cena-4-interrogatório))
+    apenas [Klarg](../casting/npcs/cragmaw/hideout/klarg.md) sabia a localização
+    exata ([Cena 4](../sessions/02_phandalin.md#cena-4-interrogatório))
   * [Elsa](../casting/npcs/phandalin/stonehill/elsa.md) diz
     que [Daran](../casting/npcs/phandalin/daran_edermath.md) talvez saiba algo
     sobre o **Castelo Cragmaw**
@@ -54,12 +58,13 @@
 ####
 
 * [Sessão 5 Perda](../sessions/05_perda.md)
-  * [Droop](../casting/npcs/cragmaw/redbrands/droop.md) diz que o **Castelo Cragmaw**
+  * [Droop](../casting/npcs/cragmaw/redbrands/droop.md) diz que o **Castelo
+    Cragmaw**
     fica na [Floresta Neverwinter](neverwinter_wood.md)
     ([Cena 2](../sessions/05_perda.md#cena-2-perda))
   * [Droop](../casting/npcs/cragmaw/redbrands/droop.md) acha
-    que [Nosk](../casting/npcs/cragmaw/redbrands/nosk.md) sabia a localização exata
-    ([Cena 2](../sessions/05_perda.md#cena-2-perda))
+    que [Nosk](../casting/npcs/cragmaw/redbrands/nosk.md) sabia a localização
+    exata ([Cena 2](../sessions/05_perda.md#cena-2-perda))
   * [Sildar](../casting/npcs/sildar_hallwinter.md) reforça a importância de
     encontrar o **Castelo Cragmaw**
     ([Cena 4](../sessions/05_perda.md#cena-4-irmã-garaele))
@@ -70,15 +75,16 @@
   * [Sildar](../casting/npcs/sildar_hallwinter.md) sugere investigarem com os
     bandidos próximo a [Conyberry](../locations/conyberry.md)
     ([Cena 2](../sessions/06_wyvern_tor.md#cena-2-despedidas))
-  * [Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md) faz um mapa indicando a
-    localização do **Castelo Cragmaw**
+  * [Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md) faz um mapa
+    indicando a localização do **Castelo Cragmaw**
     ([Cena 5](../sessions/06_wyvern_tor.md#cena-5-wyvern-tor))
 
 ####
 
 * [Sessão 7 Floresta](../sessions/07_floresta.md)
-  * [Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md) indica a localização do
-    **Castelo Cragmaw** ([Cena 1](../sessions/07_floresta.md#cena-1-brughor))
+  * [Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md) indica a
+    localização do **Castelo Cragmaw**
+    ([Cena 1](../sessions/07_floresta.md#cena-1-brughor))
   * grupo procura pelo Castelo Cragmaw
     na [Floresta Neverwinter](neverwinter_wood.md)
     ([Cena 3 a 4](../sessions/07_floresta.md#cena-3-owlbear))

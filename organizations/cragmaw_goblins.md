@@ -13,6 +13,9 @@
 
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
   * [Grol](../casting/npcs/cragmaw/castle/grol.md), rei
+  * [Lhupo](../casting/npcs/cragmaw/castle/lhupo.md) (RIP), sacerdote
+    * [Grick](../casting/npcs/cragmaw/castle/grick.md) (RIP), mascote
+    * goblins (RIP), acólitos
 
 ####
 
