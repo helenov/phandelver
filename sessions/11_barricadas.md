@@ -93,60 +93,87 @@ funcionamento, resolve apenas a guardar para examinar mais tarde.
 
 :construction:
 
-> - Ralf abre a porta leste
-> - avança para o corredor
-> - vê barricadas a norte e a leste
-> - uma flecha de cada uma (erram)
->
-> - Jeremias corre para a sala do fundo (leste)
->   - se posiciona de modo a não ser alvo da "seteira" improvisada
->   - porta sul amarrada
->     - corda tensa leva da porta a barricada
->     - entende que se a corda for cortada a porta é liberada
->     - ouve guinchos que já ouviu antes
->
-> - Ralf está no fogo cruzado das barricadas
-> - Iron Shadow surge às suas costas
->   - ataca com socos e chutes
-> - Faelar revida com lâminas psíquicas
->
-> - Professor manda Bia por sobre a barricada norte
->   - descarga elétrica com quando toca
->   - hobgoblin morre instantaneamente
->
-> - Ralf briga com Iron Shadow
-> - Iron Shadow se teleporta para longe
->   - agora ataca Professor e Faelar arremessando dardos
->
-> - no leste, hobgoblins cortam a corda
-> - porta se abre
-> - owlbear furioso ataca Jeremias
-> - Professor e Ralf correm para ajudar
->
-> - Iron Shadow fica bastante ferida pelas adagas do Faelar e desaparece
-> - Faelar volta sua atenção para os hobgoblins das barricadas
-> - Iron Shadow reaparece, lança dardos e desaparece novamente
-> - Faelar bastante ferido busca se recuperar tomando uma dose na bebida dos
-    anões
->   - está se afastando do combate quando Jeremias o alcança e cura
-> - na volta se vê Iron Shadow tentando se esconder ao sul
->   - alvejada é derrubada
->
-> - owlbear tentando abrir espaço, atinge forte Ralf
-> - Professor ajuda com magic missiles
-> - owlbear acaba derrotado
->
-> - Ralf joga oleo na barricada
-> - Jeremias coloca fogo
-> - barricada começa a queimar
-> - Hobgoblins seguem atirando
-> - Ralf lembra do machado HEX e acelera a derrubada da barricada
->
-> - dois últimos bugbears
-> - encurralados em um porta
->   - sons de discussão acalorada vem de dentro da sala
->
-> - Ralf, Jeremias, Professor e Bia, eliminam os bugbears
+Na capela há duas portas: uma para leste, outra para oeste. Supondo corretamente
+que a porta oeste leva de volta ao hall de entrada do castelo, [Ralf] abre a
+porta leste, que leva um grande corredor, com diversos trechos ladeados pilhas
+de entulhos.
+
+A passagem norte está bloqueada por uma barricada alta feita de entulhos, caixas
+e barris. E também é possível ver que, num cômodo anexo a leste, também foi
+erguida uma barricada similar, com camas e mesas.
+
+Ao avançar para o corredor, uma fecha parte de cada barricada em sua direção,
+ambas erram, mas desperta a atenção do grupo que vem logo atrás.
+
+[Jeremias] corre para a sala do fundo, se posicionando de modo a não ser alvo da
+seteira improvisada. Nesta outra sala, vê que ao sul há uma porta que está
+amarrada com uma corda tensa que sae da porta e vai atá a barricada. Após uma
+rápida avaliação, entende que o arranjo foi feito de modo a, caso a corda seja
+solta ou cortada, a porta será liberada. De trás da porta, é possível ouvir
+guinchos estridentes que o elfo já ouvi antes em algum lugar.
+
+Enquanto isso [Ralf] está no fogo cruzado das duas barricadas, e a situação
+piora quando surge às suas costas uma hobgoblin esguia, usando trajes ajustados
+ao corpo que o ataca com socos e chutes muito ágeis. [Faelar] ajuda lançando
+suas lâminas psíquicas.
+
+[Professor] manda [Bia] por sobre a barricada mais próxima, e desfere uma
+descarga elétrica através dela em um dos dois hobgoblins que estavam ali e que
+morre imediatamente.
+
+[Ralf] luta com a hobgoblin, mas esta se teleporta para a sala de
+onde [Professor] e [Faelar] agiam a distância, e agora os ataca de longe
+lançando dardos que saca de seu cinto.
+
+No leste, enquanto [Jeremias] busca uma maneira de penetrar a barricada, os
+hobgoblins ali abrigados cortam a corda, ao que, quase imediatamente, a porta se
+escancara revelando um owlbear enfurecido que ataca Jeremias que está em seu
+caminho. Alertados pelo novo perigo, [Professor] e [Ralf] correm para ajudar o
+amigo.
+
+No oeste, a troca de arremessos entre a hobgoblin e [Faelar] favorece o elfo. Se
+vendo bastante ferida, a hobgoblin se teleporta desaparecendo da vista. Livre da
+adversária, [Faelar] volta sua atenção aos hobgoblins das barricadas, mas isso
+não dura muito, uma vez que a hobgoblin reaparece apenas para lançar mais dardos
+e desaparecer novamente.
+
+Agora bastante ferido [Faelar] aproveita o breve sossego para se aproximar
+de [Ralf] que carrega o [barril de aguardente], para tomar uma dose da bebida e
+se recuperar um pouco, antes de procurar se afastar do combate. Mas Jeremias o
+alcança e realiza uma de suas curas mágicas, tirando novo amigo do perigo mais
+imediato.
+
+Quando está voltando para a briga com o owlbear, vê de relance a hobgoblin se
+escondendo em um canto ao sul do corredor. Aproveita para alvejá-la vê que ela
+cai.
+
+O owlbear segue tentando abrir caminho, e atinge forte [Ralf],
+enquanto [Professor] lança mísseis mágicos contra a criatura. Tudo isso,
+enquanto os hobgoblins da barricada seguem atirando em quem aparece em seu
+ângulo de visão.
+
+Quando o owlbear acaba derrotado, [Ralf] joga óleo na barricada, ameaçando
+queimar os hobgoblins lá dentro. Em seguida, [Jeremias] não espera a reação dos
+inimigos e ateia fogo no óleo e a barricada começa a queimar. Os hobgoblins
+continuam atirando enquanto é possível, mas acabam recuando.
+
+[Ralf] então se lembra do [Machado Hew] que, pela lenda contada por [Jeremias],
+seria especialmente bom para cortar madeira, o que se mostra uma realidade,
+acelerando a abertura da barricada.
+
+Os dois últimos bugbears recuram e agora estão encurralados defendendo uma
+porta, de onde é possível discernir uma discussão intensa.
+
+"...não sabe com quem está lidando...", uma voz suplicante, mas urgente, está
+dizendo, "Vamos logo acabar com isso! Me entregue o mapa e [Spider] será
+generoso em sua gratidão. Pode ficar com o anão!"
+
+"Cala boca, frangote!", replica uma voz rouca e trovejante, "Anão quase morto,
+não valer nada para [Grol]! Se não ajudar, ficar fora do caminho! Depois que
+Grol esmagar invasores, voltar a conversar!"
+
+Os hobgoblins acabam sendo eliminados pelo ataque conjunto
+de [Ralf], [Jeremias], [Professor] e [Bia].
 
 ---
 
@@ -156,7 +183,7 @@ funcionamento, resolve apenas a guardar para examinar mais tarde.
 
 :construction:
 
-> - discussão dentro da sala (inserir)
+> - Ralf, Jeremias, Professor e Bia, eliminam os bugbears
 >
 > - Ralf abre a porta
 >   - pancada forte da morningstar de um bugbear corpulento
@@ -193,6 +220,10 @@ funcionamento, resolve apenas a guardar para examinar mais tarde.
   * goblins
 * [Iarno Albrek], mago
 * [Gundren Rockseeker], anão
+
+#### Mencionados
+
+* [Spider]
 
 ### Cenários
 
