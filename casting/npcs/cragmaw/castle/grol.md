@@ -23,7 +23,7 @@
 
 ####
 
-* [Lhupo](lhupo.md), sacerdote de [Maglubieyt](../../deities/maglubieyt.md)
+* [Lhupo](lhupo.md) (RIP), sacerdote de [Maglubieyt](../../deities/maglubieyt.md)
 
 ####
 

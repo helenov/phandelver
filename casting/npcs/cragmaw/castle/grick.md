@@ -14,7 +14,7 @@ seu bico faminto e afiado.
 
 ### Relações
 
-* [Lhupo](lhupo.md), mestre
+* [Lhupo](lhupo.md) (RIP), mestre
 
 [//]: # (### Organizações)
 [//]: # ()

@@ -13,7 +13,7 @@ heróis mortais e deuses imortais com punho de ferro.
 
 ### Relações
 
-* [Lhupo](../cragmaw/castle/lhupo.md), sacerdote
+* [Lhupo](../cragmaw/castle/lhupo.md) (RIP), sacerdote
 
 [//]: # (### Organizações)
 [//]: # ()
