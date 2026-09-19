@@ -15,6 +15,10 @@ Sacerdote de [Maglubieyt](../../deities/maglubieyt.md).
 * [Maglubieyt](../../deities/maglubieyt.md), deus goblin
 * [Grol](grol.md), rei
 
+####
+
+* [Grick](grick.md) (RIP), mascote
+
 ### Organizações
 
 * [Cragmaw Goblins](../../../../organizations/cragmaw_goblins.md), sacerdote
