@@ -31,8 +31,8 @@ este grimório, você deve segurá-lo com pelo menos uma das mãos.
 
 * **Frontline Retaliation.** When a creature within 5 feet of you fails a
   _saving throw_ against one of your Wizard cantrips, you can use your
-  _Reaction_ to physically slam your grimoire against them or release a pulse of
-  kinetic energy. The creature is pushed up to 10 feet horizontally away from
+  _Reaction_ to physically slam your grimoire against them and release a pulse
+  of kinetic energy. The creature is pushed up to 10 feet horizontally away from
   you.
 
 ### Locais
