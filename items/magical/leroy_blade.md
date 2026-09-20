@@ -10,9 +10,17 @@ bárbaro em combate, ela pulsa com uma energia vibrante e inquietante. Na base d
 lâmina, em letras diminutas embora refinadas, é possível se ler um nome: "Leroy
 J".
 
+[//]: # (### Sintonização)
+[//]: # ()
+[//]: # (* requires Attunement by {...})
+
 ### Propriedades
 
 * shortsword +1
+
+####
+
+* ...
 
 ### Locais
 

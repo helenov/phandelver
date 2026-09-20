@@ -23,6 +23,10 @@ sente um profundo desconforto sempre que anda por uma floresta, como se a
 própria natureza o estivesse observando constantemente.
 <br clear="left"/>
 
+[//]: # (### Sintonização)
+[//]: # ()
+[//]: # (* requires Attunement by {...})
+
 ### Propriedades
 
 * battleaxe +1

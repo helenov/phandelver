@@ -9,11 +9,11 @@ Esta **coleira** é feita de couro resistente cinza-claro e adornada com runas
 companheiro, sua pelagem parece soltar sutis fios de fumaça espectral ao se
 mover rapidamente.
 
-### Propriedades
+### Sintonização
 
 * requires Attunement by someone with a companion
 
-####
+### Propriedades
 
 * **Shared Attunement.** This item is worn by your companion, but the attunement
   process must be performed by you during a _Short_ or _Long Rest_. It occupies

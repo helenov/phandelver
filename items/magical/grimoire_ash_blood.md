@@ -9,11 +9,11 @@ monstruosa, com a lombada reforçada por placas de ferro serrilhadas. Runas que
 brilham com uma tênue luz vermelha fumegante estão gravadas na capa. Para usar
 este grimório, você deve segurá-lo com pelo menos uma das mãos.
 
-### Propriedades
+### Sintonização
 
 * requires Attunement by a Wizard
 
-####
+### Propriedades
 
 * **Spellcasting Focus.** You can use this grimoire as a _Spellcasting Focus_
   for your Wizard spells. While holding it, you gain a +1 bonus to Constitution
