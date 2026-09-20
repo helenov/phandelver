@@ -35,7 +35,7 @@ embriaguês fora de hora, ambos preferem parar na primeira dose.
 Após uma breve discussão sobre o caminho a seguir, Ralf abre a porta leste que
 leva a uma sala com um altar no centro. O altar de pedra está coberto por um
 papo preto manchado de sangue, sobre o que se encontram três objetos rituais de
-ouro: um cálice, uma faca e um incensário. Ao sul dois arcos idênticos,
+ouro: um [cálice], uma [faca] e um [incensário]. Ao sul dois arcos idênticos,
 encobertos por uma grossa cortina separam o ambiente de outra sala.
 
 Ralf, Jeremias e [Frodo](../casting/pcs/companions/frodo.md) entram cautelosos,
@@ -273,8 +273,8 @@ seu pescoço: "[Gundren](../casting/npcs/gundren_rockseeker.md)!"
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
   * altar ([Cena 1](#cena-1-altar))
     * [Lâmina Leroy](../../private/items/leroy_blade.md)
-    * cálice de ouro
-    * faca de ouro
-    * incensário de ouro
+    * [cálice de ouro]
+    * [faca de ouro]
+    * [incensário de ouro]
   * braseiro ([Cena 2](#cena-2-elfo-dourado))
     * [Elfo Dourado], estatueta

@@ -184,6 +184,14 @@
     _com [Professor](../casting/pcs/professor.md)_
   * [Barril de Aguardente Anão](objects/dwarven_brandy_cask.md) &ndash;
     _com [Ralf](../casting/pcs/ralf.md)_
+* altar ([Sessão 11 Cena 1](../sessions/11_barricadas#cena-1-altar))
+  * [Lâmina Leroy](../../private/items/leroy_blade.md) &ndash; _com [Ralf](../casting/pcs/ralf.md)_
+  * [cálice de ouro] &ndash; _com [Faelar](../casting/pcs/faelar.md)_
+  * [faca de ouro] &ndash; _com [Faelar](../casting/pcs/faelar.md)_
+  * [incensário de ouro] &ndash; _com [Faelar](../casting/pcs/faelar.md)_
+* braseiro
+  ([Sessão 11 Cena 2](../sessions/11_barricadas.md#cena-2-elfo-dourado))
+  * [Elfo Dourado], estatueta
 
 [//]: # (####)
 [//]: # ()
