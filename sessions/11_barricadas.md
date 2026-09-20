@@ -67,8 +67,9 @@ criatura, sem sofrer maiores danos.
 Após breve combate, Ralf pega a espada
 de [Lhupo](../casting/npcs/cragmaw/castle/lhupo.md) que verifica ser realmente
 especial: além da lâmina de aço esverdeado, o punho é ornado com faixas de couro
-trançadas de modo a lembrar escamas e a inscrição ["Leroy J"]. Faelar recolhe os
-itens de ouro que estava sobre o altar. E seguem todos para a sala ao sul das
+trançadas de modo a lembrar escamas das patas de um inseto e a
+inscrição ["Leroy J"](../items/magical/leroy_blade.md). Faelar recolhe os itens
+de ouro que estava sobre o altar. E seguem todos para a sala ao sul das
 cortinas.
 
 ---
@@ -124,8 +125,12 @@ lugar.
 
 Enquanto isso [Ralf](../casting/pcs/ralf.md) está no fogo cruzado das duas
 barricadas, e a situação piora quando surge às suas costas uma hobgoblin esguia,
-usando trajes ajustados ao corpo que o ataca com socos e chutes muito
-ágeis. [Faelar](../casting/pcs/faelar.md) ajuda lançando suas lâminas psíquicas.
+usando trajes ajustados ao corpo que o ataca com socos e chutes muito ágeis.
+
+Usando sua [nova espada](../../private/items/leroy_blade.md),
+[Ralf](../casting/pcs/ralf.md) sente a lâmina pulsar energia vibrante e
+inquietante, como se estivesse ansiosa pela
+luta. [Faelar](../casting/pcs/faelar.md) ajuda lançando suas lâminas psíquicas.
 
 [Professor](../casting/pcs/professor.md)
 manda [Bia](../casting/pcs/companions/bia.md) por sobre a barricada mais
@@ -267,7 +272,7 @@ seu pescoço: "[Gundren](../casting/npcs/gundren_rockseeker.md)!"
 
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
   * altar ([Cena 1](#cena-1-altar))
-    * [Lâmina Leroy]
+    * [Lâmina Leroy](../../private/items/leroy_blade.md)
     * cálice de ouro
     * faca de ouro
     * incensário de ouro
