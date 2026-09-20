@@ -2,7 +2,7 @@
 
 ## Lâmina Leroy, <small>_weapon (shortsword), uncommon_</small>
 
-![Lâmina Leroy](../../../private/images/items/leroy_blade.png)
+![Lâmina Leroy](../../images/items/leroy_blade.png)
 
 Esta **espada** possui uma lâmina fina e esverdeada e um cabo envolto em couro
 trançado que lembra as escamas das patas de um inseto. Quando empunhada por um
