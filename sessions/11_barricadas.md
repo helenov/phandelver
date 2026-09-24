@@ -24,7 +24,7 @@ _próxima_ : [Sessão 12] :construction: continua...
 
 ### Cena 1 Altar
 
-:construction: {Imagem}
+![11_1_altar.png](../images/sessions/11_altar/11_1_altar.png)
 
 Após o curto descanso, [Jeremias](../casting/pcs/jeremias.md)
 e [Ralf](../casting/pcs/ralf.md)
