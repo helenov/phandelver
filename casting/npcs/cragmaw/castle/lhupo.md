@@ -30,7 +30,7 @@ Sacerdote de [Maglubieyt](../../deities/maglubieyt.md).
 
 ### Itens
 
-* [Lâmina Leroy], antigo portador
+* [Lâmina Leroy](../../../../items/magical/leroy_blade.md), antigo portador
 
 ### Referências
 

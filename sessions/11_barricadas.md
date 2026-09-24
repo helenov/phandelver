@@ -233,8 +233,6 @@ seu pescoço: "[Gundren](../casting/npcs/gundren_rockseeker.md)!"
 
 ### Elenco
 
-:construction:
-
 * [Lhupo](../casting/npcs/cragmaw/castle/lhupo.md), sacerdote
   * [Grick](../casting/npcs/cragmaw/castle/grick.md), mascote
   * goblins, acólitos
@@ -268,8 +266,6 @@ seu pescoço: "[Gundren](../casting/npcs/gundren_rockseeker.md)!"
 
 ### Itens
 
-:construction:
-
 * [Castelo Cragmaw](../locations/cragmaw_castle.md)
   * altar ([Cena 1](#cena-1-altar))
     * [Lâmina Leroy](../../private/items/leroy_blade.md)
@@ -277,4 +273,4 @@ seu pescoço: "[Gundren](../casting/npcs/gundren_rockseeker.md)!"
     * [faca de ouro]
     * [incensário de ouro]
   * braseiro ([Cena 2](#cena-2-elfo-dourado))
-    * [Elfo Dourado], estatueta
+    * [Elfo Dourado](../items/magical/golden_elf.md), estatueta

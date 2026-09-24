@@ -191,7 +191,7 @@
   * [incensário de ouro] &ndash; _com [Faelar](../casting/pcs/faelar.md)_
 * braseiro
   ([Sessão 11 Cena 2](../sessions/11_barricadas.md#cena-2-elfo-dourado))
-  * [Elfo Dourado], estatueta
+  * [Elfo Dourado](magical/golden_elf.md), estatueta
 
 [//]: # (####)
 [//]: # ()

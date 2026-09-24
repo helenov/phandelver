@@ -37,6 +37,7 @@
 * scroll misty step
 * scroll lighting bolt
 * [Grimório de Cinzas e Sangue](magical/grimoire_ash_blood.md)
+* [Elfo Dourado](magical/golden_elf.md)
 
 #### Com [Jeremias](../casting/pcs/jeremias.md)
 
