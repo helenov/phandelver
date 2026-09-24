@@ -76,7 +76,7 @@ cortinas.
 
 ### Cena 2 Elfo Dourado
 
-:construction: {Imagem}
+![11_2_elfo_dourado.png](../images/sessions/11_altar/11_2_elfo_dourado.png)
 
 O salão ao sul das cortinas é quase completamente escuro, exceto por uma tênue
 luz que entra pelo alto de uma de suas paredes que está desmoronada.
