@@ -6,7 +6,9 @@
 <img alt="Irmã Garaele" src="../../../images/characters/phandalin/sister_garaele.png" style="width:300px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
-:construction: {Texto}
+Clériga de [Tymora], responsável
+pelo [Santuário da Fortuna](../../../locations/phandalin/luck_shrine.md),
+em [Phandalin](../../../locations/phandalin.md).
 <br clear="left"/>
 
 ### Relações

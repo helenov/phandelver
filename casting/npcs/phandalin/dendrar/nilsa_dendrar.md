@@ -7,7 +7,9 @@
 [//]: # (<!-- @formatter:on -->)
 :construction: {Imagem}
 
-:construction: {Texto}
+Filha do carpinteiro [Thel Dendrar](thel_dendrar.md). Capturada
+pelos [Redbrands](../../../../organizations/redbrands.md), depois libertada pelo
+grupo.
 <br clear="left"/>
 
 ### Relações

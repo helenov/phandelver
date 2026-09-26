@@ -6,7 +6,8 @@
 <img alt="Carp Alderleaf" src="../../../../images/characters/phandalin/carp_alderleaf.png" style="width:200px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
-:construction: {Texto}
+Garota alegre e aventureira, filha da
+fazendeira [Qelline Alderleaf](qelline_alderleaf.md).
 <br clear="left"/>
 
 ### Relações

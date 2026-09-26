@@ -7,7 +7,7 @@
 [//]: # (<!-- @formatter:on -->)
 :construction: {Imagem}
 
-:construction: {Texto}
+Bartender na  [Hospedaria Stonehill](../../../../locations/phandalin/stonehill_inn.md), em [Phandalin](../../../../locations/phandalin.md).
 <br clear="left"/>
 
 [//]: # (### Relações)

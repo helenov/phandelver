@@ -7,7 +7,7 @@
 [//]: # (<!-- @formatter:on -->)
 :construction: {Imagem}
 
-:construction: {Texto}
+Representante comercial da [Lionshield Coster](../../../organizations/lionshield_coster.md), em [Phandalin](../../../locations/phandalin.md).  
 <br clear="left"/>
 
 [//]: # (### Relações)

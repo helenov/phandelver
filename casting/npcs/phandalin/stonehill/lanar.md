@@ -7,7 +7,7 @@
 [//]: # (<!-- @formatter:on -->)
 :construction: {Imagem}
 
-:construction: {Texto}
+Minerador.
 <br clear="left"/>
 
 [//]: # (### Relações)

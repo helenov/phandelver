@@ -6,7 +6,14 @@
 <img alt="Brughor" src="../../../../images/characters/cragmaw/brughor.png" style="width:200px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
-:construction: {Texto}
+Líder dos [Cragmaw Goblins](../../../../organizations/cragmaw_goblins.md)
+baseados em [Wyvern Tor](../../../../locations/wyvern_tor.md) liberado após
+interrogatório em que forneceu a localização &mdash; posteriormente revelada
+falsa &mdash; do [Castelo Cragmaw](../../../../locations/cragmaw_castle.md).
+
+Avistado no refeitório
+do [Castelo Cragmaw](../../../../locations/cragmaw_castle.md), fugiu antes de
+entrar no combate.
 <br clear="left"/>
 
 ### Relações
@@ -38,8 +45,8 @@
 ####
 
 * [Sessão 9 Olie](../../../../sessions/09_olie.md)
-  * [Reidoth](../../thundertree/reidoth.md) aponta que o mapa de **Brughor** está
-    errado ([Cena 5](../../../../sessions/09_olie.md#cena-5-libertado))
+  * [Reidoth](../../thundertree/reidoth.md) aponta que o mapa de **Brughor**
+    está errado ([Cena 5](../../../../sessions/09_olie.md#cena-5-libertado))
 
 ####
 

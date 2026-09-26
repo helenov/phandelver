@@ -8,6 +8,7 @@
 [//]: # (:construction: {Imagem})
 
 :construction:
+
 Necromante de [Iriaebor](../../../locations/mentions/iriaebor.md).
 <br clear="left"/>
 

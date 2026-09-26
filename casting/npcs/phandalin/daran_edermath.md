@@ -7,7 +7,9 @@
 [//]: # (<!-- @formatter:on -->)
 :construction: {Imagem}
 
-:construction: {Texto}
+O idoso elfo negro é um ex-aventureiro que cuida
+do [Pomar Edermath](../../../locations/phandalin/edermath_orchard.md), onde
+tenta cultiva macieiras, em [Phandalin](../../../locations/phandalin.md).
 <br clear="left"/>
 
 [//]: # (### Relações)
@@ -31,8 +33,8 @@
     localização do [Castelo Cragmaw](../../../locations/cragmaw_castle.md)
     ([Cena 7](../../../sessions/02_phandalin.md#cena-7-hospedaria-stonehill))
   * **Daran** diz que o [Castelo Cragmaw](../../../locations/cragmaw_castle.md)
-    fica na [Floresta Neverwinter](../../../locations/neverwinter_wood.md),
-    mas não sabe o local exato
+    fica na [Floresta Neverwinter](../../../locations/neverwinter_wood.md), mas
+    não sabe o local exato
     ([Cena 9](../../../sessions/02_phandalin.md#cena-9-pomar-edermath))
   * **Daran** diz que [Harbin Wester](harbin_wester.md) está recrutando
     voluntários para lidar com os ataques

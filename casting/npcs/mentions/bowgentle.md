@@ -8,6 +8,7 @@
 [//]: # (:construction: {Imagem})
 
 :construction:
+
 Mago lendário.
 <br clear="left"/>
 

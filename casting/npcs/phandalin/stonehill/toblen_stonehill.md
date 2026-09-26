@@ -7,7 +7,7 @@
 [//]: # (<!-- @formatter:on -->)
 :construction: {Imagem}
 
-:construction: {Texto}
+Estalajadeiro.
 <br clear="left"/>
 
 ### Relações

@@ -7,7 +7,9 @@
 [//]: # (<!-- @formatter:on -->)
 :construction: {Imagem}
 
-:construction: {Texto}
+Líder dos [Cragmaw Goblins](../../../../organizations/cragmaw_goblins.md)
+enviados para ajudar
+no [Esconderijo Redbrand](../../../../locations/phandalin/redbrand_hideout.md). Foi morto em combate.
 <br clear="left"/>
 
 ### Relações

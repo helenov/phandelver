@@ -7,7 +7,9 @@
 [//]: # (<!-- @formatter:on -->)
 :construction: {Imagem}
 
-:construction: {Texto}
+:construction:
+
+Necromante dos [Red Wizards](../../organizations/red_wizards.md).
 <br clear="left"/>
 
 [//]: # (### Relações)

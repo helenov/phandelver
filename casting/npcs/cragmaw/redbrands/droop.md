@@ -7,7 +7,11 @@
 [//]: # (<!-- @formatter:on -->)
 :construction: {Imagem}
 
-:construction: {Texto}
+Capturado
+no [Esconderijo Redbrand](../../../../locations/phandalin/redbrand_hideout.md),
+atualmente preso
+na [Prefeitura](../../../../locations/phandalin/townmasters_hall.md)
+de [Phandalin](../../../../locations/phandalin.md).
 <br clear="left"/>
 
 ### Relações

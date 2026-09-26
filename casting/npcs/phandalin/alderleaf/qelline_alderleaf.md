@@ -6,7 +6,7 @@
 <img alt="Qelline Alderleaf" src="../../../../images/characters/phandalin/qelline_alderleaf.png" style="width:200px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
-:construction: {Texto}
+Fazendeira.
 <br clear="left"/>
 
 ### Relações

@@ -6,7 +6,9 @@
 <img alt="Yeemik" src="../../../../images/characters/cragmaw/yeemik.png" style="width:200px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
-:construction: {Texto}
+Antigo segundo em comando, atual líder
+dos [Cragmaw Goblins](../../../../organizations/cragmaw_goblins.md)
+no [Esconderijo Cragmaw](../../../../locations/cragmaw_hideout.md).
 <br clear="left"/>
 
 ### Relações
@@ -33,5 +35,6 @@
 ####
 
 * [Sessão 2 Phandalin](../../../../sessions/02_phandalin.md)
-  * novo líder no [Esconderijo Cragmaw](../../../../locations/cragmaw_hideout.md)
+  * novo líder
+    no [Esconderijo Cragmaw](../../../../locations/cragmaw_hideout.md)
     ([Cena 2](../../../../sessions/02_phandalin.md#cena-2-troca))

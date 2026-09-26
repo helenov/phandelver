@@ -6,7 +6,8 @@
 <img alt="Flip" src="../../../../images/characters/cragmaw/flip.png" style="width:200px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
-:construction: {Texto}
+Fugitivo do [Esconderijo Cragmaw](../../../../locations/cragmaw_hideout.md),
+interrogado e depois liberado.
 <br clear="left"/>
 
 ### Relações
@@ -16,7 +17,8 @@
 
 ### Organizações
 
-* [Cragmaw Goblins](../../../../organizations/cragmaw_goblins.md), membro fugitivo
+* [Cragmaw Goblins](../../../../organizations/cragmaw_goblins.md), membro
+  fugitivo
 
 ### Locais
 

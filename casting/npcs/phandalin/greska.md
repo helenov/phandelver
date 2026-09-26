@@ -7,7 +7,7 @@
 [//]: # (<!-- @formatter:on -->)
 :construction: {Imagem}
 
-:construction: {Texto}
+Taverneiro do [Gigante Adormecido](../../../locations/phandalin/sleeping_giant.md), um bar decadente em [Phandalin](../../../locations/phandalin.md).
 <br clear="left"/>
 
 [//]: # (### Relações)

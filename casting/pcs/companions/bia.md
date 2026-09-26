@@ -5,6 +5,7 @@
 <!-- @formatter:off -->
 <img alt="Bia, a coruja" src="../../../images/characters/pcs/companions/bia.png" style="width:300px;margin-right: 15px; float: left" />
 <!-- @formatter:on -->
+
 :construction:
 
 Familiar spirit.

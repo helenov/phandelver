@@ -7,7 +7,7 @@
 [//]: # (<!-- @formatter:on -->)
 [//]: # (:construction: {Imagem})
 
-:construction: {Texto}
+Carpinteiro morto pelos [Redbrands](../../../../organizations/redbrands.md).
 <br clear="left"/>
 
 ### Relações

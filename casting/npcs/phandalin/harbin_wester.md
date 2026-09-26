@@ -6,7 +6,9 @@
 <img alt="Harbin Wester" src="../../../images/characters/phandalin/harbin_wester.png" style="width:300px;margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
-:construction: {Texto}
+:construction: 
+
+Banqueiro e prefeito de [Phandalin](../../../locations/phandalin.md).
 <br clear="left"/>
 
 [//]: # (### Relações)

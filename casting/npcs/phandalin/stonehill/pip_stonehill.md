@@ -7,7 +7,7 @@
 [//]: # (<!-- @formatter:on -->)
 :construction: {Imagem}
 
-:construction: {Texto}
+Garoto tímido, filho do estalajadeiro [Toblen Stonehill](toblen_stonehill.md).
 <br clear="left"/>
 
 ### Relações
