@@ -2,13 +2,12 @@
 
 ## Grol, <small>_bugbear_</small>
 
-[//]: # (<!-- @formatter:off -->)
-[//]: # (<img alt="{Descrição}" src="{link}" style="width:200px; margin-right: 15px; float: left" />)
-[//]: # (<!-- @formatter:on -->)
-[//]: # (:construction: {Imagem})
-[//]: # ()
-[//]: # (:construction: {Texto})
-[//]: # (<br clear="left"/>)
+<!-- @formatter:off -->
+<img alt="Rei Grol" src="../../../../images/characters/cragmaw/grol.png" style="width:250px; margin-right: 15px; float: left" />
+<!-- @formatter:on -->
+
+:construction: {Texto}
+<br clear="left"/>
 
 ### Relações
 
