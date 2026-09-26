@@ -206,7 +206,7 @@ e [Bia](../casting/pcs/companions/bia.md).
 
 ### Cena 4 Grol
 
-:construction: {Imagem}
+![11_4_grol.jpg](../images/sessions/11_altar/11_4_grol.jpg)
 
 "Sua estratégia estúpida nos deixou sem rotas de fuga!"
 
