@@ -6,8 +6,6 @@ _data_ : 2026-09-14 \
 _anterior_ : [Sessão 10 Castelo](10_castelo.md) \
 _próxima_ : [Sessão 12] :construction: continua...
 
-:construction:
-
 * Cenas
   * [Cena 1 Altar](#cena-1-altar)
   * [Cena 2 Elfo Dourado](#cena-2-elfo-dourado)
