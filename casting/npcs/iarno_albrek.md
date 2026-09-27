@@ -107,7 +107,7 @@ poção de invisibilidade.
 
 * [Sessão 11 Barricadas](../../sessions/11_barricadas.md)
   * **Iarno** é visto nos aposentos de [Grol](cragmaw/castle/grol.md)
-    ([Cena 4](../../sessions/11_barricadas.md#cena-4-grol))
+    ([Cena 4](../../sessions/11_barricadas.md#cena-4-gundren))
 
 [//]: # (####)
 [//]: # ()

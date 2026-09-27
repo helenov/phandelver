@@ -100,7 +100,7 @@ recuperá-las para seu clã e restabelecer a mina.
 * [Sessão 11 Barricadas](../../sessions/11_barricadas.md)
   * **Gundren** é visto desacordado nos aposentos
     de [Grol](cragmaw/castle/grol.md)
-    ([Cena 4](../../sessions/11_barricadas.md#cena-4-grol))
+    ([Cena 4](../../sessions/11_barricadas.md#cena-4-gundren))
 
 [//]: # (####)
 [//]: # ()

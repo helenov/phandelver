@@ -10,7 +10,7 @@ _próxima_ : [Sessão 12] :construction: continua...
   * [Cena 1 Altar](#cena-1-altar)
   * [Cena 2 Elfo Dourado](#cena-2-elfo-dourado)
   * [Cena 3 Barricadas](#cena-3-barricadas)
-  * [Cena 4 Grol](#cena-4-grol)
+  * [Cena 4 Gundren!](#cena-4-gundren)
 
 ####
 
@@ -202,7 +202,7 @@ e [Bia](../casting/pcs/companions/bia.md).
 
 ---
 
-### Cena 4 Grol
+### Cena 4 Gundren!
 
 ![11_4_grol.jpg](../images/sessions/11_altar/11_4_grol.jpg)
 

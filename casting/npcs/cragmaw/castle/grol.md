@@ -64,7 +64,7 @@
 * [Sessão 11 Barricadas](../../../../sessions/11_barricadas.md)
   * grupo encontra o rei **Grol**
     no [Castelo Cragmaw](../../../../locations/cragmaw_castle.md)
-    ([Cena 4](../../../../sessions/11_barricadas.md#cena-4-grol))
+    ([Cena 4](../../../../sessions/11_barricadas.md#cena-4-gundren))
 
 [//]: # (####)
 [//]: # ()
