@@ -7,7 +7,7 @@
 #### noite
 
 * proposta de trabalho em [Neverwinter](locations/neverwinter.md)
-  * [Sessão 0](sessions/00_prologo.md): [Cena 1](sessions/00_prologo.md#cena-1-trabalho)
+  * [Sessão 0: Cena 1](sessions/00_prologo.md#cena-1-trabalho)
 
 ---
 
@@ -16,28 +16,33 @@
 #### manhã
 
 * partida de [Neverwinter](locations/neverwinter.md)
-  * [Sessão 0](sessions/00_prologo.md): [Cena 2](sessions/00_prologo.md#cena-2-partida)
+  * [Sessão 0: Cena 2](sessions/00_prologo.md#cena-2-partida)
 
 ---
 
 ### Dia 4
 
-#### tarde
+#### meio-dia
 
 * emboscada na [Estrada Triboar](locations/triboar_trail.md)
-  * [Sessão 0](sessions/00_prologo.md): [Cena 3](sessions/00_prologo.md#cena-3-corpos)
-  * [Sessão 1](sessions/01_goblins.md): [Cena 1](sessions/01_goblins.md#cena-1-emboscada)
+  * [Sessão 0: Cena 3](sessions/00_prologo.md#cena-3-corpos)
+  * [Sessão 1: Cena 1](sessions/01_goblins.md#cena-1-emboscada)
+
+#### tarde
+
+* invasão do [Esconderijo Cragmaw](locations/cragmaw_hideout.md)
+  * [Sessão 1: Cenas 2 a 5](sessions/01_goblins.md#cena-2-caverna)
+  * [Sessão 2: Cenas 1 a 3](sessions/02_phandalin.md#cena-1-decisões)
 
 ####
 
-* invasão do [Esconderijo Cragmaw](locations/cragmaw_hideout.md)
-  * [Sessão 1](sessions/01_goblins.md): [Cenas 2 a 5](sessions/01_goblins.md#cena-2-caverna)
-  * [Sessão 2](sessions/02_phandalin.md): [Cenas 1 a 3](sessions/02_phandalin.md#cena-1-decisões)
+* libertam [Sildar](casting/npcs/sildar_hallwinter.md)
+  * [Sessão 2: Cenas 2 e 3](sessions/02_phandalin.md#cena-2-troca)
 
 ####
 
 * interrogatório de [Flip](casting/npcs/cragmaw/hideout/flip.md), o goblin
-  * [Sessão 2](sessions/02_phandalin.md): [Cena 4](sessions/02_phandalin.md#cena-4-interrogatório)
+  * [Sessão 2: Cena 4](sessions/02_phandalin.md#cena-4-interrogatório)
 
 ---
 
@@ -46,7 +51,7 @@
 #### noite
 
 * chegada a [Phandalin](locations/phandalin.md)
-  * [Sessão 2](sessions/02_phandalin.md): [Cenas 5 a 7](sessions/02_phandalin.md#cena-5-phandalin)
+  * [Sessão 2: Cenas 5 a 7](sessions/02_phandalin.md#cena-5-phandalin)
 
 ---
 
@@ -55,13 +60,13 @@
 #### manhã e tarde
 
 * conversas por [Phandalin](locations/phandalin.md)
-  * [Sessão 2](sessions/02_phandalin.md): [Cenas 8 a 13](sessions/02_phandalin.md#cena-8-pip)
+  * [Sessão 2: Cenas 8 a 13](sessions/02_phandalin.md#cena-8-pip)
 
 #### noite
 
 * encontro com [Redbrands](organizations/redbrands.md)
   no [Gigante Adormecido](locations/phandalin/sleeping_giant.md)
-  * [Sessão 3](sessions/03_redbrands.md): [Cena 1](sessions/03_redbrands.md#cena-1-gigante-adormecido)
+  * [Sessão 3: Cena 1](sessions/03_redbrands.md#cena-1-gigante-adormecido)
 
 ---
 
@@ -70,41 +75,36 @@
 #### manhã
 
 * invasão ao [Esconderijo Redbrand](locations/phandalin/redbrand_hideout.md)
-  * [Sessão 3](sessions/03_redbrands.md): [Cenas 2 a 5](sessions/03_redbrands.md#cena-2-túnel-secreto)
+  * [Sessão 3: Cenas 2 a 5](sessions/03_redbrands.md#cena-2-túnel-secreto)
   * [Sessão 4](sessions/04_glasstaff.md)
-  * [Sessão 5](sessions/05_perda.md): [Cenas 1 a 3](sessions/05_perda.md#cena-1-carta)
+  * [Sessão 5: Cenas 1 a 3](sessions/05_perda.md#cena-1-carta)
 
 ####
 
 * morte de [Sapão](casting/pcs/silas.md)
   no [Esconderijo Redbrand](locations/phandalin/redbrand_hideout.md)
-  * [Sessão 5](sessions/05_perda.md): [Cena 2](sessions/05_perda.md#cena-2-perda)
+  * [Sessão 5: Cena 2](sessions/05_perda.md#cena-2-perda)
 
 #### tarde
 
 * visita ao [Santuário da Fortuna](locations/phandalin/luck_shrine.md) e
   à [Irmã Garaele](casting/npcs/phandalin/sister_garaele.md)
-  * [Sessão 5](sessions/05_perda.md): [Cena 4](sessions/05_perda.md#cena-4-irmã-garaele)
+  * [Sessão 5: Cena 4](sessions/05_perda.md#cena-4-irmã-garaele)
 
 #### noite
 
 * chegada de [Jeremias](casting/pcs/jeremias.md)
-  * [Sessão 5](sessions/05_perda.md): [Cena 5](sessions/05_perda.md#cena-5-frodo)
-  * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 1](sessions/06_wyvern_tor.md#cena-1-jeremias)
+  * [Sessão 5: Cena 5](sessions/05_perda.md#cena-5-frodo)
+  * [Sessão 6: Cena 1](sessions/06_wyvern_tor.md#cena-1-jeremias)
 
 ---
 
 ### Dia 8
 
-#### manhã
-
-* preparativos para viagem a [Conyberry](locations/conyberry.md)
-  * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 2](sessions/06_wyvern_tor.md#cena-2-despedidas)
-
 #### tarde
 
 * partida para [Conyberry](locations/conyberry.md)
-  * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 2](sessions/06_wyvern_tor.md#cena-2-despedidas)
+  * [Sessão 6: Cena 2](sessions/06_wyvern_tor.md#cena-2-despedidas)
 
 ---
 
@@ -113,12 +113,12 @@
 #### início da tarde
 
 * bandidos em [Conyberry](locations/conyberry.md)
-  * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 3](sessions/06_wyvern_tor.md#cena-3-conyberry)
+  * [Sessão 6: Cena 3](sessions/06_wyvern_tor.md#cena-3-conyberry)
 
 #### fim da tarde
 
 * necromante no [Poço da Velha Coruja](locations/old_owl_well.md)
-  * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 4](sessions/06_wyvern_tor.md#cena-4-necromante)
+  * [Sessão 6: Cena 4](sessions/06_wyvern_tor.md#cena-4-necromante)
 
 ---
 
@@ -127,8 +127,13 @@
 #### início da tarde
 
 * invasão ao esconderijo em [Wyvern Tor](locations/wyvern_tor.md)
-  * [Sessão 6](sessions/06_wyvern_tor.md): [Cena 5](sessions/06_wyvern_tor.md#cena-5-wyvern-tor)
-  * [Sessão 7](sessions/07_floresta.md): [Cena 1](sessions/07_floresta.md#cena-1-brughor)
+  * [Sessão 6: Cena 5](sessions/06_wyvern_tor.md#cena-5-wyvern-tor)
+
+####
+
+* interrogatório e liberação
+  de [Brughor](../public/casting/npcs/cragmaw/wyvern_tor/brughor.md)
+  * [Sessão 7: Cena 1](../public/sessions/07_floresta.md#cena-1-brughor)
 
 ---
 
@@ -137,7 +142,7 @@
 #### tarde
 
 * negociação com [Agatha](casting/npcs/agatha.md)
-  * [Sessão 7](sessions/07_floresta.md): [Cena 2](sessions/07_floresta.md#cena-2-agatha)
+  * [Sessão 7: Cena 2](sessions/07_floresta.md#cena-2-agatha)
 
 ---
 
@@ -146,7 +151,7 @@
 #### fim da tarde
 
 * encontro com owlbear
-  * [Sessão 7](sessions/07_floresta.md): [Cena 3](sessions/07_floresta.md#cena-3-owlbear)
+  * [Sessão 7: Cena 3](sessions/07_floresta.md#cena-3-owlbear)
 
 ---
 
@@ -155,7 +160,7 @@
 #### tarde
 
 * chegam ao [Rio Neverwinter](locations/neverwinter_river.md)
-  * [Sessão 7](sessions/07_floresta.md): [Cena 4](sessions/07_floresta.md#cena-4-buscas)
+  * [Sessão 7: Cena 4](sessions/07_floresta.md#cena-4-buscas)
 
 ---
 
@@ -164,7 +169,7 @@
 #### tarde
 
 * avistamento de [Thundertree](locations/thundertree.md)
-  * [Sessão 7](sessions/07_floresta.md): [Cena 4](sessions/07_floresta.md#cena-4-buscas)
+  * [Sessão 7: Cena 4](sessions/07_floresta.md#cena-4-buscas)
 
 ---
 
@@ -174,22 +179,22 @@
 
 * chegada a [Thundertree](locations/thundertree.md)
 * encontro com [Iarno](casting/npcs/iarno_albrek.md)
-  * [Sessão 7](sessions/07_floresta.md): [Cena 5](sessions/07_floresta.md#cena-5-arrependido)
+  * [Sessão 7: Cena 5](sessions/07_floresta.md#cena-5-arrependido)
 
 ####
 
 * conhecem [Reidoth](casting/npcs/thundertree/reidoth.md)
-  * [Sessão 8](sessions/08_venomfang.md): [Cena 2](sessions/08_venomfang.md#cena-2-druida)
+  * [Sessão 8: Cena 2](sessions/08_venomfang.md#cena-2-druida)
 
 ####
 
 * derrotam o dragão [Venomfang](casting/npcs/thundertree/venomfang.md)
-  * [Sessão 8](sessions/08_venomfang.md): [Cena 4](sessions/08_venomfang.md#cena-4-dragão)
+  * [Sessão 8: Cena 4](sessions/08_venomfang.md#cena-4-dragão)
 
 #### fim da tarde
 
 * cultistas fogem de [Thundertree](locations/thundertree.md)
-  * [Sessão 9](sessions/09_olie.md): [Cenas 1 a 3](sessions/09_olie.md#cena-1-descanso)
+  * [Sessão 9: Cenas 1 a 3](sessions/09_olie.md#cena-1-descanso)
 
 ---
 
@@ -199,19 +204,19 @@
 
 * deixam [Thundertree](locations/thundertree.md) rumo
   ao [Castelo Cragmaw](locations/cragmaw_castle.md)
-  * [Sessão 9](sessions/09_olie.md): [Cena 5](sessions/09_olie.md#cena-5-libertado)
+  * [Sessão 9: Cena 5](sessions/09_olie.md#cena-5-libertado)
 
 #### meio-dia
 
 * liberam [Iarno](casting/npcs/iarno_albrek.md)
 * entram na [Floresta Neverwinter](locations/neverwinter_wood.md)
-  * [Sessão 9](sessions/09_olie.md): [Cena 5](sessions/09_olie.md#cena-5-libertado)
+  * [Sessão 9: Cena 5](sessions/09_olie.md#cena-5-libertado)
 
 #### noite
 
 * ataque dos lobos
 * nascimento do owlbear [Olie](casting/pcs/companions/olie.md)
-  * [Sessão 9](sessions/09_olie.md): [Cena 6](sessions/09_olie.md#cena-6-lobos)
+  * [Sessão 9: Cena 6](sessions/09_olie.md#cena-6-lobos)
 
 ---
 
@@ -222,19 +227,19 @@
 * chegam ao [Castelo Cragmaw](locations/cragmaw_castle.md)
 * [Reidoth](casting/npcs/thundertree/reidoth.md) parte
   para [Phandalin](locations/phandalin.md)
-  * [Sessão 9](sessions/09_olie.md): [Cena 7](sessions/09_olie.md#cena-7-castelo)
+  * [Sessão 9: Cena 7](sessions/09_olie.md#cena-7-castelo)
 
 #### tarde
 
 * invasão do [Castelo Cragmaw](locations/cragmaw_castle.md)
-  * [Sessão 10](sessions/10_castelo.md): [Cenas 1 e 2](sessions/10_castelo.md#cena-1-recepção)
-  * [Sessão 11](sessions/11_barricadas.md): [Cenas 1 a 4](sessions/11_barricadas.md#cena-1-altar)
+  * [Sessão 10: Cenas 1 e 2](sessions/10_castelo.md#cena-1-recepção)
+  * [Sessão 11: Cenas 1 a 4](sessions/11_barricadas.md#cena-1-altar)
   * [Sessão 12]: :construction: continua...
 
 ####
 
 * conhecem [Faelar](casting/pcs/faelar.md)
-  * [Sessão 10](sessions/10_castelo.md): [Cena 2](sessions/10_castelo.md#cena-2-faelar)
+  * [Sessão 10: Cena 2](sessions/10_castelo.md#cena-2-faelar)
 
 :construction: continua...
 

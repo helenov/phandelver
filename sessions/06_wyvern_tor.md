@@ -200,15 +200,7 @@ atrasados e acabam derrotados, deixando seu líder sozinho e encurralado, na
 pequena caverna que usavam para se abrigar.
 
 Ao ver seu bando desmantelado, o orc líder se rende, atirando seu machado ao
-chão, e tenta negociar por sua vida. Apesar de relutar, a princípio, em revelar
-a localização do [Castelo Cragmaw](../locations/cragmaw_castle.md), uma vez
-ameaçado, desenha no chão de terra da caverna um mapa rústico desenho apontando
-a localização da sede
-dos [Cragmaw Goblins](../organizations/cragmaw_goblins.md).
-
-Desconfiados da informação, o grupo pretende levá-lo como prisioneiro, mas
-[Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md) não está nada satisfeito com este
-arranjo.
+chão, e tenta negociar por sua vida.
 
 ---
 
