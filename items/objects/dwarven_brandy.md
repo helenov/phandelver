@@ -1,9 +1,9 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Barril de Aguardente Anão
+## Aguardente Anão
 
 <!-- @formatter:off -->
-<img alt="Barril pequeno de aguardente anão" src="../../images/items/dwarven_brandy_cask.png" style="width:200px; margin-right: 15px; float: left" />
+<img alt="Barril pequeno de aguardente anão" src="../../images/items/dwarven_brandy.png" style="width:200px; margin-right: 15px; float: left" />
 <!-- @formatter:on -->
 
 Um dos barris entre os demais chama a atenção, não pelo tamanho, pelo contrário,

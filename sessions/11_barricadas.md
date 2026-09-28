@@ -26,7 +26,7 @@ _próxima_ : [Sessão 12] :construction: continua...
 
 Após o curto descanso, [Jeremias](../casting/pcs/jeremias.md)
 e [Ralf](../casting/pcs/ralf.md)
-experimentam a [bebida de anões](../items/objects/dwarven_brandy_cask.md) que se
+experimentam a [bebida de anões](../items/objects/dwarven_brandy.md) que se
 mostra realmente revigorante, mas, ao mesmo tempo, muito forte. Temendo uma
 embriaguês fora de hora, ambos preferem parar na primeira dose.
 
@@ -156,10 +156,10 @@ apenas para lançar mais dardos e desaparecer novamente.
 
 Agora bastante ferido [Faelar](../casting/pcs/faelar.md) aproveita o breve
 sossego para se aproximar de [Ralf](../casting/pcs/ralf.md) que carrega
-o [barril de aguardente](../items/objects/dwarven_brandy_cask.md), para tomar
-uma dose da bebida e se recuperar um pouco, antes de procurar se afastar do
-combate. Mas Jeremias o alcança e realiza uma de suas curas mágicas, tirando
-novo amigo do perigo mais imediato.
+o [barril de aguardente](../items/objects/dwarven_brandy.md), para tomar uma
+dose da bebida e se recuperar um pouco, antes de procurar se afastar do combate.
+Mas Jeremias o alcança e realiza uma de suas curas mágicas, tirando novo amigo
+do perigo mais imediato.
 
 Quando está voltando para a briga com o owlbear, vê de relance a hobgoblin se
 escondendo em um canto ao sul do corredor. Aproveita para alvejá-la vê que ela

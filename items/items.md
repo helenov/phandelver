@@ -22,7 +22,7 @@
 * [ovo de owlbear](objects/owlbear_egg.md) &ndash; _eclodido_
 * [Machado Hew](magical/battleaxe_hew.md), battleaxe mágico
 * livro ["Criaturas Extraordinárias"](books/remarkable_creatures.md)
-* [Barril de Aguardente Anão](objects/dwarven_brandy_cask.md)
+* [Aguardente Anão](objects/dwarven_brandy.md)
 * [Lâmina Leroy](../../private/items/leroy_blade.md)
 
 #### Com [Professor](../casting/pcs/professor.md)

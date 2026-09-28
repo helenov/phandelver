@@ -38,8 +38,8 @@ parece ser um refeitório, onde um grupo ainda maior está sendo alertado e come
 a se levantar para repelir os invasores.
 
 Num dos cantos, reconhecem uma figura: o
-orc [Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md), que ao vê-los, arregala os
-olhos surpreso.
+orc [Brughor](../casting/npcs/cragmaw/wyvern_tor/brughor.md), que ao vê-los,
+arregala os olhos surpreso.
 
 "Maldito!", grita Jeremias, "Lembra que dissemos que, se tivesse mentindo, nós
 iríamos atrás de você? Aqui estamos"
@@ -115,8 +115,8 @@ na [Floresta Neverwinter](../locations/neverwinter_wood.md) quando foi capturado
 por um bando de bugbears. Levado para
 o [Castelo Cragmaw](../locations/cragmaw_castle.md), estava sendo mantido
 prisioneiro sob a vigilância dos hobgoblins, e que ouvi eles reclamarem da
-liderança do rei [Grol](../casting/npcs/cragmaw/castle/grol.md), que, sendo um bugbear,
-consideravam inferior a eles próprios.
+liderança do rei [Grol](../casting/npcs/cragmaw/castle/grol.md), que, sendo um
+bugbear, consideravam inferior a eles próprios.
 
 O alojamento dos hobgoblins parece também servir de arsenal, já que estantes e
 ganchos guardam uma diversidade de armas: lanças, espadas longas e grandes,
@@ -193,5 +193,5 @@ de uma porta fechada a leste.
       &ndash; _com [Jeremias](../casting/pcs/jeremias.md)_
     * [Grimório de Cinzas e Sangue](../items/magical/grimoire_ash_blood.md)
       &ndash; _com [Professor](../casting/pcs/professor.md)_
-    * [Barril de Aguardente Anão](../items/objects/dwarven_brandy_cask.md)
+    * [Aguardente Anão](../items/objects/dwarven_brandy.md)
       &ndash; _com [Ralf](../casting/pcs/ralf.md)_
