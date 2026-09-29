@@ -42,4 +42,5 @@
   * (2026-08-17) [Sessão 9 Olie](sessions/09_olie.md)
   * (2026-08-31) [Sessão 10 Castelo](sessions/10_castelo.md)
   * (2026-09-14) [Sessão 11 Barricadas](sessions/11_barricadas.md)
-  * (2026-09-28) [Sessão 12] :construction: continua...
+  * (2026-09-28) [Sessão 12 Gundren](sessions/12_gundren.md) :construction:
+  * (2026-10-12) [Sessão 13] :construction: continua...

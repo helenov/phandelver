@@ -4,7 +4,7 @@
 
 _data_ : 2026-09-14 \
 _anterior_ : [Sessão 10 Castelo](10_castelo.md) \
-_próxima_ : [Sessão 12] :construction: continua...
+_próxima_ : [Sessão 12 Gundren](12_gundren.md)
 
 * Cenas
   * [Cena 1 Altar](#cena-1-altar)
