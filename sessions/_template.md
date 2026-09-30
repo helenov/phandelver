@@ -55,6 +55,12 @@ _próxima_ : [Sessão {X+1} {Título}] :construction: continua...
   * {detalhe} ([Cena {X}])
     * {item} &ndash; _{destinação}_
 
+#### Usados
+
+* {Local}
+  * {detalhe} ([Cena {X}])
+    * {item} &ndash; _{destinação}_
+
 #### Mencionados
 
 * {Local}

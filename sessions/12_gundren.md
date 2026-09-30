@@ -98,6 +98,14 @@ _próxima_ : [Sessão 13] :construction: continua...
   * cela do owlbear ([Cena {X}])
     * {item} &ndash; _{destinação}_
 
+#### Usados
+
+* [Castelo Cragmaw]
+  * aposentos do rei ([Cena {X}])
+    * poção de healing &ndash; _usado por [Ralf]_
+    * scroll lighting bolt &ndash; _usado por [Professor]_
+    * [Aguardente Anão] &ndash; _dose tomada por [Gundren]_
+
 [//]: # (#### Mencionados)
 [//]: # ()
 [//]: # (* {Local})

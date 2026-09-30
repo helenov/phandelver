@@ -272,3 +272,13 @@ seu pescoço: "[Gundren](../casting/npcs/gundren_rockseeker.md)!"
     * [incensário de ouro]
   * braseiro ([Cena 2](#cena-2-elfo-dourado))
     * [Elfo Dourado](../items/magical/golden_elf.md), estatueta
+
+#### Usados
+
+* [Castelo Cragmaw](../locations/cragmaw_castle.md)
+  * [Aguardente Anão](../items/objects/dwarven_brandy.md)
+    * altar ([Cena 1](#cena-1-altar)) &ndash; doses tomadas
+      por [Ralf](../casting/pcs/ralf.md)
+      e [Jeremias](../casting/pcs/jeremias.md)
+    * barricadas ([Cena 3](#cena-3-barricadas)) &ndash; dose tomada
+      por [Faelar](../casting/pcs/faelar.md)

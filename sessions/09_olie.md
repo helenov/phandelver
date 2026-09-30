@@ -306,7 +306,7 @@ Ao mesmo tempo, já é possível ouvir os gritos de alerta de goblins.
   * cultistas ([Cena 2](#cena-2-fumaça))
     * capa preta em forma de asa de dragão
 
-####
+#### Usados
 
 * [Floresta Neverwinter](../locations/neverwinter_wood.md)
   * lobos ([Cena 6](#cena-6-lobos))
