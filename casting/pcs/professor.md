@@ -50,6 +50,7 @@ Wizard, Evoker.
 #### Sintonizados
 
 * [Grimório de Cinzas e Sangue](../../items/magical/grimoire_ash_blood.md)
+* [Cajado de Vidro](../../items/magical/glass_staff.md)
 
 ### Timeline
 
