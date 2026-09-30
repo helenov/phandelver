@@ -93,17 +93,28 @@ _próxima_ : [Sessão 13] :construction: continua...
 :construction:
 
 * [Castelo Cragmaw]
-  * aposentos do rei ([Cena {X}])
-    * {item} &ndash; _{destinação}_
-  * cela do owlbear ([Cena {X}])
-    * {item} &ndash; _{destinação}_
+  * aposentos do rei ([Cena 3])
+    * [mapa da Caverna das Ondas] &ndash; _com o grupo_
+    * 3 poções de healing &ndash; _com o grupo_
+    * ~400 moedas &ndash; _com o grupo_
+      * 220 sp, 160 ep
+  * [Iarno] ([Cena 3])
+    * [Cajado de Vidro] &ndash; _com [Professor]_
+  * cela do owlbear ([Cena 4])
+    * ~200 moedas &ndash; _com o grupo_
+      - 90 ep, 120 gp
+    * potion of healing &ndash; _com o grupo_
+    * scroll silence &ndash; _com [Professor]_
 
 #### Usados
 
 * [Castelo Cragmaw]
-  * aposentos do rei ([Cena {X}])
-    * poção de healing &ndash; _usado por [Ralf]_
+  * combate ([Cena 3])
+    * poção de healing &ndash; _usada por [Ralf]_
     * scroll lighting bolt &ndash; _usado por [Professor]_
+  * [Gundren] ([Cena 4])
+    * scroll revivify &ndash; _usado por [Professor]_
+    * diamante &ndash; _consumido pelo revivify_
     * [Aguardente Anão] &ndash; _dose tomada por [Gundren]_
 
 [//]: # (#### Mencionados)
