@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Bússola do Vazio, <small>_wondrous item, rare_</small>
+## Bússola do Vazio, <small>_wondrous item, uncommon_</small>
 
 ![voids_compass.png](../../images/items/voids_compass.png)
 

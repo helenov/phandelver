@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Coleira da Matilha Fantasma, <small>_wondrous item, rare_</small>
+## Coleira da Matilha Fantasma, <small>_wondrous item, uncommon_</small>
 
 ![Coleira da Matilha Fantasma](../../images/items/collar_phantom_pack.png)
 
