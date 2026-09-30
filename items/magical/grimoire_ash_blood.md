@@ -45,3 +45,9 @@ este grimório, você deve segurá-lo com pelo menos uma das mãos.
   * **grimório** encontrado
     no [Castelo Cragmaw](../../locations/cragmaw_castle.md)
     ([Cena 2](../../sessions/10_castelo.md#cena-2-faelar))
+
+####
+
+* [Sessão 12 Gundren](../../sessions/12_gundren.md)
+  * [Professor](../../casting/pcs/professor.md) se sintoniza com o **grimório**
+    ([Cena 4](../../sessions/12_gundren.md#cena-4-partida)) 
