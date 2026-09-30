@@ -11,7 +11,7 @@ mover rapidamente.
 
 ### Sintonização
 
-* requires Attunement by someone with a companion
+* requires Attunement by a creature with a companion
 
 ### Propriedades
 
@@ -40,6 +40,13 @@ mover rapidamente.
 ### Referências
 
 * [Sessão 10 Castelo](../../sessions/10_castelo.md)
-  * **grimório** encontrado com o cão dos hobgoblins
+  * **coleira** encontrada com o cão dos hobgoblins
     no [Castelo Cragmaw](../../locations/cragmaw_castle.md)
     ([Cena 2](../../sessions/10_castelo.md#cena-2-faelar))
+
+####
+
+* [Sessão 12 Gundren](../../sessions/12_gundren.md)
+  * [Jeremias](../../casting/pcs/jeremias.md)
+    sintoniza [Frodo](../../casting/pcs/companions/frodo.md) com a **coleira**
+    ([Cena 4](../../sessions/12_gundren.md#cena-4-partida)) 
