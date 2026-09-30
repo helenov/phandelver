@@ -42,6 +42,10 @@ Barbarian, Path of the Wild Heart.
 * livro ["Criaturas Extraordinárias"](../../items/books/remarkable_creatures.md)
 * [Aguardente Anão](../../items/objects/dwarven_brandy.md)
 
+#### Sintonizados
+
+* [Lâmina Leroy](../../items/magical/leroy_blade.md)
+
 #### Passados
 
 * [ovo de owlbear](../../items/objects/owlbear_egg.md) &ndash; _eclodido_
@@ -173,7 +177,7 @@ Barbarian, Path of the Wild Heart.
   * [Sessão 11](../../sessions/11_barricadas.md): [Cenas 1 a 4](../../sessions/11_barricadas.md#cena-1-altar)
   * [Sessão 12]: :construction: continua...
 
-#### 
+####  
 
 * conhece [Faelar](faelar.md)
   * [Sessão 10](../../sessions/10_castelo.md): [Cena 2](../../sessions/10_castelo.md#cena-2-faelar)

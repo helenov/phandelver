@@ -33,6 +33,9 @@ Ranger, Beast Master.
 ### Itens
 
 * 4 [cálices de prata]
+
+#### Sintonizados
+
 * [Coleira da Matilha Fantasma](../../items/magical/collar_phantom_pack.md)
 
 ### Timeline

@@ -26,6 +26,10 @@
 
 * {item}, {detalhe}
 
+#### Sintonizados
+
+* {item}, {detalhe}
+
 ### Referências
 
 * [Sessão {X} {Título}]

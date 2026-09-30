@@ -46,6 +46,9 @@ Wizard, Evoker.
 * 3 frascos de perfume
 * scroll misty step
 * scroll lighting bolt
+
+#### Sintonizados
+
 * [Grimório de Cinzas e Sangue](../../items/magical/grimoire_ash_blood.md)
 
 ### Timeline

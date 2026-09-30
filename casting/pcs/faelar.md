@@ -30,7 +30,9 @@ Rogue, Soulknife.
 
 * [Castelo Cragmaw](../../locations/cragmaw_castle.md), prisioneiro
 
-### Itens
+### Itens 
+
+#### Sintonizados
 
 * [Bússola do Vazio](../../items/magical/voids_compass.md)
 
