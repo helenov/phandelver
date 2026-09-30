@@ -14,20 +14,23 @@ aguardente.
 
 Os goblins provavelmente o menosprezaram por seu tamanho e por não saber
 valorizar sua qualidade.
+
+Mais tarde [Gundren](../../casting/npcs/gundren_rockseeker.md) reconhece seu
+barril de aguardente e alerta "Esta bebida é bastante revigorante, mas tomem
+cuidado para não exagerar, pois também é muito forte."
 <br clear="left"/>
 
 ### Propriedades
 
-* 17 of 20 shots
+* **Shots.** Originally the casket had 20 shots. Now, there are 16 remaining.
 
 ####
 
-* taking 1 shot
-  * recover 1d4 HPs
+* **Reinvigorating.** A creature that drinks 1 shot recovers 1d4 HPs.
 
-####
-
-* ...
+[//]: # (####)
+[//]: # ()
+[//]: # (* ...)
 
 ### Locais
 
@@ -49,7 +52,9 @@ valorizar sua qualidade.
   * [Faelar](../../casting/pcs/faelar.md) toma uma dose do **barril**
     ([Cena 3](../../sessions/11_barricadas.md#cena-3-barricadas))
 
-[//]: # (####)
-[//]: # ()
-[//]: # (* [Sessão {X} {Título}])
-[//]: # (  * {detalhe} &#40;[Cena {X}]&#41;)
+####
+
+* [Sessão 12 Gundren](../../sessions/12_gundren.md)
+  * [Gundren](../../casting/npcs/gundren_rockseeker.md) reconhece seu **barril**
+    quando lhe oferecem uma dose
+    ([Cena 3](../../sessions/12_gundren.md#cena-3-mapa))
