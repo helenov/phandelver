@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Grimório de Cinzas e Sangue, <small>_wondrous item, uncommon_</small>
+## Grimório de Cinzas e Sangue, <small>_wondrous item, rare_</small>
 
 ![Grimório de Cinzas e Sangue](../../images/items/grimoire_ash_blood.png)
 

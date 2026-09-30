@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Elfo Dourado, <small>_common_</small>
+## Elfo Dourado, <small>_uncommon_</small>
 
 ![Uma estatueta de um elfo dourado segurando um cajado com um sol no topo está envolta em um tecido vermelho e deixada sobre as cinzas de um velho braseiro enferrujado.](../../images/sessions/11_altar/11_2_elfo_dourado.png)
 

@@ -1,6 +1,6 @@
 # Phandelver and Below: The Shattered Obelisk
 
-## Lâmina Leroy, <small>_weapon (shortsword), uncommon_</small>
+## Lâmina Leroy, <small>_weapon (shortsword), rare_</small>
 
 ![Lâmina Leroy](../../images/items/leroy_blade.png)
 
