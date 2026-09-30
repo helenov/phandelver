@@ -10,9 +10,9 @@ bárbaro em combate, ela pulsa com uma energia vibrante e inquietante. Na base d
 lâmina, em letras diminutas embora refinadas, é possível se ler um nome: "Leroy
 J".
 
-[//]: # (### Sintonização)
-[//]: # ()
-[//]: # (* requires Attunement by {...})
+### Sintonização
+
+* requires Attunement by a Barbarian
 
 ### Propriedades
 
@@ -20,7 +20,16 @@ J".
 
 ####
 
-* ...
+* **Furious Leap.** While your _Rage_ feature is active, you can take a _Bonus
+  Action_ to leap up to 20 feet horizontally in a straight line. This movement
+  does not expend your current Speed and does not provoke _Opportunity Attacks_.
+
+####
+
+* **Pounce.** If you move at least 10 feet using the _Furious Leap_ and hit a
+  creature with this weapon immediately after landing, the attack deals an extra
+  1d6 _Force_
+  damage.
 
 ### Locais
 
@@ -33,3 +42,9 @@ J".
   * **espada** encontrada
     no [Castelo Cragmaw](../../locations/cragmaw_castle.md)
     ([Cena 1](../../sessions/11_barricadas.md#cena-1-altar))
+
+####
+
+* [Sessão 12 Gundren](../../sessions/12_gundren.md)
+  * [Ralf](../../casting/pcs/ralf.md) se sintoniza com **espada**
+    ([Cena 4](../../sessions/12_gundren.md#cena-4-partida)) 
