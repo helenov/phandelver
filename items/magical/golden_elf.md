@@ -5,16 +5,23 @@
 ![Uma estatueta de um elfo dourado segurando um cajado com um sol no topo está envolta em um tecido vermelho e deixada sobre as cinzas de um velho braseiro enferrujado.](../../images/sessions/11_altar/11_2_elfo_dourado.png)
 
 Envolta em um tecido fino vermelho, a estatueta de ouro de um elfo solar em
-objeto mágico relativamente comum, relacionado a rituais divinatórios. 
+objeto mágico relativamente comum, relacionado a rituais divinatórios.
 <br clear="left"/>
-
-[//]: # (### Sintonização)
-[//]: # ()
-[//]: # (* requires Attunement by {...})
 
 ### Propriedades
 
-* ...
+* **Augury.** Uma criatura, segurando a estatueta, pode perguntar sobre o
+  resultado de um curso de ação que planeja tomar nos próximos 30 minutos, como
+  se conjurasse a magia _Augury_. Em resposta a estatueta fará um gesto
+  indicando seu presságio. Uma vez que uma criatura tenha feito sua pergunta e
+  recebido uma resposta, ela nunca mais poderá ativar a estatueta.
+
+| gesto                                                                   | significado       |
+|-------------------------------------------------------------------------|-------------------|
+| movimenta a cabeça para cima e para baixo e levanta o polegar           | resultado bom     |
+| gira a cabeça para os lados e gesticula cruzando as mãos                | resultado ruim    |
+| inclina a cabeça para os lados e gesticula pesando com as mãos          | bom e ruim        |
+| inclina a cabeça para um lado e ergue os ombros com as planas para cima | nem bom, nem ruim |
 
 ### Locais
 
